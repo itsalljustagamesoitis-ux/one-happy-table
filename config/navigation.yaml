@@ -1,0 +1,62 @@
+# Site navigation — categories and their hubs
+# Each category maps to a /category-slug/ page
+# Each hub maps to a /hub-slug/ page under that category
+# Clusters from garden-launch-200 keyword research
+
+categories:
+  - label: "Outdoor Living"
+    slug: "outdoor-living"
+    hubs:
+      - label: "Outdoor Furniture"
+        slug: "outdoor-furniture"
+        description: "Teak, Polywood, Adirondack chairs, dining sets, sofas and swings"
+      - label: "Fire Pits & Patio Heaters"
+        slug: "fire-and-heat"
+        description: "Propane fire pit tables, infrared patio heaters, outdoor warmth"
+      - label: "Garden Lighting"
+        slug: "lighting"
+        description: "Solar garden lights, security lighting, outdoor LED fixtures"
+
+  - label: "Garden Structures"
+    slug: "garden-structures"
+    hubs:
+      - label: "Greenhouses, Sheds & Gazebos"
+        slug: "structures"
+        description: "Greenhouse kits, garden sheds, gazebos, pergolas and shelters"
+
+  - label: "Tools & Equipment"
+    slug: "tools-equipment"
+    hubs:
+      - label: "Battery & Cordless Tools"
+        slug: "battery-equipment"
+        description: "EGO, Stihl and DeWalt battery mowers, trimmers, blowers and chainsaws"
+      - label: "Lawn Care"
+        slug: "lawn-care"
+        description: "Leaf blowers, lawn vacuums, gutter cleaners and lawn accessories"
+      - label: "Hand Tools"
+        slug: "hand-tools"
+        description: "Garden gloves, kneelers, kneeling pads and hand tool accessories"
+
+  - label: "Growing & Planting"
+    slug: "growing-planting"
+    hubs:
+      - label: "Raised Beds"
+        slug: "raised-beds"
+        description: "Metal, cedar and modular raised bed kits, self-watering planters"
+      - label: "Composting"
+        slug: "composting"
+        description: "Compost bins, worm composting kits, compost worms and accessories"
+      - label: "Irrigation"
+        slug: "irrigation"
+        description: "Drip irrigation kits, smart sprinkler controllers, timer systems"
+
+  - label: "Birds & Wildlife"
+    slug: "birds-wildlife"
+    hubs:
+      - label: "Bird Feeders & Baths"
+        slug: "birds-wildlife"
+        description: "Bird feeders, bird baths, deer repellent, wildlife garden products"
+
+  - label: "All Reviews"
+    slug: "reviews"
+    hubs: []
