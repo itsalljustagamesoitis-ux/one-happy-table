@@ -1,14 +1,14 @@
 site:
-  brand_name: "The Four Season Gardener"
-  domain: "fourseasongardener.com"
-  tagline: "Honest gardening advice for every season"
+  brand_name: "One Happy Table"
+  domain: "onehappytable.com"
+  tagline: "Beautiful tables for every occasion"
 
 visual:
-  primary_color: "#2D5016"
-  accent_color: "#C19A4B"
-  background_color: "#FDFBF7"
-  font_headings: "Lora"
-  font_body: "Source Sans 3"
+  primary_color: "#8B3A52"
+  accent_color: "#D4A853"
+  background_color: "#FDFAF6"
+  font_headings: "Playfair Display"
+  font_body: "Lato"
   logo_paths:
     favicon: "/images/brand/favicon.ico"
     header_svg: "/images/brand/logo-header.svg"
@@ -21,16 +21,28 @@ persona:
   config_path: "config/personas/wendy.yaml"
 
 affiliate:
-  amazon_tracking_id: "fourseasong-20"
+  amazon_tracking_id: "onehappytable-20"
   awin_publisher_id: "2831126"
-  awin_clickref_pattern: "fsg"
+  awin_clickref_pattern: "oht"
 
 analytics:
-  ga4_measurement_id: "G-CTMQ2320CZ"
+  ga4_measurement_id: null
   bing_uet_tag: null
 
 images:
   base_url: "/images"
 
 deployment:
-  cloudflare_pages_project: "four-season-gardener"
+  cloudflare_pages_project: "one-happy-table"
+
+style_policy:
+  word_count:
+    min: 2000
+    max: 3000
+  dollar_figures:
+    allowed: false
+  buying_guide_heading:
+    style: "How to Choose"
+  in_body_images:
+    policy: per_product
+    fixed_count: null
