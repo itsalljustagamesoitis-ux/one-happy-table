@@ -23,7 +23,7 @@ const ArticleSchema = z.object({
   date: z.date(),
   updated: z.date().optional(),
   author: z.string().default('wendy'),
-  category: z.string(),
+  category: z.string().optional().default('home-entertaining'),
   hub: z.string(),
   hero_image: z.string(),
   hero_image_alt: z.string().optional(),
