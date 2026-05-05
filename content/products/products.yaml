@@ -24,7 +24,7 @@ costa-nova-roda-reactive-glaze:
   name: "Roda Reactive Glaze Dinner Plate"
   brand: "Costa Nova"
   hub: dinnerware
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   price_band: mid
   default_pros:
     - Each piece has a unique reactive-glaze finish — no two are identical
@@ -39,7 +39,7 @@ royal-doulton-1815-white-5pc:
   name: "1815 White 5-Piece Place Setting"
   brand: "Royal Doulton"
   hub: dinnerware
-  amazon_asin: VERIFY
+  amazon_asin: B005V3R7TI
   price_band: mid
   default_pros:
     - Porcelain with subtle ridged texture that reads as elevated without being formal
@@ -69,7 +69,7 @@ mikasa-trellis-white-16pc:
   name: "Trellis White 16-Piece Dinnerware Set"
   brand: "Mikasa"
   hub: dinnerware
-  amazon_asin: VERIFY
+  amazon_asin: B01JTZ60LO
   price_band: mid
   default_pros:
     - Embossed vine pattern adds texture without being busy — works for everyday and entertaining
@@ -84,7 +84,7 @@ mikasa-cameo-white-bone-china:
   name: "Cameo White 5-Piece Bone China Place Setting"
   brand: "Mikasa"
   hub: dinnerware
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   price_band: mid
   default_pros:
     - Bone china translucency gives each piece a slight luminosity at a candlelit table
@@ -129,7 +129,7 @@ bamboo-fiber-dinnerware-natural-10pc:
   name: "Organic Bamboo Fiber 10-Piece Dinnerware Set"
   brand: "Bamboefest"
   hub: dinnerware
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   price_band: budget
   default_pros:
     - Made from organic bamboo fiber — free from melamine, BPA, and heavy metal glazes
@@ -144,7 +144,7 @@ charger-plate-gold-glass-set12:
   name: "Gold Glass Charger Plates (Set of 12)"
   brand: "Koyal Wholesale"
   hub: dinnerware
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   price_band: budget
   default_pros:
     - Glass construction reads as more substantial than plastic chargers at this price
@@ -159,7 +159,7 @@ charger-plate-silver-beaded-set12:
   name: "Silver Beaded Charger Plates (Set of 12)"
   brand: "Saro Lifestyle"
   hub: dinnerware
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   price_band: budget
   default_pros:
     - Beaded rim adds texture that photographs beautifully at holiday table settings
@@ -174,7 +174,7 @@ charger-plate-wicker-rattan-set4:
   name: "Wicker Rattan Charger Plates (Set of 4)"
   brand: "Nicunom"
   hub: dinnerware
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   price_band: budget
   default_pros:
     - Natural wicker texture brings warmth to outdoor and harvest-theme table settings
@@ -206,7 +206,7 @@ riedel-ouverture-champagne-flutes-set2:
   name: "Ouverture Champagne Flutes (Set of 2)"
   brand: "Riedel"
   hub: glassware
-  amazon_asin: VERIFY
+  amazon_asin: B002YT8G4C
   price_band: mid
   default_pros:
     - Tulip-shaped opening concentrates champagne aromas better than a straight flute
@@ -221,7 +221,7 @@ schott-zwiesel-convention-red-wine-set6:
   name: "Convention Red Wine Glasses (Set of 6)"
   brand: "Schott Zwiesel"
   hub: glassware
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   price_band: mid
   default_pros:
     - Tritan crystal formula is genuinely dishwasher-durable — tested for 10,000 cycles
@@ -236,7 +236,7 @@ spiegelau-definition-white-wine-set4:
   name: "Definition White Wine Glasses (Set of 4)"
   brand: "Spiegelau"
   hub: glassware
-  amazon_asin: VERIFY
+  amazon_asin: B0BNHQN1DX
   price_band: mid
   default_pros:
     - Ultra-thin rim that disappears on the lips — the closest to non-existent glass feel
@@ -251,7 +251,7 @@ waterford-lismore-champagne-flutes-set2:
   name: "Lismore Champagne Flutes (Set of 2)"
   brand: "Waterford"
   hub: glassware
-  amazon_asin: VERIFY
+  amazon_asin: B00081IP94
   price_band: premium
   default_pros:
     - Lismore cut pattern is one of the most recognized crystal designs in the world
@@ -266,7 +266,7 @@ simon-pearce-barre-wine-glasses-set4:
   name: "Barre Wine Glasses (Set of 4)"
   brand: "Simon Pearce"
   hub: glassware
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   price_band: premium
   default_pros:
     - Each glass handblown in Vermont — slight variation in each piece is the point
@@ -281,7 +281,7 @@ eto-wine-decanter:
   name: "ETO Wine Decanter"
   brand: "ETO"
   hub: glassware
-  amazon_asin: VERIFY
+  amazon_asin: B0GP2R8TBS
   price_band: premium
   default_pros:
     - Airtight stopper preserves opened wine for up to 5 days — unique in the decanter category
@@ -296,7 +296,7 @@ libbey-signature-kentfield-red-wine-set4:
   name: "Signature Kentfield Red Wine Glasses (Set of 4)"
   brand: "Libbey"
   hub: glassware
-  amazon_asin: VERIFY
+  amazon_asin: B0G1R2KQV5
   price_band: budget
   default_pros:
     - Full set of 4 at under $25 — the math works for large-party entertaining
@@ -311,7 +311,7 @@ libbey-duratuff-rocks-glasses-set6:
   name: "Duratuff Rocks Glasses (Set of 6)"
   brand: "Libbey"
   hub: glassware
-  amazon_asin: VERIFY
+  amazon_asin: B06XSDKHFN
   price_band: budget
   default_pros:
     - Tempered glass construction resists breaking when knocked — survives real use
@@ -341,7 +341,7 @@ anchor-hocking-ruby-red-glasses-set8:
   name: "Lido Ruby Red Tumbler Glasses (Set of 8)"
   brand: "Anchor Hocking"
   hub: glassware
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   price_band: budget
   default_pros:
     - Deep ruby red color adds drama to informal table settings
@@ -356,7 +356,7 @@ anchor-hocking-amber-glasses-set8:
   name: "Heritage Hill Amber Glass Tumblers (Set of 8)"
   brand: "Anchor Hocking"
   hub: glassware
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   price_band: budget
   default_pros:
     - Warm amber tone pairs naturally with fall and harvest table settings
@@ -371,7 +371,7 @@ libbey-cobalt-blue-wine-glasses-set4:
   name: "Cobalt Blue Wine Glasses (Set of 4)"
   brand: "Libbey"
   hub: glassware
-  amazon_asin: VERIFY
+  amazon_asin: B01FSICWOK
   price_band: budget
   default_pros:
     - Deep cobalt adds a strong color anchor to a table setting — immediate visual impact
@@ -386,7 +386,7 @@ waterford-lismore-crystal-champagne-flutes-pair:
   name: "Lismore Crystal Champagne Flute Pair"
   brand: "Waterford"
   hub: glassware
-  amazon_asin: VERIFY
+  amazon_asin: B00081IP94
   price_band: premium
   default_pros:
     - Iconic Lismore diamond-and-wedge cut catches light from every angle
@@ -401,7 +401,7 @@ rosenthal-studio-line-champagne-flutes-set4:
   name: "Studio-Line Champagne Flutes (Set of 4)"
   brand: "Rosenthal"
   hub: glassware
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   price_band: premium
   default_pros:
     - German crystal with an exceptionally clean, modernist profile
@@ -416,7 +416,7 @@ mikasa-crystal-orson-champagne-flutes-set4:
   name: "Crystal Orson Champagne Flutes (Set of 4)"
   brand: "Mikasa"
   hub: glassware
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   price_band: mid
   default_pros:
     - Crystal clarity at mid-range pricing — the accessible Mikasa crystal line
@@ -448,7 +448,7 @@ april-cornell-antique-white-tablecloth:
   name: "Antique White Pintuck Tablecloth"
   brand: "April Cornell"
   hub: linens
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   price_band: mid
   default_pros:
     - Pintuck texture adds interest to an otherwise neutral palette — formal without being heavy
@@ -463,7 +463,7 @@ pomegranate-tablecloth-luxury-cotton:
   name: "Estate Collection Cotton Tablecloth"
   brand: "Pomegranate"
   hub: linens
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   price_band: premium
   default_pros:
     - 100% Egyptian cotton with a jacquard-woven pattern — the quality is visible in the drape
@@ -478,7 +478,7 @@ waterford-napkin-rings-lismore-set4:
   name: "Lismore Crystal Napkin Rings (Set of 4)"
   brand: "Waterford"
   hub: linens
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   price_band: premium
   default_pros:
     - Lismore diamond cut crystal — the table accessory version of the iconic champagne flute
@@ -493,7 +493,7 @@ sur-la-table-linen-napkins-set6:
   name: "Belgian Linen Napkins (Set of 6)"
   brand: "Sur La Table"
   hub: linens
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   price_band: mid
   default_pros:
     - Washed Belgian linen — heavy, textural, and softens further with use
@@ -523,7 +523,7 @@ napkin-rings-pearl-beaded-set4:
   name: "Pearl Beaded Napkin Rings (Set of 4)"
   brand: "Lillian Rose"
   hub: linens
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   price_band: mid
   default_pros:
     - Faux pearl beading reads as elegant without the delicacy of real pearl
@@ -538,7 +538,7 @@ tablecloth-white-round-120in:
   name: "White Round Tablecloth 120-Inch"
   brand: "LinenTablecloth"
   hub: linens
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   price_band: budget
   default_pros:
     - 120-inch diameter gives full floor-length drop on a standard round table
@@ -553,7 +553,7 @@ table-runner-tartan-plaid-14x72:
   name: "Tartan Plaid Table Runner 14 x 72"
   brand: "Elrene Home Fashions"
   hub: linens
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   price_band: budget
   default_pros:
     - Traditional tartan pattern in red/green or red/black for holiday and winter tables
@@ -570,7 +570,7 @@ lenox-butterfly-meadow-platter:
   name: "Butterfly Meadow Serving Platter"
   brand: "Lenox"
   hub: serveware
-  amazon_asin: VERIFY
+  amazon_asin: B07VNHKH32
   price_band: mid
   default_pros:
     - Coordinates with the Butterfly Meadow dinnerware line for a matching table
@@ -630,7 +630,7 @@ place-card-holders-silver-set12:
   name: "Silver Place Card Holders (Set of 12)"
   brand: "Lilac Glassware"
   hub: serveware
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   price_band: budget
   default_pros:
     - Simple silver clip design is neutral enough to work at any formal table setting
@@ -662,7 +662,7 @@ michael-aram-butterfly-ginkgo-candlesticks-pair:
   name: "Butterfly Ginkgo Candlestick Holders (Pair)"
   brand: "Michael Aram"
   hub: decor
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   price_band: premium
   default_pros:
     - Signature sculptural metalwork with ginkgo leaf and butterfly detail — unmistakably Michael Aram
@@ -677,7 +677,7 @@ michael-aram-white-orchid-candlesticks-pair:
   name: "White Orchid Taper Candle Holders (Pair)"
   brand: "Michael Aram"
   hub: decor
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   price_band: premium
   default_pros:
     - Orchid in full bloom sculpted around the taper socket — organic and striking
@@ -692,7 +692,7 @@ stoff-nagel-candle-holder-chrome-set3:
   name: "Candle Holder System — Chrome (Set of 3)"
   brand: "Stoff Nagel"
   hub: decor
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   price_band: premium
   default_pros:
     - The Danish modular system — each holder connects to the next, building any shape
@@ -707,7 +707,7 @@ stoff-nagel-candle-holder-brass-set3:
   name: "Candle Holder System — Brass (Set of 3)"
   brand: "Stoff Nagel"
   hub: decor
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   price_band: premium
   default_pros:
     - Warm brass finish photographs beautifully and pairs with linen, wood, and neutral china
@@ -722,7 +722,7 @@ fitz-floyd-halcyon-candlestick-pair:
   name: "Halcyon Candlestick Pair"
   brand: "Fitz and Floyd"
   hub: decor
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   price_band: mid
   default_pros:
     - Classic turned-column form in white ceramic — pairs with almost any dinnerware
@@ -737,7 +737,7 @@ nambe-braid-candlestick-single:
   name: "Braid Candlestick"
   brand: "Nambe"
   hub: decor
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   price_band: premium
   default_pros:
     - Nambe alloy with a braided column design — warm silver tone that photographs as pewter
@@ -767,7 +767,7 @@ brass-pillar-candle-holders-set3:
   name: "Brass Pillar Candle Holders (Set of 3, Varying Heights)"
   brand: "Dwell Studio"
   hub: decor
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   price_band: mid
   default_pros:
     - Set of three heights allows tiered centerpiece arrangement out of the box
@@ -782,7 +782,7 @@ glass-cylinder-vases-set3:
   name: "Clear Glass Cylinder Vases (Set of 3)"
   brand: "Efavormart"
   hub: decor
-  amazon_asin: VERIFY
+  amazon_asin: B08R15Z5JB
   price_band: budget
   default_pros:
     - Three diameters (4, 6, 8 inch) allow nested or grouped centerpiece arrangements
@@ -797,7 +797,7 @@ stone-tealight-candle-holders-set4:
   name: "Natural Stone Tealight Holders (Set of 4)"
   brand: "Creative Home"
   hub: decor
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   price_band: mid
   default_pros:
     - Each holder has a unique natural stone pattern — genuine variation, not printed
@@ -812,7 +812,7 @@ twisted-taper-candles-set12:
   name: "Twisted Taper Candles (Set of 12, Assorted)"
   brand: "Ner Mitzvah"
   hub: decor
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   price_band: budget
   default_pros:
     - Twisted column form adds visual interest that straight tapers lack
@@ -826,7 +826,7 @@ twisted-taper-candles-set12:
 # ── Catalog Growth 2026-05-05 (85 entries added) ─────────────────────────────────
 
 american-atelier-black-gold-charger-set4:
-  amazon_asin: VERIFY
+  amazon_asin: B0BRQS957J
   brand: American Atelier
   default_cons:
   - Lightweight plastic feel is apparent up close — not suitable for formal seated dinners
@@ -838,7 +838,7 @@ american-atelier-black-gold-charger-set4:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: budget
 anchor-hocking-glass-carafe-1.5l:
-  amazon_asin: VERIFY
+  amazon_asin: B00FSLZXYO
   brand: Anchor Hocking
   default_cons:
   - No pouring collar — the wide mouth drips slightly on the pour stroke
@@ -851,7 +851,7 @@ anchor-hocking-glass-carafe-1.5l:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: budget
 anchor-hocking-presence-glass-dinnerware:
-  amazon_asin: VERIFY
+  amazon_asin: B00FN3GWZ6
   brand: Anchor Hocking
   default_cons:
   - Tempered glass shatters completely if dropped — no chipping, just full breakage
@@ -863,7 +863,7 @@ anchor-hocking-presence-glass-dinnerware:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: budget
 april-cornell-floral-cloth-napkins-set4:
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   brand: April Cornell
   default_cons:
   - Sold in sets of 4 — a table of 8 requires two orders
@@ -875,7 +875,7 @@ april-cornell-floral-cloth-napkins-set4:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: mid
 april-cornell-floral-linen-tablecloth:
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   brand: April Cornell
   default_cons:
   - Floral print is a strong visual commitment — works for a collected, layered table, not minimalist settings
@@ -887,7 +887,7 @@ april-cornell-floral-linen-tablecloth:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: mid
 april-cornell-pomegranate-tablecloth:
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   brand: April Cornell
   default_cons:
   - Deep colours require cold-water washing to prevent running — not a tablecloth for a rushed post-dinner cleanup
@@ -899,7 +899,7 @@ april-cornell-pomegranate-tablecloth:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: mid
 bormioli-rocco-bistro-wine-glasses-set6:
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   brand: Bormioli Rocco
   default_cons:
   - Tempered glass is thicker than crystal — the rim diameter is slightly wider than a fine wine glass, which affects the
@@ -924,7 +924,7 @@ certified-intl-talavera-4pc-place-setting:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: mid
 certified-intl-talavera-serving-platter:
-  amazon_asin: VERIFY
+  amazon_asin: B06WRSBYKW
   brand: Certified International
   default_cons:
   - Decorative pattern limits it to Mexican and Southwestern table settings
@@ -936,7 +936,7 @@ certified-intl-talavera-serving-platter:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: mid
 chilewich-trellis-woven-navy-runner:
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   brand: Chilewich
   default_cons:
   - The vinyl-yarn construction has a slight sheen and texture that reads as modern rather than traditional
@@ -963,7 +963,7 @@ churchill-willow-blue-4pc-place-setting:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: budget
 circleware-clear-glass-votive-set12:
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   brand: Circleware
   default_cons:
   - Thin glass walls scratch from metal tongs when removing spent candles
@@ -987,7 +987,7 @@ corelle-impressions-16pc-dinnerware:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: budget
 creative-co-op-bow-napkin-rings-set6:
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   brand: Creative Co-Op
   default_cons:
   - Fabric rings absorb spills and require hand-washing — not as practical as metal rings for a busy household
@@ -999,7 +999,7 @@ creative-co-op-bow-napkin-rings-set6:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: budget
 creative-co-op-bubble-glass-tealight-set4:
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   brand: Creative Co-Op
   default_cons:
   - Bubble texture makes them difficult to clean fully if wax spills into the base
@@ -1012,7 +1012,7 @@ creative-co-op-bubble-glass-tealight-set4:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: budget
 creative-co-op-bud-vases-set6:
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   brand: Creative Co-Op
   default_cons:
   - Narrow necks limit the stem diameter of flowers that fit — works best with single-stem or fine-stemmed flowers
@@ -1024,7 +1024,7 @@ creative-co-op-bud-vases-set6:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: budget
 creative-co-op-mango-wood-bud-vase-set3:
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   brand: Creative Co-Op
   default_cons:
   - Wood is not waterproof — requires a glass tube insert to hold water, which adds to the setup time
@@ -1037,7 +1037,7 @@ creative-co-op-mango-wood-bud-vase-set3:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: mid
 creative-co-op-whitewash-centerpiece-box:
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   brand: Creative Co-Op
   default_cons:
   - Whitewash shows water rings from condensation if used to hold a vase directly — use a liner
@@ -1049,7 +1049,7 @@ creative-co-op-whitewash-centerpiece-box:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: mid
 danya-b-metal-bow-candle-holders-pair:
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   brand: Danya B.
   default_cons:
   - Decorative form means the taper candle cup diameter may not accept all standard taper widths
@@ -1061,7 +1061,7 @@ danya-b-metal-bow-candle-holders-pair:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: budget
 denby-halo-4pc-place-setting:
-  amazon_asin: VERIFY
+  amazon_asin: B00DLX5238
   brand: Denby
   default_cons:
   - Denby stoneware is denser than most competitors; the 4-piece is noticeably heavier to carry and store
@@ -1073,7 +1073,7 @@ denby-halo-4pc-place-setting:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: mid
 dii-sarape-striped-table-runner:
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   brand: DII
   default_cons:
   - Cotton weave is lighter than premium table runners — may shift on a smooth table without a non-slip pad
@@ -1086,7 +1086,7 @@ dii-sarape-striped-table-runner:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: budget
 efavormart-clear-acrylic-charger-plates-set12:
-  amazon_asin: VERIFY
+  amazon_asin: B0DWYWJNY8
   brand: Efavormart
   default_cons:
   - Acrylic scratches over multiple uses — not a long-term investment piece
@@ -1098,7 +1098,7 @@ efavormart-clear-acrylic-charger-plates-set12:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: budget
 estelle-colored-glass-champagne-cobalt-set2:
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   brand: Estelle Colored Glass
   default_cons:
   - Sold in pairs — a table of 8 requires four orders at significant cumulative cost
@@ -1110,7 +1110,7 @@ estelle-colored-glass-champagne-cobalt-set2:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: mid
 estelle-colored-glass-wine-emerald-set6:
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   brand: Estelle Colored Glass
   default_cons:
   - Colour intensity varies between hand-blown pieces — minor inconsistency is part of the craft, but visible side by side
@@ -1147,7 +1147,7 @@ godinger-silver-charger-plates-set4:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: budget
 godinger-silver-round-serving-platter:
-  amazon_asin: VERIFY
+  amazon_asin: B07KJSXSR4
   brand: Godinger
   default_cons:
   - Silver-tone finish can scratch from metal utensils — use serving pieces with silicone-coated tips
@@ -1160,7 +1160,7 @@ godinger-silver-round-serving-platter:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: budget
 govino-champagne-flutes-set4:
-  amazon_asin: VERIFY
+  amazon_asin: B0FXYH3CCT
   brand: Govino
   default_cons:
   - Polymer walls retain a slight flex that is visually apparent — not suitable when crystal clarity is expected
@@ -1172,7 +1172,7 @@ govino-champagne-flutes-set4:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: budget
 juliska-berry-thread-ceramic-platter:
-  amazon_asin: VERIFY
+  amazon_asin: B07NF5VK45
   brand: Juliska
   default_cons:
   - Hand-wash recommended to preserve the hand-applied relief detail
@@ -1185,7 +1185,7 @@ juliska-berry-thread-ceramic-platter:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: premium
 juliska-berry-thread-charger-plate:
-  amazon_asin: VERIFY
+  amazon_asin: B001AV69QM
   brand: Juliska
   default_cons:
   - Premium price means a full table of 8 is a significant investment
@@ -1198,7 +1198,7 @@ juliska-berry-thread-charger-plate:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: premium
 juliska-country-estate-napkin-ring:
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   brand: Juliska
   default_cons:
   - Ceramic is fragile; a dropped napkin ring chips at the edge — more fragile than metal alternatives
@@ -1210,7 +1210,7 @@ juliska-country-estate-napkin-ring:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: mid
 juliska-country-estate-place-card-holders-set4:
-  amazon_asin: VERIFY
+  amazon_asin: B0F8S9M5W7
   brand: Juliska
   default_cons:
   - Premium price for a small accessory means they are a considered purchase rather than an impulse buy
@@ -1222,7 +1222,7 @@ juliska-country-estate-place-card-holders-set4:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: premium
 juliska-country-estate-table-runner:
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   brand: Juliska
   default_cons:
   - Premium pricing for a runner that explicitly does not press flat — a judgement call on the value of the brand's aesthetic
@@ -1234,7 +1234,7 @@ juliska-country-estate-table-runner:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: premium
 juliska-country-estate-tablecloth:
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   brand: Juliska
   default_cons:
   - Linen wrinkles are part of the design intent — not suitable for guests who expect a pressed formal cloth
@@ -1246,7 +1246,7 @@ juliska-country-estate-tablecloth:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: mid
 kate-aspen-gold-foil-place-cards-set50:
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   brand: Kate Aspen
   default_cons:
   - Single-use disposable — not a reusable option for recurring dinner parties
@@ -1259,7 +1259,7 @@ kate-aspen-gold-foil-place-cards-set50:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: budget
 lenox-french-perle-blue-oval-platter:
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   brand: Lenox
   default_cons:
   - Sold as a single piece — an entertaining set requires collecting multiple items individually
@@ -1284,7 +1284,7 @@ lenox-opal-innocence-12pc-set:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: premium
 lenox-opal-innocence-charger-plate:
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   brand: Lenox
   default_cons:
   - Platinum band is not dishwasher safe — hand-wash only to preserve the rim
@@ -1296,7 +1296,7 @@ lenox-opal-innocence-charger-plate:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: mid
 libbey-embassy-champagne-flutes-set8:
-  amazon_asin: VERIFY
+  amazon_asin: B00164EGBS
   brand: Libbey
   default_cons:
   - Machine-pressed glass lacks the clarity of mouth-blown crystal — visible seam lines under close inspection
@@ -1320,7 +1320,7 @@ libbey-glass-serving-bowl-set3:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: budget
 libbey-midtown-stemless-cocktail-set12:
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   brand: Libbey
   default_cons:
   - Stemless means the hand warms the drink — not suitable for cocktails served at precise cold temperatures
@@ -1332,7 +1332,7 @@ libbey-midtown-stemless-cocktail-set12:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: budget
 libbey-paneled-ribbed-wine-glasses-set4:
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   brand: Libbey
   default_cons:
   - Ribbing collects calcium deposits in hard-water areas — requires a white vinegar rinse periodically
@@ -1344,7 +1344,7 @@ libbey-paneled-ribbed-wine-glasses-set4:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: budget
 linen-tablecloth-black-rectangle-60x102:
-  amazon_asin: VERIFY
+  amazon_asin: B008TL6J4S
   brand: LinenTablecloth
   default_cons:
   - Polyester shows wrinkles from storage more than linen — requires steaming before a formal dinner
@@ -1356,7 +1356,7 @@ linen-tablecloth-black-rectangle-60x102:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: budget
 linen-tablecloth-black-white-check-runner:
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   brand: LinenTablecloth
   default_cons:
   - Woven check pattern can shift alignment after washing — re-press on the bias to restore the pattern
@@ -1368,7 +1368,7 @@ linen-tablecloth-black-white-check-runner:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: budget
 linen-tablecloth-green-gingham-check:
-  amazon_asin: VERIFY
+  amazon_asin: B085HJ4SRD
   brand: LinenTablecloth
   default_cons:
   - Cotton-poly blend is less crisp than 100% cotton gingham and requires ironing to look sharp
@@ -1380,7 +1380,7 @@ linen-tablecloth-green-gingham-check:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: budget
 linen-tablecloth-navy-blue-90x132:
-  amazon_asin: VERIFY
+  amazon_asin: B0749QZDFQ
   brand: LinenTablecloth
   default_cons:
   - Deep navy shows lint and pet hair prominently — a lint roller is essential before guests arrive
@@ -1392,7 +1392,7 @@ linen-tablecloth-navy-blue-90x132:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: budget
 luigi-bormioli-atelier-champagne-set6:
-  amazon_asin: VERIFY
+  amazon_asin: B00AK4JH8M
   brand: Luigi Bormioli
   default_cons:
   - Titanium reinforcement slightly reduces clarity versus mouth-blown crystal — not detectable in use, visible side-by-side
@@ -1416,7 +1416,7 @@ luigi-bormioli-optica-cocktail-set6:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: mid
 maison-arts-art-deco-dinnerware-16pc:
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   brand: Maison Arts
   default_cons:
   - Matte black shows dried water spots prominently — hand-dry immediately after washing
@@ -1428,7 +1428,7 @@ maison-arts-art-deco-dinnerware-16pc:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: mid
 maison-hermine-red-velvet-tablecloth:
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   brand: Maison d'Hermine
   default_cons:
   - Velvet pile is directional — brushing the wrong way leaves visible marks that require re-smoothing
@@ -1440,7 +1440,7 @@ maison-hermine-red-velvet-tablecloth:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: budget
 michael-aram-anemone-napkin-ring-set4:
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   brand: Michael Aram
   default_cons:
   - Three-dimensional petal construction catches on linen napkin fibres when sliding on — requires care to avoid snags
@@ -1453,7 +1453,7 @@ michael-aram-anemone-napkin-ring-set4:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: mid
 michael-aram-olive-branch-serving-platter:
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   brand: Michael Aram
   default_cons:
   - Hand-wash only; the oxidised finish reacts to dishwasher detergent
@@ -1466,7 +1466,7 @@ michael-aram-olive-branch-serving-platter:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: premium
 michael-aram-twist-candle-holder:
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   brand: Michael Aram
   default_cons:
   - Three-dimensional form requires careful packing for storage to prevent bending the sculptural elements
@@ -1478,7 +1478,7 @@ michael-aram-twist-candle-holder:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: mid
 mikasa-metropolitan-charger-plate:
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   brand: Mikasa
   default_cons:
   - Sold individually rather than in sets — stocking a full table of 8 requires separate orders
@@ -1490,7 +1490,7 @@ mikasa-metropolitan-charger-plate:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: mid
 mud-pie-porcelain-place-cards-set12:
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   brand: Mud Pie
   default_cons:
   - Writing surfaces require a fine-tip china marker — standard pens do not adhere to the glazed surface
@@ -1503,7 +1503,7 @@ mud-pie-porcelain-place-cards-set12:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: mid
 nambe-copper-karim-rashid-candleholder:
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   brand: Nambe
   default_cons:
   - Copper finish requires occasional polishing to prevent patina accumulation
@@ -1527,7 +1527,7 @@ noritake-colorwave-granite-4pc:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: mid
 peacock-alley-hemstitch-tablecloth:
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   brand: Peacock Alley
   default_cons:
   - Premium price and limited retail availability make replacement of individual pieces difficult
@@ -1539,7 +1539,7 @@ peacock-alley-hemstitch-tablecloth:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: premium
 portmeirion-botanic-garden-4pc-set:
-  amazon_asin: VERIFY
+  amazon_asin: B01EYGHNUK
   brand: Portmeirion
   default_cons:
   - Earthenware chips more readily than stoneware or porcelain — the illustrated surfaces show chips prominently
@@ -1563,7 +1563,7 @@ portmeirion-botanic-garden-mug:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: mid
 ravenscroft-crystal-whiskey-decanter:
-  amazon_asin: VERIFY
+  amazon_asin: B001O4U9CK
   brand: Ravenscroft Crystal
   default_cons:
   - Crystal stopper requires hand-drying immediately — calcium deposits around the stopper collar are hard to remove
@@ -1575,7 +1575,7 @@ ravenscroft-crystal-whiskey-decanter:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: mid
 riedel-bar-highball-glasses-set2:
-  amazon_asin: VERIFY
+  amazon_asin: B07PQJ1XBV
   brand: Riedel
   default_cons:
   - Sold in pairs only — stocking a full bar kit requires multiple orders at premium cost
@@ -1588,7 +1588,7 @@ riedel-bar-highball-glasses-set2:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: premium
 riedel-corneto-decanter:
-  amazon_asin: VERIFY
+  amazon_asin: B000IOM9F2
   brand: Riedel
   default_cons:
   - The cone form makes it difficult to dry completely without a decanter drying stand
@@ -1600,7 +1600,7 @@ riedel-corneto-decanter:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: mid
 riedel-veloce-champagne-glass-set2:
-  amazon_asin: VERIFY
+  amazon_asin: B09YVWCTCY
   brand: Riedel
   default_cons:
   - Dishwasher safe but the machine-blown seam is faintly visible at the base of the bowl
@@ -1612,7 +1612,7 @@ riedel-veloce-champagne-glass-set2:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: mid
 root-candles-timberline-taper-set12:
-  amazon_asin: VERIFY
+  amazon_asin: B0B45GG31L
   brand: Root Candles
   default_cons:
   - Beeswax blend is firmer than paraffin — may require brief warming in hand to fit a tight candle holder
@@ -1625,7 +1625,7 @@ root-candles-timberline-taper-set12:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: mid
 royal-doulton-gordon-ramsay-maze-mug:
-  amazon_asin: VERIFY
+  amazon_asin: B003UWD7ZU
   brand: Royal Doulton
   default_cons:
   - Fine bone china chips at the rim more readily than stoneware — not ideal for a household with children
@@ -1637,7 +1637,7 @@ royal-doulton-gordon-ramsay-maze-mug:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: budget
 royal-worcester-evesham-gold-4pc:
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   brand: Royal Worcester
   default_cons:
   - Gold rim is not dishwasher safe — a commitment to hand-washing for a daily-use set
@@ -1661,7 +1661,7 @@ schott-zwiesel-pure-coupe-glasses-set6:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: mid
 sferra-classico-hemstitched-tablecloth:
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   brand: Sferra
   default_cons:
   - Premium linen requires hand-wash or gentle machine wash and professional pressing — significant care commitment
@@ -1673,7 +1673,7 @@ sferra-classico-hemstitched-tablecloth:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: premium
 sferra-festival-ivory-tablecloth:
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   brand: Sferra
   default_cons:
   - Cotton requires careful ironing to achieve the formal pressed finish Sferra is known for
@@ -1685,7 +1685,7 @@ sferra-festival-ivory-tablecloth:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: mid
 sferra-hemstitched-linen-napkins-set4:
-  amazon_asin: VERIFY
+  amazon_asin: B00EENQLYI
   brand: Sferra
   default_cons:
   - Premium linen requires ironing after each wash to achieve the pressed formal finish
@@ -1697,7 +1697,7 @@ sferra-hemstitched-linen-napkins-set4:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: premium
 simon-pearce-ascutney-red-wine-glass:
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   brand: Simon Pearce
   default_cons:
   - Hand-blown glass requires hand-washing — premium care for a premium piece
@@ -1709,7 +1709,7 @@ simon-pearce-ascutney-red-wine-glass:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: premium
 simon-pearce-woodstock-vase:
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   brand: Simon Pearce
   default_cons:
   - Hand-blown glass requires hand-washing — a significant consideration for a vase cleaned regularly after flower use
@@ -1721,7 +1721,7 @@ simon-pearce-woodstock-vase:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: premium
 spode-blue-italian-5pc-place-setting:
-  amazon_asin: VERIFY
+  amazon_asin: B0002PD2GM
   brand: Spode
   default_cons:
   - The Italianate landscape scene is a strong visual statement — harder to mix with other patterned pieces
@@ -1747,7 +1747,7 @@ torre-tagus-pillar-ceramic-vase-white:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: mid
 utopia-kitchen-cloth-napkins-green-set12:
-  amazon_asin: VERIFY
+  amazon_asin: B00L1HZDBM
   brand: Utopia Kitchen
   default_cons:
   - Cotton-poly blend pills slightly after repeated washing — not the texture of a restaurant-grade linen napkin
@@ -1760,7 +1760,7 @@ utopia-kitchen-cloth-napkins-green-set12:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: budget
 wallace-silversmith-napkin-rings-set4:
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   brand: Wallace Silversmiths
   default_cons:
   - Silverplate tarnishes faster than solid sterling — requires periodic polishing
@@ -1772,7 +1772,7 @@ wallace-silversmith-napkin-rings-set4:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: budget
 waterford-lismore-crystal-decanter:
-  amazon_asin: VERIFY
+  amazon_asin: B09JKZMN6C
   brand: Waterford
   default_cons:
   - Cut crystal stopper is not airtight for long-term spirit storage — best used for serving rather than ageing
@@ -1784,7 +1784,7 @@ waterford-lismore-crystal-decanter:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: premium
 waterford-millennium-champagne-flutes-set2:
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   brand: Waterford
   default_cons:
   - Hand-wash only to maintain the cut-crystal brilliance — dishwasher dulls the facets permanently
@@ -1797,7 +1797,7 @@ waterford-millennium-champagne-flutes-set2:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: premium
 waterford-stewart-plaid-tartan-tablecloth:
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   brand: Waterford
   default_cons:
   - Dry-clean recommended to maintain the fabric weight and colour — limits spontaneous post-dinner laundering
@@ -1810,7 +1810,7 @@ waterford-stewart-plaid-tartan-tablecloth:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: mid
 wedgwood-vera-wang-lace-teacup-saucer:
-  amazon_asin: VERIFY
+  amazon_asin: B073HD99YK
   brand: Wedgwood
   default_cons:
   - Platinum trim requires hand-washing — not suitable for daily use in households reliant on the dishwasher
@@ -1822,7 +1822,7 @@ wedgwood-vera-wang-lace-teacup-saucer:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: premium
 wedgwood-wild-strawberry-5pc:
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   brand: Wedgwood
   default_cons:
   - Hand-wash only; the pink-and-green botanical colour palette fades in the dishwasher over time
@@ -1847,7 +1847,7 @@ white-porcelain-taper-candle-holders-set2:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: mid
 yves-delorme-triomphe-tablecloth:
-  amazon_asin: VERIFY
+  amazon_asin: NOT_ON_AMAZON
   brand: Yves Delorme
   default_cons:
   - Dry-clean only; at this price point that is an expected cost of ownership
@@ -1861,7 +1861,7 @@ yves-delorme-triomphe-tablecloth:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: premium
 zwiesel-glas-enoteca-champagne-set2:
-  amazon_asin: VERIFY
+  amazon_asin: B0DFZT6GK4
   brand: Zwiesel Glas
   default_cons:
   - Tall stem increases breakage risk at the base point — hand-carry rather than dishwasher-load standing upright
