@@ -40,8 +40,8 @@
     "kd": 6,
     "products": [
       "stoff-nagel-candle-holder-chrome-set3",
-      "hurricane-glass-candle-holder-large",
-      "michael-aram-twist-candle-holder"
+      "michael-aram-twist-candle-holder",
+      "hurricane-glass-candle-holder-large"
     ],
     "published": false,
     "status": "pending",
@@ -49,7 +49,7 @@
     "hub_url": "/decor/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: stoff-nagel-candle-holder-chrome-set3 (score 120). Complementary: hurricane-glass-candle-holder-large, michael-aram-twist-candle-holder. Price bands: premium, budget, mid."
+    "assignment_notes": "Primary keyword match: stoff-nagel-candle-holder-chrome-set3 (score 120). Complementary: michael-aram-twist-candle-holder, hurricane-glass-candle-holder-large. Price bands: premium, mid, budget."
   },
   {
     "id": 3,
@@ -67,15 +67,15 @@
     "products": [
       "hurricane-glass-candle-holder-large",
       "root-candles-timberline-taper-set12",
-      "michael-aram-white-orchid-candlesticks-pair"
+      "michael-aram-butterfly-ginkgo-candlesticks-pair"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Decor & Candles",
     "hub_url": "/decor/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: hurricane-glass-candle-holder-large (score 50). Complementary: root-candles-timberline-taper-set12, michael-aram-white-orchid-candlesticks-pair. Price bands: budget, mid, premium."
+    "assignment_notes": "Primary keyword match: hurricane-glass-candle-holder-large (score 50). Complementary: root-candles-timberline-taper-set12, michael-aram-butterfly-ginkgo-candlesticks-pair. Price bands: budget, mid, premium."
   },
   {
     "id": 4,
@@ -144,7 +144,7 @@
     "kd": 9,
     "products": [
       "danya-b-metal-bow-candle-holders-pair",
-      "stoff-nagel-candle-holder-brass-set3",
+      "stoff-nagel-candle-holder-chrome-set3",
       "michael-aram-twist-candle-holder"
     ],
     "published": false,
@@ -153,7 +153,7 @@
     "hub_url": "/decor/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: danya-b-metal-bow-candle-holders-pair (score 80). Complementary: stoff-nagel-candle-holder-brass-set3, michael-aram-twist-candle-holder. Price bands: budget, premium, mid."
+    "assignment_notes": "Primary keyword match: danya-b-metal-bow-candle-holders-pair (score 80). Complementary: stoff-nagel-candle-holder-chrome-set3, michael-aram-twist-candle-holder. Price bands: budget, premium, mid."
   },
   {
     "id": 7,
@@ -174,7 +174,7 @@
       "michael-aram-white-orchid-candlesticks-pair"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Decor & Candles",
     "hub_url": "/decor/",
     "category_label": "Home Entertaining",
@@ -196,8 +196,8 @@
     "kd": 9,
     "products": [
       "hurricane-glass-candle-holder-large",
-      "brass-pillar-candle-holders-set3",
-      "michael-aram-butterfly-ginkgo-candlesticks-pair"
+      "stone-tealight-candle-holders-set4",
+      "stoff-nagel-candle-holder-brass-set3"
     ],
     "published": false,
     "status": "pending",
@@ -205,7 +205,7 @@
     "hub_url": "/decor/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: hurricane-glass-candle-holder-large (score 100). Complementary: brass-pillar-candle-holders-set3, michael-aram-butterfly-ginkgo-candlesticks-pair. Price bands: budget, mid, premium."
+    "assignment_notes": "Primary keyword match: hurricane-glass-candle-holder-large (score 100). Complementary: stone-tealight-candle-holders-set4, stoff-nagel-candle-holder-brass-set3. Price bands: budget, mid, premium."
   },
   {
     "id": 9,
@@ -223,7 +223,7 @@
     "products": [
       "stone-tealight-candle-holders-set4",
       "circleware-clear-glass-votive-set12",
-      "stoff-nagel-candle-holder-chrome-set3"
+      "michael-aram-butterfly-ginkgo-candlesticks-pair"
     ],
     "published": false,
     "status": "pending",
@@ -231,7 +231,7 @@
     "hub_url": "/decor/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: stone-tealight-candle-holders-set4 (score 90). Complementary: circleware-clear-glass-votive-set12, stoff-nagel-candle-holder-chrome-set3. Price bands: mid, budget, premium."
+    "assignment_notes": "Primary keyword match: stone-tealight-candle-holders-set4 (score 90). Complementary: circleware-clear-glass-votive-set12, michael-aram-butterfly-ginkgo-candlesticks-pair. Price bands: mid, budget, premium."
   },
   {
     "id": 10,
@@ -275,15 +275,15 @@
     "products": [
       "brass-pillar-candle-holders-set3",
       "creative-co-op-bubble-glass-tealight-set4",
-      "stoff-nagel-candle-holder-brass-set3"
+      "stoff-nagel-candle-holder-chrome-set3"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Decor & Candles",
     "hub_url": "/decor/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: brass-pillar-candle-holders-set3 (score 60). Complementary: creative-co-op-bubble-glass-tealight-set4, stoff-nagel-candle-holder-brass-set3. Price bands: mid, budget, premium."
+    "assignment_notes": "Primary keyword match: brass-pillar-candle-holders-set3 (score 60). Complementary: creative-co-op-bubble-glass-tealight-set4, stoff-nagel-candle-holder-chrome-set3. Price bands: mid, budget, premium."
   },
   {
     "id": 12,
@@ -301,7 +301,7 @@
     "products": [
       "brass-pillar-candle-holders-set3",
       "stoff-nagel-candle-holder-brass-set3",
-      "circleware-clear-glass-votive-set12"
+      "danya-b-metal-bow-candle-holders-pair"
     ],
     "published": false,
     "status": "pending",
@@ -309,7 +309,7 @@
     "hub_url": "/decor/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: brass-pillar-candle-holders-set3 (score 120). Complementary: stoff-nagel-candle-holder-brass-set3, circleware-clear-glass-votive-set12. Price bands: mid, premium, budget."
+    "assignment_notes": "Primary keyword match: brass-pillar-candle-holders-set3 (score 120). Complementary: stoff-nagel-candle-holder-brass-set3, danya-b-metal-bow-candle-holders-pair. Price bands: mid, premium, budget."
   },
   {
     "id": 13,
@@ -326,7 +326,7 @@
     "kd": 10,
     "products": [
       "white-porcelain-taper-candle-holders-set2",
-      "creative-co-op-bubble-glass-tealight-set4",
+      "circleware-clear-glass-votive-set12",
       "michael-aram-butterfly-ginkgo-candlesticks-pair"
     ],
     "published": false,
@@ -335,7 +335,7 @@
     "hub_url": "/decor/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: white-porcelain-taper-candle-holders-set2 (score 60). Complementary: creative-co-op-bubble-glass-tealight-set4, michael-aram-butterfly-ginkgo-candlesticks-pair. Price bands: mid, budget, premium."
+    "assignment_notes": "Primary keyword match: white-porcelain-taper-candle-holders-set2 (score 60). Complementary: circleware-clear-glass-votive-set12, michael-aram-butterfly-ginkgo-candlesticks-pair. Price bands: mid, budget, premium."
   },
   {
     "id": 14,
@@ -352,7 +352,7 @@
     "kd": 8,
     "products": [
       "fitz-floyd-halcyon-candlestick-pair",
-      "danya-b-metal-bow-candle-holders-pair",
+      "creative-co-op-bubble-glass-tealight-set4",
       "stoff-nagel-candle-holder-chrome-set3"
     ],
     "published": false,
@@ -361,7 +361,7 @@
     "hub_url": "/decor/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: fitz-floyd-halcyon-candlestick-pair (score 80). Complementary: danya-b-metal-bow-candle-holders-pair, stoff-nagel-candle-holder-chrome-set3. Price bands: mid, budget, premium."
+    "assignment_notes": "Primary keyword match: fitz-floyd-halcyon-candlestick-pair (score 80). Complementary: creative-co-op-bubble-glass-tealight-set4, stoff-nagel-candle-holder-chrome-set3. Price bands: mid, budget, premium."
   },
   {
     "id": 15,
@@ -404,16 +404,16 @@
     "kd": 3,
     "products": [
       "white-porcelain-taper-candle-holders-set2",
-      "stoff-nagel-candle-holder-chrome-set3",
+      "stoff-nagel-candle-holder-brass-set3",
       "hurricane-glass-candle-holder-large"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Decor & Candles",
     "hub_url": "/decor/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: white-porcelain-taper-candle-holders-set2 (score 80). Complementary: stoff-nagel-candle-holder-chrome-set3, hurricane-glass-candle-holder-large. Price bands: mid, premium, budget."
+    "assignment_notes": "Primary keyword match: white-porcelain-taper-candle-holders-set2 (score 80). Complementary: stoff-nagel-candle-holder-brass-set3, hurricane-glass-candle-holder-large. Price bands: mid, premium, budget."
   },
   {
     "id": 17,
@@ -431,15 +431,15 @@
     "products": [
       "circleware-clear-glass-votive-set12",
       "stone-tealight-candle-holders-set4",
-      "stoff-nagel-candle-holder-brass-set3"
+      "stoff-nagel-candle-holder-chrome-set3"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Decor & Candles",
     "hub_url": "/decor/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: circleware-clear-glass-votive-set12 (score 60). Complementary: stone-tealight-candle-holders-set4, stoff-nagel-candle-holder-brass-set3. Price bands: budget, mid, premium."
+    "assignment_notes": "Primary keyword match: circleware-clear-glass-votive-set12 (score 60). Complementary: stone-tealight-candle-holders-set4, stoff-nagel-candle-holder-chrome-set3. Price bands: budget, mid, premium."
   },
   {
     "id": 18,
@@ -457,7 +457,7 @@
     "products": [
       "creative-co-op-bubble-glass-tealight-set4",
       "michael-aram-twist-candle-holder",
-      "stoff-nagel-candle-holder-chrome-set3"
+      "stoff-nagel-candle-holder-brass-set3"
     ],
     "published": false,
     "status": "pending",
@@ -465,7 +465,7 @@
     "hub_url": "/decor/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: creative-co-op-bubble-glass-tealight-set4 (score 110). Complementary: michael-aram-twist-candle-holder, stoff-nagel-candle-holder-chrome-set3. Price bands: budget, mid, premium."
+    "assignment_notes": "Primary keyword match: creative-co-op-bubble-glass-tealight-set4 (score 110). Complementary: michael-aram-twist-candle-holder, stoff-nagel-candle-holder-brass-set3. Price bands: budget, mid, premium."
   },
   {
     "id": 19,
@@ -486,7 +486,7 @@
       "glass-cylinder-vases-set3"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Decor & Candles",
     "hub_url": "/decor/",
     "category_label": "Home Entertaining",
@@ -538,7 +538,7 @@
       "simon-pearce-woodstock-vase"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Decor & Candles",
     "hub_url": "/decor/",
     "category_label": "Home Entertaining",
@@ -560,7 +560,7 @@
     "kd": 6,
     "products": [
       "circleware-clear-glass-votive-set12",
-      "stone-tealight-candle-holders-set4",
+      "brass-pillar-candle-holders-set3",
       "michael-aram-butterfly-ginkgo-candlesticks-pair"
     ],
     "published": false,
@@ -569,7 +569,7 @@
     "hub_url": "/decor/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: circleware-clear-glass-votive-set12 (score 150). Complementary: stone-tealight-candle-holders-set4, michael-aram-butterfly-ginkgo-candlesticks-pair. Price bands: budget, mid, premium."
+    "assignment_notes": "Primary keyword match: circleware-clear-glass-votive-set12 (score 150). Complementary: brass-pillar-candle-holders-set3, michael-aram-butterfly-ginkgo-candlesticks-pair. Price bands: budget, mid, premium."
   },
   {
     "id": 23,
@@ -668,7 +668,7 @@
       "nambe-braid-candlestick-single"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Decor & Candles",
     "hub_url": "/decor/",
     "category_label": "Home Entertaining",
@@ -772,7 +772,7 @@
       "creative-co-op-bud-vases-set6"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Decor & Candles",
     "hub_url": "/decor/",
     "category_label": "Home Entertaining",
@@ -820,7 +820,7 @@
     "kd": 9,
     "products": [
       "creative-co-op-whitewash-centerpiece-box",
-      "creative-co-op-bubble-glass-tealight-set4",
+      "danya-b-metal-bow-candle-holders-pair",
       "michael-aram-butterfly-ginkgo-candlesticks-pair"
     ],
     "published": false,
@@ -829,7 +829,7 @@
     "hub_url": "/decor/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: creative-co-op-whitewash-centerpiece-box (score 20). Complementary: creative-co-op-bubble-glass-tealight-set4, michael-aram-butterfly-ginkgo-candlesticks-pair. Price bands: mid, budget, premium."
+    "assignment_notes": "Primary keyword match: creative-co-op-whitewash-centerpiece-box (score 20). Complementary: danya-b-metal-bow-candle-holders-pair, michael-aram-butterfly-ginkgo-candlesticks-pair. Price bands: mid, budget, premium."
   },
   {
     "id": 33,
@@ -846,8 +846,8 @@
     "kd": 17,
     "products": [
       "creative-co-op-whitewash-centerpiece-box",
-      "danya-b-metal-bow-candle-holders-pair",
-      "stoff-nagel-candle-holder-brass-set3"
+      "libbey-glass-serving-bowl-set3",
+      "stoff-nagel-candle-holder-chrome-set3"
     ],
     "published": false,
     "status": "pending",
@@ -855,7 +855,7 @@
     "hub_url": "/decor/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: creative-co-op-whitewash-centerpiece-box (score 20). Complementary: danya-b-metal-bow-candle-holders-pair, stoff-nagel-candle-holder-brass-set3. Price bands: mid, budget, premium."
+    "assignment_notes": "Primary keyword match: creative-co-op-whitewash-centerpiece-box (score 20). Complementary: libbey-glass-serving-bowl-set3, stoff-nagel-candle-holder-chrome-set3. Price bands: mid, budget, premium."
   },
   {
     "id": 34,
@@ -872,8 +872,8 @@
     "kd": 9,
     "products": [
       "creative-co-op-whitewash-centerpiece-box",
-      "libbey-glass-serving-bowl-set3",
-      "nambe-braid-candlestick-single"
+      "glass-cylinder-vases-set3",
+      "stoff-nagel-candle-holder-brass-set3"
     ],
     "published": false,
     "status": "pending",
@@ -881,7 +881,7 @@
     "hub_url": "/decor/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: creative-co-op-whitewash-centerpiece-box (score 30). Complementary: libbey-glass-serving-bowl-set3, nambe-braid-candlestick-single. Price bands: mid, budget, premium."
+    "assignment_notes": "Primary keyword match: creative-co-op-whitewash-centerpiece-box (score 30). Complementary: glass-cylinder-vases-set3, stoff-nagel-candle-holder-brass-set3. Price bands: mid, budget, premium."
   },
   {
     "id": 35,
@@ -898,8 +898,8 @@
     "kd": 6,
     "products": [
       "creative-co-op-whitewash-centerpiece-box",
-      "glass-cylinder-vases-set3",
-      "michael-aram-butterfly-ginkgo-candlesticks-pair"
+      "creative-co-op-bubble-glass-tealight-set4",
+      "nambe-braid-candlestick-single"
     ],
     "published": false,
     "status": "pending",
@@ -907,7 +907,7 @@
     "hub_url": "/decor/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: creative-co-op-whitewash-centerpiece-box (score 70). Complementary: glass-cylinder-vases-set3, michael-aram-butterfly-ginkgo-candlesticks-pair. Price bands: mid, budget, premium."
+    "assignment_notes": "Primary keyword match: creative-co-op-whitewash-centerpiece-box (score 70). Complementary: creative-co-op-bubble-glass-tealight-set4, nambe-braid-candlestick-single. Price bands: mid, budget, premium."
   },
   {
     "id": 36,
@@ -925,7 +925,7 @@
     "products": [
       "creative-co-op-whitewash-centerpiece-box",
       "danya-b-metal-bow-candle-holders-pair",
-      "stoff-nagel-candle-holder-chrome-set3"
+      "michael-aram-butterfly-ginkgo-candlesticks-pair"
     ],
     "published": false,
     "status": "pending",
@@ -933,7 +933,7 @@
     "hub_url": "/decor/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: creative-co-op-whitewash-centerpiece-box (score 30). Complementary: danya-b-metal-bow-candle-holders-pair, stoff-nagel-candle-holder-chrome-set3. Price bands: mid, budget, premium."
+    "assignment_notes": "Primary keyword match: creative-co-op-whitewash-centerpiece-box (score 30). Complementary: danya-b-metal-bow-candle-holders-pair, michael-aram-butterfly-ginkgo-candlesticks-pair. Price bands: mid, budget, premium."
   },
   {
     "id": 37,
@@ -959,7 +959,8 @@
     "hub_url": "/dinnerware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: costa-nova-roda-reactive-glaze (score 80). Complementary: bamboo-fiber-dinnerware-natural-10pc, lenox-opal-innocence-12pc-set. Price bands: mid, budget, premium."
+    "assignment_notes": "Primary keyword match: costa-nova-roda-reactive-glaze (score 80). Complementary: bamboo-fiber-dinnerware-natural-10pc, lenox-opal-innocence-12pc-set. Price bands: mid, budget, premium.",
+    "staged": true
   },
   {
     "id": 38,
@@ -1003,15 +1004,19 @@
     "products": [
       "lenox-butterfly-meadow-12pc",
       "corelle-impressions-16pc-dinnerware",
-      "lenox-opal-innocence-12pc-set"
+      "lenox-opal-innocence-12pc-set",
+      "gibson-elite-coastal-12pc-dinnerware",
+      "maison-arts-art-deco-dinnerware-16pc",
+      "portmeirion-botanic-garden-4pc-set"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Dinnerware & China",
     "hub_url": "/dinnerware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: lenox-butterfly-meadow-12pc (score 30). Complementary: corelle-impressions-16pc-dinnerware, lenox-opal-innocence-12pc-set. Price bands: mid, budget, premium."
+    "assignment_notes": "Primary keyword match: lenox-butterfly-meadow-12pc (score 30). Complementary: corelle-impressions-16pc-dinnerware, lenox-opal-innocence-12pc-set, gibson-elite-coastal-12pc-dinnerware, maison-arts-art-deco-dinnerware-16pc, portmeirion-botanic-garden-4pc-set. Price bands: mid, budget, premium.",
+    "staged": true
   },
   {
     "id": 40,
@@ -1054,8 +1059,8 @@
     "kd": 10,
     "products": [
       "charger-plate-gold-glass-set12",
-      "juliska-berry-thread-charger-plate",
-      "lenox-opal-innocence-charger-plate"
+      "lenox-opal-innocence-charger-plate",
+      "juliska-berry-thread-charger-plate"
     ],
     "published": false,
     "status": "pending",
@@ -1063,7 +1068,7 @@
     "hub_url": "/dinnerware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: charger-plate-gold-glass-set12 (score 90). Complementary: juliska-berry-thread-charger-plate, lenox-opal-innocence-charger-plate. Price bands: budget, premium, mid."
+    "assignment_notes": "Primary keyword match: charger-plate-gold-glass-set12 (score 90). Complementary: lenox-opal-innocence-charger-plate, juliska-berry-thread-charger-plate. Price bands: budget, mid, premium."
   },
   {
     "id": 42,
@@ -1079,8 +1084,8 @@
     "volume": 480,
     "kd": 6,
     "products": [
-      "american-atelier-black-gold-charger-set4",
-      "mikasa-metropolitan-charger-plate",
+      "godinger-silver-charger-plates-set4",
+      "lenox-opal-innocence-charger-plate",
       "juliska-berry-thread-charger-plate"
     ],
     "published": false,
@@ -1089,7 +1094,7 @@
     "hub_url": "/dinnerware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: american-atelier-black-gold-charger-set4 (score 60). Complementary: mikasa-metropolitan-charger-plate, juliska-berry-thread-charger-plate. Price bands: budget, mid, premium."
+    "assignment_notes": "Primary keyword match: godinger-silver-charger-plates-set4 (score 60). Complementary: lenox-opal-innocence-charger-plate, juliska-berry-thread-charger-plate. Price bands: budget, mid, premium."
   },
   {
     "id": 43,
@@ -1106,7 +1111,7 @@
     "kd": 8,
     "products": [
       "godinger-silver-charger-plates-set4",
-      "lenox-opal-innocence-charger-plate",
+      "mikasa-metropolitan-charger-plate",
       "juliska-berry-thread-charger-plate"
     ],
     "published": false,
@@ -1115,7 +1120,7 @@
     "hub_url": "/dinnerware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: godinger-silver-charger-plates-set4 (score 90). Complementary: lenox-opal-innocence-charger-plate, juliska-berry-thread-charger-plate. Price bands: budget, mid, premium."
+    "assignment_notes": "Primary keyword match: godinger-silver-charger-plates-set4 (score 90). Complementary: mikasa-metropolitan-charger-plate, juliska-berry-thread-charger-plate. Price bands: budget, mid, premium."
   },
   {
     "id": 44,
@@ -1131,17 +1136,17 @@
     "volume": 320,
     "kd": 4,
     "products": [
-      "efavormart-clear-acrylic-charger-plates-set12",
-      "mikasa-metropolitan-charger-plate",
+      "american-atelier-black-gold-charger-set4",
+      "lenox-opal-innocence-charger-plate",
       "juliska-berry-thread-charger-plate"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Dinnerware & China",
     "hub_url": "/dinnerware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: efavormart-clear-acrylic-charger-plates-set12 (score 60). Complementary: mikasa-metropolitan-charger-plate, juliska-berry-thread-charger-plate. Price bands: budget, mid, premium."
+    "assignment_notes": "Primary keyword match: american-atelier-black-gold-charger-set4 (score 60). Complementary: lenox-opal-innocence-charger-plate, juliska-berry-thread-charger-plate. Price bands: budget, mid, premium."
   },
   {
     "id": 45,
@@ -1157,8 +1162,8 @@
     "volume": 260,
     "kd": 10,
     "products": [
-      "american-atelier-black-gold-charger-set4",
-      "lenox-opal-innocence-charger-plate",
+      "efavormart-clear-acrylic-charger-plates-set12",
+      "mikasa-metropolitan-charger-plate",
       "juliska-berry-thread-charger-plate"
     ],
     "published": false,
@@ -1167,7 +1172,7 @@
     "hub_url": "/dinnerware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: american-atelier-black-gold-charger-set4 (score 60). Complementary: lenox-opal-innocence-charger-plate, juliska-berry-thread-charger-plate. Price bands: budget, mid, premium."
+    "assignment_notes": "Primary keyword match: efavormart-clear-acrylic-charger-plates-set12 (score 60). Complementary: mikasa-metropolitan-charger-plate, juliska-berry-thread-charger-plate. Price bands: budget, mid, premium."
   },
   {
     "id": 46,
@@ -1188,7 +1193,7 @@
       "juliska-berry-thread-charger-plate"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Dinnerware & China",
     "hub_url": "/dinnerware/",
     "category_label": "Home Entertaining",
@@ -1210,7 +1215,7 @@
     "kd": 8,
     "products": [
       "godinger-silver-charger-plates-set4",
-      "mikasa-metropolitan-charger-plate",
+      "lenox-opal-innocence-charger-plate",
       "juliska-berry-thread-charger-plate"
     ],
     "published": false,
@@ -1219,7 +1224,7 @@
     "hub_url": "/dinnerware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: godinger-silver-charger-plates-set4 (score 90). Complementary: mikasa-metropolitan-charger-plate, juliska-berry-thread-charger-plate. Price bands: budget, mid, premium."
+    "assignment_notes": "Primary keyword match: godinger-silver-charger-plates-set4 (score 90). Complementary: lenox-opal-innocence-charger-plate, juliska-berry-thread-charger-plate. Price bands: budget, mid, premium."
   },
   {
     "id": 48,
@@ -1236,16 +1241,16 @@
     "kd": 4,
     "products": [
       "efavormart-clear-acrylic-charger-plates-set12",
-      "lenox-opal-innocence-charger-plate",
+      "mikasa-metropolitan-charger-plate",
       "juliska-berry-thread-charger-plate"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Dinnerware & China",
     "hub_url": "/dinnerware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: efavormart-clear-acrylic-charger-plates-set12 (score 60). Complementary: lenox-opal-innocence-charger-plate, juliska-berry-thread-charger-plate. Price bands: budget, mid, premium."
+    "assignment_notes": "Primary keyword match: efavormart-clear-acrylic-charger-plates-set12 (score 60). Complementary: mikasa-metropolitan-charger-plate, juliska-berry-thread-charger-plate. Price bands: budget, mid, premium."
   },
   {
     "id": 49,
@@ -1262,7 +1267,7 @@
     "kd": 7,
     "products": [
       "charger-plate-wicker-rattan-set4",
-      "mikasa-metropolitan-charger-plate",
+      "lenox-opal-innocence-charger-plate",
       "juliska-berry-thread-charger-plate"
     ],
     "published": false,
@@ -1271,7 +1276,7 @@
     "hub_url": "/dinnerware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: charger-plate-wicker-rattan-set4 (score 90). Complementary: mikasa-metropolitan-charger-plate, juliska-berry-thread-charger-plate. Price bands: budget, mid, premium."
+    "assignment_notes": "Primary keyword match: charger-plate-wicker-rattan-set4 (score 90). Complementary: lenox-opal-innocence-charger-plate, juliska-berry-thread-charger-plate. Price bands: budget, mid, premium."
   },
   {
     "id": 50,
@@ -1287,8 +1292,8 @@
     "volume": 1000,
     "kd": 7,
     "products": [
-      "gibson-elite-coastal-12pc-dinnerware",
-      "portmeirion-botanic-garden-4pc-set",
+      "mikasa-trellis-white-16pc",
+      "bamboo-fiber-dinnerware-natural-10pc",
       "lenox-opal-innocence-12pc-set"
     ],
     "published": false,
@@ -1297,7 +1302,7 @@
     "hub_url": "/dinnerware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: gibson-elite-coastal-12pc-dinnerware (score 30). Complementary: portmeirion-botanic-garden-4pc-set, lenox-opal-innocence-12pc-set. Price bands: budget, mid, premium."
+    "assignment_notes": "Primary keyword match: mikasa-trellis-white-16pc (score 30). Complementary: bamboo-fiber-dinnerware-natural-10pc, lenox-opal-innocence-12pc-set. Price bands: mid, budget, premium."
   },
   {
     "id": 51,
@@ -1314,8 +1319,8 @@
     "kd": 10,
     "products": [
       "costa-nova-nova-white-5pc",
-      "churchill-willow-blue-4pc-place-setting",
-      "wedgwood-wild-strawberry-5pc"
+      "royal-worcester-evesham-gold-4pc",
+      "churchill-willow-blue-4pc-place-setting"
     ],
     "published": false,
     "status": "pending",
@@ -1323,7 +1328,7 @@
     "hub_url": "/dinnerware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: costa-nova-nova-white-5pc (score 30). Complementary: churchill-willow-blue-4pc-place-setting, wedgwood-wild-strawberry-5pc. Price bands: mid, budget, premium."
+    "assignment_notes": "Primary keyword match: costa-nova-nova-white-5pc (score 30). Complementary: royal-worcester-evesham-gold-4pc, churchill-willow-blue-4pc-place-setting. Price bands: mid, premium, budget."
   },
   {
     "id": 52,
@@ -1340,16 +1345,16 @@
     "kd": 4,
     "products": [
       "maison-arts-art-deco-dinnerware-16pc",
-      "bamboo-fiber-dinnerware-natural-10pc",
+      "anchor-hocking-presence-glass-dinnerware",
       "lenox-opal-innocence-12pc-set"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Dinnerware & China",
     "hub_url": "/dinnerware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: maison-arts-art-deco-dinnerware-16pc (score 80). Complementary: bamboo-fiber-dinnerware-natural-10pc, lenox-opal-innocence-12pc-set. Price bands: mid, budget, premium."
+    "assignment_notes": "Primary keyword match: maison-arts-art-deco-dinnerware-16pc (score 80). Complementary: anchor-hocking-presence-glass-dinnerware, lenox-opal-innocence-12pc-set. Price bands: mid, budget, premium."
   },
   {
     "id": 53,
@@ -1366,7 +1371,7 @@
     "kd": 1,
     "products": [
       "bamboo-fiber-dinnerware-natural-10pc",
-      "mikasa-trellis-white-16pc",
+      "lenox-butterfly-meadow-12pc",
       "lenox-opal-innocence-12pc-set"
     ],
     "published": false,
@@ -1375,7 +1380,7 @@
     "hub_url": "/dinnerware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: bamboo-fiber-dinnerware-natural-10pc (score 60). Complementary: mikasa-trellis-white-16pc, lenox-opal-innocence-12pc-set. Price bands: budget, mid, premium."
+    "assignment_notes": "Primary keyword match: bamboo-fiber-dinnerware-natural-10pc (score 60). Complementary: lenox-butterfly-meadow-12pc, lenox-opal-innocence-12pc-set. Price bands: budget, mid, premium."
   },
   {
     "id": 54,
@@ -1392,7 +1397,7 @@
     "kd": 6,
     "products": [
       "gibson-elite-coastal-12pc-dinnerware",
-      "lenox-butterfly-meadow-12pc",
+      "portmeirion-botanic-garden-4pc-set",
       "lenox-opal-innocence-12pc-set"
     ],
     "published": false,
@@ -1401,7 +1406,7 @@
     "hub_url": "/dinnerware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: gibson-elite-coastal-12pc-dinnerware (score 90). Complementary: lenox-butterfly-meadow-12pc, lenox-opal-innocence-12pc-set. Price bands: budget, mid, premium."
+    "assignment_notes": "Primary keyword match: gibson-elite-coastal-12pc-dinnerware (score 90). Complementary: portmeirion-botanic-garden-4pc-set, lenox-opal-innocence-12pc-set. Price bands: budget, mid, premium."
   },
   {
     "id": 55,
@@ -1418,7 +1423,7 @@
     "kd": 6,
     "products": [
       "anchor-hocking-presence-glass-dinnerware",
-      "portmeirion-botanic-garden-4pc-set",
+      "mikasa-trellis-white-16pc",
       "lenox-opal-innocence-12pc-set"
     ],
     "published": false,
@@ -1427,7 +1432,7 @@
     "hub_url": "/dinnerware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: anchor-hocking-presence-glass-dinnerware (score 60). Complementary: portmeirion-botanic-garden-4pc-set, lenox-opal-innocence-12pc-set. Price bands: budget, mid, premium."
+    "assignment_notes": "Primary keyword match: anchor-hocking-presence-glass-dinnerware (score 60). Complementary: mikasa-trellis-white-16pc, lenox-opal-innocence-12pc-set. Price bands: budget, mid, premium."
   },
   {
     "id": 56,
@@ -1444,7 +1449,7 @@
     "kd": 9,
     "products": [
       "corelle-impressions-16pc-dinnerware",
-      "mikasa-trellis-white-16pc",
+      "lenox-butterfly-meadow-12pc",
       "lenox-opal-innocence-12pc-set"
     ],
     "published": false,
@@ -1453,7 +1458,7 @@
     "hub_url": "/dinnerware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: corelle-impressions-16pc-dinnerware (score 30). Complementary: mikasa-trellis-white-16pc, lenox-opal-innocence-12pc-set. Price bands: budget, mid, premium."
+    "assignment_notes": "Primary keyword match: corelle-impressions-16pc-dinnerware (score 30). Complementary: lenox-butterfly-meadow-12pc, lenox-opal-innocence-12pc-set. Price bands: budget, mid, premium."
   },
   {
     "id": 57,
@@ -1469,17 +1474,17 @@
     "volume": 390,
     "kd": 4,
     "products": [
-      "lenox-butterfly-meadow-12pc",
-      "anchor-hocking-presence-glass-dinnerware",
+      "corelle-impressions-16pc-dinnerware",
+      "portmeirion-botanic-garden-4pc-set",
       "lenox-opal-innocence-12pc-set"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Dinnerware & China",
     "hub_url": "/dinnerware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: lenox-butterfly-meadow-12pc (score 30). Complementary: anchor-hocking-presence-glass-dinnerware, lenox-opal-innocence-12pc-set. Price bands: mid, budget, premium."
+    "assignment_notes": "Primary keyword match: corelle-impressions-16pc-dinnerware (score 30). Complementary: portmeirion-botanic-garden-4pc-set, lenox-opal-innocence-12pc-set. Price bands: budget, mid, premium."
   },
   {
     "id": 58,
@@ -1521,17 +1526,17 @@
     "volume": 320,
     "kd": 5,
     "products": [
-      "corelle-impressions-16pc-dinnerware",
-      "maison-arts-art-deco-dinnerware-16pc",
+      "gibson-elite-coastal-12pc-dinnerware",
+      "lenox-butterfly-meadow-12pc",
       "lenox-opal-innocence-12pc-set"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Dinnerware & China",
     "hub_url": "/dinnerware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: corelle-impressions-16pc-dinnerware (score 30). Complementary: maison-arts-art-deco-dinnerware-16pc, lenox-opal-innocence-12pc-set. Price bands: budget, mid, premium."
+    "assignment_notes": "Primary keyword match: gibson-elite-coastal-12pc-dinnerware (score 30). Complementary: lenox-butterfly-meadow-12pc, lenox-opal-innocence-12pc-set. Price bands: budget, mid, premium."
   },
   {
     "id": 60,
@@ -1547,8 +1552,8 @@
     "volume": 210,
     "kd": 9,
     "products": [
-      "gibson-elite-coastal-12pc-dinnerware",
-      "portmeirion-botanic-garden-4pc-set",
+      "bamboo-fiber-dinnerware-natural-10pc",
+      "maison-arts-art-deco-dinnerware-16pc",
       "lenox-opal-innocence-12pc-set"
     ],
     "published": false,
@@ -1557,7 +1562,7 @@
     "hub_url": "/dinnerware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: gibson-elite-coastal-12pc-dinnerware (score 30). Complementary: portmeirion-botanic-garden-4pc-set, lenox-opal-innocence-12pc-set. Price bands: budget, mid, premium."
+    "assignment_notes": "Primary keyword match: bamboo-fiber-dinnerware-natural-10pc (score 30). Complementary: maison-arts-art-deco-dinnerware-16pc, lenox-opal-innocence-12pc-set. Price bands: budget, mid, premium."
   },
   {
     "id": 61,
@@ -1573,17 +1578,17 @@
     "volume": 210,
     "kd": 3,
     "products": [
-      "mikasa-cameo-white-bone-china",
-      "wedgwood-vera-wang-lace-teacup-saucer",
-      "bamboo-fiber-dinnerware-natural-10pc"
+      "anchor-hocking-presence-glass-dinnerware",
+      "portmeirion-botanic-garden-4pc-set",
+      "wedgwood-vera-wang-lace-teacup-saucer"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Dinnerware & China",
     "hub_url": "/dinnerware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: mikasa-cameo-white-bone-china (score 30). Complementary: wedgwood-vera-wang-lace-teacup-saucer, bamboo-fiber-dinnerware-natural-10pc. Price bands: mid, premium, budget."
+    "assignment_notes": "Primary keyword match: anchor-hocking-presence-glass-dinnerware (score 30). Complementary: portmeirion-botanic-garden-4pc-set, wedgwood-vera-wang-lace-teacup-saucer. Price bands: budget, mid, premium."
   },
   {
     "id": 62,
@@ -1599,8 +1604,8 @@
     "volume": 210,
     "kd": 7,
     "products": [
-      "lenox-butterfly-meadow-12pc",
-      "anchor-hocking-presence-glass-dinnerware",
+      "corelle-impressions-16pc-dinnerware",
+      "mikasa-trellis-white-16pc",
       "lenox-opal-innocence-12pc-set"
     ],
     "published": false,
@@ -1609,7 +1614,7 @@
     "hub_url": "/dinnerware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: lenox-butterfly-meadow-12pc (score 30). Complementary: anchor-hocking-presence-glass-dinnerware, lenox-opal-innocence-12pc-set. Price bands: mid, budget, premium."
+    "assignment_notes": "Primary keyword match: corelle-impressions-16pc-dinnerware (score 30). Complementary: mikasa-trellis-white-16pc, lenox-opal-innocence-12pc-set. Price bands: budget, mid, premium."
   },
   {
     "id": 63,
@@ -1627,7 +1632,7 @@
     "products": [
       "mikasa-cameo-white-bone-china",
       "wedgwood-vera-wang-lace-teacup-saucer",
-      "gibson-elite-soho-lounge-16pc"
+      "charger-plate-silver-beaded-set12"
     ],
     "published": false,
     "status": "pending",
@@ -1635,7 +1640,7 @@
     "hub_url": "/dinnerware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: mikasa-cameo-white-bone-china (score 30). Complementary: wedgwood-vera-wang-lace-teacup-saucer, gibson-elite-soho-lounge-16pc. Price bands: mid, premium, budget."
+    "assignment_notes": "Primary keyword match: mikasa-cameo-white-bone-china (score 30). Complementary: wedgwood-vera-wang-lace-teacup-saucer, charger-plate-silver-beaded-set12. Price bands: mid, premium, budget."
   },
   {
     "id": 64,
@@ -1652,7 +1657,7 @@
     "kd": 10,
     "products": [
       "efavormart-clear-acrylic-charger-plates-set12",
-      "lenox-opal-innocence-charger-plate",
+      "mikasa-metropolitan-charger-plate",
       "juliska-berry-thread-charger-plate"
     ],
     "published": false,
@@ -1661,7 +1666,7 @@
     "hub_url": "/dinnerware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: efavormart-clear-acrylic-charger-plates-set12 (score 90). Complementary: lenox-opal-innocence-charger-plate, juliska-berry-thread-charger-plate. Price bands: budget, mid, premium."
+    "assignment_notes": "Primary keyword match: efavormart-clear-acrylic-charger-plates-set12 (score 90). Complementary: mikasa-metropolitan-charger-plate, juliska-berry-thread-charger-plate. Price bands: budget, mid, premium."
   },
   {
     "id": 65,
@@ -1677,8 +1682,8 @@
     "volume": 480,
     "kd": 18,
     "products": [
-      "godinger-silver-charger-plates-set4",
-      "mikasa-metropolitan-charger-plate",
+      "american-atelier-black-gold-charger-set4",
+      "lenox-opal-innocence-charger-plate",
       "juliska-berry-thread-charger-plate"
     ],
     "published": false,
@@ -1687,7 +1692,7 @@
     "hub_url": "/dinnerware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: godinger-silver-charger-plates-set4 (score 90). Complementary: mikasa-metropolitan-charger-plate, juliska-berry-thread-charger-plate. Price bands: budget, mid, premium."
+    "assignment_notes": "Primary keyword match: american-atelier-black-gold-charger-set4 (score 90). Complementary: lenox-opal-innocence-charger-plate, juliska-berry-thread-charger-plate. Price bands: budget, mid, premium."
   },
   {
     "id": 66,
@@ -1704,16 +1709,16 @@
     "kd": 5,
     "products": [
       "charger-plate-silver-beaded-set12",
-      "lenox-opal-innocence-charger-plate",
+      "mikasa-metropolitan-charger-plate",
       "juliska-berry-thread-charger-plate"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Dinnerware & China",
     "hub_url": "/dinnerware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: charger-plate-silver-beaded-set12 (score 80). Complementary: lenox-opal-innocence-charger-plate, juliska-berry-thread-charger-plate. Price bands: budget, mid, premium."
+    "assignment_notes": "Primary keyword match: charger-plate-silver-beaded-set12 (score 80). Complementary: mikasa-metropolitan-charger-plate, juliska-berry-thread-charger-plate. Price bands: budget, mid, premium."
   },
   {
     "id": 67,
@@ -1730,16 +1735,16 @@
     "kd": 2,
     "products": [
       "charger-plate-gold-glass-set12",
-      "mikasa-metropolitan-charger-plate",
+      "lenox-opal-innocence-charger-plate",
       "juliska-berry-thread-charger-plate"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Dinnerware & China",
     "hub_url": "/dinnerware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: charger-plate-gold-glass-set12 (score 110). Complementary: mikasa-metropolitan-charger-plate, juliska-berry-thread-charger-plate. Price bands: budget, mid, premium."
+    "assignment_notes": "Primary keyword match: charger-plate-gold-glass-set12 (score 110). Complementary: lenox-opal-innocence-charger-plate, juliska-berry-thread-charger-plate. Price bands: budget, mid, premium."
   },
   {
     "id": 68,
@@ -1756,7 +1761,7 @@
     "kd": 9,
     "products": [
       "efavormart-clear-acrylic-charger-plates-set12",
-      "lenox-opal-innocence-charger-plate",
+      "mikasa-metropolitan-charger-plate",
       "juliska-berry-thread-charger-plate"
     ],
     "published": false,
@@ -1765,7 +1770,7 @@
     "hub_url": "/dinnerware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: efavormart-clear-acrylic-charger-plates-set12 (score 120). Complementary: lenox-opal-innocence-charger-plate, juliska-berry-thread-charger-plate. Price bands: budget, mid, premium."
+    "assignment_notes": "Primary keyword match: efavormart-clear-acrylic-charger-plates-set12 (score 120). Complementary: mikasa-metropolitan-charger-plate, juliska-berry-thread-charger-plate. Price bands: budget, mid, premium."
   },
   {
     "id": 69,
@@ -1781,17 +1786,17 @@
     "volume": 320,
     "kd": 4,
     "products": [
-      "american-atelier-black-gold-charger-set4",
-      "mikasa-metropolitan-charger-plate",
+      "godinger-silver-charger-plates-set4",
+      "lenox-opal-innocence-charger-plate",
       "juliska-berry-thread-charger-plate"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Dinnerware & China",
     "hub_url": "/dinnerware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: american-atelier-black-gold-charger-set4 (score 60). Complementary: mikasa-metropolitan-charger-plate, juliska-berry-thread-charger-plate. Price bands: budget, mid, premium."
+    "assignment_notes": "Primary keyword match: godinger-silver-charger-plates-set4 (score 60). Complementary: lenox-opal-innocence-charger-plate, juliska-berry-thread-charger-plate. Price bands: budget, mid, premium."
   },
   {
     "id": 70,
@@ -1808,16 +1813,16 @@
     "kd": 5,
     "products": [
       "efavormart-clear-acrylic-charger-plates-set12",
-      "lenox-opal-innocence-charger-plate",
+      "mikasa-metropolitan-charger-plate",
       "juliska-berry-thread-charger-plate"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Dinnerware & China",
     "hub_url": "/dinnerware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: efavormart-clear-acrylic-charger-plates-set12 (score 80). Complementary: lenox-opal-innocence-charger-plate, juliska-berry-thread-charger-plate. Price bands: budget, mid, premium."
+    "assignment_notes": "Primary keyword match: efavormart-clear-acrylic-charger-plates-set12 (score 80). Complementary: mikasa-metropolitan-charger-plate, juliska-berry-thread-charger-plate. Price bands: budget, mid, premium."
   },
   {
     "id": 71,
@@ -1833,8 +1838,8 @@
     "volume": 260,
     "kd": 9,
     "products": [
-      "godinger-silver-charger-plates-set4",
-      "mikasa-metropolitan-charger-plate",
+      "american-atelier-black-gold-charger-set4",
+      "lenox-opal-innocence-charger-plate",
       "juliska-berry-thread-charger-plate"
     ],
     "published": false,
@@ -1843,7 +1848,7 @@
     "hub_url": "/dinnerware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: godinger-silver-charger-plates-set4 (score 60). Complementary: mikasa-metropolitan-charger-plate, juliska-berry-thread-charger-plate. Price bands: budget, mid, premium."
+    "assignment_notes": "Primary keyword match: american-atelier-black-gold-charger-set4 (score 60). Complementary: lenox-opal-innocence-charger-plate, juliska-berry-thread-charger-plate. Price bands: budget, mid, premium."
   },
   {
     "id": 72,
@@ -1860,16 +1865,16 @@
     "kd": 3,
     "products": [
       "efavormart-clear-acrylic-charger-plates-set12",
-      "lenox-opal-innocence-charger-plate",
+      "mikasa-metropolitan-charger-plate",
       "juliska-berry-thread-charger-plate"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Dinnerware & China",
     "hub_url": "/dinnerware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: efavormart-clear-acrylic-charger-plates-set12 (score 150). Complementary: lenox-opal-innocence-charger-plate, juliska-berry-thread-charger-plate. Price bands: budget, mid, premium."
+    "assignment_notes": "Primary keyword match: efavormart-clear-acrylic-charger-plates-set12 (score 150). Complementary: mikasa-metropolitan-charger-plate, juliska-berry-thread-charger-plate. Price bands: budget, mid, premium."
   },
   {
     "id": 73,
@@ -1885,8 +1890,8 @@
     "volume": 480,
     "kd": 8,
     "products": [
-      "corelle-impressions-16pc-dinnerware",
-      "maison-arts-art-deco-dinnerware-16pc",
+      "gibson-elite-coastal-12pc-dinnerware",
+      "lenox-butterfly-meadow-12pc",
       "lenox-opal-innocence-12pc-set"
     ],
     "published": false,
@@ -1895,7 +1900,7 @@
     "hub_url": "/dinnerware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: corelle-impressions-16pc-dinnerware (score 30). Complementary: maison-arts-art-deco-dinnerware-16pc, lenox-opal-innocence-12pc-set. Price bands: budget, mid, premium."
+    "assignment_notes": "Primary keyword match: gibson-elite-coastal-12pc-dinnerware (score 30). Complementary: lenox-butterfly-meadow-12pc, lenox-opal-innocence-12pc-set. Price bands: budget, mid, premium."
   },
   {
     "id": 74,
@@ -1965,7 +1970,7 @@
     "products": [
       "mikasa-cameo-white-bone-china",
       "wedgwood-vera-wang-lace-teacup-saucer",
-      "charger-plate-silver-beaded-set12"
+      "gibson-elite-soho-lounge-16pc"
     ],
     "published": false,
     "status": "pending",
@@ -1973,7 +1978,7 @@
     "hub_url": "/dinnerware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: mikasa-cameo-white-bone-china (score 60). Complementary: wedgwood-vera-wang-lace-teacup-saucer, charger-plate-silver-beaded-set12. Price bands: mid, premium, budget."
+    "assignment_notes": "Primary keyword match: mikasa-cameo-white-bone-china (score 60). Complementary: wedgwood-vera-wang-lace-teacup-saucer, gibson-elite-soho-lounge-16pc. Price bands: mid, premium, budget."
   },
   {
     "id": 77,
@@ -1991,15 +1996,15 @@
     "products": [
       "mikasa-cameo-white-bone-china",
       "wedgwood-vera-wang-lace-teacup-saucer",
-      "charger-plate-wicker-rattan-set4"
+      "charger-plate-silver-beaded-set12"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Dinnerware & China",
     "hub_url": "/dinnerware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: mikasa-cameo-white-bone-china (score 60). Complementary: wedgwood-vera-wang-lace-teacup-saucer, charger-plate-wicker-rattan-set4. Price bands: mid, premium, budget."
+    "assignment_notes": "Primary keyword match: mikasa-cameo-white-bone-china (score 60). Complementary: wedgwood-vera-wang-lace-teacup-saucer, charger-plate-silver-beaded-set12. Price bands: mid, premium, budget."
   },
   {
     "id": 78,
@@ -2017,15 +2022,15 @@
     "products": [
       "mikasa-cameo-white-bone-china",
       "wedgwood-vera-wang-lace-teacup-saucer",
-      "churchill-willow-blue-4pc-place-setting"
+      "charger-plate-wicker-rattan-set4"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Dinnerware & China",
     "hub_url": "/dinnerware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: mikasa-cameo-white-bone-china (score 60). Complementary: wedgwood-vera-wang-lace-teacup-saucer, churchill-willow-blue-4pc-place-setting. Price bands: mid, premium, budget."
+    "assignment_notes": "Primary keyword match: mikasa-cameo-white-bone-china (score 60). Complementary: wedgwood-vera-wang-lace-teacup-saucer, charger-plate-wicker-rattan-set4. Price bands: mid, premium, budget."
   },
   {
     "id": 79,
@@ -2093,15 +2098,15 @@
     "products": [
       "mikasa-cameo-white-bone-china",
       "wedgwood-vera-wang-lace-teacup-saucer",
-      "gibson-elite-soho-lounge-16pc"
+      "churchill-willow-blue-4pc-place-setting"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Dinnerware & China",
     "hub_url": "/dinnerware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: mikasa-cameo-white-bone-china (score 60). Complementary: wedgwood-vera-wang-lace-teacup-saucer, gibson-elite-soho-lounge-16pc. Price bands: mid, premium, budget."
+    "assignment_notes": "Primary keyword match: mikasa-cameo-white-bone-china (score 60). Complementary: wedgwood-vera-wang-lace-teacup-saucer, churchill-willow-blue-4pc-place-setting. Price bands: mid, premium, budget."
   },
   {
     "id": 82,
@@ -2119,7 +2124,7 @@
     "products": [
       "mikasa-cameo-white-bone-china",
       "wedgwood-vera-wang-lace-teacup-saucer",
-      "charger-plate-gold-glass-set12"
+      "gibson-elite-soho-lounge-16pc"
     ],
     "published": false,
     "status": "pending",
@@ -2127,7 +2132,7 @@
     "hub_url": "/dinnerware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: mikasa-cameo-white-bone-china (score 60). Complementary: wedgwood-vera-wang-lace-teacup-saucer, charger-plate-gold-glass-set12. Price bands: mid, premium, budget."
+    "assignment_notes": "Primary keyword match: mikasa-cameo-white-bone-china (score 60). Complementary: wedgwood-vera-wang-lace-teacup-saucer, gibson-elite-soho-lounge-16pc. Price bands: mid, premium, budget."
   },
   {
     "id": 83,
@@ -2170,7 +2175,7 @@
     "kd": 8,
     "products": [
       "certified-intl-talavera-4pc-place-setting",
-      "royal-worcester-evesham-gold-4pc",
+      "wedgwood-wild-strawberry-5pc",
       "churchill-willow-blue-4pc-place-setting"
     ],
     "published": false,
@@ -2179,7 +2184,7 @@
     "hub_url": "/dinnerware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: certified-intl-talavera-4pc-place-setting (score 50). Complementary: royal-worcester-evesham-gold-4pc, churchill-willow-blue-4pc-place-setting. Price bands: mid, premium, budget."
+    "assignment_notes": "Primary keyword match: certified-intl-talavera-4pc-place-setting (score 50). Complementary: wedgwood-wild-strawberry-5pc, churchill-willow-blue-4pc-place-setting. Price bands: mid, premium, budget."
   },
   {
     "id": 85,
@@ -2197,7 +2202,7 @@
     "products": [
       "mikasa-cameo-white-bone-china",
       "wedgwood-vera-wang-lace-teacup-saucer",
-      "charger-plate-silver-beaded-set12"
+      "charger-plate-gold-glass-set12"
     ],
     "published": false,
     "status": "pending",
@@ -2205,7 +2210,7 @@
     "hub_url": "/dinnerware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: mikasa-cameo-white-bone-china (score 60). Complementary: wedgwood-vera-wang-lace-teacup-saucer, charger-plate-silver-beaded-set12. Price bands: mid, premium, budget."
+    "assignment_notes": "Primary keyword match: mikasa-cameo-white-bone-china (score 60). Complementary: wedgwood-vera-wang-lace-teacup-saucer, charger-plate-gold-glass-set12. Price bands: mid, premium, budget."
   },
   {
     "id": 86,
@@ -2248,8 +2253,8 @@
     "kd": 10,
     "products": [
       "simon-pearce-barre-wine-glasses-set4",
-      "riedel-vinum-bordeaux-set2",
-      "libbey-signature-kentfield-red-wine-set4"
+      "bormioli-rocco-bistro-wine-glasses-set6",
+      "riedel-vinum-bordeaux-set2"
     ],
     "published": false,
     "status": "pending",
@@ -2257,7 +2262,7 @@
     "hub_url": "/glassware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: simon-pearce-barre-wine-glasses-set4 (score 120). Complementary: riedel-vinum-bordeaux-set2, libbey-signature-kentfield-red-wine-set4. Price bands: premium, mid, budget."
+    "assignment_notes": "Primary keyword match: simon-pearce-barre-wine-glasses-set4 (score 120). Complementary: bormioli-rocco-bistro-wine-glasses-set6, riedel-vinum-bordeaux-set2. Price bands: premium, budget, mid."
   },
   {
     "id": 88,
@@ -2298,8 +2303,8 @@
     "kd": 9,
     "products": [
       "eto-wine-decanter",
-      "schott-zwiesel-convention-red-wine-set6",
-      "anchor-hocking-sheffield-decanter"
+      "libbey-paneled-ribbed-wine-glasses-set4",
+      "schott-zwiesel-convention-red-wine-set6"
     ],
     "published": false,
     "status": "pending",
@@ -2307,7 +2312,7 @@
     "hub_url": "/glassware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: eto-wine-decanter (score 90). Complementary: schott-zwiesel-convention-red-wine-set6, anchor-hocking-sheffield-decanter. Price bands: premium, mid, budget."
+    "assignment_notes": "Primary keyword match: eto-wine-decanter (score 90). Complementary: libbey-paneled-ribbed-wine-glasses-set4, schott-zwiesel-convention-red-wine-set6. Price bands: premium, budget, mid."
   },
   {
     "id": 90,
@@ -2354,7 +2359,7 @@
       "libbey-embassy-champagne-flutes-set8"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Glassware & Crystal",
     "hub_url": "/glassware/",
     "category_label": "Home Entertaining",
@@ -2403,7 +2408,10 @@
     "products": [
       "ravenscroft-crystal-whiskey-decanter",
       "waterford-lismore-crystal-decanter",
-      "anchor-hocking-sheffield-decanter"
+      "anchor-hocking-sheffield-decanter",
+      "riedel-corneto-decanter",
+      "eto-wine-decanter",
+      "anchor-hocking-ruby-red-glasses-set8"
     ],
     "published": false,
     "status": "pending",
@@ -2411,7 +2419,7 @@
     "hub_url": "/glassware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: ravenscroft-crystal-whiskey-decanter (score 60). Complementary: waterford-lismore-crystal-decanter, anchor-hocking-sheffield-decanter. Price bands: mid, premium, budget."
+    "assignment_notes": "Primary keyword match: ravenscroft-crystal-whiskey-decanter (score 60). Complementary: waterford-lismore-crystal-decanter, anchor-hocking-sheffield-decanter, riedel-corneto-decanter, eto-wine-decanter, anchor-hocking-ruby-red-glasses-set8. Price bands: mid, premium, budget."
   },
   {
     "id": 94,
@@ -2429,7 +2437,10 @@
     "products": [
       "eto-wine-decanter",
       "spiegelau-definition-white-wine-set4",
-      "libbey-cobalt-blue-wine-glasses-set4"
+      "libbey-signature-kentfield-red-wine-set4",
+      "libbey-cobalt-blue-wine-glasses-set4",
+      "bormioli-rocco-bistro-wine-glasses-set6",
+      "libbey-paneled-ribbed-wine-glasses-set4"
     ],
     "published": false,
     "status": "pending",
@@ -2437,7 +2448,7 @@
     "hub_url": "/glassware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: eto-wine-decanter (score 50). Complementary: spiegelau-definition-white-wine-set4, libbey-cobalt-blue-wine-glasses-set4. Price bands: premium, mid, budget."
+    "assignment_notes": "Primary keyword match: eto-wine-decanter (score 50). Complementary: spiegelau-definition-white-wine-set4, libbey-signature-kentfield-red-wine-set4, libbey-cobalt-blue-wine-glasses-set4, bormioli-rocco-bistro-wine-glasses-set6, libbey-paneled-ribbed-wine-glasses-set4. Price bands: premium, mid, budget."
   },
   {
     "id": 95,
@@ -2507,7 +2518,7 @@
     "products": [
       "spiegelau-definition-white-wine-set4",
       "simon-pearce-ascutney-red-wine-glass",
-      "bormioli-rocco-bistro-wine-glasses-set6"
+      "libbey-signature-kentfield-red-wine-set4"
     ],
     "published": false,
     "status": "pending",
@@ -2515,7 +2526,7 @@
     "hub_url": "/glassware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: spiegelau-definition-white-wine-set4 (score 80). Complementary: simon-pearce-ascutney-red-wine-glass, bormioli-rocco-bistro-wine-glasses-set6. Price bands: mid, premium, budget."
+    "assignment_notes": "Primary keyword match: spiegelau-definition-white-wine-set4 (score 80). Complementary: simon-pearce-ascutney-red-wine-glass, libbey-signature-kentfield-red-wine-set4. Price bands: mid, premium, budget."
   },
   {
     "id": 98,
@@ -2536,7 +2547,7 @@
       "simon-pearce-ascutney-red-wine-glass"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Glassware & Crystal",
     "hub_url": "/glassware/",
     "category_label": "Home Entertaining",
@@ -2557,7 +2568,7 @@
     "volume": 390,
     "kd": 9,
     "products": [
-      "rosenthal-studio-line-champagne-flutes-set4",
+      "waterford-millennium-champagne-flutes-set2",
       "luigi-bormioli-atelier-champagne-set6",
       "govino-champagne-flutes-set4"
     ],
@@ -2567,7 +2578,7 @@
     "hub_url": "/glassware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: rosenthal-studio-line-champagne-flutes-set4 (score 60). Complementary: luigi-bormioli-atelier-champagne-set6, govino-champagne-flutes-set4. Price bands: premium, mid, budget."
+    "assignment_notes": "Primary keyword match: waterford-millennium-champagne-flutes-set2 (score 60). Complementary: luigi-bormioli-atelier-champagne-set6, govino-champagne-flutes-set4. Price bands: premium, mid, budget."
   },
   {
     "id": 100,
@@ -2611,7 +2622,7 @@
     "products": [
       "luigi-bormioli-optica-cocktail-set6",
       "libbey-midtown-stemless-cocktail-set12",
-      "simon-pearce-barre-wine-glasses-set4"
+      "riedel-bar-highball-glasses-set2"
     ],
     "published": false,
     "status": "pending",
@@ -2619,7 +2630,7 @@
     "hub_url": "/glassware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: luigi-bormioli-optica-cocktail-set6 (score 60). Complementary: libbey-midtown-stemless-cocktail-set12, simon-pearce-barre-wine-glasses-set4. Price bands: mid, budget, premium."
+    "assignment_notes": "Primary keyword match: luigi-bormioli-optica-cocktail-set6 (score 60). Complementary: libbey-midtown-stemless-cocktail-set12, riedel-bar-highball-glasses-set2. Price bands: mid, budget, premium."
   },
   {
     "id": 102,
@@ -2637,15 +2648,18 @@
     "products": [
       "ravenscroft-crystal-whiskey-decanter",
       "waterford-lismore-crystal-decanter",
-      "anchor-hocking-sheffield-decanter"
+      "anchor-hocking-sheffield-decanter",
+      "riedel-corneto-decanter",
+      "eto-wine-decanter",
+      "anchor-hocking-ruby-red-glasses-set8"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Glassware & Crystal",
     "hub_url": "/glassware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: ravenscroft-crystal-whiskey-decanter (score 60). Complementary: waterford-lismore-crystal-decanter, anchor-hocking-sheffield-decanter. Price bands: mid, premium, budget."
+    "assignment_notes": "Primary keyword match: ravenscroft-crystal-whiskey-decanter (score 60). Complementary: waterford-lismore-crystal-decanter, anchor-hocking-sheffield-decanter, riedel-corneto-decanter, eto-wine-decanter, anchor-hocking-ruby-red-glasses-set8. Price bands: mid, premium, budget."
   },
   {
     "id": 103,
@@ -2661,17 +2675,17 @@
     "volume": 260,
     "kd": 2,
     "products": [
-      "anchor-hocking-amber-glasses-set8",
+      "anchor-hocking-glass-carafe-1.5l",
       "riedel-veloce-champagne-glass-set2",
       "zwiesel-glas-enoteca-champagne-set2"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Glassware & Crystal",
     "hub_url": "/glassware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: anchor-hocking-amber-glasses-set8 (score 20). Complementary: riedel-veloce-champagne-glass-set2, zwiesel-glas-enoteca-champagne-set2. Price bands: budget, mid, premium."
+    "assignment_notes": "Primary keyword match: anchor-hocking-glass-carafe-1.5l (score 20). Complementary: riedel-veloce-champagne-glass-set2, zwiesel-glas-enoteca-champagne-set2. Price bands: budget, mid, premium."
   },
   {
     "id": 104,
@@ -2713,17 +2727,17 @@
     "volume": 480,
     "kd": 3,
     "products": [
-      "waterford-millennium-champagne-flutes-set2",
+      "waterford-lismore-champagne-flutes-set2",
       "mikasa-crystal-orson-champagne-flutes-set4",
       "govino-champagne-flutes-set4"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Glassware & Crystal",
     "hub_url": "/glassware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: waterford-millennium-champagne-flutes-set2 (score 60). Complementary: mikasa-crystal-orson-champagne-flutes-set4, govino-champagne-flutes-set4. Price bands: premium, mid, budget."
+    "assignment_notes": "Primary keyword match: waterford-lismore-champagne-flutes-set2 (score 60). Complementary: mikasa-crystal-orson-champagne-flutes-set4, govino-champagne-flutes-set4. Price bands: premium, mid, budget."
   },
   {
     "id": 106,
@@ -2765,7 +2779,7 @@
     "volume": 390,
     "kd": 10,
     "products": [
-      "waterford-lismore-champagne-flutes-set2",
+      "waterford-lismore-crystal-champagne-flutes-pair",
       "luigi-bormioli-atelier-champagne-set6",
       "govino-champagne-flutes-set4"
     ],
@@ -2775,7 +2789,7 @@
     "hub_url": "/glassware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: waterford-lismore-champagne-flutes-set2 (score 60). Complementary: luigi-bormioli-atelier-champagne-set6, govino-champagne-flutes-set4. Price bands: premium, mid, budget."
+    "assignment_notes": "Primary keyword match: waterford-lismore-crystal-champagne-flutes-pair (score 60). Complementary: luigi-bormioli-atelier-champagne-set6, govino-champagne-flutes-set4. Price bands: premium, mid, budget."
   },
   {
     "id": 108,
@@ -2791,17 +2805,17 @@
     "volume": 320,
     "kd": 5,
     "products": [
-      "waterford-lismore-crystal-champagne-flutes-pair",
+      "rosenthal-studio-line-champagne-flutes-set4",
       "riedel-ouverture-champagne-flutes-set2",
       "libbey-embassy-champagne-flutes-set8"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Glassware & Crystal",
     "hub_url": "/glassware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: waterford-lismore-crystal-champagne-flutes-pair (score 60). Complementary: riedel-ouverture-champagne-flutes-set2, libbey-embassy-champagne-flutes-set8. Price bands: premium, mid, budget."
+    "assignment_notes": "Primary keyword match: rosenthal-studio-line-champagne-flutes-set4 (score 60). Complementary: riedel-ouverture-champagne-flutes-set2, libbey-embassy-champagne-flutes-set8. Price bands: premium, mid, budget."
   },
   {
     "id": 109,
@@ -2817,7 +2831,7 @@
     "volume": 320,
     "kd": 6,
     "products": [
-      "rosenthal-studio-line-champagne-flutes-set4",
+      "waterford-millennium-champagne-flutes-set2",
       "mikasa-crystal-orson-champagne-flutes-set4",
       "govino-champagne-flutes-set4"
     ],
@@ -2827,7 +2841,7 @@
     "hub_url": "/glassware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: rosenthal-studio-line-champagne-flutes-set4 (score 60). Complementary: mikasa-crystal-orson-champagne-flutes-set4, govino-champagne-flutes-set4. Price bands: premium, mid, budget."
+    "assignment_notes": "Primary keyword match: waterford-millennium-champagne-flutes-set2 (score 60). Complementary: mikasa-crystal-orson-champagne-flutes-set4, govino-champagne-flutes-set4. Price bands: premium, mid, budget."
   },
   {
     "id": 110,
@@ -2844,7 +2858,7 @@
     "kd": 8,
     "products": [
       "estelle-colored-glass-champagne-cobalt-set2",
-      "waterford-millennium-champagne-flutes-set2",
+      "waterford-lismore-champagne-flutes-set2",
       "libbey-embassy-champagne-flutes-set8"
     ],
     "published": false,
@@ -2853,7 +2867,7 @@
     "hub_url": "/glassware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: estelle-colored-glass-champagne-cobalt-set2 (score 90). Complementary: waterford-millennium-champagne-flutes-set2, libbey-embassy-champagne-flutes-set8. Price bands: mid, premium, budget."
+    "assignment_notes": "Primary keyword match: estelle-colored-glass-champagne-cobalt-set2 (score 90). Complementary: waterford-lismore-champagne-flutes-set2, libbey-embassy-champagne-flutes-set8. Price bands: mid, premium, budget."
   },
   {
     "id": 111,
@@ -2874,7 +2888,7 @@
       "govino-champagne-flutes-set4"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Glassware & Crystal",
     "hub_url": "/glassware/",
     "category_label": "Home Entertaining",
@@ -2895,7 +2909,7 @@
     "volume": 210,
     "kd": 8,
     "products": [
-      "waterford-lismore-champagne-flutes-set2",
+      "waterford-lismore-crystal-champagne-flutes-pair",
       "luigi-bormioli-atelier-champagne-set6",
       "libbey-embassy-champagne-flutes-set8"
     ],
@@ -2905,7 +2919,7 @@
     "hub_url": "/glassware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: waterford-lismore-champagne-flutes-set2 (score 60). Complementary: luigi-bormioli-atelier-champagne-set6, libbey-embassy-champagne-flutes-set8. Price bands: premium, mid, budget."
+    "assignment_notes": "Primary keyword match: waterford-lismore-crystal-champagne-flutes-pair (score 60). Complementary: luigi-bormioli-atelier-champagne-set6, libbey-embassy-champagne-flutes-set8. Price bands: premium, mid, budget."
   },
   {
     "id": 113,
@@ -2947,17 +2961,17 @@
     "volume": 210,
     "kd": 5,
     "products": [
-      "waterford-lismore-crystal-champagne-flutes-pair",
+      "rosenthal-studio-line-champagne-flutes-set4",
       "riedel-ouverture-champagne-flutes-set2",
       "libbey-embassy-champagne-flutes-set8"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Glassware & Crystal",
     "hub_url": "/glassware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: waterford-lismore-crystal-champagne-flutes-pair (score 60). Complementary: riedel-ouverture-champagne-flutes-set2, libbey-embassy-champagne-flutes-set8. Price bands: premium, mid, budget."
+    "assignment_notes": "Primary keyword match: rosenthal-studio-line-champagne-flutes-set4 (score 60). Complementary: riedel-ouverture-champagne-flutes-set2, libbey-embassy-champagne-flutes-set8. Price bands: premium, mid, budget."
   },
   {
     "id": 115,
@@ -2978,7 +2992,7 @@
       "govino-champagne-flutes-set4"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Glassware & Crystal",
     "hub_url": "/glassware/",
     "category_label": "Home Entertaining",
@@ -3130,7 +3144,7 @@
     "kd": 7,
     "products": [
       "anchor-hocking-sheffield-decanter",
-      "riedel-corneto-decanter",
+      "ravenscroft-crystal-whiskey-decanter",
       "waterford-lismore-crystal-decanter"
     ],
     "published": false,
@@ -3139,7 +3153,7 @@
     "hub_url": "/glassware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: anchor-hocking-sheffield-decanter (score 90). Complementary: riedel-corneto-decanter, waterford-lismore-crystal-decanter. Price bands: budget, mid, premium."
+    "assignment_notes": "Primary keyword match: anchor-hocking-sheffield-decanter (score 90). Complementary: ravenscroft-crystal-whiskey-decanter, waterford-lismore-crystal-decanter. Price bands: budget, mid, premium."
   },
   {
     "id": 122,
@@ -3156,7 +3170,7 @@
     "kd": 9,
     "products": [
       "anchor-hocking-glass-carafe-1.5l",
-      "riedel-corneto-decanter"
+      "ravenscroft-crystal-whiskey-decanter"
     ],
     "published": false,
     "status": "pending",
@@ -3164,7 +3178,7 @@
     "hub_url": "/glassware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: anchor-hocking-glass-carafe-1.5l (score 30). Complementary: riedel-corneto-decanter. Price bands: budget, mid."
+    "assignment_notes": "Primary keyword match: anchor-hocking-glass-carafe-1.5l (score 30). Complementary: ravenscroft-crystal-whiskey-decanter. Price bands: budget, mid."
   },
   {
     "id": 123,
@@ -3181,7 +3195,7 @@
     "kd": 10,
     "products": [
       "waterford-lismore-crystal-decanter",
-      "ravenscroft-crystal-whiskey-decanter",
+      "riedel-corneto-decanter",
       "anchor-hocking-sheffield-decanter"
     ],
     "published": false,
@@ -3190,7 +3204,7 @@
     "hub_url": "/glassware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: waterford-lismore-crystal-decanter (score 50). Complementary: ravenscroft-crystal-whiskey-decanter, anchor-hocking-sheffield-decanter. Price bands: premium, mid, budget."
+    "assignment_notes": "Primary keyword match: waterford-lismore-crystal-decanter (score 50). Complementary: riedel-corneto-decanter, anchor-hocking-sheffield-decanter. Price bands: premium, mid, budget."
   },
   {
     "id": 124,
@@ -3237,7 +3251,7 @@
       "anchor-hocking-amber-glasses-set8"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Glassware & Crystal",
     "hub_url": "/glassware/",
     "category_label": "Home Entertaining",
@@ -3310,17 +3324,17 @@
     "volume": 260,
     "kd": 5,
     "products": [
-      "anchor-hocking-glass-carafe-1.5l",
+      "anchor-hocking-amber-glasses-set8",
       "riedel-veloce-champagne-glass-set2",
       "zwiesel-glas-enoteca-champagne-set2"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Glassware & Crystal",
     "hub_url": "/glassware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: anchor-hocking-glass-carafe-1.5l (score 20). Complementary: riedel-veloce-champagne-glass-set2, zwiesel-glas-enoteca-champagne-set2. Price bands: budget, mid, premium."
+    "assignment_notes": "Primary keyword match: anchor-hocking-amber-glasses-set8 (score 20). Complementary: riedel-veloce-champagne-glass-set2, zwiesel-glas-enoteca-champagne-set2. Price bands: budget, mid, premium."
   },
   {
     "id": 129,
@@ -3362,17 +3376,17 @@
     "volume": 210,
     "kd": 4,
     "products": [
-      "anchor-hocking-amber-glasses-set8",
+      "anchor-hocking-glass-carafe-1.5l",
       "estelle-colored-glass-wine-emerald-set6",
       "zwiesel-glas-enoteca-champagne-set2"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Glassware & Crystal",
     "hub_url": "/glassware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: anchor-hocking-amber-glasses-set8 (score 80). Complementary: estelle-colored-glass-wine-emerald-set6, zwiesel-glas-enoteca-champagne-set2. Price bands: budget, mid, premium."
+    "assignment_notes": "Primary keyword match: anchor-hocking-glass-carafe-1.5l (score 80). Complementary: estelle-colored-glass-wine-emerald-set6, zwiesel-glas-enoteca-champagne-set2. Price bands: budget, mid, premium."
   },
   {
     "id": 131,
@@ -3390,15 +3404,15 @@
     "products": [
       "riedel-bar-highball-glasses-set2",
       "riedel-corneto-decanter",
-      "anchor-hocking-glass-carafe-1.5l"
+      "anchor-hocking-amber-glasses-set8"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Glassware & Crystal",
     "hub_url": "/glassware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: riedel-bar-highball-glasses-set2 (score 20). Complementary: riedel-corneto-decanter, anchor-hocking-glass-carafe-1.5l. Price bands: premium, mid, budget."
+    "assignment_notes": "Primary keyword match: riedel-bar-highball-glasses-set2 (score 20). Complementary: riedel-corneto-decanter, anchor-hocking-amber-glasses-set8. Price bands: premium, mid, budget."
   },
   {
     "id": 132,
@@ -3414,8 +3428,8 @@
     "volume": 210,
     "kd": 6,
     "products": [
+      "anchor-hocking-glass-carafe-1.5l",
       "riedel-veloce-champagne-glass-set2",
-      "anchor-hocking-amber-glasses-set8",
       "simon-pearce-ascutney-red-wine-glass"
     ],
     "published": false,
@@ -3424,7 +3438,7 @@
     "hub_url": "/glassware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: riedel-veloce-champagne-glass-set2 (score 20). Complementary: anchor-hocking-amber-glasses-set8, simon-pearce-ascutney-red-wine-glass. Price bands: mid, budget, premium."
+    "assignment_notes": "Primary keyword match: anchor-hocking-glass-carafe-1.5l (score 20). Complementary: riedel-veloce-champagne-glass-set2, simon-pearce-ascutney-red-wine-glass. Price bands: budget, mid, premium."
   },
   {
     "id": 133,
@@ -3440,17 +3454,17 @@
     "volume": 210,
     "kd": 2,
     "products": [
-      "anchor-hocking-glass-carafe-1.5l",
+      "anchor-hocking-sheffield-decanter",
       "estelle-colored-glass-wine-emerald-set6",
       "zwiesel-glas-enoteca-champagne-set2"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Glassware & Crystal",
     "hub_url": "/glassware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: anchor-hocking-glass-carafe-1.5l (score 20). Complementary: estelle-colored-glass-wine-emerald-set6, zwiesel-glas-enoteca-champagne-set2. Price bands: budget, mid, premium."
+    "assignment_notes": "Primary keyword match: anchor-hocking-sheffield-decanter (score 20). Complementary: estelle-colored-glass-wine-emerald-set6, zwiesel-glas-enoteca-champagne-set2. Price bands: budget, mid, premium."
   },
   {
     "id": 134,
@@ -3492,17 +3506,17 @@
     "volume": 590,
     "kd": 2,
     "products": [
-      "libbey-paneled-ribbed-wine-glasses-set4",
       "riedel-vinum-bordeaux-set2",
+      "libbey-cobalt-blue-wine-glasses-set4",
       "simon-pearce-barre-wine-glasses-set4"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Glassware & Crystal",
     "hub_url": "/glassware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: libbey-paneled-ribbed-wine-glasses-set4 (score 60). Complementary: riedel-vinum-bordeaux-set2, simon-pearce-barre-wine-glasses-set4. Price bands: budget, mid, premium."
+    "assignment_notes": "Primary keyword match: riedel-vinum-bordeaux-set2 (score 60). Complementary: libbey-cobalt-blue-wine-glasses-set4, simon-pearce-barre-wine-glasses-set4. Price bands: mid, budget, premium."
   },
   {
     "id": 136,
@@ -3549,7 +3563,7 @@
       "juliska-country-estate-place-card-holders-set4"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Serveware",
     "hub_url": "/serveware/",
     "category_label": "Home Entertaining",
@@ -3570,8 +3584,8 @@
     "volume": 210,
     "kd": 16,
     "products": [
-      "lenox-butterfly-meadow-platter",
-      "ceramic-serving-platter-white-oval-14in",
+      "lenox-french-perle-white-platter",
+      "place-card-holders-wooden-set12",
       "juliska-berry-thread-ceramic-platter"
     ],
     "published": false,
@@ -3580,7 +3594,7 @@
     "hub_url": "/serveware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: lenox-butterfly-meadow-platter (score 30). Complementary: ceramic-serving-platter-white-oval-14in, juliska-berry-thread-ceramic-platter. Price bands: mid, budget, premium."
+    "assignment_notes": "Primary keyword match: lenox-french-perle-white-platter (score 30). Complementary: place-card-holders-wooden-set12, juliska-berry-thread-ceramic-platter. Price bands: mid, budget, premium."
   },
   {
     "id": 139,
@@ -3653,7 +3667,7 @@
       "mud-pie-porcelain-place-cards-set12"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Serveware",
     "hub_url": "/serveware/",
     "category_label": "Home Entertaining",
@@ -3674,17 +3688,17 @@
     "volume": 480,
     "kd": 2,
     "products": [
-      "blue-white-handpainted-serving-platter",
+      "lenox-butterfly-meadow-platter",
       "godinger-silver-round-serving-platter",
       "michael-aram-olive-branch-serving-platter"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Serveware",
     "hub_url": "/serveware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: blue-white-handpainted-serving-platter (score 50). Complementary: godinger-silver-round-serving-platter, michael-aram-olive-branch-serving-platter. Price bands: mid, budget, premium."
+    "assignment_notes": "Primary keyword match: lenox-butterfly-meadow-platter (score 50). Complementary: godinger-silver-round-serving-platter, michael-aram-olive-branch-serving-platter. Price bands: mid, budget, premium."
   },
   {
     "id": 143,
@@ -3700,17 +3714,17 @@
     "volume": 480,
     "kd": 4,
     "products": [
-      "lenox-butterfly-meadow-platter",
-      "godinger-silver-round-serving-platter",
+      "blue-white-handpainted-serving-platter",
+      "ceramic-serving-platter-white-oval-14in",
       "michael-aram-olive-branch-serving-platter"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Serveware",
     "hub_url": "/serveware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: lenox-butterfly-meadow-platter (score 50). Complementary: godinger-silver-round-serving-platter, michael-aram-olive-branch-serving-platter. Price bands: mid, budget, premium."
+    "assignment_notes": "Primary keyword match: blue-white-handpainted-serving-platter (score 50). Complementary: ceramic-serving-platter-white-oval-14in, michael-aram-olive-branch-serving-platter. Price bands: mid, budget, premium."
   },
   {
     "id": 144,
@@ -3726,17 +3740,17 @@
     "volume": 480,
     "kd": 5,
     "products": [
-      "blue-white-handpainted-serving-platter",
-      "ceramic-serving-platter-white-oval-14in",
+      "lenox-butterfly-meadow-platter",
+      "godinger-silver-round-serving-platter",
       "juliska-berry-thread-ceramic-platter"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Serveware",
     "hub_url": "/serveware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: blue-white-handpainted-serving-platter (score 50). Complementary: ceramic-serving-platter-white-oval-14in, juliska-berry-thread-ceramic-platter. Price bands: mid, budget, premium."
+    "assignment_notes": "Primary keyword match: lenox-butterfly-meadow-platter (score 50). Complementary: godinger-silver-round-serving-platter, juliska-berry-thread-ceramic-platter. Price bands: mid, budget, premium."
   },
   {
     "id": 145,
@@ -3752,17 +3766,17 @@
     "volume": 390,
     "kd": 2,
     "products": [
-      "certified-intl-talavera-serving-platter",
-      "godinger-silver-round-serving-platter",
+      "blue-white-handpainted-serving-platter",
+      "ceramic-serving-platter-white-oval-14in",
       "michael-aram-olive-branch-serving-platter"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Serveware",
     "hub_url": "/serveware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: certified-intl-talavera-serving-platter (score 50). Complementary: godinger-silver-round-serving-platter, michael-aram-olive-branch-serving-platter. Price bands: mid, budget, premium."
+    "assignment_notes": "Primary keyword match: blue-white-handpainted-serving-platter (score 50). Complementary: ceramic-serving-platter-white-oval-14in, michael-aram-olive-branch-serving-platter. Price bands: mid, budget, premium."
   },
   {
     "id": 146,
@@ -3883,7 +3897,7 @@
     "kd": 13,
     "products": [
       "ceramic-serving-platter-white-oval-14in",
-      "lenox-french-perle-white-platter",
+      "lenox-french-perle-blue-oval-platter",
       "michael-aram-olive-branch-serving-platter"
     ],
     "published": false,
@@ -3892,7 +3906,7 @@
     "hub_url": "/serveware/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: ceramic-serving-platter-white-oval-14in (score 80). Complementary: lenox-french-perle-white-platter, michael-aram-olive-branch-serving-platter. Price bands: budget, mid, premium."
+    "assignment_notes": "Primary keyword match: ceramic-serving-platter-white-oval-14in (score 80). Complementary: lenox-french-perle-blue-oval-platter, michael-aram-olive-branch-serving-platter. Price bands: budget, mid, premium."
   },
   {
     "id": 151,
@@ -3939,7 +3953,7 @@
       "juliska-country-estate-place-card-holders-set4"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Serveware",
     "hub_url": "/serveware/",
     "category_label": "Home Entertaining",
@@ -3991,7 +4005,7 @@
       "ceramic-serving-platter-white-oval-14in"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Serveware",
     "hub_url": "/serveware/",
     "category_label": "Home Entertaining",
@@ -4043,7 +4057,7 @@
       "juliska-berry-thread-ceramic-platter"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Serveware",
     "hub_url": "/serveware/",
     "category_label": "Home Entertaining",
@@ -4064,17 +4078,17 @@
     "volume": 320,
     "kd": 2,
     "products": [
+      "april-cornell-pomegranate-tablecloth",
       "pomegranate-tablecloth-luxury-cotton",
-      "sur-la-table-linen-napkins-set6",
-      "linen-tablecloth-black-rectangle-60x102"
+      "linen-tablecloth-black-white-check-runner"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Table Linens",
     "hub_url": "/linens/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: pomegranate-tablecloth-luxury-cotton (score 50). Complementary: sur-la-table-linen-napkins-set6, linen-tablecloth-black-rectangle-60x102. Price bands: premium, mid, budget."
+    "assignment_notes": "Primary keyword match: april-cornell-pomegranate-tablecloth (score 50). Complementary: pomegranate-tablecloth-luxury-cotton, linen-tablecloth-black-white-check-runner. Price bands: mid, premium, budget."
   },
   {
     "id": 158,
@@ -4091,7 +4105,7 @@
     "kd": 8,
     "products": [
       "april-cornell-floral-linen-tablecloth",
-      "linen-tablecloth-black-white-check-runner",
+      "linen-tablecloth-green-gingham-check",
       "juliska-country-estate-table-runner"
     ],
     "published": false,
@@ -4100,7 +4114,7 @@
     "hub_url": "/linens/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: april-cornell-floral-linen-tablecloth (score 100). Complementary: linen-tablecloth-black-white-check-runner, juliska-country-estate-table-runner. Price bands: mid, budget, premium."
+    "assignment_notes": "Primary keyword match: april-cornell-floral-linen-tablecloth (score 100). Complementary: linen-tablecloth-green-gingham-check, juliska-country-estate-table-runner. Price bands: mid, budget, premium."
   },
   {
     "id": 159,
@@ -4117,7 +4131,7 @@
     "kd": 10,
     "products": [
       "april-cornell-tablecloth-rose-red",
-      "tablecloth-white-round-120in",
+      "table-runner-tartan-plaid-14x72",
       "peacock-alley-hemstitch-tablecloth"
     ],
     "published": false,
@@ -4126,7 +4140,7 @@
     "hub_url": "/linens/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: april-cornell-tablecloth-rose-red (score 80). Complementary: tablecloth-white-round-120in, peacock-alley-hemstitch-tablecloth. Price bands: mid, budget, premium."
+    "assignment_notes": "Primary keyword match: april-cornell-tablecloth-rose-red (score 80). Complementary: table-runner-tartan-plaid-14x72, peacock-alley-hemstitch-tablecloth. Price bands: mid, budget, premium."
   },
   {
     "id": 160,
@@ -4143,7 +4157,7 @@
     "kd": 10,
     "products": [
       "april-cornell-antique-white-tablecloth",
-      "linen-tablecloth-green-gingham-check",
+      "linen-tablecloth-navy-blue-90x132",
       "juliska-country-estate-table-runner"
     ],
     "published": false,
@@ -4152,7 +4166,7 @@
     "hub_url": "/linens/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: april-cornell-antique-white-tablecloth (score 50). Complementary: linen-tablecloth-green-gingham-check, juliska-country-estate-table-runner. Price bands: mid, budget, premium."
+    "assignment_notes": "Primary keyword match: april-cornell-antique-white-tablecloth (score 50). Complementary: linen-tablecloth-navy-blue-90x132, juliska-country-estate-table-runner. Price bands: mid, budget, premium."
   },
   {
     "id": 161,
@@ -4169,7 +4183,7 @@
     "kd": 7,
     "products": [
       "april-cornell-floral-linen-tablecloth",
-      "linen-tablecloth-navy-blue-90x132",
+      "linen-tablecloth-black-rectangle-60x102",
       "juliska-country-estate-table-runner"
     ],
     "published": false,
@@ -4178,7 +4192,7 @@
     "hub_url": "/linens/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: april-cornell-floral-linen-tablecloth (score 70). Complementary: linen-tablecloth-navy-blue-90x132, juliska-country-estate-table-runner. Price bands: mid, budget, premium."
+    "assignment_notes": "Primary keyword match: april-cornell-floral-linen-tablecloth (score 70). Complementary: linen-tablecloth-black-rectangle-60x102, juliska-country-estate-table-runner. Price bands: mid, budget, premium."
   },
   {
     "id": 162,
@@ -4220,17 +4234,17 @@
     "volume": 320,
     "kd": 4,
     "products": [
-      "linen-tablecloth-black-rectangle-60x102",
+      "linen-tablecloth-black-white-check-runner",
       "april-cornell-floral-linen-tablecloth",
       "sferra-hemstitched-linen-napkins-set4"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Table Linens",
     "hub_url": "/linens/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: linen-tablecloth-black-rectangle-60x102 (score 90). Complementary: april-cornell-floral-linen-tablecloth, sferra-hemstitched-linen-napkins-set4. Price bands: budget, mid, premium."
+    "assignment_notes": "Primary keyword match: linen-tablecloth-black-white-check-runner (score 90). Complementary: april-cornell-floral-linen-tablecloth, sferra-hemstitched-linen-napkins-set4. Price bands: budget, mid, premium."
   },
   {
     "id": 164,
@@ -4251,7 +4265,7 @@
       "yves-delorme-triomphe-tablecloth"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Table Linens",
     "hub_url": "/linens/",
     "category_label": "Home Entertaining",
@@ -4272,17 +4286,17 @@
     "volume": 210,
     "kd": 4,
     "products": [
+      "tablecloth-white-round-120in",
       "april-cornell-pomegranate-tablecloth",
-      "pomegranate-tablecloth-luxury-cotton",
-      "tablecloth-white-round-120in"
+      "pomegranate-tablecloth-luxury-cotton"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Table Linens",
     "hub_url": "/linens/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: april-cornell-pomegranate-tablecloth (score 30). Complementary: pomegranate-tablecloth-luxury-cotton, tablecloth-white-round-120in. Price bands: mid, premium, budget."
+    "assignment_notes": "Primary keyword match: tablecloth-white-round-120in (score 30). Complementary: april-cornell-pomegranate-tablecloth, pomegranate-tablecloth-luxury-cotton. Price bands: budget, mid, premium."
   },
   {
     "id": 166,
@@ -4352,7 +4366,10 @@
     "products": [
       "april-cornell-floral-cloth-napkins-set4",
       "utopia-kitchen-cloth-napkins-green-set12",
-      "sferra-hemstitched-linen-napkins-set4"
+      "sferra-hemstitched-linen-napkins-set4",
+      "sur-la-table-linen-napkins-set6",
+      "juliska-country-estate-napkin-ring",
+      "michael-aram-anemone-napkin-ring-set4"
     ],
     "published": false,
     "status": "pending",
@@ -4360,7 +4377,7 @@
     "hub_url": "/linens/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: april-cornell-floral-cloth-napkins-set4 (score 60). Complementary: utopia-kitchen-cloth-napkins-green-set12, sferra-hemstitched-linen-napkins-set4. Price bands: mid, budget, premium."
+    "assignment_notes": "Primary keyword match: april-cornell-floral-cloth-napkins-set4 (score 60). Complementary: utopia-kitchen-cloth-napkins-green-set12, sferra-hemstitched-linen-napkins-set4, sur-la-table-linen-napkins-set6, juliska-country-estate-napkin-ring, michael-aram-anemone-napkin-ring-set4. Price bands: mid, budget, premium."
   },
   {
     "id": 169,
@@ -4376,8 +4393,8 @@
     "volume": 390,
     "kd": 7,
     "products": [
-      "waterford-napkin-rings-lismore-set4",
       "napkin-rings-brass-hammered-set4",
+      "waterford-napkin-rings-lismore-set4",
       "napkin-rings-pearl-beaded-set4"
     ],
     "published": false,
@@ -4386,7 +4403,7 @@
     "hub_url": "/linens/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: waterford-napkin-rings-lismore-set4 (score 60). Complementary: napkin-rings-brass-hammered-set4, napkin-rings-pearl-beaded-set4. Price bands: premium, budget, mid."
+    "assignment_notes": "Primary keyword match: napkin-rings-brass-hammered-set4 (score 60). Complementary: waterford-napkin-rings-lismore-set4, napkin-rings-pearl-beaded-set4. Price bands: budget, premium, mid."
   },
   {
     "id": 170,
@@ -4433,7 +4450,7 @@
       "waterford-napkin-rings-lismore-set4"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Table Linens",
     "hub_url": "/linens/",
     "category_label": "Home Entertaining",
@@ -4507,16 +4524,16 @@
     "kd": 5,
     "products": [
       "sur-la-table-linen-napkins-set6",
-      "linen-tablecloth-black-white-check-runner",
+      "linen-tablecloth-green-gingham-check",
       "juliska-country-estate-table-runner"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Table Linens",
     "hub_url": "/linens/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: sur-la-table-linen-napkins-set6 (score 50). Complementary: linen-tablecloth-black-white-check-runner, juliska-country-estate-table-runner. Price bands: mid, budget, premium."
+    "assignment_notes": "Primary keyword match: sur-la-table-linen-napkins-set6 (score 50). Complementary: linen-tablecloth-green-gingham-check, juliska-country-estate-table-runner. Price bands: mid, budget, premium."
   },
   {
     "id": 175,
@@ -4537,7 +4554,7 @@
       "juliska-country-estate-table-runner"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Table Linens",
     "hub_url": "/linens/",
     "category_label": "Home Entertaining",
@@ -4563,7 +4580,7 @@
       "juliska-country-estate-table-runner"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Table Linens",
     "hub_url": "/linens/",
     "category_label": "Home Entertaining",
@@ -4611,7 +4628,7 @@
     "kd": 9,
     "products": [
       "linen-tablecloth-black-white-check-runner",
-      "chilewich-trellis-woven-navy-runner",
+      "april-cornell-antique-white-tablecloth",
       "juliska-country-estate-table-runner"
     ],
     "published": false,
@@ -4620,7 +4637,7 @@
     "hub_url": "/linens/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: linen-tablecloth-black-white-check-runner (score 100). Complementary: chilewich-trellis-woven-navy-runner, juliska-country-estate-table-runner. Price bands: budget, mid, premium."
+    "assignment_notes": "Primary keyword match: linen-tablecloth-black-white-check-runner (score 100). Complementary: april-cornell-antique-white-tablecloth, juliska-country-estate-table-runner. Price bands: budget, mid, premium."
   },
   {
     "id": 179,
@@ -4641,7 +4658,7 @@
       "juliska-country-estate-table-runner"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Table Linens",
     "hub_url": "/linens/",
     "category_label": "Home Entertaining",
@@ -4693,7 +4710,7 @@
       "juliska-country-estate-table-runner"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Table Linens",
     "hub_url": "/linens/",
     "category_label": "Home Entertaining",
@@ -4719,7 +4736,7 @@
       "juliska-country-estate-table-runner"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Table Linens",
     "hub_url": "/linens/",
     "category_label": "Home Entertaining",
@@ -4745,7 +4762,7 @@
       "juliska-country-estate-table-runner"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Table Linens",
     "hub_url": "/linens/",
     "category_label": "Home Entertaining",
@@ -4767,7 +4784,7 @@
     "kd": 10,
     "products": [
       "juliska-country-estate-tablecloth",
-      "linen-tablecloth-green-gingham-check",
+      "tablecloth-white-round-120in",
       "peacock-alley-hemstitch-tablecloth"
     ],
     "published": false,
@@ -4776,7 +4793,7 @@
     "hub_url": "/linens/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: juliska-country-estate-tablecloth (score 30). Complementary: linen-tablecloth-green-gingham-check, peacock-alley-hemstitch-tablecloth. Price bands: mid, budget, premium."
+    "assignment_notes": "Primary keyword match: juliska-country-estate-tablecloth (score 30). Complementary: tablecloth-white-round-120in, peacock-alley-hemstitch-tablecloth. Price bands: mid, budget, premium."
   },
   {
     "id": 185,
@@ -4819,16 +4836,16 @@
     "kd": 5,
     "products": [
       "linen-tablecloth-black-rectangle-60x102",
-      "april-cornell-antique-white-tablecloth",
+      "sferra-festival-ivory-tablecloth",
       "yves-delorme-triomphe-tablecloth"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Table Linens",
     "hub_url": "/linens/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: linen-tablecloth-black-rectangle-60x102 (score 90). Complementary: april-cornell-antique-white-tablecloth, yves-delorme-triomphe-tablecloth. Price bands: budget, mid, premium."
+    "assignment_notes": "Primary keyword match: linen-tablecloth-black-rectangle-60x102 (score 90). Complementary: sferra-festival-ivory-tablecloth, yves-delorme-triomphe-tablecloth. Price bands: budget, mid, premium."
   },
   {
     "id": 187,
@@ -4845,7 +4862,7 @@
     "kd": 7,
     "products": [
       "linen-tablecloth-green-gingham-check",
-      "april-cornell-pomegranate-tablecloth",
+      "april-cornell-tablecloth-rose-red",
       "pomegranate-tablecloth-luxury-cotton"
     ],
     "published": false,
@@ -4854,7 +4871,7 @@
     "hub_url": "/linens/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: linen-tablecloth-green-gingham-check (score 90). Complementary: april-cornell-pomegranate-tablecloth, pomegranate-tablecloth-luxury-cotton. Price bands: budget, mid, premium."
+    "assignment_notes": "Primary keyword match: linen-tablecloth-green-gingham-check (score 90). Complementary: april-cornell-tablecloth-rose-red, pomegranate-tablecloth-luxury-cotton. Price bands: budget, mid, premium."
   },
   {
     "id": 188,
@@ -4875,7 +4892,7 @@
       "peacock-alley-hemstitch-tablecloth"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Table Linens",
     "hub_url": "/linens/",
     "category_label": "Home Entertaining",
@@ -4897,16 +4914,16 @@
     "kd": 5,
     "products": [
       "linen-tablecloth-navy-blue-90x132",
-      "juliska-country-estate-tablecloth",
+      "april-cornell-pomegranate-tablecloth",
       "sferra-classico-hemstitched-tablecloth"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Table Linens",
     "hub_url": "/linens/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: linen-tablecloth-navy-blue-90x132 (score 60). Complementary: juliska-country-estate-tablecloth, sferra-classico-hemstitched-tablecloth. Price bands: budget, mid, premium."
+    "assignment_notes": "Primary keyword match: linen-tablecloth-navy-blue-90x132 (score 60). Complementary: april-cornell-pomegranate-tablecloth, sferra-classico-hemstitched-tablecloth. Price bands: budget, mid, premium."
   },
   {
     "id": 190,
@@ -4923,16 +4940,16 @@
     "kd": 5,
     "products": [
       "linen-tablecloth-green-gingham-check",
-      "sferra-festival-ivory-tablecloth",
+      "juliska-country-estate-tablecloth",
       "yves-delorme-triomphe-tablecloth"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Table Linens",
     "hub_url": "/linens/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: linen-tablecloth-green-gingham-check (score 60). Complementary: sferra-festival-ivory-tablecloth, yves-delorme-triomphe-tablecloth. Price bands: budget, mid, premium."
+    "assignment_notes": "Primary keyword match: linen-tablecloth-green-gingham-check (score 60). Complementary: juliska-country-estate-tablecloth, yves-delorme-triomphe-tablecloth. Price bands: budget, mid, premium."
   },
   {
     "id": 191,
@@ -4975,16 +4992,16 @@
     "kd": 4,
     "products": [
       "linen-tablecloth-navy-blue-90x132",
-      "waterford-stewart-plaid-tartan-tablecloth",
+      "sferra-festival-ivory-tablecloth",
       "peacock-alley-hemstitch-tablecloth"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Table Linens",
     "hub_url": "/linens/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: linen-tablecloth-navy-blue-90x132 (score 60). Complementary: waterford-stewart-plaid-tartan-tablecloth, peacock-alley-hemstitch-tablecloth. Price bands: budget, mid, premium."
+    "assignment_notes": "Primary keyword match: linen-tablecloth-navy-blue-90x132 (score 60). Complementary: sferra-festival-ivory-tablecloth, peacock-alley-hemstitch-tablecloth. Price bands: budget, mid, premium."
   },
   {
     "id": 193,
@@ -5031,7 +5048,7 @@
       "yves-delorme-triomphe-tablecloth"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Table Linens",
     "hub_url": "/linens/",
     "category_label": "Home Entertaining",
@@ -5079,7 +5096,7 @@
     "kd": 7,
     "products": [
       "linen-tablecloth-green-gingham-check",
-      "april-cornell-pomegranate-tablecloth",
+      "april-cornell-floral-linen-tablecloth",
       "peacock-alley-hemstitch-tablecloth"
     ],
     "published": false,
@@ -5088,7 +5105,7 @@
     "hub_url": "/linens/",
     "category_label": "Home Entertaining",
     "category_slug": "home-entertaining",
-    "assignment_notes": "Primary keyword match: linen-tablecloth-green-gingham-check (score 60). Complementary: april-cornell-pomegranate-tablecloth, peacock-alley-hemstitch-tablecloth. Price bands: budget, mid, premium."
+    "assignment_notes": "Primary keyword match: linen-tablecloth-green-gingham-check (score 60). Complementary: april-cornell-floral-linen-tablecloth, peacock-alley-hemstitch-tablecloth. Price bands: budget, mid, premium."
   },
   {
     "id": 197,
@@ -5135,7 +5152,7 @@
       "napkin-rings-pearl-beaded-set4"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Table Linens",
     "hub_url": "/linens/",
     "category_label": "Home Entertaining",
@@ -5161,7 +5178,7 @@
       "juliska-country-estate-table-runner"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Table Linens",
     "hub_url": "/linens/",
     "category_label": "Home Entertaining",
@@ -5187,7 +5204,7 @@
       "juliska-country-estate-table-runner"
     ],
     "published": false,
-    "status": "pending",
+    "status": "staged",
     "hub_label": "Table Linens",
     "hub_url": "/linens/",
     "category_label": "Home Entertaining",
