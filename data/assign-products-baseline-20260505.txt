@@ -1,0 +1,173 @@
+
+────────────────────────────────────────────────────────────────────────
+assign-products
+  Site:     /Users/keithlacy/one-happy-table
+  Mode:     DRY RUN (no writes)
+  Pipeline: 200 articles
+  Catalog:  139 products / 5 hub(s)  [grouped by: hub]
+
+Per-hub summary:
+  decor         total: 36  assigned: 36  gaps: 0  catalog:24
+  dinnerware    total: 50  assigned: 50  gaps: 0  catalog:34
+  glassware     total: 50  assigned: 50  gaps: 0  catalog:35
+  linens        total: 44  assigned: 44  gaps: 0  catalog:32
+  serveware     total: 20  assigned: 20  gaps: 0  catalog:14
+
+Results:
+  Assigned:  200
+  Skipped:   0  (already assigned — use --force to re-run)
+  Gaps:      0
+
+Product assignment histogram (per hub):
+
+  decor (24 products):
+    [  1-2 articles]  4 product(s)
+    [  3-5 articles]  16 product(s)
+    [ 6-10 articles]  3 product(s)
+    [11-20 articles]  1 product(s)
+    Most assigned: creative-co-op-whitewash-centerpiece-box(12), michael-aram-white-orchid-candlesticks-pair(9), michael-aram-butterfly-ginkgo-candlesticks-pair(6)
+
+  dinnerware (34 products):
+    [    0 articles]  5 product(s)
+    [  1-2 articles]  7 product(s)
+    [  3-5 articles]  15 product(s)
+    [ 6-10 articles]  3 product(s)
+    [11-20 articles]  4 product(s)
+    Most assigned: juliska-berry-thread-charger-plate(18), lenox-opal-innocence-12pc-set(15), mikasa-cameo-white-bone-china(14)
+    Zero assigned: royal-doulton-gordon-ramsay-maze-white, denby-halo-4pc-place-setting, noritake-colorwave-granite-4pc, portmeirion-botanic-garden-mug, spode-blue-italian-5pc-place-setting
+
+  glassware (35 products):
+    [  1-2 articles]  6 product(s)
+    [  3-5 articles]  22 product(s)
+    [ 6-10 articles]  7 product(s)
+    Most assigned: simon-pearce-ascutney-red-wine-glass(10), zwiesel-glas-enoteca-champagne-set2(10), govino-champagne-flutes-set4(8)
+
+  linens (32 products):
+    [    0 articles]  2 product(s)
+    [  1-2 articles]  5 product(s)
+    [  3-5 articles]  18 product(s)
+    [ 6-10 articles]  6 product(s)
+    [11-20 articles]  1 product(s)
+    Most assigned: juliska-country-estate-table-runner(15), sur-la-table-linen-napkins-set6(7), chilewich-trellis-woven-navy-runner(7)
+    Zero assigned: juliska-country-estate-napkin-ring, michael-aram-anemone-napkin-ring-set4
+
+  serveware (14 products):
+    [    0 articles]  1 product(s)
+    [  1-2 articles]  3 product(s)
+    [  3-5 articles]  6 product(s)
+    [ 6-10 articles]  4 product(s)
+    Most assigned: ceramic-serving-platter-white-oval-14in(8), juliska-berry-thread-ceramic-platter(8), godinger-silver-round-serving-platter(7)
+    Zero assigned: lenox-french-perle-blue-oval-platter
+
+Sample assignments — 5 per hub (keyword → products):
+
+  decor:
+    "michael aram candle holder" [score 120]
+      → michael-aram-twist-candle-holder  (Michael Aram Twist Candle Holder)
+      → michael-aram-butterfly-ginkgo-candlesticks-pair  (Butterfly Ginkgo Candlestick Holders (Pair))
+      → hurricane-glass-candle-holder-large  (Clear Glass Hurricane Candle Holder — Large)
+    "stoff nagel candle holder" [score 120]
+      → stoff-nagel-candle-holder-chrome-set3  (Candle Holder System — Chrome (Set of 3))
+      → hurricane-glass-candle-holder-large  (Clear Glass Hurricane Candle Holder — Large)
+      → michael-aram-twist-candle-holder  (Michael Aram Twist Candle Holder)
+    "hurricane lamps for candles" [score 50]
+      → hurricane-glass-candle-holder-large  (Clear Glass Hurricane Candle Holder — Large)
+      → root-candles-timberline-taper-set12  (Root Candles Timberline Collenette Taper Candles Set of 12)
+      → michael-aram-white-orchid-candlesticks-pair  (White Orchid Taper Candle Holders (Pair))
+    "burgundy taper candles" [score 60]
+      → twisted-taper-candles-set12  (Twisted Taper Candles (Set of 12, Assorted))
+      → root-candles-timberline-taper-set12  (Root Candles Timberline Collenette Taper Candles Set of 12)
+      → michael-aram-white-orchid-candlesticks-pair  (White Orchid Taper Candle Holders (Pair))
+    "white pillar candles" [score 60]
+      → torre-tagus-pillar-ceramic-vase-white  (Torre & Tagus Pillar Ceramic Vase White)
+      → michael-aram-white-orchid-candlesticks-pair  (White Orchid Taper Candle Holders (Pair))
+      → creative-co-op-bud-vases-set6  (Creative Co-Op White Ceramic Bud Vases Set of 6)
+
+  dinnerware:
+    "costa nova dinnerware" [score 80]
+      → costa-nova-roda-reactive-glaze  (Roda Reactive Glaze Dinner Plate)
+      → bamboo-fiber-dinnerware-natural-10pc  (Organic Bamboo Fiber 10-Piece Dinnerware Set)
+      → lenox-opal-innocence-12pc-set  (Lenox Opal Innocence 12-Piece Dinnerware Set)
+    "dinnerware for 12" [score 30]
+      → mikasa-trellis-white-16pc  (Trellis White 16-Piece Dinnerware Set)
+      → anchor-hocking-presence-glass-dinnerware  (Anchor Hocking Presence Glass Dinnerware Set)
+      → lenox-opal-innocence-12pc-set  (Lenox Opal Innocence 12-Piece Dinnerware Set)
+    "best non toxic dinnerware" [score 30]
+      → lenox-butterfly-meadow-12pc  (Butterfly Meadow 12-Piece Dinnerware Set)
+      → corelle-impressions-16pc-dinnerware  (Corelle Impressions 16-Piece Dinnerware Set)
+      → lenox-opal-innocence-12pc-set  (Lenox Opal Innocence 12-Piece Dinnerware Set)
+    "royal doulton dinnerware sets" [score 60]
+      → royal-doulton-1815-white-5pc  (1815 White 5-Piece Place Setting)
+      → royal-doulton-gordon-ramsay-maze-mug  (Royal Doulton Gordon Ramsay Maze White Mug)
+      → royal-worcester-evesham-gold-4pc  (Royal Worcester Evesham Gold 4-Piece Place Setting)
+    "glass charger plate" [score 90]
+      → charger-plate-gold-glass-set12  (Gold Glass Charger Plates (Set of 12))
+      → juliska-berry-thread-charger-plate  (Juliska Berry & Thread Charger Plate)
+      → lenox-opal-innocence-charger-plate  (Lenox Opal Innocence White Charger Plate)
+
+  glassware:
+    "simon pearce wine glasses" [score 120]
+      → simon-pearce-barre-wine-glasses-set4  (Barre Wine Glasses (Set of 4))
+      → riedel-vinum-bordeaux-set2  (Vinum Bordeaux Wine Glasses (Set of 2))
+      → libbey-signature-kentfield-red-wine-set4  (Signature Kentfield Red Wine Glasses (Set of 4))
+    "eto wine decanter review" [score 90]
+      → eto-wine-decanter  (ETO Wine Decanter)
+    "eto wine decanter" [score 90]
+      → eto-wine-decanter  (ETO Wine Decanter)
+      → schott-zwiesel-convention-red-wine-set6  (Convention Red Wine Glasses (Set of 6))
+      → anchor-hocking-sheffield-decanter  (Sheffield 34-Ounce Glass Decanter with Lid)
+    "riedel champagne flutes" [score 90]
+      → riedel-ouverture-champagne-flutes-set2  (Ouverture Champagne Flutes (Set of 2))
+      → waterford-lismore-champagne-flutes-set2  (Lismore Champagne Flutes (Set of 2))
+      → govino-champagne-flutes-set4  (Govino Shatterproof Flexible Champagne Flutes Set of 4)
+    "mikasa crystal champagne flutes" [score 120]
+      → mikasa-crystal-orson-champagne-flutes-set4  (Crystal Orson Champagne Flutes (Set of 4))
+      → waterford-lismore-crystal-champagne-flutes-pair  (Lismore Crystal Champagne Flute Pair)
+      → libbey-embassy-champagne-flutes-set8  (Libbey Embassy Champagne Flutes Set of 8)
+
+  linens:
+    "pomegranate table linens" [score 50]
+      → pomegranate-tablecloth-luxury-cotton  (Estate Collection Cotton Tablecloth)
+      → sur-la-table-linen-napkins-set6  (Belgian Linen Napkins (Set of 6))
+      → linen-tablecloth-black-rectangle-60x102  (LinenTablecloth Black Polyester Tablecloth 60x102)
+    "april cornell table linens" [score 100]
+      → april-cornell-floral-linen-tablecloth  (April Cornell Vintage Floral Linen Tablecloth)
+      → linen-tablecloth-black-white-check-runner  (LinenTablecloth Black and White Check Table Runner)
+      → juliska-country-estate-table-runner  (Juliska Country Estate Table Runner)
+    "april cornell tablecloths" [score 80]
+      → april-cornell-tablecloth-rose-red  (Rose Red Floral Tablecloth)
+      → tablecloth-white-round-120in  (White Round Tablecloth 120-Inch)
+      → peacock-alley-hemstitch-tablecloth  (Peacock Alley Hemstitch Tablecloth)
+    "antique table linens for sale" [score 50]
+      → april-cornell-antique-white-tablecloth  (Antique White Pintuck Tablecloth)
+      → linen-tablecloth-green-gingham-check  (LinenTablecloth Green Gingham Check Tablecloth)
+      → juliska-country-estate-table-runner  (Juliska Country Estate Table Runner)
+    "vintage table linens for sale" [score 70]
+      → april-cornell-floral-linen-tablecloth  (April Cornell Vintage Floral Linen Tablecloth)
+      → linen-tablecloth-navy-blue-90x132  (LinenTablecloth Navy Blue Tablecloth 90x132)
+      → juliska-country-estate-table-runner  (Juliska Country Estate Table Runner)
+
+  serveware:
+    "folded place cards" [score 60]
+      → kate-aspen-gold-foil-place-cards-set50  (Kate Aspen Gold Foil Foldable Place Cards Set of 50)
+      → mud-pie-porcelain-place-cards-set12  (Mud Pie White and Gold Porcelain Place Cards Set of 12)
+      → juliska-country-estate-place-card-holders-set4  (Juliska Country Estate Place Card Holders Set of 4)
+    "lenox metal serveware" [score 30]
+      → lenox-butterfly-meadow-platter  (Butterfly Meadow Serving Platter)
+      → ceramic-serving-platter-white-oval-14in  (White Oval Ceramic Serving Platter 14-Inch)
+      → juliska-berry-thread-ceramic-platter  (Juliska Berry & Thread Ceramic Serving Platter)
+    "ceramic serving platters" [score 80]
+      → certified-intl-talavera-serving-platter  (Certified International Talavera Ceramic Serving Platter 14-Inch)
+      → ceramic-serving-platter-white-oval-14in  (White Oval Ceramic Serving Platter 14-Inch)
+      → juliska-berry-thread-ceramic-platter  (Juliska Berry & Thread Ceramic Serving Platter)
+    "foldable place cards" [score 90]
+      → kate-aspen-gold-foil-place-cards-set50  (Kate Aspen Gold Foil Foldable Place Cards Set of 50)
+      → mud-pie-porcelain-place-cards-set12  (Mud Pie White and Gold Porcelain Place Cards Set of 12)
+      → juliska-country-estate-place-card-holders-set4  (Juliska Country Estate Place Card Holders Set of 4)
+    "silver place card holder" [score 110]
+      → place-card-holders-silver-set12  (Silver Place Card Holders (Set of 12))
+      → juliska-country-estate-place-card-holders-set4  (Juliska Country Estate Place Card Holders Set of 4)
+      → mud-pie-porcelain-place-cards-set12  (Mud Pie White and Gold Porcelain Place Cards Set of 12)
+
+────────────────────────────────────────────────────────────────────────
+DRY RUN — pipeline.json not written.
