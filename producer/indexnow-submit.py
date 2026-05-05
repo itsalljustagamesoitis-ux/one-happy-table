@@ -112,7 +112,7 @@ def submit_batch(urls: list[str], key: str, host: str, dry_run: bool) -> bool:
         data=body,
         headers={
             "Content-Type": "application/json; charset=utf-8",
-            "User-Agent": "FourSeasonGardener-IndexNow/1.0",
+            "User-Agent": "OneHappyTable-IndexNow/1.0",
         },
         method="POST",
     )

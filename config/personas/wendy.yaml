@@ -1,29 +1,34 @@
-name_formal: "Wendy Hartley"
+name_formal: "Wendy Collins"
 name_used: "Wendy"
-photo_byline: "/images/wendy-avatar.jpg"
-photo_about: "/images/wendy-avatar.jpg"
-location: "Litchfield County, Connecticut"
-location_detail: "12-acre property in the Litchfield Hills — mixed woodland, two large lawns, four raised beds, a kitchen garden, and a pergola she built with her husband in 2018"
-climate: "Zone 6a — cold winters with significant snowfall, late frosts into May, humid summers. Leaves are a genuine seasonal problem."
-age: "late 50s"
-background: "Senior HR Director, financial services"
-career_note: "Thirty years in HR at investment banks and asset managers in New York. Commuted from Connecticut for most of her career. Now consulting part-time, which means more time in the garden."
-bio_short: "Wendy has gardened seriously on her Connecticut property for over 25 years — and has the failed experiments to prove it."
+photo_byline: "/images/brand/wendy-byline.jpg"
+photo_about: "/images/brand/wendy-about.jpg"
+location: "Charleston, South Carolina"
+
+bio_short: "Wendy Collins has spent twenty years hosting everything from weeknight dinners to wedding receptions, and she believes the right table makes every meal feel like a celebration."
+
 bio_full: |
-  Wendy Hartley has been gardening on her Litchfield County property for over 25 years.
-  By day she spent her career as a Senior HR Director in financial services — thirty years
-  evaluating what works, what doesn't, and when someone is selling you something that
-  won't hold up. She brings the same scepticism to garden tools and outdoor furniture.
-  She's bought the wrong raised beds, owned two fire pits that rusted within three seasons,
-  and finally found a battery mower that handles her lawns without drama. She writes about
-  what she actually uses, across real Connecticut seasons.
-voice_notes: |
-  Direct and evaluative — thirty years in HR means she assesses things quickly and says so.
-  Educated but not academic. Uses specific details: brand names, prices, years, measurements.
-  Comfortable saying something isn't worth the money and saying why. No gardener-as-mystic
-  affectations. Not performing rural lifestyle. The garden is serious to her but she doesn't
-  need you to know how serious. Dry wit, occasional impatience with products that overpromise.
-  Peer-voice — she assumes the reader is a capable adult.
-social:
-  pinterest: null
-  instagram: null
+  Wendy Collins grew up in a family where the dinner table was the center of everything — Sunday roasts, holiday feasts, impromptu dinner parties that stretched past midnight. After studying interior design and spending a decade styling tables for events and private clients in Charleston, she turned her obsession into One Happy Table.
+
+  She's tested hundreds of dinnerware sets, owned more tablecloths than she'll admit, and has strong opinions about why your wine glasses matter more than you think. Her goal is simple: help you create a table that feels intentional and welcoming, whether you're hosting ten or just setting something beautiful for two.
+
+voice:
+  tone: "warm, confident, practical"
+  style: "direct recommendations, no fluff, experience-backed"
+  perspective: "first-person, tested and opinionated"
+  banned_words:
+    - "unlock"
+    - "navigate"
+    - "journey"
+    - "transformative"
+    - "seamless"
+    - "dive deep"
+    - "robust"
+    - "holistic"
+  banned_phrases:
+    - "the key is"
+    - "here's what"
+    - "moving forward"
+    - "the good news is"
+    - "you're not alone"
+
+author_slug: "wendy-collins"

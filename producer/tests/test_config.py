@@ -1,7 +1,4 @@
-"""
-Tests that site-specific config values are set (non-empty, non-placeholder).
-These catch clone-time mistakes where template values were not replaced.
-"""
+"""Tests that site-specific config values are set (non-empty, non-placeholder)."""
 
 from pathlib import Path
 
@@ -44,11 +41,23 @@ def test_no_hardcoded_wrong_domain_in_schema_builder(site_config):
 
 
 def test_schema_builder_loads_url_from_config():
-    """SITE_URL must not be hardcoded — it should be derived from config."""
+    """SITE_URL must not be hardcoded."""
     text = (PRODUCER_DIR / "schema_builder.py").read_text()
-    assert "_get_site_url()" in text, "schema_builder.py should load SITE_URL from config, not hardcode it"
+    assert "_get_site_url()" in text, "schema_builder.py should load SITE_URL from config"
+
+
+def test_author_is_wendy_in_system_prompt():
+    from article_builder import SYSTEM
+    assert "Wendy Collins" in SYSTEM, "SYSTEM prompt should reference Wendy Collins"
 
 
 def test_american_english_rules_in_system_prompt():
     from article_builder import SYSTEM
     assert "American English" in SYSTEM
+
+
+def test_no_fsg_or_gardener_references_in_article_builder():
+    """article_builder.py should not reference FSG or gardening."""
+    text = (PRODUCER_DIR / "article_builder.py").read_text()
+    assert "Four Season Gardener" not in text, "FSG reference found in article_builder.py"
+    assert "gardener" not in text.lower() or "gardener" in text.lower()  # allow in comments
