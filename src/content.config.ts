@@ -22,7 +22,7 @@ const ArticleSchema = z.object({
   type: z.enum(['roundup', 'review', 'comparison', 'buyer_guide', 'informational']),
   date: z.date(),
   updated: z.date().optional(),
-  author: z.string().default('wendy'),
+  author: z.string().default('sarah'),
   category: z.string().optional().default('home-entertaining'),
   hub: z.string(),
   hero_image: z.string(),
