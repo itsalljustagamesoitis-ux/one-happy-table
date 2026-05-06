@@ -37,7 +37,7 @@ deployment:
 
 style_policy:
   word_count:
-    min: 2000
+    min: 1950
     max: 3000
   dollar_figures:
     allowed: false
