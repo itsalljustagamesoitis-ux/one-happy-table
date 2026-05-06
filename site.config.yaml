@@ -11,9 +11,9 @@ visual:
   font_body: "Lato"
   logo_paths:
     favicon: "/images/brand/favicon.ico"
-    header_svg: "/images/brand/logo-header.svg"
+    header_svg: "/images/brand/logo-header-v2.svg"
     header_png: "/images/brand/logo-header.png"
-    footer_svg: "/images/brand/logo-footer.svg"
+    footer_svg: "/images/brand/logo-footer-v2.svg"
     social_square: "/images/brand/social-square.png"
     open_graph_default: "/images/brand/open-graph-default.png"
 
