@@ -1,32 +1,28 @@
-# One Happy Table — flat navigation (hubs are top-level, no categories)
-# A single wrapper category is used internally for data consistency
-# but never displayed in the UI. Breadcrumbs: Home > Hub > Article
+# One Happy Table — flat navigation (hubs are top-level nav items)
+# Breadcrumbs: Home > Hub > Article
 
 categories:
-  - label: "Home Entertaining"
-    slug: "home-entertaining"
-    hubs:
-      - slug: "dinnerware"
-        label: "Dinnerware & China"
-        url: "/dinnerware/"
-        description: "Everyday and fine china, stoneware, plate sets, and complete dinnerware collections"
+  - label: "Dinnerware & China"
+    slug: "dinnerware"
+    description: "Everyday and fine china, stoneware, plate sets, and complete dinnerware collections"
+    hubs: []
 
-      - slug: "glassware"
-        label: "Glassware & Crystal"
-        url: "/glassware/"
-        description: "Wine glasses, crystal stemware, everyday glassware, and barware essentials"
+  - label: "Glassware & Crystal"
+    slug: "glassware"
+    description: "Wine glasses, crystal stemware, everyday glassware, and barware essentials"
+    hubs: []
 
-      - slug: "linens"
-        label: "Table Linens"
-        url: "/linens/"
-        description: "Tablecloths, placemats, cloth napkins, and table runners for every occasion"
+  - label: "Table Linens"
+    slug: "linens"
+    description: "Tablecloths, placemats, cloth napkins, and table runners for every occasion"
+    hubs: []
 
-      - slug: "serveware"
-        label: "Serveware"
-        url: "/serveware/"
-        description: "Serving platters, bowls, trays, cake stands, and hosting essentials"
+  - label: "Serveware"
+    slug: "serveware"
+    description: "Serving platters, bowls, trays, cake stands, and hosting essentials"
+    hubs: []
 
-      - slug: "decor"
-        label: "Decor & Candles"
-        url: "/decor/"
-        description: "Centerpieces, candles, candleholders, vases, and table decor"
+  - label: "Decor & Candles"
+    slug: "decor"
+    description: "Centerpieces, candles, candleholders, vases, and table decor"
+    hubs: []
