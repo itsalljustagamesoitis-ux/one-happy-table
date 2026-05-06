@@ -1,6 +1,9 @@
-name = "four-season-gardener"
+name = "one-happy-table"
 compatibility_date = "2024-09-23"
 pages_build_output_dir = "./dist"
+
+[vars]
+NODE_VERSION = "22"
 
 # Per-clone env vars — set in Cloudflare Pages dashboard (as Secrets).
 #
