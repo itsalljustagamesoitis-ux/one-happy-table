@@ -20,7 +20,6 @@ def make_article(article_id, hub, article_type="review"):
         "keyword": "test keyword",
         "type": article_type,
         "hub": hub,
-        "cluster": hub,
         "products": [],
         "angle": "test angle",
     }

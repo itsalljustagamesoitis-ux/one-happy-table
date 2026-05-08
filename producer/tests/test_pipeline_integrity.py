@@ -14,12 +14,10 @@ class TestPipelineStructure:
         assert len(pipeline) > 0, "pipeline.json is empty"
 
     def test_all_articles_have_required_fields(self, pipeline):
-        required = ["id", "slug", "keyword", "type", "cluster"]
+        required = ["id", "slug", "keyword", "type", "hub"]
         bad = []
         for a in pipeline:
             missing = [f for f in required if not a.get(f)]
-            if not a.get("hub") and not a.get("hub_slug"):
-                missing.append("hub/hub_slug")
             if missing:
                 bad.append(f"id={a.get('id','?')}: missing {missing}")
         assert not bad, f"{len(bad)} articles missing required fields:\n" + "\n".join(bad[:10])

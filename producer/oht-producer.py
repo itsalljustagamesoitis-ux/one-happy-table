@@ -1,15 +1,15 @@
 #!/usr/bin/env python3
 """
-FSG Article Producer
+OHT Article Producer
 Reads pipeline.json, generates articles via Claude, writes .md files to staging/.
 Human review → move to src/content/articles/ to publish.
 
 Usage:
-  python3 producer/fsg-producer.py --id 3
-  python3 producer/fsg-producer.py --count 10
-  python3 producer/fsg-producer.py --count 5 --type Roundup
-  python3 producer/fsg-producer.py --slug polywood-adirondack-chair-review
-  python3 producer/fsg-producer.py --dry-run --count 5
+  python3 producer/oht-producer.py --id 3
+  python3 producer/oht-producer.py --count 10
+  python3 producer/oht-producer.py --count 5 --type Roundup
+  python3 producer/oht-producer.py --slug polywood-adirondack-chair-review
+  python3 producer/oht-producer.py --dry-run --count 5
 """
 
 import argparse
@@ -173,7 +173,7 @@ def run(args):
 
 
 def main():
-    parser = argparse.ArgumentParser(description="FSG Article Producer")
+    parser = argparse.ArgumentParser(description="OHT Article Producer")
     parser.add_argument("--id", type=int, help="Produce single article by pipeline ID")
     parser.add_argument("--slug", help="Produce single article by slug")
     parser.add_argument("--count", type=int, help="Number of articles to produce")
