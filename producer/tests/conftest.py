@@ -1,4 +1,4 @@
-"""Shared fixtures for MLT producer tests."""
+"""Shared fixtures for OHT producer tests."""
 
 import sys
 import json
