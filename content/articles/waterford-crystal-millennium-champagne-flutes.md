@@ -35,6 +35,17 @@ products:
 tags: ["glassware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Are Waterford Millennium champagne flutes worth the premium over mid-range crystal?"
+    answer: "For a gift or a set reserved for meaningful occasions, yes. The Millennium Series delivers facet detail and optical quality that mid-range crystal like the Mikasa Orson does not match — the geometric cutting is deeper and more precise. If you are buying for everyday casual use or a large gathering where individual flute quality will not register, the premium is harder to justify. The decision comes down to how often the flutes will be used and whether the person using them will notice the difference."
+  - question: "Do any Waterford Millennium flutes work in the dishwasher?"
+    answer: "No. The Millennium Series requires hand-washing to maintain the cut-crystal facets. Dishwasher cycles — even gentle ones — introduce heat and abrasion that permanently dull the surface over time. This is not a Waterford-specific limitation; it applies to most cut crystal. If dishwasher compatibility is a firm requirement, the Waterford Millennium Series is not the right purchase regardless of how much you admire the design."
+  - question: "What is the difference between a champagne flute and a champagne coupe?"
+    answer: "A flute has a narrow, elongated bowl that preserves carbonation and directs the wine toward the front of the palate, emphasizing effervescence. A coupe has a wide, shallow bowl that releases carbonation quickly and suits a slower-sipping style. Flutes are standard for sparkling wine at celebrations because they keep the bubbles active longer. Coupes appear more often in cocktail settings or events where the wider bowl's visual presentation matters more than preserving carbonation."
+  - question: "Can I use Govino shatterproof flutes for a formal dinner if I don't have crystal?"
+    answer: "Govino flutes are designed for outdoor and high-risk settings — the flexible polymer and visible flex make them visually distinct from glass or crystal at close range. At a formal table setting, that distinction is apparent and undermines the presentation. For a formal dinner, even an affordable glass flute reads better than a polymer one. Reserve the Govino set for outdoor occasions where the shatterproof design is actually the point."
+  - question: "How do I prevent chipping on thin-rimmed crystal flutes?"
+    answer: "Rim chips happen most often during toasting contact, washing, and storage. During toasting, guide rim contact to the side of the bowl rather than rim-to-rim. During hand-washing, hold each flute individually and avoid contact with other glassware in the sink. During storage, stand flutes upright rather than inverted — inverting puts the most fragile point in contact with the shelf and compresses the rim under the weight of the glass."
 ---
 
 Champagne flutes are one of those purchases that seem simple until you're actually standing in front of the options. The right flute changes how a toast feels , not because it's precious, but because it holds the moment properly. For anyone researching [Waterford crystal Millennium champagne flutes](/glassware/), the question usually isn't just whether to buy Waterford. It's whether crystal is the right call at all, and what alternatives are worth considering alongside it.

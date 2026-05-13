@@ -35,6 +35,17 @@ products:
 tags: ["glassware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Are green wine glasses dishwasher safe?"
+    answer: "It depends on the glass. Machine-made options like the Libbey Signature Paneled set are generally dishwasher safe — the manufacturer's Safedge guarantee backs that up. Hand-blown glasses from Estelle and Simon Pearce are hand-wash only without exception, because the heat and agitation of a dishwasher can cause color degradation and stress fractures in hand-blown work. Check the care instructions before assuming, and err toward hand-washing for any hand-blown piece."
+  - question: "Estelle emerald glasses vs. Simon Pearce Barre — which works better for a dinner party?"
+    answer: "For a dinner party where logistics matter, the Estelle set of six is the more practical choice — it seats six without a second order and the color is consistent enough to look intentional across the table. The Simon Pearce Barre glasses are more beautiful as individual objects but the pronounced piece-to-piece variation and hand-wash requirement make them better suited to small, unhurried gatherings than a full dinner party table."
+  - question: "Can you actually taste the wine through a colored glass?"
+    answer: "Yes. The color is in the glass itself, not on the surface, so there is no coating interfering with the wine's contact with your palate. The trade-off is visual — you cannot assess the wine's color the way you can in clear crystal, which matters more if you are tasting critically than if you are enjoying a glass with dinner. For most table use, it is a non-issue."
+  - question: "How does wall thickness affect the appearance of green wine glasses?"
+    answer: "Thicker walls deepen and intensify the color, creating a rich jewel-tone effect. Thinner walls give a lighter, more translucent appearance. Neither is preferable in the abstract — it depends on whether you want a glass that commands the table or one that adds a wash of color without dominating it. Hand-blown glasses like the Estelle or Simon Pearce also diffract light in a way that flat machine-pressed glass does not, giving the color visible depth."
+  - question: "What is the best way to remove hard-water spots from colored wine glasses?"
+    answer: "A white vinegar soak handles calcium deposits reliably — fill the glass with a 50/50 water-and-white-vinegar solution, let it sit for fifteen to twenty minutes, then rinse thoroughly and dry by hand. This is especially important for the ribbed Libbey glasses, where deposits collect in the ridges and are visible against the colored glass. For flat-sided glasses, a vinegar rinse after dishwashing is usually sufficient to keep them clear."
 ---
 
 Green wine glasses have had a quiet moment in design editorial for the past few years, and the appetite for them at the actual table , not just on mood boards , has caught up. If you've been looking through [Glassware & Crystal](/glassware/) options and noticed that the colored glass category is harder to navigate than plain crystal, that's because the range runs from mass-market tinted glass to genuine hand-blown artisan work, and the differences matter more than they might seem.

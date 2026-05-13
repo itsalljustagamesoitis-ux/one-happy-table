@@ -35,6 +35,17 @@ products:
 tags: ["decor", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What size taper candle fits a bow candle holder?"
+    answer: "Most bow candle holders are designed for standard 7/8-inch diameter taper candles, which is the most common size in the US. However, decorative holders with shaped cups may run slightly narrower or shallower, so it is worth checking the listed cup diameter before purchasing. If the fit is loose, a rubber candle ring — sold separately and inexpensively — will stabilize most standard tapers in an undersized cup."
+  - question: "Danya B. bow holder vs. Michael Aram Twist — which is better for a formal dinner table?"
+    answer: "The Danya B. bow holder is the cleaner formal choice — the defined bow shape reads crisp and intentional against formal linens and structured charger plates. The Michael Aram Twist works better on tables with organic or artisanal elements where the sculptural form complements rather than competes. If the table is symmetrical and formally dressed, the Danya B. is the more disciplined answer."
+  - question: "Is the Stoff Nagel system worth buying as a set of three, or should I start smaller?"
+    answer: "A set of three is the practical starting point for the Stoff Nagel system because three holders create a configuration with enough visual presence to stand on its own. A single holder or a pair does not give you the benefit of the modular concept — the design logic depends on connection and arrangement. Starting with three lets you evaluate whether the system fits your table before committing to a larger build."
+  - question: "Can bow candle holders be used with LED or battery-operated tapers?"
+    answer: "Yes, and it is often practical for tablescapes where open flame is not appropriate — events with children nearby, venues with fire restrictions, or outdoor settings with wind. The fit question still applies: an LED taper has a fixed base diameter, so the same cup-diameter compatibility check matters. LED tapers also tend to have a slightly more consistent base width than wax tapers, which can actually improve the fit in holders designed for standard dimensions."
+  - question: "How should I store metal candle holders between uses to prevent scratches?"
+    answer: "Store them individually wrapped in soft cloth or tissue, away from contact with other metal objects. Chrome and polished finishes scratch from surface-to-surface contact during storage more readily than from normal handling. Sculptural holders with dimensional elements like the Michael Aram Twist need space between them rather than being stacked. A shelf with individual slots or a padded box designed for breakables is better than a drawer with other entertaining pieces."
 ---
 
 Bow candle holders occupy a specific niche in table styling , they're the piece that signals intention without demanding attention. A simple bow-shaped base lifts a taper candle just enough to make the whole table feel considered, and that's exactly what draws people to search for them. If you're building a tablescape for a dinner party or just want something on the sideboard that looks genuinely curated, this category is worth understanding before you buy. Browse our [Decor & Candles](/decor/) collection for the full range of what pairs well with these.

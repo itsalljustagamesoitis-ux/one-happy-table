@@ -32,6 +32,17 @@ product_a: "mikasa-cameo-white-bone-china"
 product_b: "wedgwood-vera-wang-lace-teacup-saucer"
 # winner: product_a  # SET THIS after review
 # winner_reason: ""  # SET THIS after review
+faq:
+  - question: "What is the actual difference between bone china and fine china?"
+    answer: "Bone china contains bone ash — typically between 30 and 45 percent of the clay body — which makes it more translucent and slightly more durable than standard fine china. Fine china uses kaolin clay without the bone ash component and tends to fire to a brighter, cooler white. Both are appropriate for formal table settings, but bone china's characteristic glow under light is a property fine china does not replicate."
+  - question: "Is bone china safe to use in the dishwasher?"
+    answer: "It depends entirely on the piece. The Mikasa Cameo White place setting is rated dishwasher safe on the top rack. Pieces with platinum or gold trim, like the Vera Wang Lace teacup, must be hand-washed because the metallic decoration degrades in dishwasher detergent over time. Always check the specific care instructions for each piece rather than assuming all bone china behaves the same way."
+  - question: "Which should I buy first if I am building a formal china collection?"
+    answer: "Start with a complete place setting before adding accent pieces. A five-piece setting like the Cameo White gives you the working foundation of a formal table — dinner plate, salad plate, soup bowl, cup, and saucer — which is what you need to actually host a meal. Once you have a full service for the number of guests you typically entertain, accent pieces like the Wedgwood Vera Wang Lace add intentional detail without requiring you to rebuild from scratch."
+  - question: "Is the Vera Wang Lace teacup suitable for everyday use?"
+    answer: "Not practically. The platinum trim requires hand-washing, which rules it out for households that rely on a dishwasher for daily cleanup. It is designed for formal occasions — afternoon tea service, a dessert course, or a setting where the visual presentation is part of the hospitality. If you want a bone china teacup for daily use, look for a piece without metallic decoration that carries a dishwasher-safe rating."
+  - question: "Can I mix bone china and fine china on the same table?"
+    answer: "You can, but pay close attention to tone. Bone china typically reads warm — cream or ivory — while fine china often fires to a cooler, brighter white. Placing a warm-toned bone china plate beside a cool-toned fine china piece can look mismatched rather than intentionally layered. If you are combining the two, use other table elements — linens, chargers, glassware — to bridge the tonal difference deliberately."
 ---
 
 Bone china and fine china get used interchangeably in casual conversation, but they are not the same material , and the difference matters when you're choosing tableware that will actually hold up on your table. Understanding what separates them saves you from a purchase you'll regret the first time a teacup chips or a dinner plate looks wrong against your linens.

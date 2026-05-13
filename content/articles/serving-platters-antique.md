@@ -35,6 +35,17 @@ products:
 tags: ["serveware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Michael Aram Olive Branch serving platter — is the premium price justified over a ceramic option?"
+    answer: "For purely functional use, the premium is difficult to justify on performance grounds alone — stoneware holds food well and lasts for years. The case for the Michael Aram Olive Branch platter rests on its sculptural character, collector market presence, and the way its oxidised finish develops character with age rather than simply wearing down. If you're buying a working platter for weekly service, a ceramic option serves that purpose at a fraction of the cost. If you're building a table with long-term aesthetic and investment intent, the difference is material."
+  - question: "Can the blue and white hand-painted serving platter go in the dishwasher?"
+    answer: "The stoneware body is durable, but repeated dishwasher cycles will gradually affect the intensity of the hand-applied cobalt decoration. Most manufacturers recommend hand-washing for hand-painted pieces to preserve the finish. The Blue and White Hand-Painted Serving Platter handles occasional machine washing tolerably, but consistent hand-washing will keep the pattern crisp significantly longer."
+  - question: "What size serving platter works best for most home dining tables?"
+    answer: "The 14-inch oval is the practical standard for the majority of home dining tables. It handles a whole protein, a composed salad, or a generous appetizer spread without crowding out dinnerware and glassware. Larger platters — 16 inches and above — are better suited to buffet service or a dedicated sideboard, where the platter is the dominant surface rather than one element competing for space."
+  - question: "How do you tell the difference between an antique-style platter and a genuinely antique piece?"
+    answer: "Antique pieces show specific aging markers — crazing in the glaze, uneven foot rings, period-specific decorative motifs, and maker's marks consistent with historical production dates. Contemporary antique-style pieces are typically heavier and more uniform in construction than genuine antiques, and their marks will reference modern manufacturers. If provenance matters to your purchase, buy from reputable antique dealers and request documentation."
+  - question: "Blue and white platter with plain white dinnerware — does it work or does it clash?"
+    answer: "Plain white dinnerware is deliberately neutral and accepts almost any decorative serving piece. A blue-and-white platter against white dinner plates reads as intentional and considered rather than mismatched. The pairing that requires more thought is a heavily decorated platter placed alongside patterned or colored dinnerware — in that case, competing patterns need a unifying element, typically a plain linen, to hold the table together."
 ---
 
 Antique serving platters occupy a strange and satisfying corner of the table , they carry visual weight that modern pieces rarely match, and they invite the kind of conversation that a glossy white rectangle simply cannot. Whether you're drawn to genuine vintage finds, collector-grade pieces with secondary market value, or new serveware designed to read as artisan and aged, the choices reward a more considered approach. The full [serveware](/serveware/) landscape is broader than most buyers expect, and knowing where antique-adjacent pieces fit within it makes the search considerably easier.

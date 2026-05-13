@@ -35,6 +35,17 @@ products:
 tags: ["serveware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What size serving platter works best for a dinner party or cheese board?"
+    answer: "Sixteen inches is the practical minimum for a spread meant to be a centerpiece — it gives you room to compose a full cheese board or charcuterie arrangement without crowding. For passed appetizers or a roast that travels from kitchen to table, thirteen inches works well and is more manageable in one hand. Round platters suit cheese boards and composed spreads; oval platters suit elongated items like whole roasts and fish."
+  - question: "How do I keep a silver-tone metal platter from scratching?"
+    answer: "Scratches on silver-tone finishes come almost entirely from metal-on-metal contact — serving utensils, stacking without padding, or storing loose in a cabinet. Use serving pieces with silicone-coated tips, place felt pads between platters when storing, and dry the surface thoroughly after washing to prevent water marks. With those adjustments the finish holds up considerably better over time."
+  - question: "Is the Michael Aram Olive Branch platter worth the premium over a simpler metal option?"
+    answer: "For buyers who want a decorative serving piece with genuine long-term value, yes. The hand-crafted oxidised nickel and cast olive branch relief hold their aesthetic quality well — the secondary market for Michael Aram pieces is consistently strong, which reflects how these perform as objects over time. The hard trade-off is that the oxidised finish reacts to dishwasher detergent and requires hand-washing. If low-maintenance is a priority, this is the wrong choice regardless of the design quality."
+  - question: "Can the Butterfly Meadow serving platter be used with non-Lenox dinnerware?"
+    answer: "Technically yes, but in practice it is a difficult pairing. The Butterfly Meadow botanical print is vivid and specific enough that it tends to compete with unrelated tableware rather than complement it. The platter was designed as part of a coordinating collection and works best in that context. If you are buying it as a standalone piece without the matching dinnerware, a neutral-finish platter will give you far more flexibility across different table settings."
+  - question: "Serving platter vs charger plate — what is the difference?"
+    answer: "A serving platter carries and presents food from kitchen to table. A charger plate is a decorative base plate that sits under a dinner plate as part of a place setting and never makes direct food contact — it is typically removed before the meal is served. Platters need to be food-safe, durable under heat and weight, and sized for presentation. Chargers are purely aesthetic. Confusing the two leads to buying decisions that work for one purpose and frustrate the other."
 ---
 
 Serving platters do more work than people give them credit for. A good one carries a roast to the table without drama, holds a cheese board steady through a long evening, and , if you've chosen it thoughtfully , looks like it belongs there. Browse the full range of [serveware](/serveware/) options and you'll see how much variety exists in this single category alone.

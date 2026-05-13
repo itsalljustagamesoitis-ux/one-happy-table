@@ -35,6 +35,17 @@ products:
 tags: ["dinnerware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is fine china from brands like Mikasa and Lenox actually non-toxic?"
+    answer: "Fine china from established manufacturers like Mikasa and Lenox is produced to FDA compliance standards for lead and cadmium content, and both brands have long compliance histories. The concern about lead in glazes is more relevant to very inexpensive imported ceramics where quality control is harder to verify. The vitrified surface of fine china is non-porous, which means it does not absorb food residue, bacteria, or cleaning chemicals over time."
+  - question: "Bamboo fiber dinnerware vs. melamine — what is the difference for non-toxic use?"
+    answer: "Melamine is a synthetic resin considered safe for room-temperature food service but not appropriate for microwave use, since heat causes it to degrade and can introduce formaldehyde into food. Bamboo fiber dinnerware made without melamine binders has a cleaner material profile — the source material is natural, it is naturally anti-microbial, and it avoids the heavy metal glazes that sometimes appear in mass-market ceramics. Both require hand-washing, but bamboo fiber is the more defensible choice for buyers prioritizing non-toxic credentials."
+  - question: "Can the Mikasa Trellis White go in the dishwasher safely?"
+    answer: "Yes. The Mikasa Trellis White is dishwasher-safe, which is one of its practical advantages over formally decorated fine china with metallic banding. The embossed pattern is structural rather than surface-applied, so there is nothing to degrade in a dishwasher cycle. It is one of the more low-maintenance white china options available at a mid-range price point."
+  - question: "Why does the Lenox Opal Innocence require hand-washing if it is fine china?"
+    answer: "The hand-wash requirement applies specifically to the platinum band, not to the bone china body itself. Repeated dishwasher exposure erodes metallic finishes — the platinum will visibly dull and eventually flake if machine-washed. The bone china underneath is dishwasher-compatible. If hand-washing a formal set is impractical for your household, the Mikasa Trellis White is a fully dishwasher-safe alternative with comparable china construction."
+  - question: "Who should choose bamboo fiber dinnerware instead of ceramic?"
+    answer: "The bamboo fiber category exists for a specific buyer: someone who needs break-resistance and a clean material profile simultaneously. It is the most defensible non-toxic choice for outdoor entertaining, picnics, or a dedicated children's set where lightweight and near-unbreakable performance matter more than formal aesthetic. The strict care requirement — no microwave, no dishwasher — makes it unsuitable as a replacement for ceramic at a formal table."
 ---
 
 Non-toxic dinnerware has become one of the more searched topics in the [Dinnerware & China](/dinnerware/) category, and for good reason , most buyers don't realize that not all glazes, dyes, and composite materials are created equal. The sets that look similar on a shelf can differ significantly in what they're made of and how those materials behave over years of daily use.

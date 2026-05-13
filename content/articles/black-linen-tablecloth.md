@@ -35,6 +35,17 @@ products:
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What's the difference between a pure linen tablecloth and a linen-cotton blend?"
+    answer: "Pure linen is stronger, more absorbent, and develops a more refined drape over time, but it wrinkles readily and requires ironing to look pressed. A linen-cotton blend is softer out of the wash, more wrinkle-resistant, and easier to maintain — but it does not achieve the same texture or longevity as pure linen. For formal entertaining, pure linen is worth the care commitment. For everyday use, a blend is the more practical choice."
+  - question: "Does black linen fade with repeated washing?"
+    answer: "All dark-dyed natural fibers fade over time with repeated washing — black linen is no exception. The rate depends on dye quality, water temperature, and detergent. Wash black linen in cold water with a color-safe detergent, avoid extended sun drying, and the color will hold considerably longer. Budget-tier pieces from brands with lower dye standards will show fading sooner than premium options from established linen houses."
+  - question: "Is a table runner enough, or do I need a full tablecloth?"
+    answer: "A runner works best as a layering piece over a full cloth or over a table surface worth showing — bare hardwood, a painted farmhouse table, a marble-top console. Used alone on a table that is not interesting underneath, a runner can look unfinished. If your table surface is the feature, a runner is sufficient. If the table itself is not decorative, a full cloth gives you a cleaner starting point."
+  - question: "Can a black linen tablecloth be used outdoors?"
+    answer: "Black linen works outdoors but comes with specific trade-offs. Dark fabric absorbs heat in direct sun, which can be uncomfortable for guests who brush against the table edge. Linen also absorbs moisture readily, so an outdoor table in humid conditions will need more frequent washing. For outdoor use, look for pre-washed, slightly heavier linen that will not blow off a bare table in a breeze."
+  - question: "How do I calculate the right tablecloth size for my table?"
+    answer: "Measure your table in both dimensions, decide on your preferred drop, and add twice the drop amount to each measurement. A short drop of four to six inches reads as casual; ten to twelve inches signals a more formal setting. Linen has no meaningful stretch, so an inch short on drop will look deliberately wrong rather than close enough. Most quality linen tablecloths specify dimensions clearly — round up if you are between sizes."
 ---
 
 A black linen tablecloth is one of those purchases that looks simple until you start reading listings and realize you're choosing between fabric weights, weave types, sizes, and care requirements that will matter every time you set the table. The right one earns its place in rotation. The wrong one wrinkles into a liability. I've been testing [table linens](/linens/) long enough to know the difference, and these three picks represent honest, usable choices across a range of styles and budgets.

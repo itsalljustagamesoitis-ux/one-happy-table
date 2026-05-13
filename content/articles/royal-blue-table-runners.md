@@ -35,6 +35,17 @@ products:
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Royal blue vs. navy table runner — what is the actual difference?"
+    answer: "Navy sits considerably darker — it reads as deep, near-formal, and close to neutral in low light. Royal blue is brighter and more saturated, making it a stronger visual statement on the table. Both work for formal and festive settings, but royal blue commands more attention. If versatility across multiple table settings is the priority, the article notes that navy integrates more quietly with varied dinnerware and centerpiece colors."
+  - question: "Can a table runner be used without a tablecloth underneath?"
+    answer: "Yes, and the article says it looks better without one for most casual to transitional tables. A runner directly on the table surface shows the wood grain alongside the fabric, giving the setting a more modern and intentional quality. The practical caveat is that without a tablecloth, the table itself is more exposed to spills and heat — on a surface with a finish worth protecting, a tablecloth or placemats alongside the runner adds a useful layer."
+  - question: "How do I keep a table runner from sliding on a smooth table?"
+    answer: "A non-slip runner pad placed beneath it is the most reliable and least expensive solution. Alternatively, choosing a heavier fabric runner makes a meaningful difference — the Chilewich Trellis stays put more reliably than lightweight cotton options because of its weight and woven vinyl-yarn texture. The DII Sarape Striped Runner is the most likely to shift on a smooth surface and benefits most from a pad."
+  - question: "Chilewich woven runner vs. stonewashed linen — which is more durable?"
+    answer: "The Chilewich vinyl-yarn construction is more durable by a significant margin. It resists heat from serving dishes, sheds water rather than absorbing it, and machine washes without colourfast anxiety. The Juliska stonewashed linen is a premium natural fiber product that requires more care, though the stonewashed finish eliminates the need for ironing. For hosts who entertain frequently and want a runner that simply holds up, the article recommends the Chilewich without hesitation."
+  - question: "How do I choose the right length runner for my dining table?"
+    answer: "Measure the full length of your dining table and add at least eight inches for overhang — four inches per end is the minimum that looks intentional. For a formal setting, six inches of drop on each end reads better. The article warns that a standard 72-inch runner will look short on all but the smallest tables — a six-seat table typically runs 72 to 84 inches, and an eight-seat table should get the 90-inch or 108-inch option."
 ---
 
 A royal blue table runner is one of the most direct ways to shift the mood of a table , it reads as formal or festive depending on what surrounds it, and it works on everything from a laid-back dinner party to a dressed-up holiday setting. The options range from budget cotton to premium stonewashed linen, and getting that choice right matters more than most people expect. A thoughtful look at [table linens](/linens/) before you buy will save you from a runner that photographs beautifully but frustrates you every time you launder it.

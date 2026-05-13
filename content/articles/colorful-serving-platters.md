@@ -35,6 +35,17 @@ products:
 tags: ["serveware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What size serving platter do I need for a proper cheese and charcuterie board?"
+    answer: "For a board with three to four cheeses, accompaniments, and crackers, 16 inches is the practical minimum — anything smaller forces the arrangement to look cramped no matter how well you style it. Round platters at 16 inches, like the Godinger Silver, work particularly well because they encourage a natural concentric layout that fills the space without looking forced. Oval shapes handle elongated spreads and whole-fish presentations more naturally."
+  - question: "Can a decorative serving platter be used for hot food?"
+    answer: "Porcelain platters handle hot food reasonably well — they hold warmth for passed dishes and tolerate moderate oven heat. Metal platters, including silver-tone and oxidized nickel pieces, are cold-service pieces and should not be used for hot food. Heat can warp thinner metal constructions and will accelerate finish degradation on plated surfaces. If you want one platter that handles both uses, choose porcelain over metal."
+  - question: "Is the Lenox Butterfly Meadow platter worth buying if I do not own the matching dinnerware?"
+    answer: "Honestly, no. The Butterfly Meadow pattern is distinctive enough that it functions as part of a visual system rather than a versatile standalone platter. Outside its own dinnerware line, the pattern competes with rather than complements most table settings. If you are already building a Butterfly Meadow table it is the natural completion piece; if you are not, a neutral-finish platter gives you considerably more flexibility across different occasions."
+  - question: "How do I stop a silver-tone serving platter from scratching?"
+    answer: "Switch to silicone-coated or wooden serving utensils — metal serving tongs, spoons, and knives will score a silver-tone finish over time regardless of how careful you are. Store the platter with a cloth layer between it and anything else in the cupboard, as finish-to-finish contact during storage is a more common cause of scratching than actual use. Those two habit changes will preserve the finish considerably longer than careful handling at the table alone."
+  - question: "How do I care for an oxidized nickel platter so it does not deteriorate?"
+    answer: "Hand-washing with mild soap is the only appropriate cleaning method — dishwasher detergent, including gentle cycles, will strip the oxidized finish and flatten the tonal variation that makes pieces like the Michael Aram Olive Branch worth owning. Dry it thoroughly after washing rather than air-drying, which leaves water marks on the nickel surface. With that level of care, an oxidized nickel piece develops a richer patina over years of use rather than deteriorating."
 ---
 
 Colorful serving platters change what a table communicates before a single guest takes their seat. A well-chosen platter carries pattern, finish, and scale that coordinates with your dinnerware or deliberately contrasts it , and that tension is half the point. Browse the full range of [serveware](/serveware/) before you commit to a style, because platters rarely live in isolation.

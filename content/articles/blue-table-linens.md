@@ -35,6 +35,17 @@ products:
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What size tablecloth do I need for an eight-foot banquet table?"
+    answer: "An eight-foot banquet table is typically 96 inches long and 30 inches wide. A 90x132-inch tablecloth gives you full floor-length drop on the ends and a standard drop along the sides — the correct coverage for formal events and seated dinners. Measure your table before ordering since folding tables vary slightly in dimension by manufacturer."
+  - question: "Will navy blue tablecloths fade after washing?"
+    answer: "Deep-dyed colors including navy are more vulnerable to wash fading than lighter shades because there is more pigment to lose. Cold water washing and line drying or low-heat tumble drying significantly slow that process. Pre-washed fabrics tend to hold color better because the dye instability is reduced before you first launder them."
+  - question: "Is Belgian linen worth the price compared to cotton napkins?"
+    answer: "Belgian linen costs more per napkin than comparable cotton and requires more considered laundering. What it offers in return is a texture, drape, and hand feel that cotton does not replicate — and it improves with use rather than degrading. For households that entertain regularly, the investment pays out over time. For occasional use, a high-quality cotton napkin is more practical and nearly as presentable."
+  - question: "Can I layer a runner over a tablecloth, or does that look overdone?"
+    answer: "Layering a runner over a tablecloth is a standard approach in formal and event table setting, not an overreach. It adds visual texture and an additional color layer without requiring you to swap out the full tablecloth. The Juliska Country Estate Table Runner, with its relaxed stonewashed finish, layers well over a solid tablecloth because the texture contrast reads as intentional rather than accidental."
+  - question: "How do I keep navy blue table linens looking sharp before guests arrive?"
+    answer: "Navy and deep blue fabrics show lint, pet hair, and loose fibers more readily than lighter colors. Keep a lint roller at hand as part of your table-setting routine and use it after the cloth is placed and before dinnerware goes down. For linen pieces, a light steam smooths wrinkles without damaging the fibers. Set the table as close to guest arrival as practical to minimize the window for lint accumulation."
 ---
 
 Blue is one of the most searched colors for tablecloths , and for good reason. It reads formal without being cold, works across seasons, and coordinates with almost every dinnerware palette you're likely to own. The problem isn't finding blue table linens; it's knowing which ones are worth the investment and which ones will fade, pill, or disappoint after three washes. Browsing the full range of [table linens](/linens/) before narrowing down helps, but this article does the narrowing for you.

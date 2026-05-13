@@ -35,6 +35,17 @@ products:
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is a green gingham tablecloth the same as a green plaid tablecloth?"
+    answer: "Related but distinct. Gingham is a two-color even check — always symmetrical, always the same scale. Plaid, including tartan plaid, uses multiple colors in varying stripe widths to create a more complex pattern. A green gingham qualifies as a type of plaid in the broad sense, but a tartan plaid is not gingham. The LinenTablecloth Green Gingham Check is the right choice if you want the classic two-color check; the Waterford Stewart Plaid is the right choice if you want an authentic multi-color tartan."
+  - question: "Can the Waterford Stewart Plaid Tartan tablecloth be machine washed?"
+    answer: "Dry-clean is recommended for the Waterford Stewart Plaid to preserve the fabric weight and color depth of the tartan. Machine washing risks compromising both. The LinenTablecloth Green Gingham is machine washable — the cotton-poly blend handles regular cycles reliably. The Estate Collection Cotton Tablecloth is pure Egyptian cotton, which is machine washable on a gentle cool cycle but requires careful handling to maintain its hand and finish."
+  - question: "Does a plaid tablecloth work for occasions beyond Christmas and St. Patrick's Day?"
+    answer: "Unambiguously yes. A well-chosen plaid in green, white, and navy reads as classic rather than seasonal — it is at home on an autumn dinner table, a summer garden lunch, or any occasion where you want warmth and pattern without strict formality. The key is weight and construction. A heavy, well-draped tartan or gingham looks deliberate in any season; a thin printed plaid can look themed regardless of the occasion."
+  - question: "Which tablecloth is best for a long formal dining table that seats ten or twelve?"
+    answer: "The Estate Collection Cotton Tablecloth is the strongest option for a long formal table. Its size range extends to 70x160 inches, covering dining tables that seat ten to twelve guests — a dimension most everyday tablecloths do not reach. The jacquard-woven construction and Egyptian cotton drape read correctly at a formal setting in a way that gingham would not. If the table is used seriously for dinner parties, the investment in quality linens at this scale is justified."
+  - question: "How much drop should a tablecloth have for a formal dinner versus a casual setting?"
+    answer: "A formal dining table calls for 10 to 12 inches of drop on each side — enough to frame the table without reaching the floor. A casual table setting works well with 6 to 8 inches. Measure your table's length and width, then add twice your target drop to each dimension to get the minimum cloth size you need. Getting this calculation right before ordering is far easier than returning the wrong size."
 ---
 
 A green plaid tablecloth is one of the few table linens that works across genuinely different occasions , a casual garden lunch, a formal holiday dinner, a St. Patrick's Day table that doesn't look like a themed party. Finding one that holds up to washing, drapes well on your actual table, and looks considered rather than costumey is harder than it should be. The full range of [table linens](/linens/) covers far more than plaid, but plaid is where a lot of people start.

@@ -35,6 +35,17 @@ products:
 tags: ["glassware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "\"Acrylic\" vs \"crystal\" on cocktail glass labels — what's the actual difference?"
+    answer: "Crystal is glass — either lead crystal or lead-free variants reinforced with titanium or barium. Acrylic is plastic. The distinction matters for two reasons: acrylic is genuinely unbreakable and safe for poolside use where broken glass is a hazard, while crystal offers superior optical clarity, weight, and the characteristic ring when tapped. Some product descriptions use \"crystal-clear acrylic\" loosely, which can obscure this — always verify the material specification before buying for a glass-free environment."
+  - question: "Does a stemless cocktail glass actually affect the temperature of a cold drink?"
+    answer: "Yes, and the effect is more significant than most buyers expect. Hand warmth transfers directly into a stemless bowl, raising the temperature of a cold cocktail noticeably over five to ten minutes. For drinks where serving temperature is part of the experience — a well-made margarita, a chilled cosmopolitan — a stemmed glass maintains that temperature through the first several sips. For spirit-forward drinks over ice, the temperature shift from a stemless glass is less consequential."
+  - question: "Riedel Highball vs Luigi Bormioli Optica — which set is better if I primarily serve G&Ts?"
+    answer: "For a dedicated G&T household, the Riedel Bar Drink Specific Highball is the more purposeful choice — the form is engineered specifically for that drink, and the difference in carbonation and aroma is measurable. The Luigi Bormioli Optica set offers better optical clarity and a more generous pack size at a lower price band, making it the stronger option if G&T is one of several drinks you serve rather than the sole focus."
+  - question: "How many cocktail glasses do I realistically need for home entertaining?"
+    answer: "For a household that hosts six to eight guests regularly, a minimum of eight glasses in the same style allows everyone to have one in hand while the dishwasher runs or a round is being poured. The Libbey Midtown 12-pack covers this scenario with room for attrition. For occasional smaller gatherings, the Luigi Bormioli six-pack is adequate and takes up considerably less storage space."
+  - question: "What cocktail glass shape should I buy if I serve a mix of highballs and spirit-forward drinks?"
+    answer: "There is no single form that serves both equally well — a Collins-style highball is designed for carbonated long drinks, while a rocks glass suits spirit-forward drinks over a large cube. Buying the wrong form because it's cheaper or more available is a common misstep. If your entertaining regularly includes both categories, stocking both shapes makes more sense than seeking a single versatile compromise."
 ---
 
 Acrylic cocktail glasses sit in an odd corner of the entertaining market , they look like crystal, they function like glassware, and they survive the patio in a way that neither can. If you're stocking a bar cart for outdoor hosting or building a collection that can move between the kitchen counter and the deck without a casualty every weekend, this category is worth understanding before you buy. The full range of [glassware & crystal](/glassware/) options makes clear how much variety exists even within cocktail-specific forms.

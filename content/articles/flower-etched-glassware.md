@@ -35,6 +35,17 @@ products:
 tags: ["glassware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Champagne flute vs champagne wine glass — which is better for actually tasting champagne?"
+    answer: "A standard flute has a tall, narrow bowl that preserves carbonation and creates a long bead of bubbles, but restricts aroma. The wider champagne wine glass format used by the Riedel Veloce has a broader bowl closer to a white wine glass shape, which allows more aroma to develop — champagne experts generally prefer this. The trade-off is slightly faster carbonation loss once poured, which is a minor consideration unless you're letting the glass sit for a long time."
+  - question: "Is Tritan crystal actually better than standard lead-free crystal for everyday dishwasher use?"
+    answer: "For regular dishwasher use, yes, the difference is meaningful. Standard lead-free crystal develops a cloudy surface haze over time that dulls the glass and is difficult to reverse. Tritan crystal, used in the Zwiesel Glas Enoteca Champagne Flute, resists this process and maintains its clarity through repeated machine washing. For pieces washed by hand consistently, the gap narrows considerably."
+  - question: "Can a glass carafe be used for wine service instead of a decanter?"
+    answer: "A carafe will hold wine, but it isn't designed for the purpose. The wide-mouth opening on the Anchor Hocking carafe is built for still beverages — water, juice, cold drinks — not for the aeration that makes decanting useful. If you want to open up a young red before dinner, a proper decanter with a broad base provides meaningfully more oxygen contact. Use the carafe for water service at the table; a decanter is a different tool for a different job."
+  - question: "How do I prevent champagne flute stems from breaking in the dishwasher?"
+    answer: "The stem base is always the weakest point, and the most common cause of breakage is water pressure at the base of an upright flute in the dishwasher. Load tall-stemmed flutes on their side in the top rack, or wash by hand and set them to dry lying flat. Storing them in a cabinet where they can knock against each other is the second most common cause of breakage — a stemware rack or padded dividers eliminate most of that risk."
+  - question: "Should I buy matched stemware sets or mix different glassware styles at a dinner table?"
+    answer: "Matched sets read as intentional at formal tables and create a unified visual across every place setting. Mixing can work well at casual tables if you keep one variable consistent — typically stem height or overall glass height — while varying bowl shape or crystal type. The mistake with mixing is ignoring proportion: glasses of dramatically different heights placed side by side look accidental rather than curated. Start with a matched set and add variety deliberately once you understand what your table actually needs."
 ---
 
 Flower etching on glassware has a way of making an ordinary table feel considered , the kind of detail that guests notice without knowing exactly why. If you're browsing [Glassware & Crystal](/glassware/) options and trying to figure out which pieces are worth owning, the challenge is separating genuinely beautiful design from novelty that loses its appeal after two uses.

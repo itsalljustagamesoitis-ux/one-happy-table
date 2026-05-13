@@ -35,6 +35,17 @@ products:
 tags: ["glassware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Are varietal-specific wine glasses worth buying over a universal shape?"
+    answer: "For wines you drink regularly and deliberately — a Bordeaux-focused dinner, a vertical tasting — yes. The Riedel Vinum Bordeaux genuinely directs the pour to the back of the palate where Bordeaux varietals show best, and you taste that difference. For mixed-wine entertaining where the pour varies night to night, a good universal bowl is more practical and usually more versatile. Buy varietal-specific only if you know the wine you are committing to."
+  - question: "Handblown wine glass vs machine-made crystal — which is worth the money?"
+    answer: "The value of a handblown glass like the Simon Pearce Barre is not purely functional — it is the provenance, the slight variation between pieces, and what that communicates at the table. If craft and intention are part of what you offer guests, that premium is justified. If you need uniformity, durability, or the ability to reorder replacements easily over time, machine-made crystal serves you better. Machine production means every glass in the set is dimensionally identical, which matters for consistent tasting."
+  - question: "Can colored wine glasses be used for serious wine service?"
+    answer: "You can pour wine in them, but you lose the visual evaluation dimension. A wine's color depth, clarity, and the way it transitions at the rim are part of the tasting experience, and cobalt glass obscures all of that. For tables where atmosphere takes priority over wine evaluation that trade-off is entirely reasonable. For any occasion where the wine itself is the focus, clear crystal is the right choice."
+  - question: "How many wine glasses do I need for a regular dinner party?"
+    answer: "Four to eight is the practical range for most home entertaining. Four covers a standard dinner party without leaving you short. Eight gives you a buffer for breakage and allows for seconds without washing between courses. If you entertain larger groups regularly, two sets — one for daily use, one reserved for occasions where presentation matters — is a reasonable strategy."
+  - question: "What is the right way to store crystal wine glasses to prevent breakage?"
+    answer: "Store stemware upright when possible — storing them rim-down on a shelf puts stress on the most fragile part of the glass. Leave space between glasses in the cabinet so they are not touching. For machine-made crystal like the Riedel Vinum, a padded divider or dedicated stemware rack significantly reduces chip risk compared to crowding. For handblown pieces like Simon Pearce, which are hand-wash only, wrap and store separately."
 ---
 
 Choosing wine glasses for a table you care about is less straightforward than it looks. The shape of the bowl, the weight of the stem, the clarity of the crystal , all of it affects both how the wine shows and how the glass reads at the table. If you're putting thought into your [Glassware & Crystal](/glassware/) choices, it's worth understanding what separates a glass that works from one that just looks the part.

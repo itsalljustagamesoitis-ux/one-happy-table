@@ -35,6 +35,17 @@ products:
 tags: ["glassware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Can ruby red tumblers be used as wine glasses at a dinner party?"
+    answer: "Technically you can pour wine into any vessel, but a tumbler isn't designed for wine service — it won't allow the wine to open up the way a proper bowl shape does, and you'll be holding the glass by the body, which warms the wine. For casual use it's fine; for any table where wine quality matters to you, use a stemmed wine glass and keep the tumblers for water or cocktails."
+  - question: "How do I keep red glassware from looking cheap on a formal table?"
+    answer: "The material and shape matter more than the color. Hand-blown red glass — like the Simon Pearce Ascutney — reads as intentional and artisanal on a formal table in a way that pressed tumblers don't. Pair red glassware with warm-toned linens and candlelight rather than a stark white setting, and let the glass be the focal point rather than competing with other decorative elements."
+  - question: "Are Schott Zwiesel Convention glasses actually dishwasher-safe?"
+    answer: "Yes, in a meaningful way. Tritan crystal is specifically engineered for dishwasher durability, and Schott Zwiesel backs the formula with cycle testing that exceeds home use by a significant margin. The caveat is that dishwasher-safe doesn't mean indestructible — glasses still break when they knock against each other. Use a proper stemware rack if your dishwasher allows it."
+  - question: "Simon Pearce Ascutney vs Schott Zwiesel Convention wine glasses — which is the better investment?"
+    answer: "They serve different buyers. The Simon Pearce Ascutney is mouth-blown in Vermont and carries the visual warmth and subtle irregularity of hand-craft — it's the right choice for someone who hand-washes without thinking about it and wants a glass that rewards that attention. The Schott Zwiesel Convention is Tritan crystal engineered for dishwasher durability, sold in a set of six — the stronger choice for regular entertaining where machine-washing after every dinner is non-negotiable."
+  - question: "Which red glassware set covers a dinner party of eight without multiple orders?"
+    answer: "The Lido Ruby Red Tumbler Glasses in a set of eight cover a full table in one purchase, which is the most practical answer if casual entertaining is the goal. If you're serving wine at a formal dinner for eight, you'd need to purchase two sets of the Convention glasses, since that set covers six. Factor set size into the purchase decision from the start, especially for hand-blown pieces where availability can be inconsistent between production runs."
 ---
 
 Ruby red glassware sits at an interesting intersection , colored enough to anchor a table, classic enough that it doesn't read as a trend. If you're searching specifically for Anchor Hocking ruby red glassware, you're likely after something affordable and durable for casual entertaining, which is a reasonable place to start. But the full range of [Glassware & Crystal](/glassware/) options worth considering is broader than one brand.

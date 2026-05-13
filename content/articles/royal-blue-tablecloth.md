@@ -35,6 +35,17 @@ products:
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Royal blue vs navy blue tablecloth — which is more formal?"
+    answer: "Navy blue reads as the more formal of the two. It sits darker on the spectrum and pairs naturally with silver flatware and crisp white dinnerware. Royal blue is brighter and more saturated, which makes it feel celebratory rather than restrained — better suited to weddings, holiday parties, and festive occasions. The choice should be driven by the occasion and the china you're working with."
+  - question: "What size tablecloth fits an 8-foot banquet table?"
+    answer: "A 90x132-inch tablecloth is the standard fit. It covers the full length of an 8-foot banquet table and delivers a drop of approximately 15 inches on each long side — enough for a formal presentation without reaching the floor. If you want a full floor-length drop, you'll need a wider cloth or a table skirt to supplement."
+  - question: "Is Egyptian cotton worth it over polyester for a formal tablecloth?"
+    answer: "For a table you're setting a few times a year, yes. Egyptian cotton drapes with a weight and finish that polyester blends cannot replicate, and it holds a pressed crease through an entire evening. The trade-off is real: it requires careful ironing and low-heat laundering. For high-frequency event use where tablecloths go through repeated wash cycles, a well-made polyester blend is a practical alternative."
+  - question: "How do I stop a dark tablecloth from showing lint before guests arrive?"
+    answer: "Use a lint roller after the cloth is on the table, working in long strokes in the direction of the weave. Navy and deep blue tablecloths show lint, pet hair, and dust immediately against the dark ground, so the lint roller should be part of your setup routine rather than an afterthought. Setting the table as close to arrival time as possible also limits what settles on the cloth."
+  - question: "What does hemstitching add to a tablecloth, and is it worth the premium?"
+    answer: "Hemstitching is a traditional drawn-thread finishing technique that adds a formal decorative border without introducing pattern. The Peacock Alley hemstitch tablecloth demonstrates how that detail reads as understated and elegant when the table is fully set. It's worth the premium if you want a cloth with a finishing detail that reads as hand-crafted — not if you're primarily buying for event use where the cloth's construction won't be examined closely."
 ---
 
 Royal blue has a way of making a table feel considered , the kind of color choice that reads as intentional rather than incidental. Whether you're dressing a long banquet table for a wedding reception or setting something formal for a holiday dinner, the tablecloth carries more visual weight than most people expect until they get it wrong. The full range of [table linens](/linens/) covers every style and fabric type, but this guide focuses on three tablecloths I'd actually put on my own table.

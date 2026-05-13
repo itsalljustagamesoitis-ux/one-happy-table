@@ -35,6 +35,17 @@ products:
 tags: ["decor", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is porcelain safe to use as a candle holder?"
+    answer: "High-fired porcelain handles moderate heat well, but the article flags one specific risk: if a taper burns all the way down and heat concentrates at the cup base, the holder can crack. The fix is simple — use a candle snuffer to extinguish tapers before they reach the last inch. Managed that way, a porcelain holder lasts for years without issue."
+  - question: "Porcelain candle holder vs. ceramic — is there a real difference?"
+    answer: "Yes. Porcelain is fired at a higher temperature than most ceramics, producing a denser, smoother body and a harder glaze. For candle holders specifically, that means better heat resistance and a glaze that is less likely to craze or crackle when a taper burns low. On a formal table, the surface quality also reads at a higher register alongside fine bone china than lower-fired earthenware or stoneware."
+  - question: "Stoff Nagel brass system or a simple porcelain pair — which is right for a dinner party table?"
+    answer: "It depends on the aesthetic and your long-term intention. The brass Stoff Nagel system is the stronger choice for a warm, layered table with linen and wood elements, and for buyers who want a modular centerpiece that grows over time. A white porcelain pair is right if your table runs formal, your china is white or bone, and you want the holders to recede rather than become a focal point. The brass also requires occasional polishing to prevent tarnish, which the porcelain does not."
+  - question: "How many candle holders do I need for a dinner table?"
+    answer: "The article recommends two as a starting point for most tables — positioned flanking a centerpiece or at opposite ends of a longer table for symmetry. For a table seating six to eight, three holders placed centrally, or two pairs with a floral element between them, provides sufficient light and visual interest. Beyond five holders, the article notes, the table begins to feel like a ceremony rather than a dinner."
+  - question: "What taper candle diameter fits a standard porcelain holder?"
+    answer: "Standard taper candles have a base diameter of roughly 7/8 inch, though this varies by brand. European tapers run slightly narrower and beeswax tapers slightly wider. The article recommends choosing a holder with a cylindrical cup that accommodates the standard diameter without a rubber adapter — a loose taper is a fire hazard. If a product description does not list cup diameter, that gap is worth investigating before purchase."
 ---
 
 Porcelain candle holders have a way of making a table feel finished , not decorated, but considered. If you've been browsing [Decor & Candles](/decor/) and trying to decide whether porcelain is the right material for your table, the short answer is yes, with a few caveats worth knowing before you buy.

@@ -35,6 +35,17 @@ products:
 tags: ["serveware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Place card holder vs porcelain place card — what's the difference?"
+    answer: "A place card holder is a separate stand or clip that holds a written or printed paper card. A porcelain place card, like the Mud Pie White and Gold Porcelain Place Cards, is a self-contained ceramic piece with a writing surface — there's no paper card involved. Porcelain place cards read as more formal and require a fine-tip china marker, but they eliminate the separate paper component entirely."
+  - question: "How many place card holders do I need for a dinner party of 10 or 12?"
+    answer: "A set of 12 covers the table without gaps and gives you room for a last-minute addition without visible inconsistency. Sets of four are better suited to intimate dinners of four to six, or to supplementing a larger collection you already own. Buying slightly more than you need is almost always the right move — a spare or two costs little and gives you a replacement if one piece is lost."
+  - question: "Can I use regular pens to write on porcelain place cards?"
+    answer: "Standard ballpoint and felt-tip pens don't adhere reliably to a glazed porcelain surface. The Mud Pie White and Gold Porcelain Place Cards and similar glazed ceramic options require a fine-tip china marker. Test your marker on a spare piece or the back surface before writing the final names, and let it dry fully before placing the cards on the table."
+  - question: "Do metal clip place card holders damage card stock?"
+    answer: "The clip mechanism can leave a faint impression on softer or heavily textured paper. Standard card stock in a medium weight holds up well. If you're using letterpress cards, cotton paper, or anything with a delicate embossed surface, clip a test piece well before the dinner to confirm the paper handles the pressure without visible marking."
+  - question: "Is the Juliska Country Estate place card holder worth the premium over a simple clip set?"
+    answer: "For someone who owns and uses Juliska's Country Estate dinnerware regularly, yes. The coordination value is real, and the per-use cost drops significantly across multiple years of entertaining. For someone without existing Juliska pieces, the premium is harder to justify — the Silver Place Card Holders set of 12 covers a full table reliably at a fraction of the investment and works with nearly any table setting."
 ---
 
 Seating guests well is one of those small gestures that quietly signals how much thought went into a dinner. A place card does the work , but the holder that displays it sets the tone for the whole table. Browse the full range of [serveware](/serveware/) options and you'll find that place card holders span an enormous range of materials, finishes, and price points.

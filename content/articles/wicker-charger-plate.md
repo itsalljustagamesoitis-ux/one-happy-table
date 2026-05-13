@@ -35,6 +35,17 @@ products:
 tags: ["dinnerware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Are wicker charger plates appropriate for a formal dinner party?"
+    answer: "Natural wicker charger plates work best in casual and seasonal settings. For formal dinners — holiday gatherings with cloth napkins, multi-course meals, or occasions where you are using fine china — a charger with a finished rim like the Lenox Opal Innocence or the Juliska Berry and Thread will read more appropriately. Wicker's warmth is genuinely beautiful, but it signals relaxed and rustic rather than polished and formal."
+  - question: "Can you put food directly on a wicker charger plate?"
+    answer: "No. Wicker charger plates are decorative underplates — they are meant to hold a dinner plate or bowl, not contact food directly. The natural fiber weave cannot be sanitized properly, absorbs moisture, and would degrade quickly if used as a food surface. Always place a full dinner plate on top. The wicker serves the table visually; the dinnerware does the functional work."
+  - question: "How do I clean and store wicker charger plates between uses?"
+    answer: "Wipe the surface clean with a dry or lightly damp cloth after use. Never submerge wicker in water or put it in a dishwasher — both will cause the weave to warp and loosen over time. For storage, stack them flat in a cool, dry location. Avoid areas with humidity fluctuations, like under-sink cabinets, which can cause natural fiber chargers to warp or develop mold between seasons."
+  - question: "Juliska Berry and Thread vs. Lenox Opal Innocence charger — which is more flexible across different hosting occasions?"
+    answer: "The Juliska Berry and Thread charger has a handcrafted stoneware quality that works across both casual and formal settings — its whitewash finish is more forgiving in mixed-formality contexts. The Lenox Opal Innocence is a cleaner formal piece that pairs most naturally with white china and silver flatware. If your hosting spans multiple formality levels throughout the year, the Juliska is the more flexible investment."
+  - question: "What size charger plate works with standard dinner plates?"
+    answer: "A thirteen-inch charger is the standard, and it is the right size for ten- to eleven-inch dinner plates, which are the most common in most dinnerware sets. The visible border left by a thirteen-inch charger is wide enough to register as a decorative frame without overwhelming the place setting. If your dinner plates run smaller, the thirteen-inch charger will still work but creates a more dramatic visual contrast — which can be intentional."
 ---
 
 Charger plates do more work than most people give them credit for. They anchor the place setting, frame the dinnerware stacked on top, and signal to guests , before a single dish is served , what kind of table this is going to be. A wicker charger plate does all of that while adding something fine china rarely can: genuine texture and warmth. Whether you're styling a harvest dinner or a casual outdoor gathering, the right pick makes the whole table feel considered. Browse the full range of [Dinnerware & China](/dinnerware/) options to see how charger plates fit into a broader table setting before narrowing your choice.

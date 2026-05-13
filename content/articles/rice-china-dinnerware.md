@@ -35,6 +35,17 @@ products:
 tags: ["dinnerware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is rice china the same thing as bone china?"
+    answer: "No. Rice china refers to a specific decorative technique — small perforations in the clay body that become translucent windows resembling grains of rice once glazed. Bone china describes a material made with bone ash that produces a dense, white, translucent body through its composition rather than any perforation. The article is clear that the two are distinct categories, not interchangeable terms."
+  - question: "How do I know if a dinnerware set is lead-free?"
+    answer: "Look for an explicit lead-free and cadmium-free declaration in the manufacturer's product specifications — not just a general food-safety claim. Reputable brands state this clearly. Glass dinnerware like the Anchor Hocking Presence set sidesteps the question entirely, since tempered glass contains no glaze and is chemically inert. For ceramic options, the article recommends prioritizing manufacturers who publish specific testing standards rather than vague safety language."
+  - question: "Tempered glass dinnerware vs. earthenware — which is more durable for daily use?"
+    answer: "The article frames this as two different failure modes rather than one being straightforwardly more durable. Earthenware chips at rim edges under ordinary contact — the damage is gradual and cumulative. Tempered glass resists chipping but shatters completely from a single drop. For households where breakage risk comes from stacking and everyday contact, earthenware holds up better. For households where drops are the primary risk, the calculation is closer and personal handling habits matter more than material category."
+  - question: "Can I use the Wedgwood Vera Wang teacup daily?"
+    answer: "The construction is durable enough for regular use, but the platinum trim makes dishwasher use inadvisable over time — detergent oxidizes the metal and the finish deteriorates. For a household where hand-washing is routine, daily use is entirely reasonable. For households that rely on the dishwasher as a matter of course, the article recommends reserving this piece for occasions where you are prepared to wash by hand afterward."
+  - question: "Is the Portmeirion Botanic Garden pattern still in production, and can I buy replacement pieces?"
+    answer: "Yes on both counts. The article notes that Portmeirion has produced the Botanic Garden pattern continuously since 1972, making it one of the most reliably available patterns for open-stock replacement. Individual pieces — plates, mugs, bowls — are sold separately, so expanding a set or replacing a chipped piece is straightforward. This open-stock availability is specifically highlighted as a practical advantage over patterns that sell only in fixed sets."
 ---
 
 Rice china dinnerware occupies a specific corner of the tableware world , delicate, translucent, and unmistakably refined , but most buyers searching that phrase are really asking a broader question: which dinnerware is worth keeping? Explore the full range of options across [Dinnerware & China](/dinnerware/) and that question gets more interesting. The right answer depends on how you entertain, how often you wash up, and whether beauty or practicality wins when the two are in tension.

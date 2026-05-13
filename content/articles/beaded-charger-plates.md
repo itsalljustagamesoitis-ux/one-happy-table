@@ -35,6 +35,17 @@ products:
 tags: ["dinnerware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Plastic charger plates vs. glazed porcelain — what's the real difference in practice?"
+    answer: "The finish difference becomes apparent after a season of use. Plastic-base chargers chip and dull around the beaded rim with handling and storage, while glazed porcelain holds its surface through dishwasher cycles and repeated stacking. For occasional seasonal use with careful storage, that gap matters less. For a host setting a formal table six or more times a year, the durability difference between the two materials is significant and justifies spending more on porcelain."
+  - question: "How many beaded charger plates do I need for a dinner party?"
+    answer: "Match your charger count to your maximum seated guest count, then add two to four as a buffer for breakage and replacement. If you regularly seat eight but occasionally expand to ten for holidays, a set of twelve is the practical answer. Buying exactly the number you need leaves no margin for a cracked piece or an unexpected additional guest."
+  - question: "Are beaded charger plates dishwasher safe?"
+    answer: "It depends on the material. Glazed porcelain chargers like the Mikasa Metropolitan are typically dishwasher-safe and hold their finish well through regular cycles. Plastic-base chargers can usually tolerate the dishwasher but may dull or warp with repeated heat exposure. Hand-crafted stoneware like the Juliska Berry and Thread Charger Plate is hand-wash recommended to protect the hand-applied painted relief, and that recommendation is worth following rather than testing."
+  - question: "Do charger plates need to match the dinner plates?"
+    answer: "They do not need to match, but they need to relate. The most successful pairings either coordinate in finish — silver charger with silver-banded china — or create deliberate contrast, such as a whitewash stoneware charger under clean white dinner plates. The combination that reliably fails is competing patterns at the same visual weight, where neither piece can establish itself as the ground for the other."
+  - question: "Can charger plates stay on the table throughout the entire meal?"
+    answer: "Charger plates are traditionally removed after the main course is placed — they are presentation pieces, not service plates, and food is never placed directly on them. That said, many hosts leave chargers on as a decorative element through all courses and clear them at a natural transition. The thirteen-inch rim of the Juliska Berry and Thread is wide enough to stay visually intentional throughout a full meal without looking out of place."
 ---
 
 Beaded charger plates are one of those details that quietly make an entire table setting feel considered , the kind of thing guests notice without knowing exactly why the table looks so good. Choosing the right ones means thinking past the photo and into the reality of how you actually entertain: how many people you're seating, how often you're setting a formal table, and whether you're storing twelve chargers in a hall closet or a dedicated china cabinet. A full overview of [dinnerware](/dinnerware/) options gives useful context before committing to a style.

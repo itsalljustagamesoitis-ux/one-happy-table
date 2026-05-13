@@ -35,6 +35,17 @@ products:
 tags: ["decor", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Does a hurricane lamp need to be designed specifically for tapers, or will any glass cylinder work?"
+    answer: "Any glass cylinder provides basic wind protection, but holders designed for tapers have a fitted candle cup at the base that keeps the taper upright and catches drips. A repurposed vase or generic cylinder won't have this, so the taper can lean as it softens during the burn. For a clean, stable flame across a full dinner, a purpose-built hurricane holder is the more reliable choice."
+  - question: "How do I keep the inside of a glass hurricane from going hazy with soot?"
+    answer: "Beeswax-blend tapers like the Root Candles Timberline produce significantly less soot than standard paraffin, which extends the time between cleanings noticeably. When cleaning is needed, a cotton cloth lightly dampened with white vinegar removes soot deposits from glass without leaving streaks. Wiping the interior after each use rather than waiting for visible buildup is the habit that keeps the glass looking clear long-term."
+  - question: "Plain glass hurricane vs. Michael Aram Butterfly Ginkgo candlesticks — how do they compare?"
+    answer: "The plain glass hurricane is invisible infrastructure — the cylinder protects the flame and the candlelight does the visual work. The Michael Aram Butterfly Ginkgo is table art that happens to hold a candle, the kind of object guests comment on before they sit down. The practical distinction is that the open metalwork candlestick does not provide wind protection, while the glass cylinder does. For an outdoor table or a room with air movement, the glass hurricane is the functional choice regardless of aesthetics."
+  - question: "Are beeswax-blend tapers harder to use in a hurricane holder than standard paraffin?"
+    answer: "They behave slightly differently — the firmer wax can resist fitting into a snug candle cup. Warming the base of the taper in your hands for about fifteen seconds before inserting solves this in most cases. Once lit, beeswax-blend tapers burn more evenly and with less drip than paraffin, which makes them easier to manage over a long dinner rather than harder. The extra step at the start pays back over the course of an evening."
+  - question: "How many hurricane lamps do I need to light a rectangular dining table effectively?"
+    answer: "For a standard six- to eight-seat rectangular table, two to three hurricanes placed along the center line provide enough ambient candlelight without overwhelming the setting. Space them roughly eighteen inches apart to give each flame visual separation. A single tall hurricane works as a statement piece for a smaller table or a side surface, but for a full dining table, multiples in a line create more even light distribution and a more considered table composition."
 ---
 
 Hurricane lamps and taper candles solve one of the most common dinner table problems: a breeze from an open window or a ceiling fan that turns a candlelit meal into a constant flame-management exercise. A good hurricane holder keeps the flame steady and the atmosphere intact. The right candle inside it determines how long that atmosphere lasts and whether your tablecloth ends up with soot on it. I've tested enough combinations to have clear preferences, and I'll share them here without burying the recommendation.

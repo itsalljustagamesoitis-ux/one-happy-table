@@ -35,6 +35,17 @@ products:
 tags: ["dinnerware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What size charger plate works best under a standard dinner plate?"
+    answer: "A 13-inch charger is the most widely used size and works well under a standard 10- to 11-inch dinner plate, leaving a visible decorative rim of approximately one to one and a half inches on each side. Anything smaller risks being obscured by the dinner plate; anything significantly larger can overwhelm a standard place setting. The Juliska Berry and Thread Charger Plate runs at 13 inches and demonstrates exactly how that proportion works at a formal table."
+  - question: "Are scalloped charger plates suitable for outdoor entertaining?"
+    answer: "Plastic chargers like the American Atelier Black and Gold set are the right material for outdoor use — unbreakable, stackable, and easy to wipe down after handling. Ceramic and stoneware chargers, including the Juliska Berry and Thread, are designed for indoor formal dining and are not practical at events where breakage is a real risk. Match the material to the setting before you commit."
+  - question: "Juliska Berry and Thread charger vs Lenox Opal Innocence — which is worth the investment?"
+    answer: "For buyers who entertain formally two or more times a year and want a table that makes an impression, the Juliska Berry and Thread is worth the premium. The hand-crafted variation and relief motif create a quality that reads as genuinely considered in person. For buyers who entertain occasionally or casually, the Lenox Opal Innocence delivers genuine elegance at a more manageable investment for the full set."
+  - question: "Do charger plates need to match the dinner plates exactly?"
+    answer: "No, but they need to not fight the dinner plate. A heavily patterned charger under a heavily patterned dinner plate creates visual noise. The most reliable approach is contrast in one dimension only — a textured charger under a plain plate, or a colored charger under a white plate. The Juliska pairs best with a simple white dinner plate; the American Atelier black-and-gold works when the rest of the table is restrained."
+  - question: "Is the metallic edge on a charger plate food-safe?"
+    answer: "Charger plates are not intended for direct food contact — they sit beneath the dinner plate and are typically cleared before the meal is served. Metallic edges, including gold and platinum banding, are decorative and should not contact food or acidic liquids directly. Metallic-edge chargers also require hand-washing regardless of food contact, because dishwasher detergent degrades metallic finishes over time."
 ---
 
 Scalloped charger plates do more work than most people give them credit for. That decorative edge , whether it ripples like a shell or cuts a more angular pattern , frames every plate set on top of it and signals to guests that the table was thought through. If you're building a table that feels intentional, exploring the full range of [dinnerware](/dinnerware/) options will show you how much a charger contributes before a single piece of food is served.

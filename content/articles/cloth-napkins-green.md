@@ -35,6 +35,17 @@ products:
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Linen or cotton napkins for everyday use — which is the better choice?"
+    answer: "Cotton and cotton-poly blends are easier to maintain: they wrinkle less, dry faster, and require minimal ironing. Linen is more durable over time and softens with repeated washing, but it needs pressing after each launder to look its best. For daily use the Utopia Kitchen cotton-poly set is the more practical choice. For a formal table or occasions where the napkin quality is part of the impression, the Sferra hemstitched linen earns the extra care."
+  - question: "Will green cloth napkins fade after repeated washing?"
+    answer: "Color retention depends primarily on fiber content, dye quality, and wash temperature. Washing in cold water and drying on low heat — or line drying — significantly slows fading. Cotton-poly blends like the Utopia Kitchen set tend to hold color well across many wash cycles. Pure linen and cotton are more susceptible to fading if washed in hot water or dried in direct sunlight."
+  - question: "How many napkins should I buy for a dinner party of eight?"
+    answer: "At minimum buy eight — one per guest. For practical purposes, twelve to sixteen is more workable, especially if you're hosting across consecutive evenings or want to launder the full set between uses. Sets of twelve, like the Utopia Kitchen set, are the most efficient starting point for a household that entertains regularly."
+  - question: "Can a floral print napkin work with a solid tablecloth?"
+    answer: "Yes, and it is often the better choice. A botanical print napkin like the April Cornell Garden Floral reads well against a solid white, ivory, or natural linen tablecloth — the print provides visual interest while the solid keeps the overall table from feeling busy. The key is ensuring at least one color in the napkin's print is echoed elsewhere on the table, whether in the centerpiece, dinnerware, or place settings."
+  - question: "Do I need to iron green cloth napkins before every use?"
+    answer: "For cotton-poly blends ironing is optional — a smooth fold often reads as neat enough for casual and semi-formal settings. For pure cotton, a light press noticeably improves appearance. For linen napkins like the Sferra hemstitched set, ironing is genuinely part of the intended use: pressed linen has a formality and crispness that unironed linen simply does not. Whether the occasion demands that formality is the deciding question."
 ---
 
 Cloth napkins make an ordinary dinner feel considered , and green ones, in particular, bring something to a table that white or ivory simply can't. Whether you're setting a spring brunch or hosting a dinner that deserves more than paper, finding napkins that hold up after a season of washing matters as much as how they look on the table. The full range of [Table Linens](/linens/) is worth exploring if you're building out a coordinated setting.

@@ -35,6 +35,17 @@ products:
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Olive green tablecloth — will the color look the same in my dining room as it does online?"
+    answer: "Olive green in textiles shifts significantly depending on fiber content, dye process, and light source. What reads as yellow-green on a laptop screen often leans more brown or khaki in natural light. Request swatch samples if the retailer offers them, or read verified buyer reviews specifically for color accuracy. Most reputable linen brands photograph in controlled lighting that trends warmer than your dining room will actually be."
+  - question: "Is an olive green tablecloth too seasonal or can it work year-round?"
+    answer: "Olive green is one of the more genuinely year-round table colors. It is earthy enough to feel right in autumn, fresh enough to work in spring, and neutral enough that it does not fight holiday-specific color schemes the way true red or bright orange would. The shade matters: a warm, golden olive reads more autumnal, while a gray or eucalyptus olive reads more versatile across seasons."
+  - question: "Woven pattern vs. printed pattern — which holds up better on a tablecloth?"
+    answer: "A woven pattern is built into the fabric structure itself — the check or stripe is formed by the weave. A printed pattern is applied to the surface of a woven base fabric. Woven patterns do not fade or peel with washing; printed patterns can soften over time. The LinenTablecloth Green Gingham Check uses a woven check, which is why the pattern stays consistent wash after wash and is the better long-term choice for a cloth laundered regularly."
+  - question: "Does gingham work on a formal dinner table or is it always casual?"
+    answer: "Gingham reads casual in most settings — the pattern is strongly associated with outdoor eating and relaxed family tables. It is not impossible to formalize with careful coordination: linen napkins, simple glassware, and restrained centerpieces can lift it. For a formal dinner where you want the cloth to recede rather than announce itself, a solid or hemstitched cloth like the Peacock Alley Hemstitch will serve you better."
+  - question: "What is the most important measurement to get right before buying a tablecloth online?"
+    answer: "Measure your table with any leaves extended, calculate the drop on each side, and confirm the tablecloth's finished dimensions match — not the manufacturer's general size description, but the actual listed measurement. Size discrepancies are the most common complaint in tablecloth reviews, and they are almost always the result of buying by label rather than by dimension. Everything else is a matter of preference; the wrong size is simply wrong."
 ---
 
 Olive green sits in an interesting place on the color wheel , warm enough to feel autumnal, cool enough to work through spring, grounded enough that it doesn't fight with patterned dishes or mixed centerpieces. If you're searching for an olive green tablecloth, you're probably after something that reads as intentional without being precious about it. The right cloth can do that. The wrong one looks like an afterthought by the third candle.

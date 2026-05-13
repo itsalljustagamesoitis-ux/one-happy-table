@@ -35,6 +35,17 @@ products:
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What size white round tablecloth do I need for a 60-inch round table?"
+    answer: "For a standard formal dinner setting with a fifteen-inch drop, a ninety-inch tablecloth is the right size. For a full floor-length drop — appropriate for events, buffets, or tables where you want to conceal the legs — you need a 120-inch tablecloth. Always measure your table first and calculate from there: add double your desired drop to the table diameter to get the minimum cloth size you need. Do not assume 'one size up' is correct."
+  - question: "What is the difference between bright white and antique white tablecloths?"
+    answer: "Bright white is a cool, clean tone that pairs naturally with modern white china, silver flatware, and simple contemporary settings. Antique white is a warmer, slightly creamy tone that reads beautifully alongside ivory china, gold accents, warm wood, and candlelight. Mixing the two tones — for example, a bright white cloth under ivory china — creates a subtle but persistent visual mismatch. Lay the cloth and the china side by side before committing."
+  - question: "Polyester or cotton for a white round tablecloth — which is better?"
+    answer: "Polyester is the practical choice for large-scale entertaining: it resists wrinkles, washes easily, and holds its bright white color reliably over many cycles. Cotton has a more refined drape and a matte hand that looks more intentional at an intimate dinner table, but it requires more careful laundering, particularly if it has textured weaves like pintuck or hemstitch. Match the fabric to how many people you are hosting and how often the cloth will be washed."
+  - question: "Do pintuck tablecloths require special care after a dinner party?"
+    answer: "Yes. Pintuck weaves trap food and residue in their folds more than flat-weave cloths do, so they need thorough laundering after use — not just a quick rinse cycle. The Antique White Pintuck Tablecloth is machine washable, but it benefits from a full wash cycle rather than a short program after a dinner party. Running a second rinse helps ensure residue does not set in the texture during drying."
+  - question: "How does the Peacock Alley Hemstitch Tablecloth differ from standard cotton tablecloths?"
+    answer: "The distinction is in construction quality and fiber. The Peacock Alley uses Egyptian-cotton yarns, which are longer-staple than the standard cotton in most tablecloths — the result is a softer, more uniform hand and a surface that holds up better over repeated washing. The hemstitch border is also a structural detail requiring skilled production, not a printed finish, which is part of why the price reflects a genuinely different category than mid-range cotton."
 ---
 
 A round table sets the tone for the whole room , the cloth you put on it does more work than any centerpiece. Whether you're dressing a folding rental table for a backyard party or setting something intentional for a dinner you've planned for weeks, the tablecloth is where [table linens](/linens/) earn their place. Getting the size wrong, or choosing the wrong fabric for the occasion, undermines everything else you've done right.

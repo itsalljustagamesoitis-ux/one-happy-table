@@ -35,6 +35,17 @@ products:
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Sterling silver vs silverplate napkin rings — what's the real difference?"
+    answer: "Sterling silver is 92.5% pure silver throughout, making it heavier, more durable over time, and capable of developing a natural patina that collectors value. Silverplate is a base metal — typically brass or copper — coated with a thin layer of silver through electroplating. Silverplate tarnishes faster and will eventually show the base metal at high-wear points, but it reads nearly identically to sterling at a glance and costs considerably less. Wallace Silversmiths' brand heritage adds genuine provenance even at the silverplate price point."
+  - question: "Are Waterford Lismore crystal napkin rings durable enough for regular entertaining?"
+    answer: "Quality lead-free crystal like the Waterford Lismore napkin rings is substantial enough for regular dinner party use — the weight helps them stay in place, and the cut surface is more resistant to surface scratching than polished glass. The real vulnerability is impact: crystal chips if dropped on a hard tile or stone floor. Store them carefully between uses and handle them with the same respect you'd give a good wine glass, and they'll hold up well."
+  - question: "How do I polish silverplate napkin rings without damaging the antique finish?"
+    answer: "Use a non-abrasive silver polishing cloth rather than liquid polish, and work in one direction rather than circular motions — circular buffing can flatten the oxidized recesses that create the antique depth. Polish the raised surfaces only, and avoid pressing into the detailed areas. If liquid polish is your preference, apply it sparingly with a soft cloth and rinse thoroughly; residue left in engraved areas dulls the contrast over time."
+  - question: "Can I mix napkin ring styles — silverplate and crystal — across the same table?"
+    answer: "Mixing requires intention. A deliberate mismatch — alternating silverplate and crystal rings around a table — can read as curated if the rest of your setting is cohesive. A random mix of styles reads as incomplete. If you're mixing, keep the formality register consistent: don't place crystal rings next to casual linen-wrap styles at the same setting."
+  - question: "How many sets of napkin rings do I need for a table of eight?"
+    answer: "Two sets of four. The practical concern is batch matching: crystal and beaded styles can vary between production runs, so purchasing both sets at the same time from the same supplier is the best way to ensure a consistent look across all eight place settings. Silverplate tends to be more consistent between batches because the finish is mechanically applied. If you're buying for a table larger than eight, purchase all sets in a single order where possible."
 ---
 
 Napkin rings are one of those table details that quietly shape the feel of an entire setting , the difference between a table that looks assembled and one that looks considered. If you've been drawn to the [Table Linens](/linens/) category with an eye toward antique sterling silver napkin rings, you already understand that this is a purchase about character as much as function. The options range from genuine silverplate with real collector heritage to crystal and beaded styles that bring formality without the silversmith's craft.

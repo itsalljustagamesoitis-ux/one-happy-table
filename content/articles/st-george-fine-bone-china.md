@@ -35,6 +35,17 @@ products:
 tags: ["dinnerware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is St. George fine bone china still being produced?"
+    answer: "St. George fine bone china was a specific brand known in formal tableware circles, but availability and current production status vary. If you're searching for that exact provenance, contacting specialist china retailers or replacement services directly will give you the most accurate information. Many buyers searching for St. George pieces end up sourcing through secondary markets like replacements.com or established estate china dealers."
+  - question: "Bone china vs regular porcelain for daily use — what's the practical difference?"
+    answer: "Bone china is lighter and more translucent than standard porcelain due to its bone ash composition, and it tends to have a warmer, more luminous finish. In daily use, the main practical difference is weight — bone china feels noticeably finer in the hand. It's not inherently more fragile than hard-paste porcelain at equivalent quality levels, though it does chip at rim edges if loaded carelessly in the dishwasher."
+  - question: "Can I mix bone china place settings with charger plates from a different brand?"
+    answer: "Yes, and most formal table settings are assembled from multiple sources. The practical requirement is tonal consistency — warm ivory bone china reads best against charger plates with warm metallic or neutral finishes, while cool white china pairs cleanly with silver or chrome-toned chargers. Silver beaded charger plates work well under plain white or cream bone china because the silver finish reads as neutral against most glaze tones."
+  - question: "Wedgwood Vera Wang Lace teacup for everyday tea — is the platinum trim a problem?"
+    answer: "The lace embossing and bone china body hold up well structurally, but the platinum trim is the limiting factor for daily use. Platinum requires hand-washing, which rules it out of a high-frequency dishwasher rotation. For a household that entertains formally several times per year and hand-washes carefully, it performs without issue. For daily-use tea service, a plain bone china cup without metallic trim is more practical."
+  - question: "How do I prevent chipping on fine bone china in the dishwasher?"
+    answer: "Load pieces so they don't contact each other during the cycle — bone china chips most often at rim edges where two pieces knock together. Use the top rack exclusively, run a gentle cycle, and avoid high-heat drying settings. Hand-wash any piece with platinum or gold trim regardless of what the packaging says — the dishwasher will degrade metallic trim over time even on cycles marketed as gentle."
 ---
 
 Fine bone china has a particular quality that's hard to articulate until you've held a piece at a candlelit table , that slight luminosity, the way the glaze catches the light differently than everyday stoneware. If you're searching for St. George fine bone china specifically, you're already thinking about that level of refinement. The broader category of [dinnerware](/dinnerware/) spans everything from casual earthenware to heirloom-grade porcelain, and bone china sits near the top of that range for good reason.

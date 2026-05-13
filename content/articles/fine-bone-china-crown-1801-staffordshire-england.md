@@ -35,6 +35,17 @@ products:
 tags: ["dinnerware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is the Crown 1801 Staffordshire England mark on fine bone china worth anything?"
+    answer: "Crown 1801 Staffordshire is a mark associated with several English pottery manufacturers operating in the late nineteenth and early twentieth centuries. Individual pieces range from modest decorative value to meaningful collector interest depending on the specific maker, pattern, and condition. A ceramics appraiser or specialist auction house is the most reliable route to a current valuation — online pattern databases like Replacements Ltd. are a useful starting point for identification."
+  - question: "How is bone china different from regular porcelain?"
+    answer: "Bone china contains bone ash — generally around fifty percent of the clay body — which gives it its translucency, warmth of tone, and lighter weight relative to its strength. Standard porcelain uses kaolin and fires at higher temperatures, producing a harder, denser, and typically more opaque result. For table use, bone china has a warmer look and feel while porcelain is generally more resistant to chipping at rim edges."
+  - question: "Can I put bone china in the dishwasher?"
+    answer: "Many contemporary bone china pieces are top-rack dishwasher safe, including the Mikasa Cameo White. The exception is any piece with platinum or gold trim — the Wedgwood Vera Wang Lace Bone China Teacup and Saucer falls into that category and requires hand-washing. Even for dishwasher-safe bone china, keeping pieces spaced to prevent contact during the cycle is the single most important care step."
+  - question: "Is a reactive glaze stoneware set a reasonable substitute for bone china at a formal table?"
+    answer: "For everyday dining and casual entertaining, yes — the reactive glaze finish on a set like the Gibson Elite looks more considered than its price band suggests and it is fully dishwasher safe. For formal occasions where table presentation carries real weight, bone china reads differently than stoneware and that difference is visible. The two categories serve different registers; buying reactive stoneware as a formal substitute means accepting a visible compromise."
+  - question: "What is the difference between a place setting and a dinner set?"
+    answer: "A place setting is everything needed for one person at the table — typically a dinner plate, salad plate, bread plate, bowl, and cup and saucer. A dinner set specifies how many place settings are included, usually four or eight. When comparing options, check both the piece count within each place setting and the number of place settings in the box, because a 16-piece set could mean four complete four-piece settings or a different configuration entirely."
 ---
 
 Fine bone china marked *Crown 1801 Staffordshire England* turns up at estate sales, in grandmother's cabinets, and increasingly in search bars , people who've inherited a piece or spotted one at auction want to know whether it's worth setting the table with or simply worth knowing about. The answer depends on what you're actually shopping for. If you're sourcing that exact vintage mark, this guide won't send you to Amazon. If you're shopping for bone china that brings that same formal elegance to a table you use now, these picks will.

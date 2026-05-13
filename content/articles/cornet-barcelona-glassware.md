@@ -35,6 +35,17 @@ products:
 tags: ["glassware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is the Riedel Corneto Decanter worth buying if I already own a standard decanter?"
+    answer: "If your current decanter has a wide, flat bottom and you use it mostly for storage rather than active aeration, the Corneto is a meaningful upgrade. The conical geometry genuinely accelerates wine opening — a wine that needs 45 minutes in a standard decanter can open meaningfully in 20 in a well-designed conical one. For anyone who regularly drinks young, tannic reds like Cabernet Sauvignon or Barolo, the difference is perceptible in a side-by-side comparison."
+  - question: "Can the Riedel Bar Drink Specific Highball Glass be used for wine as well as cocktails?"
+    answer: "It can, but it is not designed for it. The highball form is tall and relatively narrow — useful for long cocktails where ice and carbonation are involved, but not ideal for wine, which benefits from a wider bowl that allows the liquid to breathe and concentrates aromatics. For occasional casual wine service it is fine; for anyone who takes wine seriously, a proper wine glass is a separate purchase worth making."
+  - question: "How do I dry the Riedel Corneto Decanter without leaving water spots?"
+    answer: "A decanter drying stand is the cleanest solution — it allows the piece to drain fully over several hours with no moisture pooling at the cone tip. In the absence of a stand, rinsing with distilled water as the final step before air-drying reduces spotting significantly. Avoid inserting paper towels or dish cloths into the decanter body, as the abrasion scratches the interior crystal surface over time and eventually clouds the glass."
+  - question: "Are the Heritage Hill Amber Glass Tumblers suitable for year-round use?"
+    answer: "Amber glass is seasonal in a way that clear glassware is not — it reads as autumn harvest and works beautifully for Thanksgiving tables, outdoor fall entertaining, and any occasion where a warm, tactile glass suits the setting. It will not look right on a spring table or at a formal winter dinner. For households that entertain heavily in fall or use a dedicated seasonal tablescape approach, that specificity is a feature rather than a limitation."
+  - question: "Two pairs of Riedel highball glasses or one pair plus a decanter — which is the better investment?"
+    answer: "It depends on whether cocktails or wine anchors your entertaining. If you regularly serve cocktails to groups of four or more, two pairs makes sense — mismatched glassware at the table reads as an afterthought even when the drinks are excellent. If wine is the center of your gatherings and cocktails are incidental, one pair of the Riedel highball covers the occasional cocktail moment and the Riedel Corneto Decanter adds far more to the wine experience than a second highball pair would."
 ---
 
 Glassware that photographs beautifully at a dinner party is easy to find. Glassware that actually performs , that aerates a Burgundy properly, holds a Collins drink at the right temperature, or anchors a fall table with something other than plastic , is a much shorter list. My [glassware](/glassware/) buying decisions have always started with function and ended with how a piece looks on the table. Both matter.

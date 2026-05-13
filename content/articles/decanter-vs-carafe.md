@@ -32,6 +32,17 @@ product_a: "anchor-hocking-glass-carafe-1.5l"
 product_b: "ravenscroft-crystal-whiskey-decanter"
 # winner: product_a  # SET THIS after review
 # winner_reason: ""  # SET THIS after review
+faq:
+  - question: "Decanter versus carafe — what is the actual difference?"
+    answer: "A carafe is an open-mouthed vessel for serving non-spirit table beverages — water, juice, cold brew. A decanter is a sealed or close-fitted vessel designed for spirits or wine that benefits from controlled aeration. The Anchor Hocking carafe is explicitly a table-service piece. The Ravenscroft is a spirit vessel. The shapes, materials, and care requirements reflect those different purposes, and treating them as interchangeable leads to the wrong purchase."
+  - question: "Can I use a whiskey decanter for wine?"
+    answer: "A whiskey decanter works for wine in a functional sense — the liquid will not be harmed. The shape, however, is optimized for spirits rather than aeration. A wide-bottomed whiskey decanter like the Ravenscroft Crystal Taylor has less surface-area-to-volume ratio than a purpose-built wine decanter, so oxygen exposure is less efficient. For occasional informal use it is acceptable; for serious wine service, a proper wine decanter is worth the separate investment."
+  - question: "How long can whiskey stay in a crystal decanter before it degrades?"
+    answer: "Most sources suggest three to six months as a reasonable outer limit for a crystal decanter with a well-fitted stopper. Beyond that, minor oxidation and any micro-porosity in the stopper seal begin to affect flavor. Decanters are presentation and medium-term storage tools, not indefinite replacements for the original bottle. If you are storing a spirit you care about for more than a few months, return it to its sealed bottle."
+  - question: "Which is easier to clean — the Anchor Hocking carafe or the Ravenscroft crystal decanter?"
+    answer: "The carafe is significantly easier. The Anchor Hocking is dishwasher safe and has a wide mouth that accommodates a standard bottle brush. The Ravenscroft decanter requires hand-washing, immediate drying, and careful attention to the crystal stopper collar to prevent calcium deposits that are genuinely difficult to remove once set. If low-maintenance care is a priority, the carafe wins outright."
+  - question: "Is lead-free crystal safe for storing spirits, and does it affect the taste?"
+    answer: "Lead-free crystal does not leach into beverages the way traditional lead crystal can over long contact periods. The Ravenscroft's lead-free formulation is safe for spirit storage. The practical taste difference between lead-free crystal and standard glass is negligible for most palates — the visual brilliance and the wide base designed for controlled oxidation are the more meaningful distinctions for buyers at this price point."
 ---
 
 Most people searching for a decanter have already decided they want something that looks intentional on the table , the question is whether they need the particular shape and function a decanter provides, or whether a well-made carafe does the job more honestly. These two vessels are not interchangeable, and treating them as if they were leads to the wrong purchase every time.

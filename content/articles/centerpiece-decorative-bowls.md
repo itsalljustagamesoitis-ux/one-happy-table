@@ -35,6 +35,17 @@ products:
 tags: ["decor", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Decorative box vs candlestick holders — which should be the primary centerpiece piece?"
+    answer: "It depends on the table length and what you are willing to maintain. A decorative box like the Creative Co-Op whitewash piece offers horizontal fill and is the easiest to restyle seasonally — fill it differently and the whole table changes. Candlestick holders like the Danya B. pair or the Nambe add vertical structure and work as permanent elements you style around. For longer tables, both approaches used together — a low box flanked by candlesticks — produce the most complete arrangement."
+  - question: "How do I store the Nambe Braid Candlestick between seasons without scratching it?"
+    answer: "Nambe alloy scratches more readily than harder metals, so contact storage — pieces touching other pieces or hard surfaces — will show damage over time. Store each candlestick individually in a soft cloth sleeve or padded felt pouch. If stacking other items in the same cabinet, make sure nothing hard rests against the Nambe surface. The finish is recoverable with Nambe-specific polish, but prevention is easier than restoration."
+  - question: "Can I build a centerpiece around a single Nambe Braid Candlestick without buying a matching pair?"
+    answer: "Yes. A single candlestick works best as an anchor within a small asymmetrical arrangement — group it with a low bowl of botanicals, a small sculptural object, or a votive cluster at a different height. The Nambe's visual weight is substantial enough to hold that arrangement without a matching pair. If you add a second later, even a slight height difference between the two creates more interest than a perfectly matched pair."
+  - question: "Does the Danya B. bow candle holder fit standard taper candles without adjustment?"
+    answer: "Not necessarily. The decorative bow form means the taper cup diameter may be narrower than standard. The article specifically flags testing the fit with your preferred candle brand before the night of a dinner party. A taper that fits snugly but without forcing will burn evenly; a loose-fitting taper can lean as the wax softens, which becomes a problem mid-dinner."
+  - question: "What finish temperature coordinates best with the Creative Co-Op whitewash wood box?"
+    answer: "The whitewash finish is neutral enough to sit alongside warm gold, matte black, and cool silver metal tones without clashing. It reads most naturally with other organic or neutral materials — raw linen, wooden chargers, woven placemats. It is one of the few centerpiece pieces that genuinely bridges warm and cool palette families, which is part of why it works as a year-round foundation piece."
 ---
 
 A centerpiece bowl does one of two things: it holds something , flowers, fruit, candles, seasonal stems , or it sits empty and earns its place on visual weight alone. Either way, the choice shapes the whole table. That's why I spent considerable time testing what actually works in a real dining room, not just what photographs well on a white background. If you're building a table that feels considered, [Decor & Candles](/decor/) is worth exploring before you commit to any single piece.

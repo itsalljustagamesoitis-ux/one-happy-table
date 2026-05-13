@@ -35,6 +35,17 @@ products:
 tags: ["glassware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Do etched champagne flutes actually improve sparkling wine?"
+    answer: "Etching on the interior base of a flute creates nucleation points — tiny surface irregularities that generate a continuous stream of fine bubbles. That bead is what champagne producers engineer for, and a well-etched interior supports it more consistently than a perfectly smooth surface. Surface-etched decoration on the exterior bowl is decorative only and does not produce the same effect, so the location of the etching matters as much as the fact of it."
+  - question: "How do I clean cut crystal flutes without dulling the etching?"
+    answer: "Hand-wash in warm water with a small amount of mild dish soap, rinse thoroughly, and dry immediately with a lint-free cloth. Never use a dishwasher — the combination of high heat and alkaline detergent etches the surface of the crystal in a way that clouds the facets permanently. The Waterford Millennium Series requires this care every time without exception."
+  - question: "Waterford Millennium vs. Luigi Bormioli Atelier for a dinner party of six — which should I buy?"
+    answer: "For a dinner party of six, the Luigi Bormioli Atelier is the more practical choice because it arrives as a complete set of six with no supplementary purchase required. The Waterford Millennium is sold in pairs and carries a higher care commitment — exceptional for formal occasions or as a gift, but less convenient for regular entertaining at volume. If the event is a milestone occasion and you already own or will buy three sets, the Waterford is the more impressive presentation."
+  - question: "Are Govino polymer flutes appropriate for a wedding or formal reception?"
+    answer: "Govino flutes are purpose-built for outdoor settings and venues where broken glass is a safety concern — pool decks, boats, lawns, and similar contexts. For a formal indoor reception or a seated wedding dinner where crystal is expected, they will read as casual rather than elegant. Use them where shatterproof is a genuine requirement and choose glass or crystal where appearance is the priority."
+  - question: "How many champagne flutes should I own for regular home entertaining?"
+    answer: "Eight to twelve matching flutes covers the majority of hosting scenarios without requiring supplementary sets. Start with a set of six — enough for a standard dinner party — and add a second set of the same pattern when the guest list grows. A matched set signals that the table was considered, which is a detail guests register even if they cannot name it."
 ---
 
 Etched champagne flutes do something a plain flute cannot , they catch light differently, slow the bubble stream in a way that's genuinely worth watching, and communicate that the table was set with intention. Choosing the right set means understanding what the etching is actually doing, both visually and technically, and matching that to how and where you'll use the glasses. I've spent enough time at both formal dinner tables and outdoor celebrations to know those two contexts call for very different answers.

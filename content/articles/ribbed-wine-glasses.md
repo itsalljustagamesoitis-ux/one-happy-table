@@ -35,6 +35,17 @@ products:
 tags: ["glassware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Are ribbed wine glasses harder to clean than smooth crystal?"
+    answer: "Slightly, particularly in hard-water areas where mineral deposits settle into the channels. A periodic white vinegar soak of ten to fifteen minutes clears calcium buildup effectively. The article notes that shallow ribbing like the Spiegelau Definition series is easier to maintain than deep panel ribbing like the Libbey. For most households with average water quality, standard dishwasher cycles are sufficient for regular cleaning."
+  - question: "Libbey ribbed glasses vs. Spiegelau Definition — which should I buy?"
+    answer: "The choice comes down to what you are optimizing for. The Libbey Paneled Ribbed glasses are budget-tier, USA-made, with deep functional ribbing and strong durability built for everyday use and casual entertaining. The Spiegelau Definition series is mid-range German-made lead-free crystal with subtle ribbing and an exceptionally thin rim that improves how the wine feels to drink. Choose Libbey for durability and price; choose Spiegelau if the drinking experience is the priority."
+  - question: "Are handblown wine glasses like Simon Pearce worth the premium price?"
+    answer: "For the right buyer, yes. Simon Pearce Barre glasses carry artisan provenance and a substantial, considered feel that machine-made crystal does not replicate. The trade-offs are real: hand-wash only, slight variation between pieces in the same set, and a higher replacement cost. The article argues their value depends entirely on how you feel about that variation — buyers who read it as evidence of craft rather than a quality-control failure will find them worth the premium."
+  - question: "Can ribbed wine glasses go in the dishwasher?"
+    answer: "It depends on the specific glass. The Spiegelau Definition White Wine Glasses are explicitly dishwasher safe, though careful stem placement is important to avoid breakage. The Simon Pearce Barre glasses are hand-wash only due to their handblown construction. The Libbey Paneled Ribbed glasses handle dishwasher cycles well given their machine-made durability and thicker construction."
+  - question: "How many ribbed wine glasses should I buy for a dinner party?"
+    answer: "The article recommends buying at least one more set than the number of guests you expect to seat. For a table of six, two sets of four is the practical minimum. If you are mixing ribbed glasses with plain crystal for a textured table aesthetic, one set of ribbed alongside one set of plain is a natural starting point for four to six guests — the contrast often reads better than a fully ribbed table."
 ---
 
 Ribbed wine glasses occupy a specific niche in the [Glassware & Crystal](/glassware/) world , they add texture and grip without sacrificing the visual lightness that makes a table feel considered. The question is which ribbed glass earns a permanent spot in your cabinet versus which ones look better in the store than they hold up at the table.

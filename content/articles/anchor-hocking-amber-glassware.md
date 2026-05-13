@@ -35,6 +35,17 @@ products:
 tags: ["glassware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is amber glass only appropriate for fall table settings?"
+    answer: "Amber glass is strongly associated with autumn aesthetics — the warm tone pairs naturally with harvest colors, wooden elements, and candlelight. It can work year-round in rustic or earthy settings, but it's a harder sell against white linens, spring florals, or a formal winter table. Most buyers find it earns its keep September through November and stores the rest of the year. If you want year-round versatility, clear crystal carries more of the calendar."
+  - question: "Champagne flute vs Champagne Wine glass — what's the practical difference?"
+    answer: "A standard champagne flute has a tall, narrow bowl designed to preserve bubbles and maintain temperature. A Champagne Wine glass — like the format used in the Riedel Veloce — is wider, more like a white wine glass in profile. The wider bowl lets more aroma develop, which champagne sommeliers generally prefer. The trade-off is that bubbles dissipate slightly faster in a wider bowl."
+  - question: "Is Tritan crystal actually dishwasher safe, or is that marketing language?"
+    answer: "Tritan crystal — used in the Zwiesel Glas Enoteca Champagne Flute — genuinely resists the clouding that afflicts standard lead-free crystal over repeated dishwasher cycles, and the claim holds up in regular use. The real risk with tall-stemmed flutes isn't chemical clouding — it's physical breakage at the stem base from vibration in the dishwasher. Load carefully and the Tritan claim is accurate."
+  - question: "Pressed amber glass vs crystal stemware — which is right for a table that mixes formal and casual?"
+    answer: "Pressed glass like the Heritage Hill amber tumblers reads casual regardless of what surrounds it — a strong choice for an intentionally relaxed table, but it doesn't flex into formal settings. Crystal stemware can dress down more easily than pressed glass dresses up. For tables that shift between registers frequently, starting with clear crystal and adding amber glass as an accent is a more adaptable approach."
+  - question: "How do I prevent fine champagne flutes from breaking in the dishwasher?"
+    answer: "Place them in the top rack only, stems facing down into the tines rather than standing upright, and ensure they're not touching other glasses. Upright placement concentrates dishwasher vibration at the stem base — the most vulnerable structural point on any flute. Running a gentle or crystal-specific cycle reduces stress further. For the Zwiesel Glas Enoteca specifically, hand-carry them through the loading process rather than sliding them in quickly."
 ---
 
 Amber glassware has a way of making a table feel considered , the warm tone catches candlelight differently than clear glass, and the right set can anchor a harvest gathering or a casual outdoor dinner with very little effort. Choosing well means understanding what you actually need: a set built for everyday casual use reads differently than fine crystal designed for a specific pour. Browse the full [Glassware & Crystal](/glassware/) category if you want to explore the wider range before narrowing down.

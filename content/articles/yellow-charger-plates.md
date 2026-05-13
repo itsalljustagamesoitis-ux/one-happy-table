@@ -35,6 +35,17 @@ products:
 tags: ["dinnerware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Are charger plates meant to be eaten off of?"
+    answer: "Charger plates are a base layer — they stay on the table while appetizer and salad courses are served, then are typically removed before or with the main course. Food is served on plates placed on top of the charger, not directly on the charger itself. Some modern settings leave chargers in place through the entire meal, but traditional formal etiquette removes them before the entree arrives."
+  - question: "What is the difference between a charger plate and a dinner plate?"
+    answer: "A charger plate is larger — typically thirteen inches compared to a dinner plate's ten or eleven inches — and functions as a decorative and structural base for the place setting rather than a serving surface. Chargers anchor the table visually and protect the linen from spills during service. The two work together as a layered system rather than as alternatives to each other."
+  - question: "Plastic vs. stoneware charger plates — which is the right choice?"
+    answer: "Plastic chargers are the practical answer for outdoor entertaining, high-volume events, and any situation where breakage is a real risk. The American Atelier black and gold plastic chargers photograph well and hold up to repeated handling. Stoneware chargers carry genuine weight and tactile quality that changes how a formal table reads — the Juliska Berry and Thread is the kind of piece guests notice and ask about. Match the material to the occasion, not to a general preference."
+  - question: "Do charger plates have to match the dinnerware pattern?"
+    answer: "They do not. Chargers that match the dinnerware exactly produce a unified formal look — the Lenox Opal Innocence charger with the matching dinnerware set is a good example. But chargers that contrast intentionally through material, color, or texture create visual depth that a matched set does not. The only rule worth following is that the contrast should look deliberate, not like two things that happened to end up on the same table."
+  - question: "How many charger plates do I actually need to buy?"
+    answer: "Buy for your largest anticipated seating plus two spares for breakage or last-minute additions. A household that regularly seats eight should own ten chargers. For premium stoneware used a few times a year, a set of eight with two extras is a reasonable baseline that does not require replacing the full set if one piece breaks. Storage space and handling frequency should both factor into how many you buy at one time."
 ---
 
 Yellow charger plates are one of those table details that read as bold on a mood board and then panic people at the store. The color is specific, the commitment feels real, and most of what's available either skews too plastic or too precious for practical use. I've spent enough time setting tables for everything from backyard dinners to seated rehearsal suppers to know that the [dinnerware](/dinnerware/) you choose underneath the plate matters as much as the charger itself.

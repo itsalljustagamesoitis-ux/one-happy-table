@@ -35,6 +35,17 @@ products:
 tags: ["serveware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Can you write on porcelain place cards with a regular pen?"
+    answer: "Not reliably. Fully glazed porcelain repels water-based ink, so standard felt-tip and ballpoint pens bead off rather than adhering. The article specifies a fine-tip china marker or oil-based paint pen as the correct tool — these adhere to the glaze and wipe clean afterward with a damp cloth. If you prefer a regular pen, look for porcelain cards that have a matte or unglazed writing panel rather than a full glaze."
+  - question: "Reusable porcelain place cards vs. disposable foil cards — which makes more sense?"
+    answer: "The article frames this as a hosting-frequency decision rather than a formality one. A host who entertains eight people for dinner six times a year will use reusable porcelain cards dozens of times — the investment pays back quickly. A host who entertains once a year for thirty people is better served by a bulk disposable option. Neither is a compromise; they serve different hosting patterns."
+  - question: "Are porcelain place cards appropriate for casual dinners or only formal events?"
+    answer: "Porcelain cards work for any dinner where you want guests to feel the seating was thought through — that is not exclusively formal. A Sunday lunch for eight, a birthday dinner, or a holiday table all benefit from assigned seating without requiring black-tie formality. The formality signal comes from design details like gold trim rather than from the material itself, so a plain white porcelain card reads more casual than a heavily ornamented one."
+  - question: "Place cards vs. place card holders — what is the actual difference?"
+    answer: "Place cards are the labeled surface itself — either a flat tile or a folded tent that stands on its own. Place card holders are small ceramic or metal stands designed to hold a separate paper insert upright on the table. The Mud Pie porcelain set are self-standing cards; the Juliska Country Estate set are holders that receive a paper name card within. Both accomplish the same seating function but suit different table aesthetics."
+  - question: "How should I store porcelain place cards so they do not chip?"
+    answer: "The article is specific: loose in a drawer, porcelain cards will show edge chipping within a season. Wrapped in tissue in a small box, stored in a divided container, or kept in a reserved section of a china cabinet, they last indefinitely. Proper storage is not aspirational — it is what the purchase actually requires to remain reusable."
 ---
 
 Place cards seem like a small detail until you're fifteen minutes from guests arriving and handwriting names on scraps of paper. A set of porcelain [place cards](/serveware/) changes that , they hold up through multiple dinners, photograph beautifully, and signal to guests that someone thought the evening through. The category is narrower than it looks, though, and the differences between options matter more than the price bands suggest.

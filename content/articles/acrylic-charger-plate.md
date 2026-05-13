@@ -35,6 +35,17 @@ products:
 tags: ["dinnerware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Acrylic charger plates vs porcelain or metal — which material lasts longer?"
+    answer: "Acrylic wins on price, weight, and shatter resistance but loses on longevity and surface durability. Acrylic scratches with use, particularly if run through a dishwasher, and does not develop an appealing patina over time. Glazed porcelain like the Mikasa Metropolitan holds its finish through dishwasher cycles. Handcrafted stoneware like the Juliska Berry and Thread is the most durable decorative option but requires hand-washing to preserve the relief detail. Match the material to how often you'll actually use them."
+  - question: "Are acrylic charger plates safe to use with hot dishes?"
+    answer: "Acrylic charger plates are decorative, not functional serving pieces — food and hot dishes sit on the dinner plate placed on top of the charger, not directly on the acrylic surface. For that reason, heat exposure is minimal in normal use. Avoid leaving acrylic chargers in direct sunlight for extended periods, as prolonged UV exposure can cause slight yellowing or warping over time."
+  - question: "Gold-rimmed vs plain acrylic charger plates — which is more versatile?"
+    answer: "Plain or lightly textured acrylic chargers disappear more completely under the dinner plate and give you maximum flexibility across different place settings. Gold rims read warm and formal, pairing naturally with warm-toned linens, candlelight, and amber or champagne glassware. If your cutlery and candleholders are silver-toned, a gold rim creates a visible conflict. Consistency in metal tone across the table matters more than the choice of which metal."
+  - question: "How many charger plates do I need for a dinner party of eight?"
+    answer: "Buy at least ten, ideally twelve. Having two to four extras means you're covered if a piece cracks, if a guest arrives unexpectedly, or if you want to set a head-of-table position differently. For the Efavormart clear acrylic set, the 12-pack format solves this automatically. For the Mikasa Metropolitan, which is sold individually, plan your order count before purchasing rather than ordering a second batch later."
+  - question: "How do I keep acrylic charger plates from scratching?"
+    answer: "Dishwashers are the primary cause of micro-scratching on acrylic — the heat and abrasion of dishwasher cycles dull the surface over time. Hand-wipe with a soft cloth between uses and store plates with a layer of felt or cloth between each one. Treat acrylic chargers as a mid-term investment rather than a permanent one; budget for eventual replacement if you entertain frequently."
 ---
 
 Charger plates sit underneath everything else on a dressed table, which makes them easy to underestimate. Get them right and the whole setting looks considered; get them wrong and no amount of good linen or candlelight rescues it. If you're shopping for acrylic charger plates specifically, you already know the appeal , lightweight, shatter-resistant, and versatile enough to move between a backyard dinner and a formal dining room without looking out of place. The full range of [Dinnerware & China](/dinnerware/) options can help you see how chargers fit into a broader table scheme before you commit.

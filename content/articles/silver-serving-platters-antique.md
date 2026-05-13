@@ -35,6 +35,17 @@ products:
 tags: ["serveware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is antique silverplate safe to serve food on?"
+    answer: "Genuine antique silverplate is generally safe for serving food, provided the plating is intact and not worn through to the base metal. Avoid acidic foods — citrus, vinegar-based dressings, pickled items — in contact with the surface for extended periods. For a platter used occasionally for service rather than storage, the risk is minimal. Reproduction silver-tone platters over stainless steel have no food-safety concerns."
+  - question: "How do you tell genuine silverplate from a silver-tone reproduction?"
+    answer: "Genuine silverplate typically bears hallmarks or maker's stamps on the underside — look for EPNS (electroplated nickel silver), a silversmith's mark, or a quality grade number. Reproductions and decorative pieces usually have no such marks, or carry only a brand name. Weight is a secondary indicator: genuine silverplate on a copper base tends to be heavier than decorative stainless-backed pieces of the same size."
+  - question: "Godinger silver platter vs Juliska Berry and Thread — which is right for a formal dinner table?"
+    answer: "That decision turns on whether your table is built for practicality or long-term investment. The Godinger Silver Round Serving Platter delivers strong visual presence at a budget-friendly price and is the right call if you entertain frequently and need a piece that works hard without worry. The Juliska Berry and Thread Ceramic Serving Platter is the choice if you're building a coordinated table with long-term pieces that deepen in character over time."
+  - question: "Can silver-tone serving platters go in the dishwasher?"
+    answer: "Most silver-tone platters are technically dishwasher-safe, but the finish degrades faster with regular machine washing — the combination of heat, detergent, and water pressure accelerates scratching and dulling. Hand-washing with mild dish soap and a soft cloth is the right maintenance approach for any piece where the finish matters. For hand-crafted pieces like the Juliska stoneware, hand-washing is required, not optional."
+  - question: "How do I prevent a silver-tone platter from scratching during use?"
+    answer: "Use only serving utensils with silicone-coated, wooden, or nylon tips — never bare metal directly on the platter surface. Store platters with felt separators or soft cloth between pieces rather than stacking them directly. Clean with a non-abrasive soft cloth; avoid scouring pads and gritty cleansers entirely. Starting those habits from the first use preserves the finish far longer than trying to correct scratches after the fact."
 ---
 
 Antique silver serving platters carry a particular kind of weight at the table , not just physical, but atmospheric. The right platter signals that someone thought carefully about how a meal would be presented, not just what would be served. Whether you're looking for genuine silverplate, an heirloom-quality reproduction, or something that reads as antique silver without the maintenance overhead, the market offers options worth knowing. Exploring the full range of [serveware](/serveware/) available today makes that search considerably easier.

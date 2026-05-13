@@ -35,6 +35,17 @@ products:
 tags: ["dinnerware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What is the difference between a charger plate and a dinner plate?"
+    answer: "A charger plate is a decorative underliner placed beneath dinner plates at the start of a meal. It is typically 12 to 14 inches in diameter — larger than a standard dinner plate — and is meant to be visible at the table, not used as a direct serving surface. Food is served on the dinner plate placed on top of it. Chargers are removed before or after the main course depending on the style of service."
+  - question: "Silver-finish metal charger vs platinum-banded charger — what is the difference?"
+    answer: "A silver-finish metal charger like the Godinger is a metallic base plate where the finish covers the entire surface. A platinum-banded charger like the Lenox Opal Innocence is porcelain with a metallic accent at the rim only. The visual effect is different: one reads as a metallic anchor, the other as an elegant border. Both require careful hand-washing, but for different reasons."
+  - question: "How many silver charger plates do I need for a dinner party of eight?"
+    answer: "One per place setting, so eight as a minimum. The most practical approach is to buy at least one or two extras — having spares means a last-minute guest or a damaged plate does not leave a gap in your setting. Sets of four are the common format, so buying two sets of four covers most dinner party scenarios with a spare on hand."
+  - question: "Do silver charger plates work with colored or patterned dinnerware?"
+    answer: "They can, but the finish matters. Mirror-silver chargers read as high-contrast against patterned plates, which can look bold or busy depending on the pattern. Brushed and pewter-tone finishes are more neutral and coordinate more easily with textured or patterned place settings. A whitewash stoneware option like the Juliska Berry and Thread offers the silver-white palette without the metallic contrast, making it easier to layer with patterned pieces."
+  - question: "When should charger plates be removed during a meal?"
+    answer: "The most common approach in home entertaining is to remove the charger along with the dinner plate at the end of the main course, before dessert is served. In formal restaurant service, chargers are sometimes removed as soon as the dinner plate arrives. For home dinners, keeping the charger through the main course and removing it before dessert is perfectly appropriate and keeps the table looking intentional throughout the meal."
 ---
 
 Silver charger plates have a way of making an ordinary table setting feel deliberate , the kind of detail guests notice before they sit down. Whether you're setting a formal holiday table or just want your everyday dinners to feel a little more considered, [dinnerware](/dinnerware/) choices like chargers do real work without requiring a full place setting overhaul.

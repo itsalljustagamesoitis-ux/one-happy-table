@@ -35,6 +35,17 @@ products:
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Linen napkins vs. cotton napkins — which is better for regular home use?"
+    answer: "Linen develops in a way cotton does not — the fiber softens and gains drape with each wash cycle, so a linen napkin you have had for three years feels better than one you have had for three weeks. Cotton is more immediately soft and easier to press flat, which makes it the practical choice for high-frequency use without ironing. For a table you care about, linen is worth the care requirement. For everyday family dinners at volume, cotton or a blend is the more manageable answer."
+  - question: "Belgian linen napkins — do they shrink after washing?"
+    answer: "Pre-washed Belgian linen, like the Sur La Table set featured here, has already been through the shrinkage process before it ships. The dimensions listed are the finished dimensions you will keep. Linen that has not been pre-washed can shrink meaningfully in the first few wash cycles, so checking whether a set is pre-washed is a worthwhile step before ordering — particularly for linen, which shrinks more aggressively than cotton."
+  - question: "How many cloth napkins do I need for a household that entertains regularly?"
+    answer: "The math starts with your most common use case. A household that sets a table for four every night needs a minimum of twelve napkins — enough for three full meals between wash cycles. A household that hosts dinner parties for eight needs at least sixteen, and twenty-four gives comfortable rotation. Sets of four and six look appealing at purchase and create a stocking problem quickly. If you are buying for regular use, buy for your realistic frequency, not your aspirational one."
+  - question: "Sferra hemstitched linen napkins — are they practical or just for show?"
+    answer: "They are practical if ironing is already part of your table prep routine. The hand-hemstitched border on Italian linen requires pressing to look the way it is intended to look — there is no shortcut. For a host who irons napkins before guests arrive, these are as practical as any premium linen. For everyday family dinners, the laundering expectation and the set size of four make them a poor fit for regular rotation."
+  - question: "Cotton-polyester blend napkins — what is the real trade-off compared to pure linen?"
+    answer: "Poly blends resist wrinkles better than either pure fiber and hold color well through repeated washing. The trade-off is tactile — poly blends feel lighter and less substantial than pure linen or cotton, and they can develop a slight pill with repeated laundering. These are napkins built for volume and ease, not for the sensory experience of a well-made fabric at a formal table. If texture matters to your table, fiber purity matters."
 ---
 
 Cloth napkins are one of those table choices that look like a small detail until you set the table without them. The weight of a real napkin in someone's lap, the way it holds a fold at the corner of a plate , these things register even when your guests can't name why the table feels considered. I've been exploring options across the full range of [Table Linens](/linens/) for years, and napkins are where I see the most confusion about what's worth spending on.

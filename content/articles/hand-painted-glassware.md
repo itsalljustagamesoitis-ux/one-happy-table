@@ -35,6 +35,17 @@ products:
 tags: ["glassware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Are hand-blown wine glasses safe to put in the dishwasher?"
+    answer: "It depends on the construction and crystal type. Standard soda-lime blown glass, including most colored glassware, can be dishwashed on a gentle cycle but may show etching over time. Engineered crystal formulations like Tritan — used in the Zwiesel Glas Enoteca Champagne Flutes — are specifically designed to resist dishwasher etching. Hand-blown colored pieces like the Estelle emerald set are best washed gently and dried by hand to preserve the color's vibrancy over years of use."
+  - question: "What is the difference between color in the glass versus color on the glass?"
+    answer: "Color fired into the molten glass or achieved through mineral pigments blended into the batch is structural — it does not sit on top of anything and cannot wash off. Painted decoration sits on the surface and can chip, fade, or wash away over time. When evaluating a colored glass piece, this distinction matters more than any styling detail. Structural color is the durable choice for anything used regularly."
+  - question: "What is the difference between a decanter and a carafe?"
+    answer: "A decanter aerates wine through a wide, oxygen-exposed surface area — the broad flat bottom allows tannic reds to breathe and mellow. A carafe is a service vessel that holds and pours but does not aerate meaningfully. The Sheffield 34-Ounce Glass Decanter with Lid is functionally a carafe despite its name — its straight-sided form does not provide the surface area a tannic red needs. For everyday water and casual wine service, that distinction is irrelevant."
+  - question: "Can I mix colored and clear glassware at the same table setting?"
+    answer: "Yes, and intentional mixing is often more interesting than a fully matched set. The practical rule is to anchor one visual element — keep water glasses clear if wine glasses are colored, or vice versa. Mixing the Sheffield carafe in clear glass with the Estelle emerald wine glasses works precisely because the carafe recedes and lets the colored glasses carry the table's visual register. The contrast between utilitarian and decorative reads as considered rather than mismatched when the clear piece is genuinely simple."
+  - question: "Is a set of two champagne flutes enough, or should I buy more?"
+    answer: "A set of two is sized for specific deliberate use — a celebratory pour for two people or a specialty glass brought out for a single occasion. For a dinner party where more guests will be toasting, the math requires additional sets. The Zwiesel Glas Enoteca as a set of two reflects its intended use as an occasion piece rather than an everyday glass, which is appropriate given its long fine stem and premium construction."
 ---
 
 Hand-painted and colored glassware has moved from specialty import shops to the center of the table, and the options now span budget carafes to hand-blown crystal sets. The challenge is knowing what actually holds up , in daily use, in the dishwasher, and against the light when guests are watching. This is a guide to three pieces worth owning, from a workhorse carafe to a set of emerald wine glasses that earns every word of its following. Browse the full range of [Glassware & Crystal](/glassware/) options to understand the broader category before you narrow your decision.

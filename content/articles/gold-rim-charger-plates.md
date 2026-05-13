@@ -35,6 +35,17 @@ products:
 tags: ["dinnerware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Acrylic vs. porcelain charger plates — which is better for regular entertaining?"
+    answer: "Glazed porcelain is the stronger choice for regular use. It handles dishwasher cycles, resists surface scratching, and reads well at both casual and formal table registers. Acrylic chargers look polished at first glance but scratch with repeated use and stacking, which makes them look tired after a season of hosting. The mid-range investment in porcelain pays back over repeated use in a way that budget acrylic rarely does."
+  - question: "Can I put gold rim charger plates in the dishwasher?"
+    answer: "It depends entirely on the material and how the gold rim is applied. The Mikasa Metropolitan's glazed porcelain edge holds up through regular dishwasher cycles without significant gold degradation. Hand-painted finishes like the Juliska Berry and Thread are better protected by hand-washing. Acrylic chargers can go on a gentle cycle technically, but heat accelerates surface scratching and warping over time."
+  - question: "What is the difference between a charger plate and a dinner plate?"
+    answer: "A charger plate is a decorative base — typically 12 to 13 inches in diameter, larger than a standard dinner plate — and it is not meant to have food placed directly on it. It creates a visual frame for the dinner plate, bread plate, and flatware. Dinner plates sit on top of the charger and hold food directly. Some chargers are food-safe, but their primary role is presentation and table structure, not function."
+  - question: "How many charger plates should I buy for a dinner party?"
+    answer: "Buy at least one per seat plus two or three extras. Extras cover breakage, last-minute additions to the guest list, and the option to rotate chargers between courses at formal dinners. A set of 12 like the Efavormart acrylic chargers is a practical starting point for most home entertainers who regularly seat up to ten guests."
+  - question: "Does the Juliska Berry and Thread charger work as a standalone decorative piece before the meal starts?"
+    answer: "Yes, and that is one of its genuine strengths. The 13-inch diameter and the hand-applied berry and thread relief motif around the border are decorative enough to carry the table's visual weight before the first course arrives. Because each piece is hand-crafted, no two are fully identical — the slight variation in whitewash depth gives the table an organic quality that pressed chargers simply cannot reproduce."
 ---
 
 Gold rim charger plates have a way of making an ordinary dinner table feel considered , like someone thought about the meal before the food even arrived. They're one of the few pieces in [dinnerware](/dinnerware/) that earns its place without ever holding a single bite.

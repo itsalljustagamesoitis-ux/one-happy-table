@@ -35,6 +35,17 @@ products:
 tags: ["glassware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Are Libbey Duratuff glasses actually more break-resistant than regular glass?"
+    answer: "Yes. The tempering process compresses the outer surface of the glass, which significantly increases resistance to the kind of everyday impact — hard placement on a counter, a knock from another glass — that cracks untreated glass. They will still break under sufficient force, but they handle minor daily abuse far better than standard glass. For households with children or active entertaining schedules, the durability difference is real and noticeable."
+  - question: "Libbey Duratuff vs crystal wine glass — what is the actual difference?"
+    answer: "They are fundamentally different materials. Libbey Duratuff is heat-tempered standard glass, engineered for impact resistance but carrying a slight greenish tint and heavier weight. Crystal contains mineral additives that produce greater clarity, a lighter feel, and a distinct ring when tapped. Modern Tritan crystal formulas are dishwasher safe and chip-resistant — crystal is not necessarily more fragile than tempered glass, but it serves different table contexts."
+  - question: "Does the green tint in tempered glass affect how wine looks?"
+    answer: "It can, particularly in natural or cool light. The iron content in standard tempered glass introduces a slight green cast that is most visible in the thicker base section. For tumblers used for water or spirits, this has no practical impact. If you are using a Duratuff-style glass for white wine or sparkling water where color clarity matters, the tint may be noticeable. For wine service where appearance is a priority, clear crystal is the more appropriate choice."
+  - question: "How many glasses do I actually need for a dinner party of six?"
+    answer: "A set of six in a single style is the practical minimum for a dinner party of six, with no margin for breakage. The article recommends a set of six for everyday use specifically because it gives you coverage for a dinner party and breathing room to lose a glass or two without reordering immediately. For special-occasion glasses used a few times a year, a set of four is often sufficient since they are handled more carefully."
+  - question: "Can Zwiesel Glas Enoteca champagne flutes go in the dishwasher?"
+    answer: "The Tritan crystal construction is designed for dishwasher use and resists the cloudiness that degrades standard lead-free crystal over repeated cycles. The practical risk is the stem — loading flutes upright in a dishwasher rack puts stress on the base-to-stem junction during the wash cycle. Laying them on the top rack or hand-washing them is safer in practice. The material handles machine washing; the stem geometry introduces a separate risk worth managing."
 ---
 
 Everyday glassware takes a beating , clinked at dinner parties, run through the dishwasher weekly, occasionally knocked off counters by a distracted host. The category spans everything from budget-tempered tumblers to hand-blown crystal flutes, and knowing which type earns a spot on your table requires understanding what you're actually buying. Browse the full range of [Glassware & Crystal](/glassware/) options before you commit to a style.

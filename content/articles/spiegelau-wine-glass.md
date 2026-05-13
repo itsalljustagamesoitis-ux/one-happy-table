@@ -35,6 +35,17 @@ products:
 tags: ["glassware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Spiegelau vs Riedel for everyday wine glasses — which is better value?"
+    answer: "Spiegelau and Riedel are related companies — Riedel acquired Spiegelau — but they occupy different market positions. Spiegelau's glasses are positioned as more accessible, with thinner construction at a lower price than Riedel's comparable lines. For everyday use, Spiegelau's dishwasher-safe certification and genuine lead-free crystal clarity make them a strong choice. Riedel's performance-tier options are more refined but require more care and come at a higher cost that's harder to justify for daily use."
+  - question: "Can Spiegelau Definition glasses go in the dishwasher?"
+    answer: "Yes, with conditions. Spiegelau certifies the Definition series as dishwasher safe, but the stem is the vulnerability. Top rack placement, stable spacing that prevents contact with other glasses, and a gentle cycle are the parameters that matter. Owners who skip those steps report broken stems — not because the glass is poorly made, but because the stem is narrow by design and needs support during the cycle. Load them deliberately and the dishwasher certification holds up."
+  - question: "Spiegelau Definition vs Simon Pearce Ascutney — are they even comparable?"
+    answer: "These are different products for different purposes, not competing versions of the same thing. The Spiegelau Definition is machine-produced lead-free crystal, dishwasher safe, and optimized for consistent thin-rim performance at a mid-range price. The Simon Pearce Ascutney is mouth-blown by hand in Vermont, requires hand-washing, and costs significantly more — but each glass carries an organic character that machine production doesn't replicate."
+  - question: "Stemless wine glasses vs stemmed — which is better for a dinner party?"
+    answer: "Stemless works well for casual entertaining and for red wine specifically, where temperature maintenance is less critical. For a more formal table setting or any gathering where white wine or sparkling wine is being served, stemmed glasses are worth the effort — the stem keeps body heat away from the bowl in a way stemless cannot replicate. If you pour cold and drink within 10 to 12 minutes, the warming rate difference is a non-issue."
+  - question: "How many wine glasses do I actually need for a dinner party of eight?"
+    answer: "Ten is the honest answer — two extra glasses account for breakage during the evening and give you flexibility if a guest arrives unexpectedly. If you're using mid-range crystal, buying two sets of four gives you eight glasses with extras available. If you're stretching a budget for a large gathering, the Libbey Signature Kentfield in sufficient quantity is more practical than premium crystal in short supply."
 ---
 
 Good white wine glasses are hard to find at a fair price, and bad ones ruin the experience before you've taken a sip. The Spiegelau line sits at an interesting point in the [Glassware & Crystal](/glassware/) market , genuinely good construction at a price that doesn't require justification. The question isn't whether Spiegelau is worth considering. It's which glass is right for how you actually entertain.

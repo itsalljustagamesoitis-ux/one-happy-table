@@ -35,6 +35,17 @@ products:
 tags: ["serveware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Are wooden place card holders appropriate for a formal dinner?"
+    answer: "Natural wood holders work best on casual, organic, or farmhouse-style tables. For a genuinely formal dinner — fine china, crystal, tapered candles — the material reads as too casual and can create a visual inconsistency in the setting. In that context, the Mud Pie White and Gold Porcelain Place Cards or the Juliska Country Estate ceramic holders are more appropriate choices. Match the holder material to the overall register of your table, not just the occasion."
+  - question: "Can I use any pen to write on porcelain place cards?"
+    answer: "No. Standard ballpoint or felt-tip pens will not adhere to a glazed porcelain surface. You need a fine-tip china marker, sometimes called a porcelain pen, which writes cleanly on glazed surfaces and can usually be wiped off with a damp cloth or removed with rubbing alcohol after the event. This is an inexpensive tool but a necessary one — plan for it in your setup timeline so you are not searching for it thirty minutes before guests arrive."
+  - question: "What is the difference between a place card holder and a porcelain place card?"
+    answer: "A holder is a separate object — typically a slot or clip — that holds a paper or card insert you write on separately. A porcelain place card combines both functions: the ceramic piece is itself the card, and you write directly on its surface with a china marker. Holders offer more flexibility in card design and calligraphy options; porcelain cards offer a cleaner, more permanent look and eliminate the need to source and print separate inserts."
+  - question: "How many place card holders do I need for a holiday table?"
+    answer: "Count your confirmed seats, not your maximum capacity. Most holiday tables seat eight to twelve people, which makes a set of twelve the most practical single purchase. If you are working with the Juliska set of four, you would need two to three sets to cover a full table, which affects the total investment considerably. A set of twelve natural wood holders gives you the most flexibility at the lowest cost for a table that varies in size across different occasions."
+  - question: "Do wooden slot holders work with thick card stock and calligraphy paper?"
+    answer: "Most slot-style wood holders are sized for standard business card thickness. Heavily weighted card stock — 110 lb or above — may not seat cleanly in the slot and could lean or resist insertion. If you are planning to use custom printed cards on premium paper, measure your card stock thickness against the holder's slot width before ordering. Standard folded tent cards and typical place card paper weights seat without issue in most wood slot holders."
 ---
 
 Place cards do more work than most people give them credit for. A thoughtful seating arrangement, marked with something that feels intentional rather than printed-and-forgotten, tells guests they were considered before they even sat down. If you're sorting through [serveware](/serveware/) options and wondering whether your place card holders are worth any real attention, I'd argue they are , and the material matters more than you'd expect.

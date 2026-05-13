@@ -35,6 +35,17 @@ products:
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What length runner works for a cocktail table versus a standard dining table?"
+    answer: "A cocktail table is lower and smaller than a dining table, so a standard dining runner — often 108 to 120 inches — will overhang awkwardly and can become a trip hazard for guests moving around the table. For a cocktail table, look for runners in the 72-to-90-inch range, or plan to fold and tuck excess. The general rule is to keep the overhang to no more than six to eight inches past each end of the table surface."
+  - question: "Linen or cotton napkins for a cocktail party — which holds up better?"
+    answer: "Linen holds up better over time and develops a more characterful texture with use, but it wrinkles readily and costs more per piece. Cotton is easier to press, more affordable, and still looks considered on a cocktail table. If touch and longevity matter most, linen is the clear answer. If you need a larger set on a budget or want crisp, wrinkle-free folds, cotton is a practical and entirely respectable choice."
+  - question: "How many napkins do I actually need for a cocktail party?"
+    answer: "Plan for at least one and a half to two napkins per guest — cocktail parties involve more informal movement, guests often grab a second napkin, and you want a buffer for spills without running short mid-party. For a group of twelve, that means eighteen to twenty-four napkins is practical. Buying two sets of six Belgian linen napkins gets you there, or supplement a premium set with a less expensive cotton backup that coordinates in color."
+  - question: "Is the Juliska Country Estate runner worth the premium if I am not buying other Juliska pieces?"
+    answer: "That depends almost entirely on whether you are building within the Juliska ecosystem. The runner is designed to coordinate with Juliska's Country Estate ceramics and glassware — the value is in the cohesion of that full table story. As a standalone runner evaluated purely on material and finish, the premium is harder to justify. If coordinated brand aesthetics matter to your hosting practice it earns its price; if you are mixing and matching freely, a less expensive option in a complementary colorway will serve you just as well."
+  - question: "What causes a woven check runner to look skewed after washing and how do I fix it?"
+    answer: "The woven check can shift on the bias through the wash cycle, making the grid look slightly skewed. The fix is straightforward: press the runner while slightly damp, pulling the grain straight along the edge of your ironing board before pressing. A spray bottle helps. This takes about five minutes once you know to do it and restores the pattern cleanly — build it into your routine if you wash the runner frequently."
 ---
 
 Cocktail table linens sit at a strange intersection of practical and decorative , they need to hold up through a party but also carry the visual weight of your table before a single glass is set down. The right runner or set of napkins does quiet work: it anchors the palette, softens the surface, and signals that someone thought about the table intentionally. A contextual link to the full range of [table linens](/linens/) is worth visiting before you commit to a direction.

@@ -35,6 +35,17 @@ products:
 tags: ["dinnerware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Bone china vs fine china vs porcelain — what's the actual difference?"
+    answer: "Bone china contains bone ash — typically at least 30 percent by composition — which produces its characteristic translucency and warm tone. Fine china is a broader term that often refers to hard or soft paste porcelain without bone ash content. Bone china is generally considered the more refined category, though hard porcelain is more durable under frequent use. The translucency test — holding a plate up to light — is the fastest practical way to distinguish genuine bone china from relabeled porcelain."
+  - question: "Is bone china dishwasher safe?"
+    answer: "Some bone china is dishwasher safe on the top rack, and some is not — it depends entirely on the specific piece and whether it has metallic trim. Plain glaze bone china like the Mikasa Cameo White is generally rated for top-rack dishwasher use. Any piece with platinum or gold trim, including the Wedgwood Vera Wang Lace Teacup and Saucer, must be hand-washed, because dishwasher detergent degrades metallic finishes over repeated cycles even at low temperatures."
+  - question: "How do I prevent bone china from chipping in storage and the dishwasher?"
+    answer: "Rim edges are the most vulnerable point on any bone china piece, and the two main causes of chipping are rim-to-rim contact in the dishwasher and rim-to-rim contact in storage. Load bone china in the dishwasher with space between pieces so they can't knock against each other during the wash cycle. Store dinner plates with felt or cloth separators between each piece, and keep fine bone china out of high-heat dishwasher drying cycles."
+  - question: "Do gold charger plates work well with cream bone china?"
+    answer: "Gold charger plates and warm cream bone china are a natural pairing — the warm tones reinforce each other rather than clash. The combination works especially well for autumn and winter entertaining, holiday tables, and evening dinners by candlelight. Where it requires more care is against pure white linens, where the warmth of both the cream china and the gold charger can feel slightly mismatched in a formal context."
+  - question: "Can the Wedgwood Vera Wang Lace teacup saucer be used as a dessert plate?"
+    answer: "Yes, and it works well for exactly this purpose. The platinum-trimmed saucer is appropriately sized for petit fours, a single macaron, or small chocolates served alongside tea. It's a practical doubling-up of function that suits formal afternoon tea service where a separate dessert plate would add clutter. Keep the hand-wash requirement in mind — using it for sticky dessert items means prompt rinsing before residue sets in the lace embossing."
 ---
 
 Fine bone china carries a kind of quiet authority at the table , the slight translucency, the lighter weight, the way it catches candlelight differently than stoneware ever will. If you've been searching for the Allyn Nelson collection, you already know what you're after: pieces that make a table feel deliberate. The [Dinnerware & China](/dinnerware/) category is wide, and narrowing it to what actually performs at a formal table takes more than brand recognition.

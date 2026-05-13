@@ -56,6 +56,17 @@ products:
 tags: ["glassware", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What actually makes a decanter suitable for long-term whiskey storage?"
+    answer: "An airtight stopper is the primary factor. Most cut crystal decanters, including the Waterford Lismore, use stoppers that seal well enough for days or weeks but are not engineered for months of storage. For extended storage, prioritize a stopper that seats firmly with minimal gap, and confirm the decanter body is lead-free if you are housing spirits over a long period. A cool, dark location slows evaporation regardless of which decanter you choose."
+  - question: "Ravenscroft Taylor vs. Waterford Lismore — which is the better gift?"
+    answer: "The Waterford Lismore carries stronger brand recognition as a gift — the name communicates quality to recipients who know glassware. The Ravenscroft Taylor is the stronger functional choice: designed specifically for spirit storage, with a wide stable base and flat-cut pattern that is less ornate but equally refined. If the recipient will know and appreciate the Waterford name, that matters. If the gift is primarily about the object itself, the Ravenscroft is the more considered choice."
+  - question: "Can I use a whiskey decanter for wine, or do I need a separate wine decanter?"
+    answer: "You can, with limitations. A whiskey decanter's wide base and enclosed body will hold wine without harming it. What it will not do is aerate efficiently — the Riedel Corneto's conical form maximizes surface area exposure in a way a flat-bottomed vessel cannot replicate. For wines that benefit from aeration, a purpose-built wine decanter does meaningfully better work."
+  - question: "Is the ETO Wine Decanter worth its premium price for wine preservation?"
+    answer: "For anyone who regularly drinks wine by the glass rather than by the bottle, yes. Conventional decanters are open vessels that accelerate oxidation — they are designed to expose wine to air, which is useful short-term and damaging overnight. The ETO's airtight mechanism is the only feature in this roundup that genuinely extends a bottle's life, and for that specific use case, nothing else on the list competes."
+  - question: "How do I prevent calcium deposits from forming on a crystal stopper?"
+    answer: "Hand-dry the stopper immediately and completely after every rinse — do not leave it damp on the counter. A soft lint-free cloth applied right away prevents calcium from bonding to the surface. If deposits have already formed, a diluted white vinegar soak for fifteen minutes followed by gentle scrubbing with a soft brush is usually effective. Prevention takes about thirty seconds and saves considerable frustration over the life of the piece."
 ---
 
 Choosing a whiskey decanter is less straightforward than it looks. The options range from budget glass carafes that do an honest job on the table to lead-free crystal pieces engineered for display, and the differences between them matter , not just aesthetically, but functionally.

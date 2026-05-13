@@ -35,6 +35,17 @@ products:
 tags: ["decor", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Dining room centerpiece height — what is the rule for not blocking conversation?"
+    answer: "Keep arrangements either below twelve inches or tall and narrow enough that sightlines remain clear across the table. Low, wide arrangements work well with clustered candles or botanicals. If you want height, taper candles on slender holders provide vertical drama without the visual bulk that blocks guests from seeing each other. The sightline rule applies regardless of table shape or guest count."
+  - question: "Should a centerpiece match the candle holders exactly?"
+    answer: "Exact matching is not necessary and can actually make a table feel overly coordinated. What matters is that finish tones are in conversation with each other — warm gold tones work together, mixed warm and cool metals need a deliberate bridge or they clash. Mixed-metal pieces solve this inherently by working across both warm and cool palettes without forcing a single-finish commitment."
+  - question: "Is the Creative Co-Op Whitewash Wood box suitable for a formal dinner table?"
+    answer: "It works best in transitional and elevated-casual settings rather than fully formal contexts. Paired with linen, matte metallics, and neutral dinnerware, the whitewash finish reads as intentional and relaxed-elegant. On a table with crystal stemware and polished silver, the wood finish tends to read as inconsistent with the rest of the setting. The box is genuinely versatile within its range, not across all registers."
+  - question: "How do I keep taper candles from wobbling in decorative holders?"
+    answer: "Decorative holders with bow-form or sculptural bases prioritize visual form, which can mean the cup diameter does not grip every taper size securely. A small amount of floral adhesive clay pressed into the cup base solves fit variations immediately. Drip-free tapers also reduce wax management during long dinners, so test fit and burn time before the event, not during it."
+  - question: "Are sculptural candlestick holders worth the premium for home entertaining?"
+    answer: "If you host formally more than a few times a year, yes. A piece like the Butterfly Ginkgo holders functions as a long-term table anchor that does not require replacement or seasonal updates the way florals or botanical fillings do. The per-use cost over three to five years of regular entertaining makes the premium price considerably more reasonable than it appears as a single purchase — structural pieces justify premium investment in a way consumable elements do not."
 ---
 
 Centerpieces are the part of the table most guests notice first and remember longest. A well-chosen arrangement pulls a formal dining room together , it signals intention without requiring a word. The [Decor & Candles](/decor/) hub covers the full range of what belongs on a well-dressed table, and centerpieces sit at the center of all of it, literally.

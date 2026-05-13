@@ -35,6 +35,17 @@ products:
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "April Cornell tablecloths — do they work with mixed vintage china?"
+    answer: "Yes. The vintage-botanical prints April Cornell produces were developed specifically to coordinate with collected, layered tableware rather than matched sets. The muted, slightly faded palette works alongside mismatched antique china, pressed glass, and linen napkins in different patterns. If your china is modern or graphic, the print will compete rather than complement."
+  - question: "Does the woven gingham pattern fade after repeated washing?"
+    answer: "No. The green gingham on the LinenTablecloth check is woven into the yarn rather than printed on the surface, which means color and pattern integrity hold through consistent laundering. The cotton-poly blend also handles normal machine washing without shrinkage risk. The cloth does require ironing to look crisp, but it presses cleanly and holds that finish between uses."
+  - question: "Is the Juliska Country Estate runner worth buying without other Juliska pieces?"
+    answer: "Probably not at its price point. The runner is most valuable when it reinforces the shared design language of a broader Country Estate setting with Juliska ceramics and glassware. Used in isolation, the premium pricing is harder to justify. If you plan to build toward that collection over time, buying the runner first is reasonable — otherwise the LinenTablecloth gingham delivers more practical value as a standalone."
+  - question: "What tablecloth drop length should I use for a dinner party?"
+    answer: "Twelve inches is the standard for a seated dinner party — it looks intentional without producing a draped floor-length effect. Sixteen inches suits very formal occasions. Eight to ten inches reads as casual and works well for everyday meals or outdoor tables. Measure from the table edge to your desired drop point, then add twice that figure to your table dimensions to find the cloth size you need."
+  - question: "Can I layer a patterned tablecloth with a patterned runner?"
+    answer: "Yes, when the two patterns differ in scale and type but share a color family. A small-repeat floral tablecloth paired with a textured or solid linen runner works well. The two patterns should not compete at the same visual weight — keep one as the primary statement and the other as a supporting texture. That approach reliably holds together on a fully set table."
 ---
 
 April Cornell table linens have a devoted following for good reason , the brand's vintage-botanical prints coordinate with the kind of collected, mismatched table that looks like it came together over decades rather than a single shopping cart. If you're looking for [table linens](/linens/) that carry that same relaxed, layered aesthetic, or simply want to understand what separates a linen worth owning from one that fades after three washes, this guide covers three picks across different price points and aesthetics.

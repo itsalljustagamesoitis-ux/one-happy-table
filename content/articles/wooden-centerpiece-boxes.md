@@ -35,6 +35,17 @@ products:
 tags: ["decor", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What size centerpiece box fits a standard six-person dining table?"
+    answer: "A box in the range of eighteen to twenty-four inches long fits a standard rectangular six-person table without crowding the place settings. Depth matters more than most buyers expect — a box with interior sides under three inches tall lets you use shorter votive holders and tealight clusters without the sides obscuring them. Check the interior dimensions on the listing, not just the overall length."
+  - question: "How do I prevent water damage to a whitewash wood centerpiece box?"
+    answer: "Always use a liner between the wood surface and anything that holds moisture — a shallow ceramic tray, a piece of slate, or even folded kraft paper will interrupt the contact. Wipe the interior immediately if condensation does reach the wood. If a water ring forms, a light pass with fine-grit sandpaper followed by a matching whitewash touch-up pen can minimize the mark on most finishes."
+  - question: "Can a wooden centerpiece box be used outdoors?"
+    answer: "Unfinished or lightly finished wood like whitewash is not rated for outdoor use. Moisture and temperature changes will cause the wood to warp and the finish to lift. If you want to bring a wooden box onto a covered patio for a single evening, a waterproof liner inside the box and keeping it away from direct humidity will limit the exposure. For regular outdoor use, a metal or sealed composite box will outlast a wood piece significantly."
+  - question: "Can I mix tealight holders and taper candlesticks in the same centerpiece box?"
+    answer: "Yes, and it tends to look more intentional than using a single candle type. The height difference creates visual movement — taller tapers anchor the ends or center of the box while tealights fill in around them. Keep the taper holders positioned so the candle flame clears the box rim by at least two inches for safe burning and so the light is visible above the arrangement, not trapped inside it."
+  - question: "Is one Nambe Braid Candlestick enough, or do I need to buy a pair?"
+    answer: "One works well in an asymmetric arrangement inside a centerpiece box — place it toward one end and cluster tealight holders at the other for a composition that reads as deliberate rather than incomplete. A matched pair creates symmetry, which reads more formally. If you go for two, compare the finish on both when they arrive; the alloy is consistent but visual matching under your specific table lighting is worth confirming before your first dinner."
 ---
 
 Putting together a centerpiece that looks intentional rather than assembled takes the right foundation, and a wooden box is one of the most reliable starting points I know. It holds candles, greenery, and seasonal fillers without demanding a rearrangement every few months , just swap what's inside. I've covered this category thoroughly in our [Decor & Candles](/decor/) hub, and these three pieces are the ones I return to when someone asks me for a real recommendation.

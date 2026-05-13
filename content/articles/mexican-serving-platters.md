@@ -35,6 +35,17 @@ products:
 tags: ["serveware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is a 16-inch serving platter large enough for a dinner party spread?"
+    answer: "For most hosting scenarios, yes. A 16-inch platter accommodates a full cheese board, a main dish for four to six people, or a charcuterie spread with accompaniments without crowding the food. If you host groups larger than eight and serve family-style, a second platter supplements rather than replaces the 16-inch piece. The article treats 16 inches as the practical minimum for a platter meant to anchor the table, not an overly generous size."
+  - question: "Can Mexican-style ceramic serving platters go in the oven?"
+    answer: "It depends on the material. Stoneware platters handle oven heat and can move from prep to table without a transfer step. The Godinger silver-tone platter is metal-finished and should not go in the oven or microwave under any circumstances — it is a cold-serve piece only. Always verify the specific piece's temperature rating before use, since glaze composition and kiln process affect heat tolerance even within the ceramic category."
+  - question: "Does a blue-and-white hand-painted platter work on a warm or earthy table?"
+    answer: "Not naturally. Blue-and-white hand-painted stoneware reads best against cool-toned palettes — coastal, Mediterranean, crisp white linen. On a warm or earthy table with terracotta, amber tones, or dark wood with warm undertones, the contrast tends to feel discordant rather than complementary. If your table runs warm, a whitewash stoneware piece or a neutral-finish platter will integrate more easily."
+  - question: "How do I care for a hand-painted ceramic platter without damaging the finish?"
+    answer: "Hand-painted finishes benefit from hand-washing even when the piece is technically rated dishwasher-safe. Repeated dishwasher cycles gradually dull the glaze and soften painted detail over time. Use warm water and mild dish soap, avoid abrasive scrubbers, and dry the piece fully before storing. The Juliska Berry and Thread platter's hand-applied relief detail in particular is worth the extra care step to preserve the texture that makes the piece worth owning."
+  - question: "Budget serving platter vs premium piece — when does it make sense to spend more?"
+    answer: "A budget platter is a workhorse — used frequently, replaced without anxiety, appropriate for casual entertaining. A premium piece like the Juliska Berry and Thread coordinates with a broader table system and earns its cost when you are building a considered, layered table rather than assembling individual finds. The mistake is applying premium expectations to a budget piece or using an investment piece in daily conditions where it will take constant wear."
 ---
 
 Mexican serving platters occupy a specific spot in the serveware category , festive enough to carry a table spread, substantial enough to handle a full weekend meal. If you're outfitting a dining room for regular entertaining or looking for a piece that works across casual dinners and more intentional gatherings, the platter is often the first thing guests notice. Browse the full range of [serveware](/serveware/) options to understand how a platter anchors the rest of the table.

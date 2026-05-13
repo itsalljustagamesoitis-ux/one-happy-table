@@ -35,6 +35,17 @@ products:
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Sarape table runner on a glass or marble table — will it stay in place?"
+    answer: "Lightweight cotton runners, including the DII Sarape Striped Table Runner, will shift on smooth surfaces like glass, lacquered wood, or marble without a non-slip pad underneath. A runner pad is an inexpensive fix and worth buying alongside the runner if your table is smooth. The Chilewich's heavier vinyl-yarn construction stays in place more reliably on most surfaces without an additional pad."
+  - question: "DII sarape runner vs Chilewich for a table that gets daily use — which holds up better?"
+    answer: "The Chilewich Trellis Woven Runner in Navy is fundamentally more durable. Its vinyl-yarn construction is heat-resistant, water-resistant, and machine washable in a way that natural cotton fibers cannot match. The DII delivers authentic sarape pattern and color at a budget price point but requires more care under heavy use. If your table sees daily meals and spills, the Chilewich is the more practical investment even at a higher price."
+  - question: "Does the Juliska Country Estate Table Runner need to be ironed?"
+    answer: "No, and that's intentional. The stonewashed linen finish is designed to have a relaxed, lived-in drape. It will not press completely flat and isn't meant to. For farmhouse or casual-formal tables where that relaxed texture reads well, this is an asset. If your table setting calls for crisp, structured linens, the Juliska runner is not the right match."
+  - question: "How long should a sarape table runner be for a six-person dining table?"
+    answer: "A standard six-person dining table runs between 60 and 72 inches in length. Most table runners are sold in 72-inch lengths, which works well — you'll get a modest overhang of six to eight inches on each end, which is visually balanced. For longer tables or if you prefer a more dramatic overhang, a 90-inch runner is worth considering. Measure your table before ordering."
+  - question: "Is a sarape table runner appropriate for a formal dinner table?"
+    answer: "A sarape stripe is a specific aesthetic statement — it signals warmth, color, and cultural tradition, which is exactly right for festive or casual-formal occasions but misaligned for a very formal seated dinner with traditional china and pressed linens. For Cinco de Mayo, summer gatherings, or taco-night tables, it works beautifully. For a black-tie table, a plainer runner or solid-color linen will read more appropriately."
 ---
 
 Sarape table runners bring a specific kind of warmth to a table , the kind that reads as intentional without being precious. If you're setting up for a Cinco de Mayo dinner, a summer backyard gathering, or just want something with more personality than a plain linen runner, the woven stripe tradition behind [table linens](/linens/) in this style gives you a lot to work with. The category has expanded well beyond the original, though, and not every "sarape" runner delivers the same thing.

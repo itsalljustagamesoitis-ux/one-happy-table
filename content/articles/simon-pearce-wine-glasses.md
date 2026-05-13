@@ -35,6 +35,17 @@ products:
 tags: ["glassware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Simon Pearce wine glasses vs Riedel — which is worth the premium?"
+    answer: "That depends entirely on what you're buying for. Riedel's Vinum line delivers superior varietal-specific performance — the bowl geometry is engineered for a purpose, and it works. Simon Pearce delivers craft provenance and artisan variation that machine-made crystal cannot replicate. If you want the best glass for a Bordeaux, Riedel wins. If you want a glass that reflects a commitment to American craft, Simon Pearce makes the stronger case."
+  - question: "Can Simon Pearce wine glasses go in the dishwasher?"
+    answer: "No. All handblown Simon Pearce glass is hand-wash only. The variation inherent in the handblown process — slight differences in wall thickness across each piece — makes thermal shock from a dishwasher a genuine risk. Hand-washing with warm water and a soft cloth is the correct care method. If dishwasher convenience is a real priority for your household, this is a meaningful constraint to weigh before purchasing."
+  - question: "Crystal vs tempered glass in a wine glass — what's the real difference?"
+    answer: "Crystal, whether leaded or lead-free, is thinner at the rim and more resonant than tempered glass, and those properties affect both how a glass feels in use and how wine delivers to the palate. Tempered glass is thicker, heavier, and significantly more resistant to thermal shock and everyday impact. The Bormioli Rocco Bistro set illustrates what tempered glass does well. For everyday casual entertaining where durability matters more than sensory refinement, the trade-off is often worth it."
+  - question: "Simon Pearce Barre glasses for a dinner party of 6 — is the hand-wash requirement realistic?"
+    answer: "For a small, intentional gathering of four to six guests where you're willing to hand-wash afterward, yes. The glasses reward that setting — their handblown character and substantial feel make a mid-week dinner feel considered. For a host who regularly seats eight or more and needs to get through cleanup quickly, the hand-wash requirement becomes a real logistical constraint, and the Riedel Vinum or a dishwasher-safe option is a better fit."
+  - question: "Riedel Vinum Bordeaux glass — does it work for other red wines besides Bordeaux?"
+    answer: "The Bordeaux shape works well with any full-bodied, structured red — Cabernet Sauvignon, Merlot, Malbec, and Syrah all benefit from the large bowl and the palate placement the shape creates. It's less suited to lighter reds like Pinot Noir, which perform better in a narrower, shorter bowl. If your cellar skews toward Burgundy-style wines, a different shape serves you better."
 ---
 
 Simon Pearce wine glasses occupy a specific space in the broader glassware world , handblown in Vermont, weighted like serious crystal, and priced to match. If you've landed here, you're likely trying to decide whether they're worth it, or whether a different glass serves your table better. The full range of [Glassware & Crystal](/glassware/) options is worth understanding before you commit to one style.

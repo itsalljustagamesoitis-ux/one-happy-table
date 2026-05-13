@@ -56,6 +56,17 @@ products:
 tags: ["glassware", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Does whiskey actually benefit from being in a decanter?"
+    answer: "The functional benefits of decanting are primarily associated with wine, not spirits. Whiskey is shelf-stable in a well-sealed decanter for weeks to months without meaningful quality loss. The real reasons to use a whiskey decanter are presentation, ritual, and visual appeal — all of which are legitimate. If you are storing a quality single malt for longer than a month, choose a decanter with a well-fitted stopper rather than a purely decorative one."
+  - question: "Waterford Lismore vs. Ravenscroft Taylor — is the Waterford worth the premium?"
+    answer: "The difference is visible. The Lismore's deep diamond-and-wedge cuts create more dramatic light refraction than the Ravenscroft's flat-cut pattern — it scatters candlelight across a dining room in a way flat-cut crystal cannot replicate. For a gift or a formal dining room display piece, the Waterford is the stronger choice. For an everyday bar cart where the decanter is handled regularly, the Ravenscroft offers most of the visual appeal at considerably lower cost."
+  - question: "Is the Waterford Lismore airtight enough for long-term whiskey storage?"
+    answer: "No. The cut crystal stopper on the Lismore is not genuinely airtight — it is a serving piece, not a storage vessel. It relies on weight and fit rather than an engineered seal, which is fine for days or weeks but not suitable for housing a spirit you plan to preserve over months. The article recommends it for pouring at dinner and display, not for extended storage."
+  - question: "Can I use a wine decanter like the Riedel Corneto for whiskey?"
+    answer: "Yes, with the understanding that the functional purpose differs. The Corneto's cone shape is engineered to aerate wine efficiently — that benefit does not apply to whiskey in the same way. As a display vessel the shape works well for spirits, and the lead-free crystal is equally clear and attractive. The practical downside is drying: the narrow apex requires a decanter drying stand for proper air circulation after washing."
+  - question: "How do I clean a decanter without leaving deposits inside?"
+    answer: "A decanter brush gets most residue. Denture tablets or a small amount of uncooked rice with water address staining inside narrow necks. The Riedel Corneto's cone shape specifically requires a drying stand or patient towel-drying to fully dry the interior. Crystal stoppers should be hand-dried immediately after rinsing — calcium deposits form quickly around the collar and are cosmetically stubborn once they bond to the surface."
 ---
 
 A decanter sitting on a bar cart or sideboard earns its place twice over , it looks beautiful, and it changes what's in it. For whiskey, that second job is mostly about presentation and ritual, but the vessel still matters: shape, clarity, and seal quality all affect what ends up in the glass.

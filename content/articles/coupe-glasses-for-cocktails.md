@@ -35,6 +35,17 @@ products:
 tags: ["glassware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What drinks is a coupe glass actually designed for?"
+    answer: "A coupe is designed for shaken or stirred cocktails served without ice — classic examples include the Daiquiri, Sidecar, Gimlet, and Cosmopolitan. The wide, shallow bowl allows aromatics to open up in a way a narrower glass will not. It is also used for champagne service, though the wide bowl means carbonation dissipates quickly, which is a genuine functional limitation for sparkling wine served over an extended evening."
+  - question: "Stemmed coupe versus stemless cocktail glass — does the stem actually matter?"
+    answer: "Yes, in a measurable way for temperature-sensitive cocktails. A stemless glass means your hand contacts the bowl directly, transferring heat faster than a stem allows. For a Daiquiri served at 38 degrees Fahrenheit that is meant to stay cold through a 15-minute conversation, the temperature rise is noticeable. For casual, quickly consumed cocktails or drinks with a lot of ice, the effect is minimal. Stemless works for casual, high-volume situations; stemmed coupes reward a more deliberate, formal cocktail service."
+  - question: "Schott Zwiesel Tritan crystal coupe or Libbey stemless set — which should I buy for a home bar?"
+    answer: "It depends on how you clean up and how you host. The Schott Zwiesel Tritan crystal coupe is dishwasher safe and delivers genuine crystal clarity — the right choice if you host formal or semi-formal cocktail occasions and want a glass that performs well on the table. The Libbey Midtown stemless set is the right answer for a home bar that gets regular, casual use — twelve glasses at a budget price means breakage does not sting, and the stemless format is easier to store."
+  - question: "Can a coupe glass be used for sparkling wine or champagne?"
+    answer: "Technically yes, but the wide bowl means you will lose carbonation noticeably faster than you would in a flute or standard white wine glass. For a classic champagne coupe serve at a formal dinner it works fine. For an evening where you want sparkling wine to stay lively through multiple pours, a narrower format serves the drink better. The Schott Zwiesel Pure Coupe Glasses are excellent cocktail coupes but are not designed to be champagne glasses."
+  - question: "How many coupe glasses do I need to start with for home entertaining?"
+    answer: "Six is the functional minimum for most home entertainers — it covers a dinner party for four to six guests with a small breakage buffer. Twelve makes more sense if you host larger gatherings or informal parties where glasses cycle through multiple rounds. A practical approach is to buy six premium crystal coupes as your primary set and supplement with a budget stemless set for overflow, rather than buying twelve premium coupes upfront."
 ---
 
 Coupe glasses carry a particular kind of expectation. Whether you're shaking a Daiquiri for two or setting a bar cart that actually gets used, the glass you reach for shapes the experience more than most people admit. I've spent years hosting everything from casual cocktail nights to formal dinner parties in Charleston, and the right coupe , or the right stemless alternative , makes a genuine difference in how a drink lands. Choosing from the full range of [glassware and crystal](/glassware/) options takes some sorting, so here's where I'd start.

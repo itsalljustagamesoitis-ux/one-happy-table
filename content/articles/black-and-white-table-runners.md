@@ -35,6 +35,17 @@ products:
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is a black and white check runner versatile enough for both casual and formal tables?"
+    answer: "It depends on scale and styling. A smaller check reads as more formal and coordinates with traditional china and candlestick centerpieces. A larger check is inherently more casual — at home at a weekend brunch or farmhouse-style dinner but incongruous under fine bone china. Styling adjustments like linen napkins and simple florals can bridge the gap, but the runner's base pattern sets the register of the table."
+  - question: "Can a table runner be used over a tablecloth, or does it need to go on a bare table?"
+    answer: "A runner over a tablecloth is a classic layering approach and works particularly well with a neutral base cloth beneath it. The combination adds depth and texture and protects the underlying tablecloth from direct contact with food and heat. The runner should be narrower than the tablecloth by at least eight inches on each side so the base cloth frames it — a runner that nearly matches the tablecloth width looks like a sizing mistake rather than an intentional layer."
+  - question: "Does the Juliska Country Estate Table Runner need to be ironed before use?"
+    answer: "No. The stonewashed finish is intentionally relaxed and the wrinkle is part of the aesthetic. Ironing it flat would undermine the look the runner is designed to create. After washing, shake it out while damp and drape it over the table to finish drying. If specific creases develop from storage, smoothing them by hand while the fabric is slightly damp resolves them without heat."
+  - question: "How do I keep a woven check runner looking aligned after washing?"
+    answer: "The check can drift on the bias during agitation cycles. Washing on a gentle cycle in cold water reduces the drift, and pulling the runner taut while still damp before laying it flat to dry helps considerably. If the pattern has shifted, re-press with a damp cloth on the bias, working from the center outward, to realign it. Machine drying on high heat is the most reliable way to make alignment worse."
+  - question: "Is a purpose-built runner better than folding a tablecloth lengthwise?"
+    answer: "A runner is hemmed on all four sides and sized for center-table placement, which gives it clean edges and deliberate proportions. A tablecloth folded lengthwise can work in a pinch but rarely drapes with the same precision at the ends. The April Cornell pintuck cloth featured in this guide is technically a tablecloth — it offers more coverage and more visual presence than either runner, better suited to tables where the cloth is the primary design element."
 ---
 
 Black and white table runners solve a specific problem: you want a table that looks considered without being fussy, and you need something that works across seasons, styles, and the particular chaos of an actual dinner party. The range of options in [Table Linens](/linens/) is wide, but the contrast pattern cuts through the noise faster than almost any other choice. This is a short list of the runners and table linens that actually earn a place on the table.

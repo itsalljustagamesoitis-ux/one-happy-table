@@ -35,6 +35,17 @@ products:
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What size tartan tablecloth do I need for a rectangular table that seats six?"
+    answer: "Measure your table's length and width, then add twelve to sixteen inches to each dimension — six to eight inches of overhang per side is the standard for a seated dinner. A rectangular table seating six is typically sixty inches long, which puts most buyers in the 60 by 84 or 60 by 102 inch range. When in doubt, size up — a cloth that is slightly too long drapes more gracefully than one pulled too tight across the table apron."
+  - question: "Waterford Stewart Plaid vs. a budget tartan tablecloth — is the quality difference visible?"
+    answer: "Yes, and the difference is most apparent in fabric weight and pattern fidelity. The Waterford Stewart Plaid is hotel-quality weight — it hangs with authority, holds its drape through a full dinner, and does not shift when dishes are moved. Budget tartan often uses simplified color sequences and lighter polyester that looks flat under direct light compared to the dimensional sett structure of an authenticated clan tartan. If the cloth is meant to be noticed, the weight difference is worth the price."
+  - question: "Can I use a tartan tablecloth outside of the holiday season?"
+    answer: "It depends almost entirely on the colorway. Red-and-green tartan reads as Christmas; red-and-black reads as holiday-adjacent from October through January. Navy, forest green, charcoal, or gray-based tartans are genuinely year-round — they carry the heritage pattern without signaling a specific season. If you want a tartan cloth that earns regular use beyond the winter window, look for those neutral-dominant colorways rather than the traditional holiday palette."
+  - question: "Dry-clean-only tablecloth — is that care requirement worth accepting?"
+    answer: "It depends on how often you host and how you use the cloth. A dry-clean-only cloth used twice a year for formal holiday dinners is entirely manageable — the care cost is low relative to the use frequency. A dry-clean-only cloth used every weekend for casual dinners carries a real ongoing cost and logistics burden. The Waterford Stewart Plaid earns its dry-clean requirement because the fabric weight and dye saturation genuinely benefit from professional care. Be honest about your hosting cadence before accepting that commitment."
+  - question: "Does a tartan tablecloth work with patterned dinnerware?"
+    answer: "It can, but it requires deliberate matching. The safest approach is dinnerware with a single solid rim color that picks up one of the tartan's secondary tones — a cream plate with a green rim against a red-and-green tartan, for example. Avoid dinnerware with its own geometric or floral pattern because two strong patterns at the same visual level compete rather than coordinate. When uncertain, plain white dinnerware is the most forgiving choice for any tartan cloth."
 ---
 
 A tartan plaid tablecloth does something most table linens can't: it carries a specific feeling before a single dish is set down. The pattern reads as warmth, tradition, and occasion all at once , which is why it shows up on holiday tables, Scottish-themed dinners, and winter gatherings that call for something more considered than plain white linen. Browse the full range of [table linens](/linens/) and you'll see just how much tartan varies in weight, fiber, and finishing quality.

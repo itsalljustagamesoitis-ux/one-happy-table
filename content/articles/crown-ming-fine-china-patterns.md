@@ -35,6 +35,17 @@ products:
 tags: ["dinnerware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is Crown Ming fine china still being produced and where can I find it?"
+    answer: "Crown Ming as a brand ceased production decades ago and new pieces are not being manufactured. What is available comes from estate sales, antique dealers, and secondary market platforms. If you are looking for pieces that share Crown Ming's aesthetic — translucent bone china, refined rims, formal weight — current production bone china from Wedgwood or Mikasa covers that ground with the added benefit of replacement availability."
+  - question: "What is the difference between bone china and fine china?"
+    answer: "Bone china is a type of fine china that includes bone ash in the clay body — typically 25 percent or more — which produces the translucency and lighter weight the category is known for. Fine china is a broader term covering high-quality vitrified ceramic bodies that may or may not include bone ash. Not all fine china is bone china, but all bone china qualifies as fine china. Crown Ming produced bone china, which is why translucency was a defining characteristic of its pieces."
+  - question: "Can Crown Ming patterns be mixed with modern bone china at the same table?"
+    answer: "Yes, and collectors who need to supplement incomplete sets do this regularly. The organizing principle that works best is consistent rim treatment and shared color temperature — Crown Ming's warm ivory tones pair more naturally with cream-white bone china like the Mikasa Cameo White than with cooler, brighter porcelain. Keeping metallic accents consistent across pieces, all silver or all gold, prevents the mixed-pattern look from reading as accidental."
+  - question: "Does the Wedgwood Vera Wang Lace teacup hold up to daily use?"
+    answer: "Not practically. The platinum trim requires hand-washing, and the lace-embossed bone china body, while durable for its category, is not built for daily cycling through a dishwasher or casual stacking. It is designed for hosting contexts — formal teas, holiday entertaining, occasions where the cup is handled deliberately. For a teacup that handles daily use, look for undecorated bone china or porcelain without metallic trim."
+  - question: "How should formal bone china be stored to prevent damage between uses?"
+    answer: "Stack plates with felt or cloth separators between each piece — the foot ring of the plate above will scratch the glaze surface of the plate below without a buffer. Cups should be stored upright rather than stacked, and saucers stored separately. For pieces with platinum or gold trim, avoid rubber-lined shelves, which can react with metallic finishes over time. A dedicated cabinet with solid shelving rather than wire rack is the most practical long-term storage solution."
 ---
 
 Hunting for Crown Ming fine china patterns leads most buyers somewhere unexpected , toward the broader world of formal and semi-formal bone china that shares Crown Ming's characteristic translucency, refined rims, and occasion-ready elegance. The [Dinnerware & China](/dinnerware/) landscape has expanded considerably since Crown Ming's heyday, and the best alternatives hold up just as well at a candlelit table.

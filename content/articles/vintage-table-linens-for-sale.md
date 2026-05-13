@@ -35,6 +35,17 @@ products:
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What is the difference between a true vintage tablecloth and a vintage-style tablecloth?"
+    answer: "A true vintage tablecloth was produced in an earlier era — typically pre-1980 — and may show fading, wear at fold lines, or repairs. A vintage-style tablecloth is a new piece designed to evoke an earlier period through print references, fabric treatment, or construction details. For most entertaining purposes, vintage-style pieces are more practical because they come in consistent sizes, are machine washable, and are free of the structural vulnerabilities that come with genuinely aged fabric."
+  - question: "How do I calculate the right tablecloth size for my table?"
+    answer: "Add twice your desired drop to both the length and width of your table. A table measuring 36 by 72 inches with a twelve-inch drop on each side needs a cloth that is 60 by 96 inches. The listed dimensions on a tablecloth refer to the cloth itself, not the table it fits — never assume that a label reading 'seats 6' tells you the cloth dimensions. Measure first, then calculate."
+  - question: "Is the April Cornell floral tablecloth appropriate for a formal dinner?"
+    answer: "It suits a formal table that is deliberately eclectic — mixed china, candlelight, layered flowers — rather than a white-tablecloth formal setting where uniformity is the point. If your formal dining style runs to collected and layered, the print reads as considered and intentional. If your formal aesthetic is streamlined and minimal, the print weight will work against the mood you are building."
+  - question: "Is the Juliska Country Estate runner worth the premium if I don't own other Juliska pieces?"
+    answer: "It is a reasonable purchase if the stonewashed farmhouse aesthetic is exactly what you want and you are comfortable with the premium on its own terms. The linen texture and neutral colorway are flexible enough to work on a range of tables without requiring the surrounding ceramics. Where the premium becomes harder to justify is when comparing it to other stonewashed linen runners on material quality alone, because brand coordination is a meaningful part of what you are paying for."
+  - question: "How do I remove wrinkles from a polyester tablecloth without an iron?"
+    answer: "A handheld steamer is the most efficient approach and avoids the shine marks a hot iron can leave on polyester. Hang the cloth vertically and work the steamer down in sections, letting gravity do part of the work. If you do not have a steamer, hang the cloth in a hot shower for ten to fifteen minutes, then smooth it onto the table while slightly damp. The black polyester tablecloth responds well to the steamer approach and sets flat within a few minutes."
 ---
 
 Searching out vintage table linens takes patience , you're weighing fabric weight, print scale, laundering history, and whether something genuinely worn-in will hold up to a full dinner party. The [table linens](/linens/) market runs from true antique textiles to modern pieces designed with a vintage hand, and knowing which category serves your table is half the work.

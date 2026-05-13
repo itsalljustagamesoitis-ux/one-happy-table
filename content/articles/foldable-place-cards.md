@@ -35,6 +35,17 @@ products:
 tags: ["serveware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Disposable vs reusable place cards — which makes more sense for a dinner party?"
+    answer: "It depends entirely on guest count and how often you host. Disposable foldable cards are the practical answer for weddings, large holiday dinners, or any occasion over 20 seats — they're quick to write, easy to replace if you make a spelling error, and require no storage afterward. Reusable options like porcelain cards or ceramic holders make more sense if you host the same group regularly, since you amortize the cost over multiple events and the card becomes a considered table accessory rather than something you recycle."
+  - question: "Can I write on porcelain place cards with a regular pen?"
+    answer: "Not reliably. Glazed porcelain surfaces repel ballpoint and felt-tip ink — the pen will skip, bead, or smear before it dries. The Mud Pie White and Gold Porcelain Place Cards require a fine-tip china marker or a paint pen with enough opacity to adhere to the glaze. Order the marker at the same time as the cards and test it before the event, not the evening guests arrive."
+  - question: "How many place cards do I need for a dinner party of 40?"
+    answer: "Count your confirmed guest seats, then add 10 to 15 percent for writing errors. For a 40-person seated dinner, plan on 45 to 50 cards. The Kate Aspen Gold Foil set covers 50, which is the right quantity for most large events. For a standard 8 to 12-person dinner party, a set of 12 porcelain cards covers the table with no surplus needed since glazed surfaces can be wiped clean and reused."
+  - question: "Do foldable place cards hold up at outdoor events?"
+    answer: "Wind is a real problem with standard tent-fold cards on a bare table. For outdoor events, use a heavier cardstock if available, or anchor the cards under a small decorative stone or a weighted holder. Ceramic holders like the Juliska set hold their position far better than paper cards outdoors. If rain is a possibility, paper cards are the wrong choice — porcelain holds up to brief moisture exposure where paper will not."
+  - question: "What is the difference between a place card and a place card holder?"
+    answer: "A place card is the card itself — typically paper or porcelain — that stands on its own through a fold or its own weight. A place card holder is a separate object, usually ceramic, glass, or metal, that holds a smaller card or tag upright. Holders give you more flexibility on card material since the card doesn't need to be structurally self-supporting, but they require a separate purchase for both the holder and the cards that go inside them."
 ---
 
 Place cards are a small detail that does a lot of quiet work , they tell guests where to sit, signal that someone thought about the seating, and contribute to the overall feel of the table. For a dinner party, a holiday meal, or a wedding reception, the right card makes everything look considered. For a backyard gathering where you need fifty of them, a reusable porcelain option is the wrong tool entirely.

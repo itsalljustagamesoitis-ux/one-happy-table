@@ -35,6 +35,17 @@ products:
 tags: ["glassware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is the ETO Wine Decanter worth buying compared to a standard decanter?"
+    answer: "For buyers who regularly consume wine across multiple evenings, yes — it addresses a real problem that no standard decanter solves. The airtight preservation mechanism is the functional differentiator, and the brand's claim of up to five days of preservation holds up in real use. If you finish every bottle in a single sitting, the premium is harder to justify and a simpler aeration decanter serves the actual need."
+  - question: "ETO Wine Decanter vs. a wine stopper on the original bottle — what is the difference?"
+    answer: "A standard vacuum wine stopper slows oxidation but does not stop it, and the wine has not been aerated. The ETO aerates first and then seals, delivering the benefits of both steps. For a wine that needs thirty minutes of air before it opens up, the ETO delivers better flavor on the first pour and better preservation afterward — the two functions work together rather than requiring a choice between them."
+  - question: "Does the ETO decanter aerate wine as well as a traditional wide-base decanter?"
+    answer: "It aerates well for a standard thirty-minute rest, particularly with medium-to-full-bodied reds. It will not outperform a wide-bottomed traditional decanter designed purely for maximum surface exposure — if aggressive rapid aeration is the priority, a broader vessel does it faster. For most everyday use, the ETO's aeration is fully adequate and the preservation function adds value that a traditional decanter cannot."
+  - question: "Is the ETO Wine Decanter dishwasher safe?"
+    answer: "The borosilicate glass body is dishwasher safe, which is uncommon at this price level and a meaningful practical advantage. The stopper mechanism should be hand-washed separately and dried thoroughly before reseating — running the stopper through a dishwasher repeatedly risks degrading the seal over time. The glass itself handles machine washing without staining or thermal shock issues."
+  - question: "Will the ETO Wine Decanter look right on a traditional formal table?"
+    answer: "Probably not. The design is deliberately modern — clean lines, cylindrical geometry, industrial-influenced spout — and reads as a contemporary object. Paired with crystal stemware, formal silver, and a traditional tablecloth, it tends to stand out in a way that feels mismatched rather than interesting. The ETO's design works best in a setting that shares its sensibility."
 ---
 
 An opened bottle of wine sitting on the counter overnight loses something irreplaceable , the aroma softens, the fruit fades, and by day two you're drinking a compromise. A good decanter helps with the first pour, but almost nothing in this category is designed to protect what's left. That's the gap the [ETO Wine Decanter](product:eto-wine-decanter) is built to fill, and it's the reason this piece has earned a permanent spot in my glassware rotation. If you're thinking seriously about [Glassware & Crystal](/glassware/) as an investment in how you host, the decanter is often the most underestimated piece on the table.

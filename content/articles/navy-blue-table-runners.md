@@ -35,6 +35,17 @@ products:
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Table runner vs. tablecloth for a formal dinner — which is more appropriate?"
+    answer: "A tablecloth covers the entire table surface and drops to the sides, setting a more unified and traditionally formal look. A runner sits down the center, leaving the surface or an underlying tablecloth visible on either side, which reads as casual or semi-formal. For formal seated dinners, a tablecloth is the more traditional choice. A runner layered over a tablecloth adds texture and is a valid approach for long tables where a single fabric can look flat."
+  - question: "Why does navy fabric show lint so badly and what can I do about it?"
+    answer: "Deep navy shows light-colored debris immediately — it is a property of the color, not a defect in the fabric. Keep a lint roller at the table before guests arrive, and consider that tightly woven polyester blends shed debris more easily than nubby linen textures. The Chilewich vinyl-yarn surface wipes clean with a damp cloth and does not hold pet hair the way woven fabrics do, making it the most practical choice for households with animals."
+  - question: "Is the Chilewich Trellis runner suitable for a traditional dining room?"
+    answer: "The Chilewich Trellis runner is best suited to contemporary and modern dining rooms. The vinyl-yarn weave has a slight sheen and a textural quality that reads as design-forward rather than classically formal. For a traditional dining room with dark wood furniture, candlesticks, and formal china, a woven linen or cotton tablecloth will feel more at home. The Chilewich runner is the right pick where durability and easy maintenance matter more than traditional aesthetics."
+  - question: "Does the Juliska Country Estate runner need to be ironed?"
+    answer: "No, and that is intentional. The stonewashed linen finish is designed to look relaxed and slightly rumpled rather than pressed flat. If you are drawn to crisp, formal linens, this runner is not the right fit. The texture is a design choice, not a laundering failure, and it works in favor of farmhouse tables and harvest dinner settings that lean into lived-in warmth."
+  - question: "What length table runner do I need for a 6-foot dining table?"
+    answer: "A 6-foot table takes a runner between 84 and 90 inches for a standard 6-inch overhang on each end. If you prefer a longer, more dramatic drop, 108 inches gives you approximately 18 inches per side. Measure your specific table before purchasing — runner sizing is easy to miscalculate by approximation, and an oversized runner on a shorter table looks unbalanced rather than luxurious."
 ---
 
 Navy blue reads as a complete decision , not a placeholder color while you figure out the rest of the table. Whether you're setting a long banquet table for the holidays or pulling together a dinner party on short notice, a navy runner or tablecloth does the visual work without demanding much else from you. [Table linens](/linens/) at this end of the color spectrum tend to look intentional from the moment you lay them down.

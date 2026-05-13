@@ -35,6 +35,17 @@ products:
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What size tablecloth do I need for an 8-foot banquet table?"
+    answer: "An 8-foot banquet table typically measures 30 by 96 inches. A 90 by 132 tablecloth gives you a full, near-floor-length drop on all sides, which is the correct proportion for a formal or event setting. Measure your actual table before ordering rather than relying on general guidance — rental-stock tables vary more than the listed dimensions suggest."
+  - question: "Is dusty blue the same color as navy blue?"
+    answer: "No. Dusty blue sits in a muted, gray-influenced range — softer and less saturated than navy, which is a deep, dark, fully saturated blue. Navy reads as formal and high-contrast; dusty blue reads as quiet and layered, working especially well with neutral and warm-toned table settings. A cloth listed as dusty blue by one manufacturer may look more like slate, chambray, or powder blue in person, so reading color-specific reviews is more reliable than overall ratings."
+  - question: "Can I use a patterned tablecloth with patterned dinnerware?"
+    answer: "Yes, but the patterns need to differ in scale. A large botanical print pairs well with simple, solid-colored plates rather than another print at the same scale. Where it breaks down is two competing patterns at similar scale and intensity — that combination muddies the table visually rather than layering it."
+  - question: "How do I care for a linen tablecloth after a dinner party?"
+    answer: "Remove debris and treat stains before they set, since linen absorbs liquid quickly and dried stains are harder to lift. Machine wash on a gentle cycle in cold water with a mild detergent. Do not wring or tumble-dry on high heat, as linen weakens under sustained heat and loses its structure. Press while slightly damp using a steam iron and store flat or rolled rather than folded on the same crease repeatedly."
+  - question: "Which tablecloth works best for a formal holiday dinner — the April Cornell or the Sferra Classico?"
+    answer: "It depends on the aesthetic you are building. For a rich, layered, maximalist table with warm metals and seasonal botanicals, the April Cornell Pomegranate anchors the setting and does the decorative work. For a refined, understated table where the food and company are the focus, the Sferra Classico's Italian linen and hand-drawn hemstitch border provide quiet formality without competing with anything else on the table."
 ---
 
 Dusty blue reads differently depending on the light , silvery at noon, almost gray by candlelight, genuinely blue in a photograph. That range is precisely why it works on a table. It pairs with white, cream, terracotta, and deep burgundy without competing, which makes it one of the more forgiving colors in [table linens](/linens/) for anyone who entertains across seasons.

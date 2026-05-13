@@ -35,6 +35,17 @@ products:
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What size tablecloth fits a 6-foot folding table with a full drop?"
+    answer: "A standard 6-foot folding table measures 72 inches long by 30 inches wide, with a standard height of 30 inches. A 90 x 132 tablecloth gives you a 9-inch drop on each long side and a floor-length drop on the short ends. If you want the tablecloth to reach the floor on all four sides, confirm your specific table's dimensions against the drop math before ordering."
+  - question: "Polyester vs linen for a formal dinner table — which is the better choice?"
+    answer: "Linen reads as more elevated at a formal dinner because of its texture, natural variation, and the way it drapes — polyester has a synthetic sheen that registers as less formal under dining room lighting. That said, linen requires more prep and accepts wrinkles as part of its character. For a formal dinner where you want precision and a crisp look, a well-pressed polyester tablecloth can perform respectably, particularly in a solid dark color like black."
+  - question: "Do Belgian linen napkins need to be ironed?"
+    answer: "Pre-washed Belgian linen napkins don't require ironing, and attempting to press them perfectly flat works against the material's character. A light steam while slightly damp removes the sharpest fold lines from storage, but the relaxed texture that remains is intentional, not a flaw. If your table style requires geometrically precise folds, linen is not the right choice — cotton presses flat and holds the crease far more reliably."
+  - question: "How do I store tablecloths between uses to avoid deep creases?"
+    answer: "Rolling tablecloths around a tube — a wrapping paper roll works — prevents the sharp fold lines that form when fabric is stacked flat. For polyester tablecloths especially, those fold creases can be stubborn and require steaming to remove before use. Linen is more forgiving once laid out and given a few minutes to relax, but rolling still extends the time between needing to press or steam before an event."
+  - question: "Can a table runner replace a tablecloth for a 6-foot folding table?"
+    answer: "A table runner alone leaves the table surface exposed on the sides, which works well on a wood or stone table where the surface itself is part of the aesthetic. For a folding table, a runner by itself won't conceal the utilitarian legs and frame. The Juliska Country Estate Table Runner is designed to layer over a base tablecloth, not replace one."
 ---
 
 Finding the right 90 x 132 table linens means understanding what that size actually does , it's the standard drop for a 6-foot rectangular banquet table, long enough to cover the sides cleanly or reach the floor depending on your table height. The size sounds specific, but it opens up a wide set of choices in fabric, finish, and formality. Browsing the full range of [table linens](/linens/) before narrowing down is worth doing, because the material you choose shapes the entire look of the table.

@@ -35,6 +35,17 @@ products:
 tags: ["glassware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Decanter vs carafe — what's the practical difference for a dinner table?"
+    answer: "A carafe is a general-purpose vessel for table service — water, wine, juice — typically with a wide neck and no stopper or a loose-fitting lid. A decanter historically refers to a vessel designed to separate wine from sediment or to aerate it, often with a narrow neck and wide bowl. In practice the terms are used interchangeably in retail, which is why reading the product description for neck width and stopper type matters more than the label."
+  - question: "Is the Anchor Hocking Sheffield decanter good enough for wine service?"
+    answer: "For everyday table wine and filtered water, the Sheffield is a completely practical choice — it pours cleanly, holds a full bottle, and cleans up easily in the dishwasher. It won't aerate tannic reds the way a purpose-built wine decanter with a wide bowl will, so if you're regularly opening structured Cabernets or Barolos, you'd want something with more shoulder geometry. Use it as a table carafe rather than an aeration tool."
+  - question: "Can I store whiskey in a crystal decanter long-term?"
+    answer: "Short-term serving — days to a few weeks — is fine in either the Ravenscroft Crystal Taylor or the Waterford Lismore Crystal Decanter. For months of storage, polished crystal stoppers don't seal tightly enough to prevent oxidation, and the original bottle will preserve the spirit better. Neither decanter is designed for aging — they are serving pieces, and Waterford's own guidance frames them that way."
+  - question: "Ravenscroft vs Waterford Lismore decanter — which is the better gift?"
+    answer: "For a recipient who knows crystal and will recognize the pattern, the Waterford Lismore is the more impressive gift — the Lismore pattern carries genuine recognition and prestige. For a recipient where the gesture matters more than the label, the Ravenscroft is elegant, practical, and comes without the premium tier price. Both present well; the choice comes down to the recipient and the occasion."
+  - question: "How do I clean a crystal decanter without damaging it?"
+    answer: "Hand wash only, with warm water and a small amount of dish soap. For residue inside the body, decanter cleaning beads with warm water work well — avoid abrasive brushes on cut crystal. The most important step for the Ravenscroft specifically is drying the stopper collar immediately after washing, before calcium deposits can form and set. Never put crystal in the dishwasher, and avoid sudden temperature changes."
 ---
 
 Choosing a decanter shouldn't be complicated , but the category spans everything from simple glass carafes to hand-cut crystal that costs more than a decent bottle of Scotch. If you've landed on [Anchor Hocking decanters](/glassware/), you're likely looking for something honest and functional, not a status purchase. That's a good place to start.

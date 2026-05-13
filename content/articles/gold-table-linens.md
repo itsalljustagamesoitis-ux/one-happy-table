@@ -35,6 +35,17 @@ products:
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Linen napkins vs. cotton — which is better for everyday use?"
+    answer: "Linen outperforms cotton over time for regular use. It is heavier, more textural, and gets softer with every wash rather than pilling or thinning the way cotton does. Cotton is easier to iron to a sharp crease and is generally more affordable. If you want relaxed, considered folds and a fabric that improves with age, linen is the right material. If formal, precisely pressed folds are the priority, well-starched cotton is easier to achieve."
+  - question: "Does a woven gingham pattern really hold up better than a printed one?"
+    answer: "Yes, significantly. A woven check means the color is in the yarn itself, so washing does not affect the pattern because there is no surface dye to fade. A printed check sits on top of the fabric and will fade with repeated laundering, often unevenly, so the pattern loses definition over time. For any tablecloth used regularly, woven construction is worth prioritizing from the start."
+  - question: "Can a table runner be layered over a tablecloth without looking overdone?"
+    answer: "Layering a runner over a tablecloth is a standard technique, not an error. The key is contrast — the runner should differ from the tablecloth in texture or pattern rather than repeat it. A stonewashed linen runner like the Juliska Country Estate over a smooth white tablecloth works precisely because the textures are different. Keep the overhang proportionate and the color temperatures consistent and the result reads as intentional."
+  - question: "Are gold table linens appropriate outside of holiday and formal settings?"
+    answer: "Completely. Gold in natural linen tones — warm flax, antique gold, wheat — reads casual and organic rather than ceremonial. The formality comes from the table setup, not the color. Natural-toned gold napkins folded simply on a weeknight table with plain dinnerware look relaxed and warm. Reserve brighter or more saturated gold for occasions where you want the table to feel intentionally festive."
+  - question: "How do I keep Belgian linen napkins from shrinking in the wash?"
+    answer: "Linen shrinks primarily from heat. Wash in cold or warm water and remove from the dryer before fully dry, or line dry. Pre-washed linen like the Belgian Linen Napkins has already been through initial shrinkage at the factory, so the size you receive is the size you keep. Avoid high heat consistently and ongoing shrinkage becomes negligible."
 ---
 
 Gold table linens sit in an interesting middle ground , formal enough to feel intentional, warm enough to work at a relaxed dinner party. Whether you're layering a runner over a neutral tablecloth or setting a full table for a holiday gathering, the fabric and finish you choose will determine whether the whole thing reads as effortless or overdone. I've tested enough [table linens](/linens/) to have strong opinions about what actually holds up, and this guide cuts straight to the picks that earn a place on a well-set table.

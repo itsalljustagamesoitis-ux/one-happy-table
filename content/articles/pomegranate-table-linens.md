@@ -35,6 +35,17 @@ products:
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Printed vs. jacquard-woven tablecloth — which lasts longer?"
+    answer: "A jacquard-woven tablecloth builds the pattern into the weave using different-colored yarns, so the color is structural and will not fade or crack. A printed tablecloth applies dye or ink to the surface after weaving, which is more affordable but more vulnerable to heat and repeated washing. For a cloth you plan to use weekly or pass down over time, the article recommends woven construction without hesitation."
+  - question: "Is the April Cornell pomegranate tablecloth machine washable?"
+    answer: "Yes, but with specific requirements. The deep jewel tones demand cold-water washing and separate handling to prevent color transfer onto lighter fabrics. Machine washing in warm or hot water risks bleeding. Wash it alone on a gentle cold cycle and air dry or tumble dry on low, and it will hold its color through a full season of regular use."
+  - question: "Which pomegranate tablecloth is best for a Thanksgiving table?"
+    answer: "For a Thanksgiving table used once or twice a year where the cloth is the visual anchor, the article recommends the Estate Collection Cotton Tablecloth — the jacquard weave, formal drape, and size range accommodating long tables make it the strongest fit. If your Thanksgiving table is more relaxed and you want the character of a botanical print, the April Cornell is the more practical and visually distinctive choice."
+  - question: "How do I get the right tablecloth size for my table?"
+    answer: "The article is clear: measure before you buy, and measure generously. Standard drop is 8 to 12 inches per side for casual dining, 12 to 15 inches for formal settings. Add the appropriate drop to both your table's length and width, and if you are between sizes, size up. A cloth that barely clears the edge cuts off the pattern and loses the layered effect that makes a pomegranate print work."
+  - question: "Does a black-and-white check runner work over a pomegranate-print tablecloth?"
+    answer: "The article advises against layering a runner directly over a busy pomegranate print — the two patterns compete rather than complement. The check runner works best over a solid or neutral base cloth. If you already own a printed pomegranate tablecloth, the more useful addition is a textured solid napkin set rather than a second patterned layer."
 ---
 
 Pomegranate table linens occupy a specific, confident niche in [table linens](/linens/) , they work hardest from September through January, when jewel tones and botanical prints belong on the table rather than fighting against the season. The question isn't whether the look is right. It's which piece earns a spot in your rotation and which gets folded away after one use.

@@ -35,6 +35,17 @@ products:
 tags: ["decor", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Can a glass serving bowl work as a centerpiece, or do you need a dedicated decorative piece?"
+    answer: "A glass serving bowl works as a centerpiece in most cases — what distinguishes a dedicated decorative bowl is largely marketing. The practical requirements are the same: appropriate diameter for your table, stable base, and proportions that suit the fill material. The Libbey Glass Serving Bowl Set of 3 transitions between serving and decorative roles without any visible compromise."
+  - question: "What size glass bowl should I use for a centerpiece on a dining table?"
+    answer: "For round tables, the bowl's diameter should be roughly one-third the table width. For rectangular tables, a nesting set lets you use the largest as a focal anchor and smaller pieces as satellite accents along the runner. Keep the total arrangement height at or below fourteen inches so seated guests can see each other clearly — wide and low is almost always a better proportion than narrow and tall."
+  - question: "Machine-pressed glass vs mouth-blown crystal for centerpiece bowls — does the difference show?"
+    answer: "Machine-pressed glass is optically clear from a distance but shows thickness at the rim and slight distortion through the side walls. Mouth-blown crystal has a thinner, truer wall that lets candlelight and water move through it without interruption. For everyday entertaining, pressed glass is entirely adequate. For a formal dinner where the bowl itself is part of the visual story — particularly with floating candles or water arrangements — the difference is noticeable at table distance."
+  - question: "How do I style a glass bowl centerpiece across different seasons without buying new pieces?"
+    answer: "Change the fill material, not the vessel. In winter, floating candles or silver ornaments work in the Libbey glass bowls. In spring, shallow-cut flowers or a single large bloom. Summer calls for citrus slices and greenery. Fall works well with gourds, small pumpkins, or dried botanicals. Clear glass transitions the most easily between seasons because it takes its color from its contents rather than imposing its own."
+  - question: "Does the Nambe Braid Candlestick need padded storage, and why?"
+    answer: "Yes — Nambe alloy scratches if stored loose in a drawer or cabinet, and scratches on the alloy surface are difficult to remove. Padded storage or soft pouches are necessary if you want the finish to stay clean over time. That's a maintenance step that silver-plate owners already know, but it catches buyers new to the material off-guard. The trade-off is a piece with a warm pewter-like tone that doesn't have a surface layer to lose the way plated pieces do."
 ---
 
 Choosing glass bowls for centerpieces sounds simple until you're standing in front of three options that all look right on the shelf and wrong on your actual table. I've styled enough tables in Charleston to know that the container shapes a centerpiece more than the flowers or candles inside it. Browse the full range of [decorating ideas and centerpiece vessels](/decor/) before you commit to a style , what works for a holiday dinner table rarely works for a spring brunch.

@@ -35,6 +35,17 @@ products:
 tags: ["glassware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Acrylic vs crystal champagne flutes — which is right for a formal dinner?"
+    answer: "Crystal is the better choice for a formal dinner. The optical clarity, the weight, and the way crystal interacts with light are not replicated by polymer or acrylic at any price point. Acrylic makes practical sense for outdoor events, poolside settings, or anywhere breakage is a genuine safety concern. For a seated, candlelit dinner, a mid-range crystal flute like the Mikasa Crystal Orson will read more appropriately than any polymer alternative."
+  - question: "Are acrylic champagne flutes dishwasher safe?"
+    answer: "Most acrylic and flexible polymer flutes are dishwasher safe on the top rack, but high heat and direct spray can cause warping and surface hazing over time. The Govino Shatterproof Flexible Champagne Flutes are designed to tolerate repeated washing without structural degradation. Read the manufacturer's instructions before running any flute through a high-temperature sanitize cycle."
+  - question: "Can shatterproof champagne flutes be used at an outdoor wedding?"
+    answer: "Yes — this is exactly the situation they are designed for. Outdoor weddings on grass, on docks, or at poolside venues carry a meaningful risk of broken glass, and a shatterproof polymer flute eliminates that risk entirely. The Govino flutes are purpose-built for this scenario. The visual trade-off compared to crystal is real, but guest safety and venue requirements outweigh aesthetic considerations at most outdoor events."
+  - question: "Waterford Lismore vs Mikasa Crystal Orson flutes — what's the real difference?"
+    answer: "Waterford Lismore is a prestige crystal pattern with more than seventy years of production history. The cut pattern is deeper and more intricate than most mid-range crystal, and the optical quality is higher. The Mikasa Orson line offers acceptable clarity for everyday use but has thinner walls and less elaborate cutting, making the rim more vulnerable to chipping. Lismore is an investment piece for special occasions; the Mikasa Orson is a practical household choice for regular entertaining."
+  - question: "How many champagne flutes do I need for a dinner party?"
+    answer: "Buy for the largest table you set regularly, plus two spares to cover breakage. A table of six requires eight flutes; a table of eight requires ten. For crystal patterns where replacement depends on availability, building a modest buffer at the time of purchase is more practical than trying to source matching flutes years later when the pattern may be discontinued or backordered."
 ---
 
 Acrylic champagne flutes come up every time someone is planning a pool party, a wedding tent reception, or any outdoor celebration where real crystal would last about ten minutes before someone set a glass on an uneven surface. But the category is wider than it looks, and the right answer depends on whether you actually need acrylic or just think you do. Browse the full range of [Glassware & Crystal](/glassware/) options before you commit to a material , the gap between a good acrylic flute and an entry-level crystal flute is smaller than most people expect.

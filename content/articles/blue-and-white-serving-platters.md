@@ -35,6 +35,17 @@ products:
 tags: ["serveware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Will a blue-and-white platter work with colored linens and patterned tableware?"
+    answer: "Blue and white is high-contrast and assertive — it works well against solid neutrals and struggles against competing patterns or warm-toned surfaces. A blue-and-white platter on a striped tablecloth with patterned dinner plates is likely to produce visual noise rather than harmony. The safest pairing is solid white, cream, or natural linen with otherwise neutral tableware."
+  - question: "Is the hand-painted blue-and-white platter dishwasher safe?"
+    answer: "The Certified International hand-painted platter is stoneware with a glaze over hand-applied decoration, so most stoneware carries a dishwasher-safe designation. That said, repeated high-heat dishwasher cycles will gradually dull the vibrancy of hand-painted decoration over time. Hand-washing is the better long-term choice if you want the pattern to stay sharp."
+  - question: "What size serving platter is most practical for everyday entertaining?"
+    answer: "The 14-inch oval handles the widest range of uses — whole roasted proteins, composed salads, charcuterie spreads, and large appetizer arrangements. For couples or small households, a 12-inch oval or round is more proportional and easier to handle. The article specifically flags that a loaded 14-inch stoneware platter requires two hands and confident footing."
+  - question: "Can I use a stoneware serving platter in the oven before bringing it to the table?"
+    answer: "Yes, glazed stoneware is oven-safe for most standard baking and roasting temperatures. Avoid extreme temperature shocks — do not transfer a cold platter directly into a very hot oven, and do not place a hot platter on a cold wet surface. Let it come to room temperature gradually and it will hold up well over years of regular use."
+  - question: "How does the Michael Aram Olive Branch platter differ from a ceramic serving platter?"
+    answer: "The Michael Aram piece is cast oxidized nickel, not ceramic — it is a sculptural metal object rather than a functional oven-to-table piece. It cannot go in the oven or microwave and requires hand-washing without exception because dishwasher detergent will strip the oxidized finish permanently. Where a ceramic platter is primarily functional, the Michael Aram platter is primarily decorative, presenting food at room temperature at formal occasions."
 ---
 
 Blue and white serving platters occupy a specific and honest place on the table , they announce something. Whether the pattern is hand-painted or transfer-printed, spare or detailed, that contrast of cobalt on white has been used to dress a table for centuries. That tradition carries weight, and it also carries risk: the wrong platter fights with everything around it. I cover the full range of [serveware](/serveware/) options on this site, and platters in blue and white are among the questions I get most often , and the category where I see the most buyer regret.

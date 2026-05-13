@@ -35,6 +35,17 @@ products:
 tags: ["dinnerware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is vintage glass dinnerware safe for food use?"
+    answer: "Modern vintage-style glass dinnerware from established manufacturers is food-safe. Tempered glass is non-porous and contains no lead or cadmium. Genuine antique dinnerware is a different matter — pieces made before the 1970s and some imported vintage ceramics can leach lead from glazes, particularly when exposed to acidic foods. If you're shopping the collector or estate-sale market, have genuinely old pieces tested before using them for food service."
+  - question: "Tempered glass vs. fine china for everyday use — which holds up better?"
+    answer: "Tempered glass is the stronger everyday choice. It resists chipping and is non-porous, but when it does break — typically from a hard drop on tile — it shatters completely rather than chipping. Fine china chips at edges and rims with heavy daily rotation, and those chips accumulate over time. For households cycling pieces through regular use, tempered glass is more forgiving; save fine china for occasions where it will be handled with care."
+  - question: "Can fine china with a platinum band go in the dishwasher?"
+    answer: "No. Fine china with metallic accents — platinum or gold banding — must be hand-washed without exception. Dishwasher cycles degrade metallic decoration over time, and there is no reversing that damage once it begins. Plain fine china can generally tolerate a gentle dishwasher cycle, but if dishwasher convenience is essential, choose sets without metallic detailing or opt for tempered glass instead."
+  - question: "What should I look for to make sure a vintage-style set is expandable?"
+    answer: "Check whether the manufacturer maintains the full line before purchasing. A collection that includes charger plates, serving bowls, and mugs in the same pattern gives you room to build a complete service over time. A set that has been discontinued or closed out leaves you with a fixed inventory and no path to expansion. For entertaining-focused buyers, the depth of the collection often matters as much as the entry set itself."
+  - question: "How many place settings do I need if I host regularly?"
+    answer: "Service for eight is the practical minimum for most regular hosts. A four-place set is a reasonable starting point if your gatherings are consistently small or you plan to add to the collection gradually. The more important question is whether the pattern you are buying belongs to an active, expandable line — if you can add matching pieces later, a four-place entry makes sense; if the pattern is discontinued, you are capped at whatever the set provides."
 ---
 
 Vintage glass dinnerware sits at an interesting crossroads , it delivers the clean, timeless look of antique and Depression-era glassware without the hunting, the fragility concerns, or the very real lead-glaze risks that come with genuinely old pieces. If you've been browsing estate sales or collector markets and wondering whether you can get that aesthetic without the sourcing headaches, the answer is yes. The [Dinnerware & China](/dinnerware/) category has expanded considerably in this direction, and a few options are worth your serious attention.

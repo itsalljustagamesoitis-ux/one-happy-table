@@ -35,6 +35,17 @@ products:
 tags: ["serveware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What is the difference between a serving platter and a serving tray?"
+    answer: "A serving platter is designed to hold and present food at the table — it typically has a low rim and sits flat as a centerpiece. A serving tray is designed for carrying food or drinks from one place to another and usually has raised sides or handles for transport. Platters prioritize visual presentation; trays prioritize mobility and containment. The distinction matters when choosing which piece to invest in for your hosting style."
+  - question: "Is the Michael Aram Olive Branch platter practical for everyday use?"
+    answer: "It is not designed for everyday use, and that is not a flaw — it is a category distinction. The oxidized nickel finish requires hand-washing and will degrade with dishwasher exposure. The article positions it as a hosting piece for formal dinners, holiday tables, and occasions where presentation matters as much as the food. For a premium piece used deliberately a few times a year, the investment holds up. For a daily workhorse, the white stoneware oval is the more sensible answer."
+  - question: "Blue-and-white hand-painted platter vs. white oval — which is more versatile?"
+    answer: "The white oval wins on pure versatility — it coordinates with any table setting and imposes no aesthetic direction. The blue-and-white hand-painted platter is more specific: it suits coastal, Mediterranean, and cool-toned tables beautifully but clashes with warm or earthy settings. If your table direction is established and leans toward those aesthetics, the blue-and-white is the stronger piece. If you are still building your table direction, start with the white oval."
+  - question: "Can stoneware serving platters go directly from the oven to the table?"
+    answer: "Yes — stoneware handles the transition from oven to table without the thermal shock risk that affects some ceramics. Both the white oval and the hand-painted platter are stoneware and suitable for this use. The key condition is avoiding extreme temperature swings: do not transfer a very cold platter directly to a high-heat oven, and do not set a hot stoneware platter on a cold or wet surface."
+  - question: "What size serving platter works for most home dinner parties?"
+    answer: "A 14-inch oval platter is the workhorse size for most home tables — it accommodates a full roast, a generous cheese spread, or a stacked appetizer arrangement without overwhelming a six-person setting. Go smaller and you are serving in shifts. Go larger and the platter itself starts competing with the table. Decorative pieces like the Michael Aram often run slightly smaller, since they are designed for composed presentations rather than full-roast service."
 ---
 
 Old serving platters carry something most modern tableware doesn't , a sense of occasion that doesn't require effort. Whether you're drawn to hand-painted ceramics, sculptural metalwork, or a clean white oval that disappears behind the food it holds, the right [serveware](/serveware/) piece changes how a meal lands. I've spent years setting tables for everything from Wednesday-night dinners to long holiday gatherings, and platters are where I see people either commit to a table aesthetic or accidentally undermine one.

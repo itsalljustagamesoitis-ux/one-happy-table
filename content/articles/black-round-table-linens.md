@@ -35,6 +35,17 @@ products:
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Do I need a round tablecloth specifically, or will a rectangular one work on a round table?"
+    answer: "A rectangular cloth on a round table leaves pointed corners hanging past the table edge on two sides, which reads as an afterthought rather than a deliberate choice. For a casual outdoor setup or covered buffet, rectangular coverage is fine. For a seated dinner, a properly sized round cloth is worth the specificity — measure your table's diameter and calculate the drop you need before buying."
+  - question: "What is the difference between polyester and linen tablecloths for a dinner party?"
+    answer: "Polyester is more durable through repeated washing and costs less, but it drapes stiffly and shows fold creases from storage. Linen has a natural drape and texture that reads as more intentional on a dressed table — it falls cleanly at the drop edge and improves with age. For an event where presentation matters, linen does the job polyester cannot."
+  - question: "How do I calculate the right tablecloth size for a round table?"
+    answer: "Measure the diameter of your table, then add twice your desired drop to get the cloth diameter you need. A 60-inch round table with a 12-inch drop requires an 84-inch round tablecloth. Most buyers skip this calculation and size up hoping it works out — it rarely does cleanly. Run the numbers before ordering."
+  - question: "Can I layer a table runner over a round tablecloth?"
+    answer: "Yes, and it is one of the more effective ways to add depth to a round table. The runner will extend past the edges rather than spanning the full width evenly, and that asymmetry is part of the look. A natural linen runner over a black base cloth creates a strong contrast that anchors the table without requiring elaborate centerpieces."
+  - question: "Is linen worth it over cotton for dinner napkins?"
+    answer: "Linen is worth it if texture and drape matter to you. Belgian linen in particular softens with each wash and develops a quality that cotton at the same price point does not replicate. Cotton is easier to care for and cheaper per napkin, which makes it the more practical choice for everyday use. For a table you are deliberately setting, linen napkins are a meaningful upgrade."
 ---
 
 Black round tablecloths get searched constantly, but most of the articles ranking for that phrase send you toward rectangular polyester and hope you don't notice. I've spent years setting tables for everything from casual Sunday dinners to seated events for eighty guests, and the linen choices you make matter more than most people expect. If you're building a table that actually looks intentional, the [table linens](/linens/) you choose are the foundation , not an afterthought.

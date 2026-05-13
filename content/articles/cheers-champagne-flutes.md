@@ -35,6 +35,17 @@ products:
 tags: ["glassware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Are champagne flutes dishwasher safe?"
+    answer: "It depends entirely on the material. Crystal flutes — including lead-free crystal from Waterford and Mikasa — should be hand-washed to preserve optical clarity and facet definition. Dishwasher heat and detergent will permanently dull cut crystal over time. Polymer flutes like the Govino shatterproof set are genuinely dishwasher safe. Match your care routine to your material before you buy."
+  - question: "Crystal vs glass champagne flutes — what is the actual difference?"
+    answer: "Crystal contains minerals — now more commonly barium or zinc in lead-free formulations — that give it greater density, weight, and light refraction than standard soda-lime glass. The practical result is greater clarity, a more resonant ring when tapped, and the ability to be cut into facets that catch light. Standard glass flutes are more uniform in appearance and generally more durable for everyday use, but they do not have the optical depth of crystal."
+  - question: "Is the Waterford Millennium set worth buying compared to mid-range crystal?"
+    answer: "For occasions where the glass is part of the experience — a significant anniversary, a formal New Year's table, a wedding gift — yes. The Waterford Millennium's deep-cut geometric faceting and optical quality are meaningfully better than mid-range crystal, and the difference is visible in the glass. For regular entertaining where you need four flutes that can withstand an active household, the Mikasa Orson set is the more practical choice."
+  - question: "How many champagne flutes should I own?"
+    answer: "Four is the most practical quantity for most households — it covers the most common entertaining scenarios and gives you one spare per couple if a glass breaks over time. A set of two makes sense as a special-occasion pair or a gift for a couple. If you host large groups regularly, two sets of four gives you coverage without the fragility risk of having eight identical crystal flutes in rotation simultaneously."
+  - question: "Can champagne flutes be used for prosecco and other sparkling wines?"
+    answer: "Yes. The elongated flute shape works for any sparkling wine — the narrow bowl slows carbonation loss regardless of whether you have poured champagne, prosecco, cava, or petillant naturel. The flute shape does suppress some aromatic complexity that a wider tulip glass would allow, which is worth knowing for very aromatic bottles. For celebratory pours at a table setting, the classic flute is entirely appropriate for any sparkling wine."
 ---
 
 Champagne flutes are one of those purchases that seems simple until you're standing in front of a dozen options and realize you have no framework for choosing. The shape affects the bubble behavior, the material determines how long the glass stays in your collection, and the occasion you're buying for , poolside graduation party or formal New Year's Eve table , changes everything. A quick look at [Glassware & Crystal](/glassware/) will show you how much variety exists in this category alone.

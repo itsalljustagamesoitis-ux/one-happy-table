@@ -35,6 +35,17 @@ products:
 tags: ["serveware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What size serving platter is considered large enough for a dinner party?"
+    answer: "Fourteen inches is the functional threshold the article uses for a large serving platter. Below that you have a standard serving piece. At fourteen inches and above there is room for a full roast, a composed salad, or a spread of appetizers without crowding the edges. For a full rack of ribs, which typically runs longer than fourteen inches, a sixteen-inch or rectangular platter handles the geometry more comfortably."
+  - question: "Can ceramic serving platters go in the oven?"
+    answer: "Stoneware options — the Juliska Berry and Thread piece and the white oval — are designed to handle oven-to-table transitions. The Certified International Talavera platter is a dedicated serving piece and the hand-painted decorative surface is not intended for oven use. Always confirm temperature limits in the manufacturer's specifications before assuming any decorated ceramic is oven safe."
+  - question: "Is the Juliska Berry and Thread platter worth the premium over a plain white platter?"
+    answer: "If you are building a coordinated table around the Berry and Thread collection, the premium is justified by the coherence it adds. As a standalone platter next to unrelated pieces, the value case is harder. The hand-crafted relief detail is exceptional, but it matters most in context — and it requires hand-washing to preserve. If you are buying one platter starting from scratch, the white oval delivers more practical value."
+  - question: "How do I keep a white ceramic serving platter from staining?"
+    answer: "White stoneware stains most readily from high-acid foods — tomato sauces, red wine reductions, deeply colored fruits — especially when food sits on the surface for extended periods. Rinse the platter promptly after use before residue sets. For existing stains, a paste of baking soda and water left for thirty minutes before scrubbing addresses most discoloration without damaging the glaze. Avoid abrasive cleaners, which scratch the glaze and make future staining worse."
+  - question: "Decorated vs plain white ceramic platter — which is more versatile?"
+    answer: "A plain white oval is the most versatile platter you can own — it works with every table setting, every food style, and every occasion. A decorated platter makes a specific visual statement that works brilliantly in the right context and looks out of place in the wrong one. If you are building a first serveware set, versatility wins. If you are adding to an established aesthetic like a Mexican or Southwestern table, the specificity of a Talavera piece is worth pursuing."
 ---
 
 Large ceramic serving platters occupy a specific and underappreciated place at the table , they're the piece that frames the food before anyone takes a bite. Getting the size, material, and aesthetic right matters more than most people expect until they're standing at a buffet with a platter that's either too small, too precious, or completely wrong for the occasion. My full [serveware](/serveware/) roundup covers the broader category, but this guide focuses on large ceramic platters specifically.

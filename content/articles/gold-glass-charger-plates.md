@@ -35,6 +35,17 @@ products:
 tags: ["dinnerware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Do charger plates stay on the table during the meal?"
+    answer: "Charger plates are typically removed before or with the main course — they are a presentation element, not a functional eating surface. Some hosts leave them through the entree course as a decorative base layer, which is perfectly appropriate. At very formal dinners the convention is to replace or remove the charger as the dinner plate arrives, but at a home dinner party there is no rule that forces their removal."
+  - question: "Can gold charger plates be used with non-matching china?"
+    answer: "Yes, and most experienced hosts do exactly that. A gold-rimmed charger works with any white or cream dinner plate and pairs naturally with plain and lightly patterned china. The rim finish does the decorative work so the dinner plate above it does not need to match. Conflicts arise when the dinner plate carries a strong border design that competes visually with the charger's own rim treatment."
+  - question: "Glass charger plates vs. plastic — which is worth buying for home entertaining?"
+    answer: "Glass chargers read more substantial and formal because they carry actual weight and light interacts with glass in a way that plastic cannot replicate. Plastic chargers are lighter and more impact-resistant, which makes them practical for outdoor events or high-volume venue use. For home entertaining where formality is the goal, glass is the better choice — the visual payoff at a set table is meaningfully higher than plastic at any price point."
+  - question: "How do I clean gold-rimmed charger plates without damaging the finish?"
+    answer: "Hand-washing is strongly recommended for any charger with a metallic rim. Dishwasher heat and alkaline detergent accelerate the breakdown of painted and plated finishes, particularly at the rim edges where stacking contact already creates wear. Wash gently with warm water and mild dish soap, and separate plates with a cloth or felt pad when storing. For the Juliska Berry and Thread charger, hand-washing also protects the hand-applied relief detail."
+  - question: "Is the Juliska Berry and Thread charger plate worth the premium for a full table of eight?"
+    answer: "For buyers building a table setting they intend to keep for years, yes. The hand-crafted whitewash stoneware and hand-applied relief motif give each piece an artisanal quality that pressed chargers cannot reproduce, and the 13-inch diameter means the rim stays visible and active even under a generously sized dinner plate. The honest constraint is cost — plan the full quantity at once, because finish variation between production runs makes supplementing later a risk."
 ---
 
 Charger plates do more quiet work than most people realize. They set the formality level of a table before a single piece of food arrives, and the material and finish you choose signals everything from casual dinner party to black-tie reception. If you've landed here researching gold glass charger plates specifically, you already know you want warmth and occasion , the question is which version earns its place at your table. Browse the full [Dinnerware & China](/dinnerware/) range to see how chargers fit into a complete table setting.

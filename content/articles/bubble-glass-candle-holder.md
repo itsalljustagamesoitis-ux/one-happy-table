@@ -35,6 +35,17 @@ products:
 tags: ["decor", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What type of candle works best in a bubble glass candle holder?"
+    answer: "Tealights in their metal housings are the correct choice for glass-bowl bubble holders. The metal shell prevents liquid wax from reaching the textured glass surface and making cleaning difficult. Avoid placing bare wax discs directly in the bowl — if the wax melts fully, it pools in the bubble pockets and is nearly impossible to remove without chipping the glass."
+  - question: "How do I clean wax out of a bubble-textured glass holder?"
+    answer: "The most effective method is prevention: always use tealights in their metal shells. If wax does reach the glass, let it solidify completely, then place the holder in the freezer for 20 minutes. Cold wax contracts and lifts cleanly from glass surfaces without scratching. For residue in the bubble pockets, a wooden skewer or soft-bristle toothbrush with warm soapy water removes what remains."
+  - question: "Can I mix the Creative Co-Op bubble glass set with the Stoff Nagel brass holders on the same table?"
+    answer: "Yes, and the contrast works well in practice. The glass tealight holders read as texture and warmth, while the brass Stoff Nagel system adds height and structure. Grouping the glass holders at the table center and flanking them with the brass set creates a layered arrangement that reads as intentional rather than mismatched. Consistent candle color — warm ivory or natural beeswax tones — pulls both materials together."
+  - question: "Does the Stoff Nagel brass finish tarnish quickly?"
+    answer: "It develops a visible change in six to twelve months with regular use and exposure to air, particularly in humid environments. Whether that reads as tarnish or patina depends on how you maintain it. Light buffing with a soft cloth after each use slows the process. A proper brass polish once or twice a year restores the original warmth if you prefer that look."
+  - question: "Is the Michael Aram Twist Candle Holder suitable for everyday use?"
+    answer: "It is durable enough for regular use but designed for display as much as function. The oxidized metal holds up well to normal handling, but the sculptural elements can bend if the piece is knocked over or packed carelessly. Most buyers treat it as a dinner-party and occasion piece rather than a nightly fixture — not because it cannot handle regular use, but because the visual impact feels appropriately reserved for settings where you want the table to feel considered."
 ---
 
 Bubble glass candle holders do one thing that flat-sided votives never quite manage , they break light into dozens of small refractions that move across the table as guests shift and candles flicker. If you've been building out your [Decor & Candles](/decor/) setup and want that effect without overcomplicating your centerpiece, this is where I'd start.

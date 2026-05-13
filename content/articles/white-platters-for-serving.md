@@ -35,6 +35,17 @@ products:
 tags: ["serveware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What size serving platter is most versatile for home entertaining?"
+    answer: "A fourteen-inch oval covers the widest range of use cases — it accommodates a whole chicken, a dressed salmon fillet, a generous charcuterie arrangement, or a family-style pasta. Anything smaller starts to feel tight for real entertaining portions. Round platters work well on buffet tables but do not transition as naturally to a seated dinner. If you are buying a single platter, the fourteen-inch oval gives you the most flexibility across meal types and occasions."
+  - question: "Stoneware or porcelain — which is the better material for a serving platter?"
+    answer: "Stoneware is the more practical choice for most households. It is more resistant to chipping than porcelain, handles oven-to-table transitions reliably, and holds up to dishwasher use over time. Porcelain reads as more refined and is lighter in weight, but it chips more easily at the rim. For a piece that will be used frequently and washed often, stoneware is the better everyday material."
+  - question: "Can hand-painted ceramic platters go in the dishwasher?"
+    answer: "Generally not. The applied finish on hand-painted pieces degrades faster in a dishwasher than a plain glaze does — heat and detergent accelerate the fade. For occasional-use platters you are willing to hand-wash, the aesthetic payoff is worth it. For a platter that goes in the dishwasher after every dinner, choose an undecorated piece or one with a relief-only motif like the Juliska Berry and Thread, which is more durable because the design is part of the clay form rather than applied over it."
+  - question: "What is the difference between a relief pattern and a hand-painted pattern on a platter?"
+    answer: "Relief refers to decoration sculpted into the ceramic body — the design is raised or recessed as part of the clay form itself. Hand-painted decoration is applied over the surface of a fired piece, sitting on top of the glaze. Relief patterns are more durable in dishwashers because there is no applied finish to degrade. Hand-painted patterns offer more color and visual specificity but require more care to preserve the finish over time."
+  - question: "How do I store a large oval platter so it does not chip in the cabinet?"
+    answer: "A fourteen-inch oval will not stack cleanly with most dinnerware and needs either its own shelf space or a vertical plate rack. Never stack platters directly against other ceramic pieces without a cloth or felt pad between them — porcelain rims chip where surfaces contact each other. If storage space is limited, a slightly smaller platter that fits your actual cabinet is a better choice than one that lives on the counter because there is nowhere else to put it."
 ---
 
 White platters are one of those purchases that looks simple until you're standing in front of twelve options and second-guessing everything. The right one disappears behind the food it's carrying , the wrong one competes with it, chips in the first month, or turns out to be too small for anything useful. I've set enough tables to know that a platter is a working piece first and a design choice second, and I'll walk you through both considerations here. Start by browsing the full range of [serveware](/serveware/) options to understand what's available before narrowing in on platters.

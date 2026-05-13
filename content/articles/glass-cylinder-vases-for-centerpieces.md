@@ -35,6 +35,17 @@ products:
 tags: ["decor", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How tall should a glass cylinder vase be for a seated dining table centerpiece?"
+    answer: "Keep cylinder vases under 10 inches tall for a seated dinner table unless you're placing them at the ends of a long table where they won't block sightlines between guests. Low arrangements — 6 to 8 inches — encourage conversation and look proportional on most standard dining tables. Very tall arrangements work well on buffet tables or entry consoles where no guests are seated across from each other."
+  - question: "Machine-cast vs hand-blown glass cylinder vases — is the difference worth the price?"
+    answer: "Machine-cast glass is uniform in wall thickness and consistent in form, usually less expensive, and entirely adequate for event use or everyday centerpieces. Hand-blown glass like the Simon Pearce Woodstock Vase has slight organic variation in shape and wall thickness that is visible on the table and is the primary reason buyers pay a premium. If you want the vessel to be part of the aesthetic, hand-blown is worth the investment; if you want the container to be invisible and let the flowers read, machine-cast does that job without the cost."
+  - question: "Can glass cylinder vases hold candles as well as flowers?"
+    answer: "Yes, and most cylinder sets are designed with that dual use in mind. A 4-inch cylinder holds a standard pillar candle cleanly. An 8-inch cylinder filled with water and floating candles makes a simple, elegant centerpiece that requires no floral skills. The varied diameters in a set like the Efavormart Clear Glass Cylinder Vases give you options for both applications from a single purchase."
+  - question: "Do wood bud vases actually hold water for fresh flowers without leaking?"
+    answer: "Not directly. Wood is porous and will degrade with consistent water exposure. The Creative Co-Op Mango Wood Bud Vase Set requires a glass tube insert — a small cylindrical glass liner — placed inside each vase to hold water and stems. These inserts are inexpensive and widely available. The setup adds a step, but the wood exterior remains dry and protected throughout, which is what preserves the finish over time."
+  - question: "How do I keep water clear in a glass cylinder vase with fresh flowers?"
+    answer: "Change the water every two days for fresh flower arrangements, and cut a small amount off each stem when you do — stems seal over and restrict water uptake faster than most people expect. A drop of bleach or a commercially available flower food packet helps inhibit bacterial growth that clouds the water. Clear water matters most in glass cylinders because the entire vessel interior is visible, unlike ceramic or opaque containers where murky water stays hidden."
 ---
 
 Glass cylinder vases are one of those centerpiece tools that works across every table style , casual backyard dinner, formal holiday spread, or the kind of impromptu gathering where you're cutting flowers from the garden an hour before guests arrive. What you put inside the vase matters, but the vase itself shapes how the whole arrangement reads. If you're building a table from scratch or refreshing what you already own, the [Decor & Candles](/decor/) section has more context on how vases fit into a broader tablescape.

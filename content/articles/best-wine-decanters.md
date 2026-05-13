@@ -56,6 +56,17 @@ products:
 tags: ["glassware", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How is the ETO Wine Decanter different from a standard glass decanter?"
+    answer: "A standard decanter aerates wine and holds it for service, typically within a few hours before oxidation becomes noticeable. The ETO uses an airtight stopper mechanism to slow oxidation, preserving opened wine for up to five days. That is a fundamentally different function. If you regularly open bottles mid-week and drink one or two glasses at a time, the ETO addresses a problem that a conventional decanter does not solve."
+  - question: "Do I need separate decanters for red wine and white wine?"
+    answer: "Most decanters are designed with red wine in mind — the wide base and broad surface area accelerate aeration for tannic reds that benefit from breathing. White wines and rosés generally do not need aeration, so decanting them is a serving choice rather than a functional one. A single decanter handles both if you want it to. The ETO is particularly practical for whites you want to finish over several days given its preservation function."
+  - question: "Are budget wine glasses worth buying, or should I save for crystal?"
+    answer: "Both are worth buying — they serve different purposes. Budget glasses like the Libbey Signature Kentfield are the right answer for large parties, outdoor entertaining, and any situation where breakage is likely. Crystal stemware like the Spiegelau Definition is worth the investment for seated dinners where the drinking experience itself is part of what you are offering guests. Most well-stocked home entertaining setups include both rather than treating them as competing options."
+  - question: "Can I mix different wine glass styles on the same table?"
+    answer: "Mixing works well when there is a clear logic to it — same color family, same finish, or deliberate contrast like cobalt blue alongside clear crystal. What reads as mismatched is usually different heights or wildly different bowl proportions on the same table. The safest approach is to unify by shape and vary by color, or unify by color and vary by texture, such as the Libbey Paneled Ribbed alongside plain stems."
+  - question: "What does 'dishwasher safe' actually mean for crystal wine glasses?"
+    answer: "It means different things depending on the tier. Premium crystal like the Spiegelau Definition can go in the dishwasher, but stem geometry and load placement matter — rushed loading breaks stems regardless of the glass's engineering. Budget glassware labeled dishwasher-safe is generally more forgiving of the full cycle. The ETO's borosilicate construction is genuinely dishwasher-safe without stem fragility as a concern. If dishwasher convenience is a hard requirement, factor it into your choice rather than assuming it is equivalent across the category."
 ---
 
 Choosing a wine decanter used to feel straightforward , until you realize how much the category has expanded beyond the standard glass carafe. There are preservation decanters, bistro stemware, crystal sets designed for serious tasting, and budget glassware built for parties where breakage is inevitable. Each serves a different kind of host.

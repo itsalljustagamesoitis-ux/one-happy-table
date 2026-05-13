@@ -35,6 +35,17 @@ products:
 tags: ["serveware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Are folded paper place cards formal enough for a wedding reception?"
+    answer: "Yes, provided the card quality matches the formality of the setting. Thin, uncoated paper reads as casual regardless of calligraphy. A card with a foil border or heavier stock — like the Kate Aspen gold foil set — holds its own at a formal reception table. Many wedding planners use high-quality paper cards precisely because they allow custom printing and calligraphy without the logistical challenge of sourcing enough reusable cards for a large guest list."
+  - question: "Reusable porcelain place cards vs disposable paper — which is the better long-term value?"
+    answer: "For hosts who entertain five or more times a year, reusable porcelain cards pay for themselves faster than you'd expect against the cost of buying disposable sets each time. The Mud Pie set covers a full dining table and wipes clean after the meal. For hosts who entertain two or fewer times a year, a well-chosen paper set serves just as well without the storage requirement or upfront investment."
+  - question: "Can I write on porcelain place cards with a regular pen?"
+    answer: "A regular ballpoint or felt-tip pen will not adhere cleanly to a glazed porcelain surface. You need a china marker or a fine-tip paint pen — both are inexpensive and widely available. Test your marker on the back of a card before writing guest names to confirm the tip width and ink color work for your table. Discovering the incompatibility an hour before guests arrive is avoidable with this one prep step."
+  - question: "Juliska Country Estate place card holders — are they worth the price for someone who doesn't own other Juliska pieces?"
+    answer: "For buyers outside the Juliska Country Estate collection, the holders are harder to recommend over simpler options. The aesthetic is specific enough that it works brilliantly in context — paired with Country Estate dinnerware and linens — and reads as eclectic outside it. If you're building a coordinated farmhouse-formal table around Juliska pieces, these holders make clear sense. For a general formal table with mixed china, a simpler reusable card or the Kate Aspen disposables serve better at a lower cost."
+  - question: "How many place cards do I need for a dinner party, and what's the right buffer for writing errors?"
+    answer: "One per guest, plus two or three extras for last-minute additions or writing mistakes. A dinner party of eight needs ten to twelve cards if you're using disposables. If you're using the Mud Pie porcelain set of twelve, you're covered for most dinner party sizes with no extras needed since the glazed surface wipes clean. For events over twenty guests, the Kate Aspen fifty-pack removes the counting problem entirely."
 ---
 
 Folded place cards do one small thing exceptionally well: they tell every guest where to stand, sit, and belong at your table. A well-chosen card , whether disposable paper or heirloom porcelain , signals that someone thought about the meal before it started. That signal matters more than most hosts realize, and it costs almost nothing to get right. If you're building a table that feels considered rather than assembled, [serveware](/serveware/) decisions like this one are where the details compound.

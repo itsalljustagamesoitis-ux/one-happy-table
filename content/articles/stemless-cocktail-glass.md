@@ -35,6 +35,17 @@ products:
 tags: ["glassware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Stemless cocktail glasses — do they warm drinks faster than stemmed ones?"
+    answer: "Yes, and it's a real trade-off rather than a marketing point. Without a stem, the hand wraps around the bowl and transfers body heat directly into the drink. For a precisely chilled Martini or Gimlet that's meant to stay cold through the full glass, that matters. For iced highballs, hot drinks, and room-temperature pours, the stemless format is perfectly suited and the warmth issue is irrelevant."
+  - question: "Libbey Midtown vs. Luigi Bormioli Optica — which stemless cocktail glass set should I buy?"
+    answer: "They serve different purposes. The Libbey Midtown set of 12 is soda-lime glass, fully dishwasher-safe, and designed for high-volume casual use where breakage is an accepted cost. The Luigi Bormioli Optica set of 6 is titanium-reinforced crystal with noticeably better clarity and a tall Collins form purpose-built for iced and highball-style drinks. Choose Libbey for quantity and ease; choose Optica if visual quality and a specific tall-glass serve matter more."
+  - question: "Is titanium-reinforced crystal worth the price premium over standard glass?"
+    answer: "For most buyers in the mid-range, yes. The titanium oxide treatment genuinely hardens the rim and body where breakage most commonly occurs, and the clarity is visibly better than soda-lime glass — particularly noticeable with clear or lightly colored cocktails like a gin and tonic or a French 75. The durability improvement is real enough that titanium-reinforced crystal sets often survive everyday use longer than cheaper glass, making the cost difference less significant over time."
+  - question: "Simon Pearce Ascutney glass — can I actually use it for cocktails?"
+    answer: "The Ascutney is a red wine glass by design, but its generous bowl and thick, stable base make it work for spirit-forward cocktails served at room temperature — aged rum, whiskey, a complex aperitivo. The wide bowl supports aromatic appreciation the same way it does for wine. It won't work for an iced highball, but for contemplative room-temperature pours it's excellent. Hand-washing is non-negotiable; a glass this well-made doesn't belong in a dishwasher."
+  - question: "How many stemless cocktail glasses do I need if I host regularly?"
+    answer: "Count your typical guest list and add two as a breakage buffer. Six covers an intimate dinner with careful handling; twelve is the more honest number for anyone who hosts larger groups, runs the dishwasher between parties, or accepts that occasional breakage is simply part of an active home bar. If you're deciding between a set of six and a set of twelve, buy the larger set — you'll use the extras before you expect to."
 ---
 
 Choosing the right stemless cocktail glass is less obvious than it sounds. The shape affects how a drink smells, how long it stays cold, and whether it survives a crowded party without casualties. If you're building out a home bar or refreshing your entertaining glassware, the options across the [Glassware & Crystal](/glassware/) category range from bulk-friendly everyday sets to mouth-blown pieces worth displaying between uses.

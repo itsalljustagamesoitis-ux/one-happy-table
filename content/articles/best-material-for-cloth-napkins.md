@@ -56,6 +56,17 @@ products:
 tags: ["linens", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Linen vs. cotton napkins — which is better for everyday use?"
+    answer: "Cotton is the more practical choice for daily use — it launders easily, dries quickly, and does not require ironing to look presentable. Linen outperforms cotton on texture, drape, and longevity once it has been washed several times and broken in, but it wrinkles significantly and requires ironing for a pressed finish. For formal tables where presentation is the priority, linen rewards the effort. For everyday family use, cotton or a cotton-poly blend is the lower-maintenance answer."
+  - question: "How many cloth napkins do I actually need to buy?"
+    answer: "A practical baseline is one napkin per seat plus two or three extras to allow for a wash cycle mid-week. For a table of eight, that means a minimum of ten napkins — practically speaking, twelve. Budget sets in twelve-packs address this directly. Premium sets sold in fours require more planning to reach full table coverage, and buying an extra set at the time of the initial purchase is easier than tracking down a matching set a year later."
+  - question: "Do cloth napkins shrink in the wash?"
+    answer: "Cotton and linen both shrink somewhat on the first wash, with linen shrinking more. Pre-washed options like the Belgian Linen Napkins from Sur La Table have already accounted for shrinkage, so the dimensions you buy are the dimensions you keep. For napkins that have not been pre-washed, expect a small reduction — enough to notice if you are matching napkins to a specific fold or ring size, but not significant enough to affect everyday use."
+  - question: "Can sculptural metal napkin rings snag fine linen napkins?"
+    answer: "Yes, with certain designs. Three-dimensional metal rings like the Michael Aram Anemone can catch on linen fibers if the ring is slid on quickly. Sliding the ring on slowly and smoothly, rather than pulling it through, avoids snagging. Cotton napkins are more forgiving with textured rings because the fiber is less prone to catching. If you regularly use fine linen napkins, a smoother ring profile — ceramic, plain metal, or wood — is a lower-maintenance pairing."
+  - question: "Are the Sferra hemstitched napkins worth the premium over Belgian linen?"
+    answer: "They serve slightly different purposes. The Sferra napkins are hand-hemstitched on Italian linen — the border detail is visible from across the table and signals formal intention in a way machine-finished edges do not. The Sur La Table Belgian linen is pre-washed, heavier, and more suited to everyday premium use without ceremony. If you are building a formal set for dinner parties, the Sferra hemstitching earns its price. For frequent everyday use, the Belgian linen is the more practical investment."
 ---
 
 Choosing a napkin material sounds like a small decision until you're standing at a table you've spent an hour setting, and the napkins just don't feel right , too stiff, too sheer, or so clearly disposable that they undercut everything else. The material determines how a napkin drapes, absorbs, launders, and ages, and those differences matter more in practice than most buying guides admit.

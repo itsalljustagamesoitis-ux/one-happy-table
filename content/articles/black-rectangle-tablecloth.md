@@ -35,6 +35,17 @@ products:
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What size tablecloth fits a 6-foot rectangular folding table?"
+    answer: "A 60x102-inch tablecloth is the standard fit. At that size the cloth drops approximately 30 inches on the ends and 21 inches on the sides, giving you floor-length coverage on a standard 30-inch table. If you want a shorter, more casual drop, a 60x84 is worth considering, but it will not reach the floor."
+  - question: "Polyester vs. cotton for a formal dinner tablecloth — which is better?"
+    answer: "Cotton wins for formal settings. A pressed Egyptian cotton tablecloth holds a crease through an entire dinner service and drapes with a weight that reads as intentional. Polyester serves practical occasions well but lacks the texture and finish that formal tableware deserves. If the table is the main visual statement of the evening, invest in cotton or linen."
+  - question: "Can a black tablecloth work for a wedding or upscale event?"
+    answer: "Yes, and it reads as sophisticated when executed correctly. Black works best with white or ivory dinnerware, metallic flatware, and candlelight. At the premium level, a damask linen tablecloth like the Yves Delorme Triomphe has enough texture to prevent a black table from looking flat. For events with bright overhead lighting, consider how the fabric's finish — matte versus sheen — will read at distance."
+  - question: "How do I get wrinkles out of a polyester tablecloth before a dinner party?"
+    answer: "A garment steamer is the fastest method and the one least likely to create new creases. A conventional iron on a low synthetic setting works, but polyester can develop a shine if you press too hard with a hot iron. Steaming the cloth while it is already on the table is the most efficient approach."
+  - question: "How should I store a linen tablecloth to avoid deep creases?"
+    answer: "Rolling rather than folding is the best method for long-term storage. Fold creases set into linen fibers over time and require professional pressing to remove. If you roll the cloth around a cardboard tube wrapped in acid-free tissue, a well-made damask linen will come out of storage needing only a light press rather than a full restoration."
 ---
 
 A black rectangle tablecloth is one of those purchases that looks simple until you're standing in front of three options that look identical online but behave completely differently on an actual table. The wrong one wrinkles before the first guest arrives; the right one holds its shape through dessert and washes clean afterward. I've covered a wide range of [table linens](/linens/) over the years, and this category has more hidden variation than most buyers expect.

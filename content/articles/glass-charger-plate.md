@@ -35,6 +35,17 @@ products:
 tags: ["dinnerware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Are glass charger plates dishwasher safe?"
+    answer: "Most glass charger plates are not dishwasher safe, particularly those with metallic rim finishes. The heat and detergent in dishwasher cycles degrade gold, silver, and platinum rim treatments noticeably after just a few washes. Plain glass without metallic detail can sometimes tolerate the dishwasher, but hand-washing remains the safest default for any charger you want to keep looking sharp over repeated use."
+  - question: "What size charger plate works best under a standard dinner plate?"
+    answer: "A 13-inch charger plate is the most versatile size for home use. Standard dinner plates run between 10 and 12 inches, and a 13-inch charger creates the right visual border — roughly three-quarters of an inch to an inch of exposed charger rim. If your dinner plates are on the larger end, measure before purchasing to confirm the charger extends clearly beyond the plate edge rather than barely clearing it."
+  - question: "Gold vs silver charger plates — which is more appropriate for a formal dinner?"
+    answer: "Neither is more formal than the other — the choice comes down to your existing table palette. Gold charger plates read warmer and suit cream linens, wooden tables, and candlelit settings. Silver reads cooler and sharper, pairing more naturally with white linens, crystal glassware, and modern flatware. If your table leans toward warm tones, gold is the natural fit; if it runs cool and bright, silver reads more cohesive."
+  - question: "Lenox Opal Innocence charger vs Juliska Berry and Thread — what is the difference in table style?"
+    answer: "The Lenox Opal Innocence is a clean, platinum-banded piece that works as a neutral foundation under almost any china pattern — it reads as formally precise and lets the dinner plate do the decorative work. The Juliska Berry and Thread is hand-crafted stoneware with a textural relief motif — it reads as artisanal and warm, suited to farm tables and candle-heavy settings where the charger itself is part of the decorative composition."
+  - question: "Do charger plates stay on the table during the entire meal?"
+    answer: "Charger plates are typically removed before or with the entree course, depending on service style. In formal plated service, the charger is removed when the entree plate is set down. In some casual styles, the charger stays through the main course and is removed before dessert. They are not meant to be eaten from directly — their function is visual presentation and table protection between courses."
 ---
 
 Glass charger plates sit at a strange intersection of practical and ceremonial , they're not plates you eat from, yet they set the tone for everything that follows. Choosing the right one means thinking about formality, durability, and how the piece behaves across multiple uses, not just one occasion. The full range of [dinnerware](/dinnerware/) options is worth understanding before you settle on a charger style that either elevates or undermines the plates layered on top.

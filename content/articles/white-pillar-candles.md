@@ -35,6 +35,17 @@ products:
 tags: ["decor", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How tall should a centerpiece be so it doesn't block conversation at a dinner table?"
+    answer: "Stay either clearly below chin height when seated — under about twelve inches — or clearly above eye level at over twenty-four inches, so guests are not straining around the arrangement. Pieces in the middle range tend to feel ambiguous and awkward. The Torre and Tagus tall pillar vase works on longer tables where vertical presence is the point; for a table seating four, use a stem or arrangement that keeps the height well below twelve inches."
+  - question: "Matte white ceramic vs. white enamel — which is easier to maintain over time?"
+    answer: "Matte ceramic is more forgiving day-to-day — surface marks wipe away easily and the finish does not show minor handling wear the way enamel does. White enamel with sculptural detail, like the Michael Aram orchid holders, is more vulnerable at the raised edges and requires careful storage and individual wrapping to stay pristine. For pieces used frequently rather than for special occasions, matte ceramic holds up better with less attention."
+  - question: "How many bud vases do I need for a centerpiece on a standard dining table?"
+    answer: "A standard six- to eight-seat rectangular table reads well with four to six vases clustered together in the center. The Creative Co-Op set of six provides exactly that count in varying heights, which creates natural visual rhythm without additional styling effort. For a table seating four, three vases grouped together is sufficient and leaves the remaining pieces available for a sideboard or buffet."
+  - question: "How do I keep taper candles from wobbling in candlestick holders?"
+    answer: "The socket diameter needs to match your candle's base diameter closely. Most standard tapers are seven-eighths of an inch at the base, but brands vary slightly. If there is slight play, a thin wrap of floral tape or a small ring of soft wax around the base of the candle creates friction without damaging either piece. Check the socket size of any holder against the candles you already use before buying — getting this right once means you never have to think about it again."
+  - question: "Can a single tall vase work as a centerpiece without any flowers?"
+    answer: "Yes — a tall architectural vase like the Torre and Tagus Pillar Ceramic Vase holds its own empty if the table is otherwise well-dressed. Bare white ceramic reads sculptural rather than unfinished when the piece has a strong enough form. Tall dried grasses, bare branches, or a few stems of eucalyptus are low-maintenance alternatives to fresh flowers that look intentional without daily attention."
 ---
 
 White pillar candles anchor a table the way almost nothing else does , they add height, warmth, and a formality that feels earned rather than forced. The right holder or vase makes that effect effortless; the wrong one fights everything else you've set out. Browsing the full range of [candles and décor](/decor/) before committing to a style is worth the time, especially if you're building a look you'll use more than once.

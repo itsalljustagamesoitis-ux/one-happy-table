@@ -35,6 +35,17 @@ products:
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What size navy tablecloth fits an 8-foot banquet table?"
+    answer: "An 8-foot folding table typically measures 30 by 96 inches. For a formal drop of 8 to 12 inches on each side, you need a tablecloth measuring at least 90 by 132 inches. The LinenTablecloth Navy Blue 90x132 is sized precisely for this use case and delivers a proper drop without excess fabric pooling on the floor. Measure your actual table before ordering, as folding table dimensions vary slightly by manufacturer."
+  - question: "Polyester or linen — which is better for a navy tablecloth?"
+    answer: "Polyester is more practical for frequent use — it is machine washable, wrinkle-resistant, and holds color well through repeated washing. Linen is more beautiful for formal settings, with a natural drape and slight sheen that polyester does not replicate, but it requires careful washing and pressing. If you entertain casually or frequently, polyester is the easier answer. If you are setting a formal table a few times a year and are willing to care for the cloth properly, linen is worth the investment."
+  - question: "How do I remove pet hair from a navy tablecloth before guests arrive?"
+    answer: "A lint roller is the most effective tool, and for deep navy it is non-negotiable — the color shows hair from light-colored pets with particular clarity. Work in sections from one end to the other rather than randomly to avoid redistributing hair you have already lifted. Storing the tablecloth in a sealed bag or linen press between uses significantly reduces the amount of lint and hair that accumulates on the surface before you have even set the table."
+  - question: "Does the Sferra Classico tablecloth need dry cleaning or can I machine wash it?"
+    answer: "The Sferra Classico requires hand-wash or gentle machine wash on a cool cycle, and professional pressing if you want it to look as it should. The Italian linen body is not fragile, but heat and rough machine cycles will compromise both the fabric and the hand-drawn hemstitch border over time. If your post-dinner routine involves bundling the tablecloth into a regular cycle, this is the wrong tablecloth for that use pattern."
+  - question: "Can a navy table runner substitute for a full tablecloth for a formal look?"
+    answer: "A runner works well layered over a neutral tablecloth — white or ivory linen underneath a navy runner creates a more considered presentation than either piece alone. Used as a standalone piece on a bare wood table, a runner reads as casual. Layered intentionally over a base cloth, it reads as styled and adds dimension that a single fabric does not. The Chilewich Trellis runner in navy handles heat and moisture that fabric runners cannot, making it practical for frequent formal use."
 ---
 
 Navy blue is one of those colors that works across almost every setting , a backyard graduation party, a holiday dinner, a wedding reception , which is exactly why it's the most-searched tablecloth color for formal tables. If you're shopping for [table linens](/linens/) and feel overwhelmed by the range of fabrics, sizes, and constructions on the market, this guide cuts through the noise with three honest picks across different price bands and use cases.

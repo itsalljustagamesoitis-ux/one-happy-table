@@ -35,6 +35,17 @@ products:
 tags: ["decor", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Can votive holders and taper holders be used interchangeably?"
+    answer: "No. A taper holder grips the candle base in a narrow socket; a votive holder is an open cup designed to contain a pooling wax melt. Using a votive in a taper socket risks instability; using a taper in a votive cup creates a fire hazard because melted wax has nowhere to go safely. Choose the holder type that matches the candle format you actually use."
+  - question: "How many votive holders do I need to fully light a rectangular dining table?"
+    answer: "A practical rule is one votive per eighteen to twenty-four inches of table length, placed down the center. A six-foot table reads well with three to four votives in a line; an eight-foot table needs four to six. A twelve-pack like the Circleware set gives you enough for a full twelve-seat table with some in reserve for a sideboard."
+  - question: "Porcelain taper holders vs. Michael Aram candlesticks — which is right for a formal dinner?"
+    answer: "It depends on whether you want the holders to be background support or a focal point. The white porcelain holders recede and let the candlelight and table carry the room, which is the right call when the food or flowers are already the visual center. The Michael Aram Butterfly Ginkgo holders are the center — they invite comment and command attention. A formal table with a strong floral centerpiece is usually better served by the porcelain."
+  - question: "How do I remove wax from glass votive holders without scratching them?"
+    answer: "Pour an inch of boiling water into each holder and let it sit for two to three minutes. The wax softens and releases from the sides, then floats as it cools. Lift the wax disc out with your fingers or a wooden skewer rather than metal tongs. For the Circleware votives specifically, avoiding metal contact with the interior walls is the most effective thing you can do to keep them looking clear over repeated use."
+  - question: "Do the Michael Aram Butterfly Ginkgo candlesticks work with any formality of table?"
+    answer: "They work across formality levels but they assert themselves and need space to do it. The open sculptural metalwork and mixed silver-and-gold finish are neutral enough to sit at a relaxed dinner without looking out of place, but the piece announces itself rather than receding. Build the rest of the table around it rather than treating it as background support."
 ---
 
 Candle holders and lanterns sit at a narrow intersection of form and function , they exist to hold a flame, but on a well-set table, they do significantly more work than that. The right holder can anchor a centerpiece, define the mood of a room, or make a simple dinner feel considered. Browse the full range of [candle holders and lanterns](/decor/) to understand how much variety there is before you commit to a style.

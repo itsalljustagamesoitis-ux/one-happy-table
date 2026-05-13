@@ -35,6 +35,17 @@ products:
 tags: ["decor", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Can I use the whitewash wood centerpiece box without a liner?"
+    answer: "You shouldn't place water or wet stems directly against the whitewash wood — moisture will raise the grain and leave water marks that are difficult to remove. Use a glass jar, a small tin bucket, or a plastic liner inside the box, fill it with water, and arrange your stems into the liner. The liner sits invisibly below the box rim, and the effect is identical to a fully integrated vessel."
+  - question: "White ceramic bud vases — what types of flowers actually fit in the narrow necks?"
+    answer: "The necks are designed for fine-stemmed flowers — tulips, anemones, spray roses, and white lilies before they fully open. Thick-stemmed flowers like garden roses or peonies won't fit without trimming the calyx, and even then the fit can be awkward. For one to three fine stems per vase, the set works beautifully; for full-headed blooms with thick stems, a different vessel is the right choice."
+  - question: "Michael Aram white orchid candle holders — are they stable enough for real taper candles?"
+    answer: "The holders have a weighted base that provides reasonable stability on a flat surface, but tall tapers raise the center of gravity. On a table where children are present and candles are lit, placing the holders toward the center of the table away from the edge is the safer approach. Flameless taper candles are a reasonable alternative that preserves the visual effect without the open flame concern."
+  - question: "White flower centerpieces on a dark wood table — do they work without a tablecloth?"
+    answer: "White against dark wood is a high-contrast combination that works well — the white flowers become the focal point immediately, and the natural grain of the wood adds warmth underneath. A low arrangement in a white ceramic vessel or a whitewash box reads as casually elegant in that setting. The Michael Aram orchid holders are particularly effective on dark wood because the gold finish bridges the contrast between white enamel and warm wood tone."
+  - question: "Which white centerpiece piece is most versatile across seasons and table occasions?"
+    answer: "The whitewash wood box is the strongest performer by this measure. It holds flowers, branches, dried stems, fruit, and candles without looking like it's working too hard — the same box that holds white tulips in April holds wheat stems in October. The bud vases are close behind for flexibility with fresh flowers. The Michael Aram orchid holders are more occasion-specific, best suited to formal white-and-gold tables rather than year-round casual use."
 ---
 
 White flowers at the center of a table don't require a florist or a large budget , they require the right vessel and a little intention. A well-chosen centerpiece holds the whole table together, and for a lot of readers browsing [Decor & Candles](/decor/), white is the starting point because it works with everything: cream linens, colored china, wood, marble, whatever the table happens to be.

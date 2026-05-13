@@ -35,6 +35,17 @@ products:
 tags: ["decor", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Do twisted taper candles burn differently than straight tapers?"
+    answer: "Yes, and it is worth understanding before you buy. The spiral form shifts the flame off the central axis of the candle as it burns down, which causes wax to pool unevenly on one side of the spiral before the wick can draw it up. This leads to more dripping, faster burn times per inch of candle, and occasional flame tilt on longer burns. For candles lit for an hour or two the difference is minor; for a four-to-five-hour dinner party, the uneven burn requires more attention than a straight taper would."
+  - question: "Twisted taper candles and candle holder compatibility — will they fit standard holders?"
+    answer: "Most twisted tapers use a standard seven-eighths-inch base diameter, which fits the majority of taper holders designed for regular candles. The complication is at the seating point — if the twist begins close to the base, inserting the candle into a tight socket can be awkward. Beeswax-blend tapers like the Root Candles Timberline Collenette are firmer than paraffin and may need a brief hand-warming of fifteen to twenty seconds before they seat fully in a snug holder."
+  - question: "Twisted taper assorted set vs. single color order — which gives better results at the table?"
+    answer: "A single-color order almost always produces a more intentional-looking table. An assorted set gives flexibility across multiple settings and seasons, but using it means editing down to the candles that suit the current occasion and storing the rest. If you have a specific color story in mind — burgundy for a harvest dinner, ivory for a formal winter table — ordering a single color from a manufacturer like Root Candles gives you full palette control and visual cohesion that an assorted set cannot match."
+  - question: "What candle holder works best with a twisted taper?"
+    answer: "Simple and architectural. The twist is already a visual event, and an ornate holder competes rather than complements. Plain brass column holders, minimal ceramic sticks, and clean metal designs give the candle room to read clearly from across the table. The Michael Aram White Orchid candlestick is an exception because the sculptural detail is confined to the base and the socket sits above it, giving the taper visual separation from the design."
+  - question: "How do I prevent twisted taper candles from dripping on a white tablecloth?"
+    answer: "Trim the wick to a quarter-inch before lighting to reduce the size of the flame and slow the melt rate. Extinguish and reposition candles at the midpoint of a long dinner to even out the burn. Keep candles away from drafts and air vents, which increase flame movement and uneven melting. Using a candle snuffer rather than blowing the candle out also reduces the wax spray that commonly causes spots on linens."
 ---
 
 Twisted taper candles sit at the intersection of sculptural object and functional light source, and that tension is exactly what makes them worth thinking about carefully before you buy. A well-chosen set on a dining table does something plain tapers cannot , it holds attention even before the wax is lit. For anyone building a more considered table, browsing the full range of [candles and décor](/decor/) is a useful first step before settling on a direction.

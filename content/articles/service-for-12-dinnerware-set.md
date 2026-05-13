@@ -35,6 +35,17 @@ products:
 tags: ["dinnerware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What does service for 12 actually include in a dinnerware set?"
+    answer: "Most sets describe service for 12 as twelve place settings, each containing a dinner plate, salad plate, and soup bowl — a minimum of 36 pieces. Some sets add a mug or cup per setting, bringing the count to 48. Always verify the per-setting piece count in the product description, because service for 12 on its own tells you the number of people covered, not the total pieces included."
+  - question: "Is Corelle dinnerware safe compared to ceramic — any lead or cadmium concerns?"
+    answer: "Corelle's Vitrelle glass is non-porous and manufactured without lead or cadmium as colorants — a real advantage over some glazed ceramics, particularly older or imported ceramics where glaze composition is less well documented. The non-porous surface also means no absorbed bacteria or staining over time. For buyers with specific concerns about glaze safety in ceramic dinnerware, Vitrelle glass is the clearest alternative available at this price band."
+  - question: "Lenox Opal Innocence vs Mikasa Trellis White — which is better if I use the dishwasher daily?"
+    answer: "The Mikasa Trellis White is the stronger choice for daily dishwasher households. The Lenox Opal Innocence's platinum band requires hand-washing — dishwasher cycles degrade metallic accents reliably over time regardless of cycle setting. The bone china plates and bowls in the Opal Innocence can handle gentle cycles, but hand-washing a full twelve-setting service after regular use is impractical for most households."
+  - question: "How do I replace broken pieces in a full twelve-setting service?"
+    answer: "Check whether the manufacturer offers open-stock replacement purchasing before you buy the original set. Lenox's Opal Innocence and Corelle's patterns both have strong track records for ongoing availability. Mikasa's availability varies by pattern — the Trellis White has been in production long enough to have good replacement coverage, but confirm current availability before committing. Buying all pieces from the same production run also reduces the risk of glaze color variation between sets."
+  - question: "Bone china vs Vitrelle glass for a service for 12 — which is more practical?"
+    answer: "Vitrelle glass, used by Corelle, is the more practical material at the 12-setting scale. It's non-porous, chip-resistant, noticeably lighter than stoneware or bone china, and fully dishwasher and microwave safe without exception. Bone china is more beautiful at a formal table but requires more careful handling, excludes metallic-trimmed pieces from the dishwasher, and chips more readily under careless loading. For households that use their dishes daily, Vitrelle is the more forgiving investment."
 ---
 
 Finding a service for 12 dinnerware set means buying in multiples , and most sets stop at four or eight, which means you're either buying multiple sets or settling for less table coverage than you actually need. The options that do reach twelve or accommodate that count tend to vary widely in material, durability, and how they hold up once the novelty wears off. I've spent enough time around [dinnerware](/dinnerware/) to know that the wrong choice reveals itself fast, usually at the worst possible moment.

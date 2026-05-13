@@ -35,6 +35,17 @@ products:
 tags: ["decor", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Can a glass bowl work as a centerpiece without flowers?"
+    answer: "A glass bowl functions as a container, not a vase, and the range of what works inside one is wider than most people use. Loose citrus, ornaments, smooth river stones, pillar candles set in sand, floating tea lights, or a simple collection of seasonal produce all read as intentional centerpieces. The bowl's transparency means the contents carry the visual interest — flowers are just one option among many."
+  - question: "Libbey glass bowl set vs Creative Co-Op whitewash box — which is the better primary centerpiece?"
+    answer: "The core distinction is configuration style. The Libbey set works best when you want a single focal vessel that holds a filler — it's centered, contained, and low-profile. The Creative Co-Op box works best when you want to arrange multiple objects together in a defined horizontal space — candles, a small vase, botanicals, and loose objects all framed together. If your table style tends toward single composed arrangements, the bowl wins; if you like layering several elements, the box gives you the frame."
+  - question: "How tall should a glass bowl centerpiece be for a seated dinner table?"
+    answer: "Keep the arrangement at or below seated eye level — roughly twelve inches tall or under — so guests can see across the table. A centerpiece that sits at eye level splits the table in half visually and interrupts conversation. Wide, shallow bowls are the most practical choice for seated dinners; taller elements belong at the ends of a long table rather than the center."
+  - question: "Is the Nambe Braid Candlestick worth buying as a single piece, or do you need a pair?"
+    answer: "One Nambe Braid candlestick is a complete, usable piece — it doesn't look incomplete on its own. Pairing works well when you want to frame a central element like a bowl, but a single candlestick at varying height alongside two or three pillar candles achieves a similar layered effect at lower investment. If you buy two, order them together from the same seller to reduce the chance of finish variation between production batches."
+  - question: "How do I prevent water rings on the whitewash wood centerpiece box?"
+    answer: "The whitewash surface is porous and will show condensation rings if a wet vase or water-holding vessel sits directly on it. A simple liner handles this completely — a small rubber mat, a thin tile, a folded piece of felt, or even a ceramic coaster under the vase. You don't need to avoid fresh flowers; you just need a barrier between the wet container and the wood surface."
 ---
 
 A glass bowl centerpiece can anchor a dining table, sideboard, or coffee table without demanding a florist's skill or a decorator's budget. The trick is knowing which vessel, box, or candlestick does the real structural work , and which ones just look convincing in product photos. I've pulled from our wider [Decor & Candles](/decor/) resources to narrow this down to three pieces that each earn their place on the table for different reasons.

@@ -35,6 +35,17 @@ products:
 tags: ["glassware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Champagne flute vs. champagne wine glass — what's the actual difference?"
+    answer: "A standard champagne flute is tall and narrow, preserving carbonation and producing a dramatic bubble stream. A champagne wine glass has a wider bowl that tapers at the rim, letting aroma develop without releasing carbonation too quickly. The article notes that champagne experts increasingly prefer the wider format for serious sparkling wine, while the narrow flute still delivers for celebratory occasions where visual effect matters most."
+  - question: "Are crystal champagne glasses actually safe in the dishwasher?"
+    answer: "It depends on the specific glass. The Riedel Veloce handles regular dishwasher cycles reliably. The Zwiesel Glas Enoteca is technically rated dishwasher safe, but its tall stem is vulnerable to lateral stress inside a running machine, so hand-washing is the safer routine for that investment. The key durability differentiator for dishwasher use is Tritan crystal, which resists the clouding that eventually affects standard lead-free crystal."
+  - question: "Is amber glassware suitable for year-round use or just fall?"
+    answer: "The article is direct on this: the Heritage Hill amber tumblers read autumn-specific. Their warm tone pairs naturally with harvest palettes, linen, and wood, but feels less natural against the lighter, cooler colors of spring and summer table settings. Hosts whose overall aesthetic leans warm and earthy year-round can use them across seasons, but for most households they work best as a seasonal complement rather than an all-purpose glass."
+  - question: "How many champagne glasses do I need for a dinner party of eight?"
+    answer: "The article recommends one glass per guest plus two or three extras for breakage or late arrivals — at least ten glasses for a table of eight. Since both the Riedel Veloce and Zwiesel Enoteca come in sets of two, covering eight guests means four sets of either. If you entertain regularly at that scale, buying a fifth set as reserve is worth it."
+  - question: "Riedel Veloce or Zwiesel Enoteca — which is better for everyday use?"
+    answer: "The Riedel Veloce is the more practical everyday choice. It is mid-range in price, genuinely dishwasher safe, and its shorter stem is less vulnerable to breakage during regular handling. The Zwiesel Enoteca is a premium glass with a long, fine stem that demands careful treatment and is best reserved for occasions where you are actively managing how the glasses are handled."
 ---
 
 Polka dot glassware sits in an interesting corner of the [Glassware & Crystal](/glassware/) category , decorative enough to make a statement, functional enough that the wrong pick feels like a wasted seat at the table. The three glasses covered here span budget through premium, and each one earns its place for a different kind of host.

@@ -35,6 +35,17 @@ products:
 tags: ["glassware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is the Anchor Hocking glass carafe suitable for serving wine?"
+    answer: "The carafe's wide mouth is designed for still water and juice service — it fills easily and pours cleanly in that context. For wine, a narrower opening better concentrates aroma and controls the pour. The Anchor Hocking piece does its job well for what it's built for; asking it to substitute for a wine decanter produces an inferior result for the wine and the table."
+  - question: "Estelle hand-blown wine glasses vs machine-pressed colored glass — what's the difference worth paying for?"
+    answer: "Hand-blown glass like the Estelle set carries slight variations in wall thickness and color depth that machine pressing eliminates entirely. Those variations scatter light differently and give each piece a visual warmth that uniform glass lacks. The trade-off is minor inconsistency between pieces in the same set, visible side by side under direct light. If absolute uniformity matters to you, pressed glass delivers it; if presence and craft matter more, hand-blown is the stronger choice."
+  - question: "Can the Zwiesel Enoteca champagne flutes actually go in the dishwasher safely?"
+    answer: "Yes, with one important caveat. Tritan crystal resists the cloudiness that affects standard lead-free crystal over repeated machine washes, so the material itself holds up well. The risk is mechanical, not chemical: the tall stem loaded upright in a rack bears stress through the wash and heat-dry cycle. Lay the glasses on the top rack rather than standing them upright, or hand-wash when you want to be certain."
+  - question: "Do colored wine glasses affect how wine tastes or looks in the glass?"
+    answer: "They affect how the wine looks, not how it tastes. Deep color in the glass — especially green or amber tones — makes it harder to assess the wine's color and clarity, which matters more to someone evaluating the wine than to someone drinking it at dinner. For everyday entertaining, the visual trade-off is a reasonable one. If you're serving wine to guests who enjoy assessing what's in the glass, offering a clear glass alongside the colored set is a considerate option."
+  - question: "How do you budget glassware across a full table without creating a mismatched look?"
+    answer: "A budget-tier carafe holds its own alongside mid-range wine glasses and premium flutes because it plays a service role rather than a decorative one — the visual hierarchy holds. The mismatch that guests register is a premium champagne flute beside a cheap wine glass, not a simple carafe beside a good wine glass. Think of the full table as a system and spend where the glass is on display and held in hand."
 ---
 
 Glassware for a well-set table rewards the same consideration you'd give any other part of your hosting kit. The anchor hocking tartan glassware search points toward a specific aesthetic , the layered, richly colored glass that makes a table feel curated rather than assembled. Exploring the full range of [Glassware & Crystal](/glassware/) options before you settle on a single piece is always worth your time.

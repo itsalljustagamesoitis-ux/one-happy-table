@@ -56,6 +56,17 @@ products:
 tags: ["dinnerware", "roundup"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is porcelain actually non-toxic, or should I be concerned about the glaze?"
+    answer: "Porcelain is one of the safer ceramic materials for food contact because it fires at very high temperatures, producing a vitrified surface that is dense and non-porous. The risk with any ceramic is less about the base material and more about glaze chemistry — specifically whether it contains lead or cadmium as colorants. Porcelain sets from established manufacturers selling in the U.S. market must meet FDA leaching standards, but plain or minimally decorated porcelain carries the lowest overall risk profile."
+  - question: "How is Corelle Vitrelle different from ceramic for safety?"
+    answer: "Vitrelle is a triple-layer glass composite with no glaze in the traditional ceramic sense. That distinction matters because glaze degradation over time — particularly crazing, the fine network of surface cracks — is the main pathway through which lead and cadmium can migrate from a ceramic surface to food. Glass eliminates that pathway entirely. The trade-off is that Vitrelle shatters on impact rather than chipping at corners, so chip-resistant does not mean indestructible."
+  - question: "Which dinnerware set is best for a household with young children?"
+    answer: "The Corelle Impressions Vitrelle glass set is the clearest recommendation for households with children. The construction is non-porous and chip-resistant, the set is fully dishwasher-safe, and the material safety profile is straightforward with no glaze concerns. Earthenware sets like the Portmeirion are the least appropriate choice in this context — they chip more readily and the decorated illustrated surfaces make damage more visible."
+  - question: "Is earthenware safe to use daily, or should I avoid it?"
+    answer: "Earthenware is safe when the glaze is intact and the piece shows no crazing. The concern is that earthenware fires at lower temperatures than stoneware or porcelain, producing a more porous body that relies more heavily on the glaze for food protection. If an earthenware piece develops surface cracks in the glaze, retire it. For daily use by buyers with specific non-toxic concerns, stoneware or porcelain is a more durable long-term choice."
+  - question: "Can I use dinnerware with gold or platinum banding in the microwave?"
+    answer: "No. Metallic banding, including platinum trim, is not microwave-safe — the metal reacts to microwave energy and can cause arcing. Most metallic-banded sets are also hand-wash only, since dishwasher detergent can degrade the finish over time. If microwave and dishwasher use are both daily priorities, choose a set without metallic decoration entirely."
 ---
 
 Choosing dinnerware that looks beautiful on the table is easy. Choosing dinnerware that's genuinely free of lead and cadmium , materials that have shown up in glazes and pigments for decades , takes a little more attention. The good news is that the best options in this category are also, not coincidentally, some of the most beautiful.

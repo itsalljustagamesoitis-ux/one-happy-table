@@ -35,6 +35,17 @@ products:
 tags: ["glassware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Vintage etched cocktail glasses — are antique ones safe to drink from regularly?"
+    answer: "Genuine antique etched glass — particularly pieces made before the 1970s — may contain lead, especially if labeled as lead crystal. Sipping occasionally from a well-rinsed vintage glass carries minimal risk, but regular daily use or storing acidic liquids for extended periods is not advisable. If you are buying to use rather than display, modern lead-free reproductions are the safer choice for everyday service at a home bar."
+  - question: "Etched glass vs. cut crystal — what is the actual visual difference?"
+    answer: "Etching is a surface treatment applied by sandblasting, acid, or wheel engraving, producing a matte or frosted effect on the glass surface. Cut crystal removes material physically with a cutting wheel, creating crisp edges, deep relief, and dimensional sparkle as the glass moves. On inferior glass, etched patterns read flat and inert. On high-clarity crystal, the same pattern catches and scatters light in a way that changes with the angle — which is the visual quality that makes etched designs genuinely compelling."
+  - question: "Luigi Bormioli Optica for a vintage-look bar — does modern crystal replicate the etched aesthetic?"
+    answer: "The Optica line does not carry etched surface decoration, but its titanium-reinforced crystal produces the kind of optical clarity that makes any pattern or cocktail color read with depth and precision rather than sitting flat. For buyers drawn to the vintage etched aesthetic specifically for the visual quality of the glass rather than surface decoration, crystal clarity is the underlying quality that matters — and the Optica delivers that at a practical price point for everyday use."
+  - question: "How many cocktail glasses do I need if I am building a home bar from scratch?"
+    answer: "A set of six covers a dinner party for six with no backup; a set of twelve absorbs breakage over time and handles larger gatherings without scrambling for mismatched glass. Think about your typical guest count rather than your maximum capacity, and add a buffer of two or three for breakage. For vintage or collector glass, buyers often build sets piece by piece — a legitimate strategy for genuine antiques but less practical for everyday use where visual consistency across a full table matters."
+  - question: "Riedel Bar highball glasses — is a set of two enough, or do I need to buy multiple sets?"
+    answer: "A set of two is a starting point for a household that primarily serves two and treats these as the occasion glasses reserved for specific serves. For larger households or anyone who regularly entertains four or more, the cost of building out a full bar through repeated pair purchases adds up quickly and requires a deliberate decision about whether the quality justifies it. If it does, buy two sets at once rather than incrementally — visual consistency benefits from purchasing the same production run."
 ---
 
 Vintage etched cocktail glasses occupy a strange and appealing corner of the [Glassware & Crystal](/glassware/) market , specific enough to attract serious collectors, functional enough to use at an actual dinner party. The challenge is knowing which modern options honor that aesthetic without the fragility or scarcity of genuine antiques.

@@ -35,6 +35,17 @@ products:
 tags: ["glassware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Are gold-rimmed champagne flutes dishwasher safe?"
+    answer: "It depends entirely on how the gold is applied. Gold fired onto the glass during production is generally dishwasher-safe. Gold applied as a surface treatment will fade with repeated machine washing. Check the manufacturer's care instructions before assuming either way — if the listing does not specify, treat the gold rim as hand-wash only to be safe."
+  - question: "Crystal vs glass champagne flutes — what is the actual difference?"
+    answer: "Lead-free crystal contains mineral additives that increase clarity and allow for thinner walls than standard glass, producing better light refraction, a finer rim, and a cleaner ring when tapped. Machine-pressed glass is more durable and typically less expensive. For formal entertaining or gifting, crystal reads as more refined; for regular use where durability matters, quality glass is the more practical choice."
+  - question: "Is the Waterford Lismore worth buying for everyday home use?"
+    answer: "No, not unless hand-washing glassware is already part of your routine. The Waterford Lismore is optimized for occasions and gifting rather than regular use — the hand-wash requirement and premium investment are harder to justify against a set that performs reliably with less care. If you want a flute to reach for monthly without anxiety about breakage or care, the Luigi Bormioli Atelier set is the better fit for everyday hosting."
+  - question: "How many champagne flutes do I need for a dinner party?"
+    answer: "For a seated dinner party of six, one set of six is the minimum, with one or two extras for breakage or unexpected guests worth considering. The Luigi Bormioli Atelier set of six covers a standard dinner party in a single purchase. For larger gatherings or events where breakage is likely, eight is a more realistic starting point."
+  - question: "What should I look for in a budget champagne flute set?"
+    answer: "Prioritize rim durability and set size over optical clarity. The Libbey Embassy set of eight is a strong example: the Safedge rim guarantee addresses the most common failure point in budget glassware, and the eight-pack configuration is practical for larger gatherings. At the budget tier, machine-pressed glass will have visible seam lines — accept that trade-off and focus on whether the set size and durability fit your actual use case."
 ---
 
 Champagne flutes with a gold rim sit at the intersection of occasion and object , they signal that something worth celebrating is happening. Whether you're setting a New Year's Eve table for twelve or buying a pair as a wedding gift, the glass you choose shapes the moment. I've spent years sourcing glassware for tablescapes in Charleston, and the options in this category range from heirloom crystal to surprisingly sturdy everyday sets.

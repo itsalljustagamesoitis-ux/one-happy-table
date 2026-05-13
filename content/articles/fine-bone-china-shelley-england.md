@@ -35,6 +35,17 @@ products:
 tags: ["dinnerware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What makes bone china translucent and how does it affect a dinner table?"
+    answer: "Bone china contains 30 to 45 percent calcined bone ash, which is what produces the material's characteristic translucency. Hold a piece near natural light and you'll see a warm glow pass through the walls. At a candlelit dinner table, that slight luminosity sets bone china apart from opaque stoneware or earthenware and makes the table feel more considered."
+  - question: "Is Wedgwood bone china comparable to vintage Shelley England pieces?"
+    answer: "Contemporary Wedgwood uses the same basic formula as classic English bone china — calcined bone ash, feldspar, and kaolin — so the material quality is genuinely comparable. Vintage Shelley pieces carry collector value for their specific patterns and provenance, which modern production doesn't replicate. If you want formal-entertaining-quality bone china rather than a collectible, current Wedgwood is a legitimate choice."
+  - question: "Can bone china go in the dishwasher without chipping?"
+    answer: "Many modern bone china sets carry dishwasher-safe ratings that are legitimate, but the conditions matter. Load pieces with space between them on the top rack, avoid the heated dry cycle, and never load roughly. The primary failure mode is rim chipping from pieces knocking against each other, not from the water itself. Some hosts hand-wash bone china even when it's rated dishwasher-safe, simply to control those variables."
+  - question: "Do wicker charger plates look right under fine bone china?"
+    answer: "Natural wicker and smooth bone china work well together precisely because of the contrast — the organic texture of the wicker makes the luminosity of the bone china more visible. The combination reads best at harvest, fall, and outdoor table settings. Against a black-tie table with starched white linens, wicker reads casual and out of register, so know your occasion before committing."
+  - question: "What is the difference between bone china and fine china for a formal table?"
+    answer: "Bone china contains calcined bone ash that gives it a translucent, warm ivory quality; fine china is fired at higher temperatures and is denser and more chip-resistant but lacks the same luminosity. For a candlelit dinner table where the glow of the material is part of the atmosphere, bone china's translucency is a genuine aesthetic advantage. For durability under daily handling, fine china has a practical edge."
 ---
 
 Fine bone china with the Shelley England name has become one of those search terms that pulls in two very different buyers , collectors hunting vintage pieces, and hosts who simply want beautiful tableware that carries some of that same formal elegance. If you've landed here, you're probably in the second camp: someone who wants a table that feels considered, not just functional. The right [dinnerware](/dinnerware/) choice can do exactly that, and bone china is where that conversation usually starts.

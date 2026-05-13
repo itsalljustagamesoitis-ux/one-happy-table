@@ -35,6 +35,17 @@ products:
 tags: ["decor", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What flowers work best in a white centerpiece arrangement?"
+    answer: "White flowers with interesting texture hold up better than flat, undifferentiated blooms. Ranunculus, anemones with dark centers, garden roses, sweet peas, and white peonies all create visual depth in a monochromatic arrangement. Greenery — eucalyptus, dusty miller, fern — adds contrast without introducing color. Avoid white flowers that brown quickly at the edges, like gardenias, unless you are cutting and replacing regularly."
+  - question: "How wide should a centerpiece be for a standard rectangular dining table?"
+    answer: "Roughly twelve to eighteen inches of horizontal spread is a useful target for a standard rectangular table seating six to eight. The centerpiece needs to occupy enough visual territory that guests register it without having to lean around it to hold a conversation. A single bud vase on a six-person table disappears — scale to the table, not to the vase."
+  - question: "Can these centerpiece pieces be used without fresh flowers?"
+    answer: "All three work without fresh flowers. The whitewash wood box suits dried flowers, cotton stems, or preserved greenery and can hold pillar candles as well. The ceramic bud vases work with dried lavender, pampas, or single dried stems. The Michael Aram candle holders function as a complete centerpiece with only tapers lit — no floral component required."
+  - question: "Is the whitewash wood box practical for outdoor entertaining?"
+    answer: "The wood box is best kept indoors or on a covered porch. Direct sun will fade the whitewash finish over time, and rain or heavy humidity can warp the wood even with a liner inside. If you are setting up for an outdoor dinner, use it on a covered table and bring it inside afterward. It is a seasonal decoration designed to move around the interior, not a piece built for outdoor durability."
+  - question: "Whitewash wood box vs. ceramic bud vases — which is more flexible across different table settings?"
+    answer: "The ceramic bud vases are more broadly flexible because white ceramic coordinates with every china and linen combination without imposing a material story. The whitewash wood box signals a relaxed, seasonal aesthetic that pairs beautifully with natural linens and organic tables but reads less naturally at a formal dinner. If your hosting spans both registers, the bud vase set is the better starting point and the box is the better seasonal addition."
 ---
 
 White flower arrangements have a way of making a table feel finished , not fussy, but intentional. Whether you're setting for a dinner party or just want something on the table that doesn't look like an afterthought, the right centerpiece makes the difference. My work styling tables in Charleston has shown me that white flowers succeed or fail based almost entirely on what holds them, which is why I've put as much thought into vessels and hardware as into the blooms themselves. For a broader sense of what works with white arrangements, the [Decor & Candles](/decor/) hub is a good place to start.

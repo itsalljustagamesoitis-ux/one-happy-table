@@ -35,6 +35,17 @@ products:
 tags: ["decor", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How many bud vases do I need for a rectangular dining table?"
+    answer: "Table length determines the answer more than preference does. A 60-inch rectangular table needs at least five to six vases clustered together to avoid looking sparse; a 48-inch round table can work with three to four. For tables over 60 inches, consider two separate clusters rather than one concentrated group so the arrangement fills the full run without blocking sightlines across the middle."
+  - question: "What flowers fit in narrow-necked bud vases?"
+    answer: "Fine-stemmed varieties are the right fit: tulips, ranunculus, sweet peas, anemones, cosmos, and single stems of eucalyptus. Wider-stemmed flowers like roses, gerbera daisies, and sunflowers won't pass through a standard narrow-neck opening comfortably. If your nearest flower source is a grocery store stocked primarily with wider stems, plan for that mismatch before buying a narrow-neck set."
+  - question: "Is the white ceramic set or the mango wood set more durable for weekly use?"
+    answer: "The white ceramic set handles daily use more easily. It is dishwasher-safe, the neutral finish does not show wear the way a natural wood finish does, and six pieces give you redundancy if one chips. The mango wood set requires hand-washing and glass insert maintenance after every use, which is manageable but is genuinely more effort than ceramic for someone refreshing flowers regularly."
+  - question: "Does a wood bud vase need a special insert to hold water?"
+    answer: "Yes. A wood vase with a natural or oil finish will absorb water and eventually warp or split unless it comes with a removable glass liner. The Creative Co-Op mango wood set includes glass tube inserts for this reason. They work fine but do add a step to setup and cleanup compared to ceramic or glass vases that hold water directly."
+  - question: "Is the Simon Pearce Woodstock Vase worth buying for someone who entertains often?"
+    answer: "For a special occasion table or a permanent display where the vase functions as a design object in its own right, yes. The mouth-blown construction gives it an organic quality that mass-produced vases cannot replicate, and the weighted base makes it stable with large stem arrangements. For someone refreshing flowers weekly in a busy household, the hand-wash requirement and premium price are harder to justify against a ceramic set that performs reliably with less care."
 ---
 
 Bud vases work because they don't ask much of you. A few stems, a clean surface, and the right vessel can make a dinner table feel considered without looking arranged. If you've been browsing [Decor & Candles](/decor/) for ideas and keep circling back to the clustered-vase look, you're not overthinking it , that approach genuinely outperforms a single large arrangement for most tables.

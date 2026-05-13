@@ -35,6 +35,17 @@ products:
 tags: ["dinnerware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Bone china vs stoneware for an 8-setting service — which is more durable for everyday use?"
+    answer: "Bone china is stronger per millimetre than stoneware, which allows it to be made thinner without sacrificing durability. However, stoneware's greater mass and fired density make it more resistant to chipping from stacking and rough handling. For everyday use where plates are loaded into a dishwasher and stacked regularly, stoneware like the Costa Nova White tends to perform better under friction. Bone china rewards more careful handling and repays that care with a lighter, more refined feel."
+  - question: "How do I know if a dinnerware pattern will stay in production long enough to replace broken pieces?"
+    answer: "Look for patterns that have already been in continuous production for several decades. The Churchill Willow Blue pattern has been made since the 1790s — that track record is the most reliable predictor of future availability. For newer patterns, check whether the manufacturer sells individual pieces separately, which signals an intent to support the line long-term. Patterns marketed as limited edition or tied to seasonal collections are the highest-risk choice for a long-term 8-setting service."
+  - question: "4-piece vs 5-piece place setting — what's the real difference for a dinner table?"
+    answer: "A 4-piece place setting typically covers dinner plate, salad plate, bowl, and mug. A 5-piece adds a bread plate or replaces the mug with a cup-and-saucer. For 8 settings, that difference is 8 additional pieces in total. Think about your actual service style — if you rarely serve bread courses separately or don't use mugs at the table, paying for a 5-piece configuration adds cost without adding function."
+  - question: "Why is the Royal Worcester Evesham Gold not dishwasher safe?"
+    answer: "The gold lustre rim is applied as a metallic overglaze and fired at a lower temperature than the underlying bone china body. Dishwasher detergents — particularly those with high alkaline content — degrade metallic overglazes progressively, stripping the lustre and eventually leaving a faded, uneven finish. This is true of virtually all gold and platinum rim decoration regardless of manufacturer. If dishwasher compatibility is a firm requirement, metallic-rim sets are the wrong category."
+  - question: "Matte vs gloss finish for everyday dinnerware — which holds up better?"
+    answer: "Matte finishes photograph better and tend to read as more contemporary or artisanal. Gloss finishes are easier to wipe clean and show mineral deposits less visibly. Over time, matte surfaces — including the Costa Nova White — can develop a slightly dulled appearance in high-traffic areas where cutlery contact is frequent. This doesn't affect the integrity of the piece, but it's worth knowing if you prefer a finish that looks identical after five years of use to how it looked on day one."
 ---
 
 Putting together an 8 setting dinnerware service , enough for a full table without hunting down mismatched extras , is one of those purchases that looks straightforward until you start comparing. Materials, durability, pattern longevity, what survives the dishwasher and what doesn't: the variables add up fast. I've spent a long time around [dinnerware](/dinnerware/) sets at every price point, and the ones worth recommending share a consistent quality that holds up past the first dinner party.

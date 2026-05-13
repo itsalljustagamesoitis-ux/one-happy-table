@@ -35,6 +35,17 @@ products:
 tags: ["dinnerware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is bone china actually stronger than regular porcelain?"
+    answer: "Bone china is stronger and more chip-resistant than standard earthenware, but sits in a similar durability range to fine porcelain. The bone ash content makes it less brittle than it looks, which is why modern bone china can be dishwasher-safe when older generations could not. The primary vulnerability in both materials is rim chipping from impact, not structural cracking from normal use."
+  - question: "Bone china vs stoneware for everyday use — which one holds up better?"
+    answer: "For genuine daily use, stoneware is the more practical choice. It is fully dishwasher and microwave safe without the careful loading that bone china requires, and stoneware's greater density means it tolerates everyday bumps more forgivingly. Bone china earns its place when the occasion is the point — a dinner party or holiday table where its luminosity at candlelight is noticed and appreciated."
+  - question: "Does the warm ivory tone of bone china look yellow under artificial lighting?"
+    answer: "Under warm incandescent or candlelight, bone china's ivory tone deepens and reads as warm and luminous — that's the look the material is designed to produce. Under cool LED or fluorescent lighting, the cream tone can read as noticeably off-white compared to stark white linens or porcelain. If your dining space runs primarily on cool-temperature lighting, view a single piece in that light before committing to a full service."
+  - question: "Can you buy a single bone china place setting to test before committing to a full set?"
+    answer: "Yes, and there is a strong case for doing exactly that. With bone china especially, weight, rim feel, and color temperature are qualities that photographs don't communicate reliably. A single five-piece place setting tells you how the pieces feel in your hand and how the color reads in your actual lighting. If the answer is yes, add to the collection; if not, a single place setting is a much smaller cost to absorb than a full service for eight."
+  - question: "What should I know about the Wedgwood Vera Wang Lace teacup before buying?"
+    answer: "The Vera Wang Lace teacup is a formal afternoon tea piece — not an everyday cup. The platinum trim is non-negotiable hand-wash only; dishwasher detergent will degrade the metallic finish permanently. The saucer is wider than standard, which gives it a secondary use as a small dessert plate for petit fours. If your household relies entirely on a dishwasher, reserve it for special occasions rather than regular rotation."
 ---
 
 Fine bone china sits in a specific gap in the dinnerware world , more refined than everyday stoneware, less forbidding than full formal porcelain. If you're shopping for a set that can carry a candlelit dinner without looking out of place at a relaxed Sunday brunch, you're in the right category. The options across [Dinnerware & China](/dinnerware/) range from budget-conscious reactive stoneware to platinum-trimmed pieces designed for afternoon tea, and the differences between them matter more than brand names suggest.

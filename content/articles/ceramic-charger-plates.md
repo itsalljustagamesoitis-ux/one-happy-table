@@ -35,6 +35,17 @@ products:
 tags: ["dinnerware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Godinger silver charger plates vs Juliska stoneware — which is right for a formal holiday table?"
+    answer: "The Godinger set is a budget-friendly, lighter-weight option with a silver-tone finish that photographs well and anchors a formal table without significant investment. The Juliska Berry and Thread is handcrafted stoneware with an artisan motif — it is a substantially higher investment but brings individual character to each place setting that a metallic finish does not replicate. The choice comes down to how much the charger itself needs to be a statement versus a frame."
+  - question: "Are ceramic charger plates safe to leave on the table through an entire dinner?"
+    answer: "Stoneware chargers like the Juliska Berry and Thread are stable and heat-tolerant enough to stay on the table through multiple courses without issue. Metallic-finish chargers are better removed earlier — extended contact with hot plates and moisture increases the risk of finish degradation. For a long dinner with multiple plate changes, stoneware holds up more gracefully than a metal-finish alternative."
+  - question: "Do charger plates need to match my china pattern exactly?"
+    answer: "They do not, and for most hosts they should not. A charger that exactly matches your china pattern can make the table feel monotonous. The more effective pairing is a charger that shares a finish element — a platinum rim with platinum-banded china, or a white stoneware charger with white dinner plates — without duplicating the full pattern. The Lenox Opal Innocence charger pairs naturally with its matching set but also reads well alongside other formal white patterns."
+  - question: "Can I mix charger plate styles at the same table?"
+    answer: "Intentional mixing works when there is a unifying element — color, material, or rim width. Mixing a silver metallic charger with a whitewash stoneware at the same table creates too much contrast to read as deliberate. Mixing two plates from the same material family — two white stoneware chargers with different rim profiles — can work on a casual table. For formal settings, consistency across all place settings reads as more composed."
+  - question: "How do I care for charger plates with metallic or platinum-banded rims?"
+    answer: "Hand-wash with mild dish soap and dry immediately — do not let metallic-finish or platinum-banded chargers air-dry, as water sitting on the rim accelerates tarnish and finish wear. The Lenox Opal Innocence platinum band will degrade visibly over time in the dishwasher even on a gentle cycle. Store with soft dividers between plates to prevent surface contact. For chargers used only a few times a year, this maintenance level is minimal in practice."
 ---
 
 Charger plates do more work than most people give them credit for. They anchor the place setting, signal the formality level of the table, and frame every plate that lands on top of them , and [dinnerware](/dinnerware/) choices rarely matter more than when guests are already seated. The three options here cover the full range from budget-friendly to handcrafted heirloom, and each one earns its place for a different kind of host.

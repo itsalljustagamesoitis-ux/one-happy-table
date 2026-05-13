@@ -35,6 +35,17 @@ products:
 tags: ["dinnerware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is fine bone china durable enough for everyday use as a mug?"
+    answer: "Fine bone china is durable enough for regular use, but it rewards more care than stoneware. The rim is the most vulnerable point — bone china chips at edges more readily than denser ceramic materials. For a household that treats mugs casually or loads dishwashers heavily, stoneware is a more practical daily choice. For a household willing to handle pieces with a little care, bone china holds up well over years of regular use."
+  - question: "Bone china vs. fine china — what is the actual difference?"
+    answer: "Bone china contains calcined bone ash — typically 30 to 45 percent of the body composition — which gives it characteristic translucency, lightness, and a warm cream tone. Fine china, also called hard-paste porcelain, uses kaolin and feldspar without bone ash, resulting in a whiter, denser, less translucent body. Bone china is generally considered the more refined material for formal tableware, though both are legitimate choices depending on the aesthetic."
+  - question: "Can I use the Wedgwood Vera Wang Lace teacup as a regular coffee mug?"
+    answer: "Not practically, no. The Wedgwood Vera Wang Lace Bone China Teacup and Saucer is hand-wash only due to its platinum trim, which limits its viability as a daily-use piece. Its capacity is also calibrated for tea service rather than a full coffee pour. It is designed for formal or occasion use — a deliberately set table rather than a casual morning routine."
+  - question: "Does bone china keep drinks warm longer than stoneware?"
+    answer: "Stoneware's greater density and wall thickness typically retain heat longer than bone china. Bone china's thinner walls transfer heat quickly — the mug warms to the touch almost immediately when filled, but loses heat faster than a thick-walled ceramic. For most tea and coffee drinkers who consume a cup within fifteen minutes of pouring, this distinction is negligible. For slow-sipping households, stoneware or an insulated mug is the better choice."
+  - question: "Mikasa Cameo White vs. Royal Doulton Maze Mug — which is better for someone building a first bone china set?"
+    answer: "They serve different needs at different price levels. The Mikasa Cameo White 5-Piece Bone China Place Setting is the stronger choice for building a complete table — it gives you a full place setting rather than a single mug, and the coordinated set is more useful for hosting. The Royal Doulton Gordon Ramsay Maze White Mug makes sense if you already own Maze dinnerware and want matching mugs, or if you want to try fine bone china at a lower initial commitment."
 ---
 
 Fine bone china mugs occupy a narrow but meaningful space in a well-set table , light enough to feel almost delicate in hand, refined enough to signal that the occasion mattered. Whether you're building a tea service from scratch or replacing the mugs that finally chipped past saving, choosing bone china over stoneware is a considered decision. I've spent enough time setting tables and testing dinnerware to say that not all bone china is created equal, and the differences are worth understanding before you buy.

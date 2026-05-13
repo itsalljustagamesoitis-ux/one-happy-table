@@ -35,6 +35,17 @@ products:
 tags: ["glassware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Are colored glass champagne flutes dishwasher safe?"
+    answer: "It depends on the material. Hand-blown colored glass like the Estelle cobalt flutes should be hand-washed — dishwasher cycles create thermal stress that dulls color and risks cracking thin walls over time. Zwiesel Glas Tritan crystal is a genuine exception and is dishwasher safe. The Govino polymer flutes can be washed on the top rack without concern. When in doubt, hand-wash and dry immediately to preserve the finish."
+  - question: "Estelle colored flutes vs. Zwiesel Glas Enoteca — which is right for a formal dinner?"
+    answer: "The Estelle is a decorative statement — the hand-blown cobalt catches and refracts candlelight in a way that makes the glass itself part of the table composition. The Enoteca is a precision instrument made from Tritan crystal that resists the cloudiness that afflicts standard lead-free crystal over repeated dishwasher cycles. For a buyer whose table already has color and needs glassware that recedes elegantly, or someone who prioritizes the bubble column and the ring of real crystal, the Enoteca is the right pick."
+  - question: "Are polymer champagne flutes an acceptable substitute for glass at a formal seated dinner?"
+    answer: "For genuinely formal occasions — seated dinners, wedding receptions with formal place settings — polymer flutes are a visible compromise. The slight flex in the walls and the absence of a crystal ring are perceptible to guests paying attention. At an outdoor garden party, a boat gathering, or any venue where safety matters more than formality, the Govino flutes are the correct choice without apology."
+  - question: "How many colored flutes do I need to buy to seat eight guests?"
+    answer: "Eight, but the buying math varies by product. The Estelle flutes sell in pairs, so a table of eight requires four separate purchases. The Govino set of four requires two purchases to reach eight, which is more economical. Buy from the same production batch when possible — colored glassware can vary in tint between runs, and a consistent color depth across the table requires consistent sourcing."
+  - question: "Can colored champagne flutes be used for wine or cocktails instead of sparkling wine?"
+    answer: "Yes, with no technical limitation. The flute shape preserves carbonation but there is no reason you cannot pour still wine or a sparkling cocktail into a colored flute. The narrow bowl concentrates aroma less effectively than a wide-bowled wine glass, so a deeply aromatic red or white is better served in its intended glassware. For prosecco, cava, or a festive cocktail, colored flutes work beautifully and the visual effect is exactly what they are designed for."
 ---
 
 Green glass champagne flutes have become one of the most requested items I hear about from readers planning a dinner party or holiday table. Colored glassware has shifted from novelty to a genuine design statement, and the flute format , with its narrow bowl and long stem , makes color especially striking in candlelight. A link to the broader [Glassware & Crystal](/glassware/) category is worth bookmarking before you commit, because the right colored flute depends heavily on your existing tablescape.

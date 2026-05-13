@@ -35,6 +35,17 @@ products:
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Are brass napkin rings appropriate for a formal dinner party?"
+    answer: "Brass sits in a middle formality register — appropriate for dinner parties and holiday tables, but below the level of crystal or silver for truly formal occasions. A hammered finish reads more relaxed than a polished one. For a formal table with fine china and crystal glassware, the Lismore Crystal Napkin Rings will match the register better than brass. Brass works best where warmth and character are the goal rather than strict formality."
+  - question: "How do I keep brass napkin rings from tarnishing?"
+    answer: "Brass tarnishes through oxidation, and humidity accelerates the process. Store rings in a dry location, ideally in a cloth pouch or lined box where air circulation is limited. Before a formal setting, a quick pass with brass polish and a soft cloth restores brightness. For casual settings, the developing patina can actually add character — it is a matter of personal preference whether you maintain the original finish or let it age."
+  - question: "What is the difference between the crystal and pearl rings in terms of formality?"
+    answer: "Both read as formal, but they convey different aesthetic registers. The Lismore Crystal Napkin Rings are high-glam — light-catching, statement-making, best suited to tablescapes where sparkle is part of the design. The Pearl Beaded Napkin Rings are elegant but quieter — they add a dressed quality without demanding attention. Crystal suits black-tie dinner tables and holiday celebrations where drama is welcome; pearl suits weddings and occasions where refinement is the goal over spectacle."
+  - question: "How many napkin ring sets do I need to cover a table of eight?"
+    answer: "Each set covers four place settings, so a table of eight requires two sets. For brass rings, ordering a second set is straightforward and units typically match well across orders. For crystal rings, ordering both sets at the same time from the same listing is strongly recommended — crystal color and finish can vary between production batches, and mismatched rings become noticeable when placed side by side."
+  - question: "Can I use brass napkin rings with any type of napkin fabric?"
+    answer: "Interior ring diameter is the practical constraint. Standard cotton and linen dinner napkins fold through most rings without difficulty. Thick, starched, or heavily structured napkins may need a ring with a larger interior clearance. The Hammered Brass Napkin Rings work well with standard folds but can feel snug with bulkier napkin styles — check the interior diameter specification against your actual napkins before ordering."
 ---
 
 Napkin rings are a small detail that does a lot of quiet work at the table. They signal that you've thought about the whole setting , not just the plates and glasses , and they hold a folded napkin in place through the first glass of wine without fuss. If you're browsing [table linens](/linens/) and wondering whether napkin rings are worth adding to your collection, the answer depends almost entirely on which occasion you're dressing for and what you already own.

@@ -35,6 +35,17 @@ products:
 tags: ["glassware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Are Duratuff glasses actually more break-resistant than regular glass?"
+    answer: "Yes, meaningfully so. Libbey's Duratuff tempering process creates surface compression that makes the glass significantly more resistant to impact than standard annealed barware. They handle the routine knocks — against a faucet, off a countertop edge, stacked in a cabinet — that would chip or shatter ordinary glass. For daily use, the difference is noticeable over the life of a set."
+  - question: "Can I put the Estelle or Simon Pearce glasses in the dishwasher?"
+    answer: "Neither should go in the dishwasher. Both are hand-blown glass, and machine washing introduces thermal stress and abrasion that gradually clouds the surface and weakens the rim. Estelle and Simon Pearce both specify hand-washing. If dishwasher compatibility is essential to your routine, the Duratuff rocks glass is designed and rated for repeated machine washing."
+  - question: "Colored wine glasses vs. clear glass for a dinner party — how do I choose?"
+    answer: "It comes down to your table's overall visual character and how prominent you want the glassware to be. Colored glass like the Estelle emerald set makes the glasses an active design element that needs to be coordinated with linens, flowers, and other tableware. Clear glass lets the rest of the table breathe. Neither is more sophisticated; they serve different aesthetic intentions."
+  - question: "Is the Simon Pearce Ascutney wine glass worth the premium?"
+    answer: "For buyers who treat a dinner table as a composed setting and care about the character of each object on it, yes. The Ascutney's mouth-blown construction produces a weight, balance, and organic quality that machine-made glass does not replicate. The bowl size and thick base also make it notably stable for a formal place setting. If glassware is purely functional to you, the premium is not justified."
+  - question: "What rocks glass should I buy if I host frequently but do not want to be careful about breakage?"
+    answer: "The Duratuff Rocks Glasses set of six is the honest answer. The tempered construction handles regular use without special care, the set of six covers a standard gathering, and the classic shape works for spirits, cocktails, and water service without looking out of place. For a host who entertains often and wants glasses always ready to use without anxiety about breakage, it is the most practical and well-priced option in this category."
 ---
 
 Everyday glasses take more abuse than almost anything else on a set table , knocked into the sink, run through the dishwasher hundreds of times, stacked by guests who don't know better. Libbey's Duratuff line was built for exactly that reality, and if you're searching for duratuff libbey glassware, you already have a sense of what you're after. Before committing to one option, it's worth understanding how tempered glassware fits within the broader world of [Glassware & Crystal](/glassware/) , because durability and elegance aren't mutually exclusive, even at a modest budget.

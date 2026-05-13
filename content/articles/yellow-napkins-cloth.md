@@ -35,6 +35,17 @@ products:
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Are cloth napkins actually practical for everyday use?"
+    answer: "Yes, for most households. The upfront cost is offset within a few months of not buying paper napkins, and machine-washable cotton sets require no more care than a dish towel. The practical threshold is having enough napkins to rotate through between washes — which is why a twelve-pack like the Utopia set often makes more sense for daily use than a set of four. Quantity solves the rotation problem before quality becomes the relevant question."
+  - question: "Cotton vs. linen napkins — which holds up better for formal entertaining?"
+    answer: "Linen is the benchmark for formal settings. The fiber starts crisper and slightly cool to the touch but softens and gains drape with every wash — napkins that look better at five years than on arrival. Cotton is softer initially and more forgiving of machine drying, but it does not achieve the same pressed formal finish that linen does. The trade-off is that linen wrinkles readily and requires ironing to look its best at a properly set table."
+  - question: "Will yellow cloth napkins fade in the wash?"
+    answer: "All colored cloth napkins fade with repeated washing, and yellow is among the more susceptible colors. Washing in cold water on the first few washes sets the dye and extends color life significantly. Cotton construction tends to retain depth longer than poly-blends. Read owner reviews specifically about color retention after twenty or more washes before purchasing — initial appearance in a product photo tells you nothing about how a napkin holds color over a season of use."
+  - question: "How many napkins do I need for a dinner party of six?"
+    answer: "Eight to ten napkins is a practical working number for a table of six, accounting for laundry timing. The standard rule of one per guest sounds sufficient until you factor in that cloth napkins need washing between uses and laundry does not happen daily. If you are using linen napkins that require pressing, having extras means you can iron a few at a time rather than pressing the full set immediately before guests arrive."
+  - question: "Can I mix napkins from different sets on the same table?"
+    answer: "Mixing works better with solids than with prints. Two different solid yellows will read as intentional variation; two different floral prints will compete visually and look like a mistake. If you are building up quantity by purchasing multiple sets over time, staying within a single color family and keeping textures consistent — all cotton or all linen — makes the variation look considered rather than mismatched."
 ---
 
 Yellow cloth napkins sit at an interesting intersection , decorative enough to set a mood, practical enough to use every week. Whether you're setting a spring brunch table or stocking up for regular family dinners, the right set makes a real difference in how a table comes together. Finding that set means understanding more than color , fabric, construction, and set size all matter. Browse the full range of [table linens](/linens/) before you commit to a single style.

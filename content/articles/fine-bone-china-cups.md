@@ -35,6 +35,17 @@ products:
 tags: ["dinnerware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is bone china more fragile than regular porcelain?"
+    answer: "Bone china is often perceived as more fragile because of how it looks, but the bone ash content actually makes it stronger than standard porcelain at comparable thicknesses. The real fragility comparison is against stoneware, which is denser and more resistant to chipping under rough handling. Bone china chips at rim edges primarily when pieces knock together in the dishwasher or in storage, so separation and careful loading matter more than the material itself."
+  - question: "Can I use fine bone china cups in the dishwasher?"
+    answer: "Most plain bone china is dishwasher safe on the top rack, including the Mikasa Cameo White place setting. The exception is any piece with metallic trim — gold, platinum, or silver banding requires hand-washing without exception. Dishwasher detergent degrades metallic finishes over repeated cycles and the damage is irreversible. If a set includes both plain and trimmed pieces, the trimmed pieces dictate the care routine for the whole set."
+  - question: "What is the difference between bone china and fine china?"
+    answer: "Bone china contains a minimum of 30 percent calcined bone ash in the clay body, which produces its characteristic translucency and lighter weight. Fine china — sometimes called hard-paste porcelain — contains no bone ash and fires at higher temperatures, producing a denser, less translucent body. Bone china's luminosity and lightness are properties that fine china cannot replicate, and the visual difference is most apparent under warm lighting."
+  - question: "Is the Wedgwood Vera Wang teacup suitable for everyday use?"
+    answer: "Not practically, for most households. The platinum trim requires hand-washing, which makes daily use inconvenient rather than impossible. The Wedgwood Vera Wang Lace Bone China Teacup and Saucer is best suited to occasional formal use — afternoon tea service, special occasions, or display. For daily bone china that handles dishwasher use, the Mikasa Cameo White is the more honest recommendation."
+  - question: "How do I stop bone china cups from chipping in storage?"
+    answer: "Stack with felt separators between pieces — this single habit prevents the majority of rim chips that happen in storage rather than in use. Purpose-made plate and cup separators are inexpensive and widely available. For long-term storage between seasonal uses, wrap each piece individually in acid-free tissue and store upright rather than stacked wherever possible."
 ---
 
 Fine bone china carries a quality you notice before you've even lifted the cup , a slight translucency, a rim thinned just enough to feel considered rather than industrial. If you're shopping the [Dinnerware & China](/dinnerware/) category for something that steps beyond everyday stoneware without requiring a complete overhaul of your table, the choices narrow quickly once you understand what separates genuinely good bone china from pieces that just look the part in a photograph.

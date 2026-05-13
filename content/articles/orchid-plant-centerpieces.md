@@ -35,6 +35,17 @@ products:
 tags: ["decor", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Living orchid plant vs. cut orchid stems — which makes a better centerpiece?"
+    answer: "A living phalaenopsis orchid in a clear cylinder is low-maintenance, lasts weeks, and looks genuinely beautiful — the right answer for anyone who wants a centerpiece that holds up through multiple dinner parties without replacement. Cut stems give you more creative color control but have a window of typically one to two weeks at best. For a single event, cut stems are fine; for a centerpiece that earns its place across a month of hosting, a living plant is the more practical answer."
+  - question: "Can glass cylinder vases hold a living orchid plant rather than cut stems?"
+    answer: "Yes, with one modification. A living orchid in a nursery pot drops cleanly into a large cylinder if the diameter is close — the cylinder conceals the plastic pot and turns a practical plant container into a finished centerpiece. The 8-inch diameter from the Clear Glass Cylinder Vases set works well for standard nursery pots. Fill any visible gap between the pot and the glass with moss, river stones, or preserved sheet moss for a polished finish."
+  - question: "Michael Aram orchid taper candle holders — do they work on an informal table?"
+    answer: "They are most at home on a formal table, and using them in an informal setting tends to create a mismatch rather than an interesting contrast. The white enamel and gold finish carries a strong formality signal that reads out of place alongside casual textures like burlap, natural linen, or rustic wood. For informal tables, the whitewash wood box or a simple cylinder cluster will feel more coherent with the setting."
+  - question: "How do I protect the Creative Co-Op whitewash wood box from water damage?"
+    answer: "Use a liner inside the box — a fitted plastic tray, a sealed glass dish, or even a zip-close bag works. Condensation from a water-filled vase sitting directly on the whitewash surface will leave rings that are difficult to remove without refinishing. The liner step takes thirty seconds and prevents a problem that is otherwise hard to fix. The side handles on the box make it easy to move the whole arrangement without touching a single stem."
+  - question: "How many cylinder vases do I need to centerpiece a long rectangular table for eight?"
+    answer: "Two sets of three gives you enough vessels to create three distinct cluster groupings spaced along the table's length, which reads more intentional than a single arrangement placed at the center. Vary the height within each cluster using the three available diameters and alternate the orchid stem heights to avoid a repetitive silhouette. The sets are inexpensive enough that buying two is not a significant investment relative to the visual effect."
 ---
 
 Orchid centerpieces work because they do two things at once , they feel considered without requiring a florist, and they last long enough to earn the effort of setting them up. The right vessel or accent piece is what separates a beautiful arrangement from one that looks assembled in a hurry. I've spent enough time styling tables for everything from casual Sunday dinners to seated wedding receptions to know that the container and the flower are equally responsible for the final impression. Browse the full range of ideas in [Decor & Candles](/decor/) if you're still building out your table aesthetic.

@@ -35,6 +35,17 @@ products:
 tags: ["dinnerware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Are silver charger plates appropriate for everyday use or only formal occasions?"
+    answer: "Silver charger plates sit best in entertaining contexts rather than everyday meals — partly because of care requirements, partly because a charger's visual weight reads as occasion-specific. That said, a matte or pewter-finish charger like the Godinger set is relaxed enough for a Sunday dinner where you want the table to feel considered without feeling ceremonial. Reserve mirror-polish finishes for genuinely formal occasions."
+  - question: "Silver-finish metal charger vs platinum-banded porcelain charger — what does each look like on the table?"
+    answer: "A silver-finish metal charger like the Godinger is a metallic base plate where the finish covers the entire surface, reading as a strong metallic anchor. A platinum-banded charger like the Lenox Opal Innocence is white porcelain with a metallic accent at the rim only, reading as an elegant border. Both require careful hand-washing, but the visual effect and the coordination implications are meaningfully different."
+  - question: "How many charger plates should I buy for a dinner party of eight?"
+    answer: "Buy at least ten. Two extra plates protect against chips, breakage during washing, and the inevitable moment when a late guest arrives. With stoneware or porcelain chargers, the margin matters more because chipped rims show clearly on a formal table. Metal chargers are more forgiving of minor dings, but the extra units still make service easier when clearing and resetting between courses."
+  - question: "Does the Juliska Berry and Thread charger work for both formal and casual tables?"
+    answer: "The whitewash stoneware and botanical motif are versatile across seasonal registers — the article notes it works as well at a harvest dinner as at a spring luncheon. It reads as elevated without being fussy. The premium price and hand-wash requirement make it most appropriate for tables where the charger will be appreciated rather than for casual weeknight settings where it would add maintenance without payoff."
+  - question: "Do charger plates need to match the dinnerware pattern exactly?"
+    answer: "They do not need to match exactly, and in many settings they should not. A charger that perfectly matches the dinner plate collapses the visual layering that makes a formal table interesting. The better approach is a charger that complements the dinnerware — sharing a tonal family or material language without being identical. The Lenox Opal Innocence charger coordinates with its matching pattern but also reads cleanly under plain white china from other brands."
 ---
 
 Silver charger plates do more work at a dinner table than almost any other piece you'll buy , they frame every place setting, anchor your color story, and make even simple dinnerware feel considered. If you're browsing [Dinnerware & China](/dinnerware/) and trying to decide whether silver chargers belong on your table, the answer usually comes down to three things: finish, material, and how formally you entertain.

@@ -35,6 +35,17 @@ products:
 tags: ["decor", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Stone candle holders on a wood dining table — are they safe to use?"
+    answer: "Most genuine stone tealight holders are safe on wood surfaces because the dense stone base does not transmit heat the way thin metal does. After extended burning, the tealight's metal cup can transfer some warmth, so a felt pad or thin liner is worthwhile insurance on a table with a finish you care about. The Natural Stone Tealight Holders have enough base mass that heat dissipates well before reaching the surface below."
+  - question: "How do I remove wax from a stone candle holder without scratching it?"
+    answer: "Use gentle heat — a hair dryer on a low setting softens wax until it peels cleanly away from the surface. Avoid metal tools entirely; even a butter knife will leave marks on most natural stone finishes. A wooden skewer or silicone scraper handles the detail work without risk. For porous stone that has absorbed wax over time, work in a thin coat of food-safe mineral oil with a soft cloth — the same approach used for natural stone cutting boards — to reduce future wax adhesion."
+  - question: "Stone tealight holders vs. glass votive holders — can I mix them on the same table?"
+    answer: "Yes, and the contrast often reads better than either type alone. Stone has texture and visual mass; clear glass recedes and amplifies candle color. Using glass votive holders for volume along the center of the table and anchoring the ends with stone tealight holders creates layered candlelight that avoids the monotony of a single holder type repeated down the full length."
+  - question: "Michael Aram Butterfly Ginkgo candlestick holders — everyday use or special occasions only?"
+    answer: "They can function daily, but the cleaning requirement makes everyday use a genuine commitment. The open metalwork collects wax and dust between every leaf and stem, and keeping the detail work looking its best takes more care than a cylindrical holder demands. Most buyers will get the highest return treating these as dinner-party or special-occasion pieces — brought out for moments where the table is meant to make an impression, stored individually between uses."
+  - question: "What candle type works best in stone tealight holders?"
+    answer: "Standard tealight candles in their metal cups are the correct match — they are contained, the metal cup catches any wax melt, and the 1.5-inch diameter fits most stone tealight depressions without forcing. Bare wax discs without a metal cup allow wax to pool directly against the stone surface, which accelerates staining and makes cleaning significantly harder. At a dinner table where food aromas matter, unscented or lightly scented tealights are the better choice."
 ---
 
 Stone candle holders bring a stillness to a table that glass and metal rarely match. The weight, the texture, the way candlelight catches an uneven surface , it reads as intentional without looking arranged. If you're building a table that feels genuinely considered, the right holder matters more than most people expect. Browsing the full range of [candle and decor options](/decor/) first can help you see how stone fits alongside everything else you're working with.

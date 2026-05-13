@@ -35,6 +35,17 @@ products:
 tags: ["glassware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Are the Waterford Lismore flutes worth the premium over less expensive etched crystal?"
+    answer: "For a wedding registry or a gift meant to last decades, the Lismore pattern justifies the investment. The cut quality, lead-free formula, and Waterford's manufacturing consistency set it apart from entry-level etched crystal that can show cloudiness or wear within a few years. For everyday sparkling wine at a casual table, a mid-range flute serves just as well. The Lismore earns its place as a long-term investment piece, not a weekly-use set."
+  - question: "Can I use the Ravenscroft crystal decanter for wine as well as whiskey?"
+    answer: "Yes. The wide base and lead-free crystal make it appropriate for any beverage you would want to decant. The stopper care requirement applies regardless of what is inside — hand-dry immediately after washing to prevent calcium deposits at the collar. For red wine service specifically, a wide-bowl decanter format suits aeration well, so the Taylor handles both purposes without compromise."
+  - question: "How do I prevent cloudiness in etched crystal over time?"
+    answer: "Cloudiness almost always comes from hard water mineral deposits or dishwasher detergent residue, both preventable with consistent hand-washing and immediate drying after every use. For pieces that have already developed cloudiness, a soak in diluted white vinegar often restores clarity if the cloudiness is mineral-based. Cloudiness from dishwasher chemicals is permanent. The safest rule: hand-wash, hand-dry, store without stacking."
+  - question: "Are the Heritage Hill amber glass tumblers suitable for a formal table setting?"
+    answer: "Not comfortably. The amber glass and pressed-glass pattern place them firmly in the casual-to-relaxed register, which suits fall dinners, outdoor gatherings, and harvest-themed tables well. A formal table with fine china, crisp linens, and candlelight calls for clear crystal that reads refined rather than rustic. Use them for what they do genuinely well and reach for clear crystal when the occasion requires it."
+  - question: "What is the safest way to store cut crystal to prevent chipping?"
+    answer: "Store cut crystal upright rather than inverted — resting a cut rim on a shelf introduces chipping risk at the most vulnerable point. If cabinet space requires stacking, use felt or padded dividers between pieces and never nest cut crystal without protection. For flutes in particular, the base is the most stable storage orientation, and keeping them separated in a cabinet with adequate height eliminates most accidental contact damage."
 ---
 
 Etched crystal glassware sits at the intersection of craft and function , pieces that earn a permanent spot on the table rather than a trip back to the cupboard after one season. The right set changes the way a table reads, whether you're pouring champagne at midnight or setting out tumblers for a casual Sunday supper. For everything worth knowing about selecting and caring for these pieces, the [Glassware & Crystal](/glassware/) hub is a good starting point.

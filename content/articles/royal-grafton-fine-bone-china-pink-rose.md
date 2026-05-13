@@ -35,6 +35,17 @@ products:
 tags: ["dinnerware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is fine bone china practical for everyday use or only for special occasions?"
+    answer: "Fine bone china is practical for everyday use if you handle it consistently with care — top-rack dishwasher loading without overcrowding, and hand-washing anything with metallic trim. Most households use it more successfully as occasion china, reserving it for entertaining while keeping stoneware or porcelain for daily meals. The pieces perform better and last longer when the handling is deliberate."
+  - question: "Why does fine bone china chip more easily than stoneware?"
+    answer: "The density and thinness that give bone china its translucency also make it transmit rather than absorb mechanical shock. Stoneware's thicker, coarser body cushions impact at the rim; bone china's vitrified surface doesn't have that same mechanical give. The chip risk is concentrated at rim edges, where glaze coverage is thinnest and contact with other pieces during dishwasher loading is most likely."
+  - question: "Can platinum-trimmed bone china ever go in the dishwasher?"
+    answer: "No. Dishwasher detergent is caustic enough to degrade platinum and gold trim over time even on gentle cycles, dulling the metallic finish in ways that cannot be reversed. The Wedgwood Vera Wang Lace Bone China Teacup and Saucer is a specific case where this matters — the platinum trim is central to the design, and hand-washing is the only way to maintain it."
+  - question: "Bone china vs fine china — which is better for a formal table setting?"
+    answer: "Bone china contains bone ash — typically 45 to 50 percent of the clay body — which produces the translucency and lightness the material is known for. Fine china is fired at higher temperatures without bone ash and produces a denser, whiter, slightly heavier result. Both are appropriate for formal table settings; bone china reads as warmer and more luminous, fine china as crisper and more architectural. The choice is primarily aesthetic."
+  - question: "Mikasa Cameo White vs Royal Doulton Maze Mug — which should I buy first?"
+    answer: "They serve different roles. The Mikasa Cameo White 5-Piece Bone China Place Setting gives you a complete place setting as a starting point — plates, bowl, cup and saucer. The Royal Doulton Gordon Ramsay Maze White Mug is a supplementary piece that integrates well with an existing collection. Start with the place setting if you're building from scratch; add the Maze Mug if you already have Maze plates."
 ---
 
 Fine bone china carries a certain logic to it , thinner walls, translucent glaze, a lightness in the hand that stoneware never quite achieves. If you've been searching for Royal Grafton fine bone china pink rose pieces and finding that the original manufacturer is long out of production, you're not alone in realizing that the search quickly becomes about finding something that honors that aesthetic rather than replicating it exactly. The [dinnerware](/dinnerware/) category has genuine options worth knowing.

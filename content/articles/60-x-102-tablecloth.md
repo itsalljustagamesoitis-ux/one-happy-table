@@ -35,6 +35,17 @@ products:
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What size tablecloth fits a rectangular dining table seating eight?"
+    answer: "A 60 x 102 tablecloth fits a standard 36 x 72 rectangular dining table with a 12-inch drop on all sides, which is the conventional home dining drop. If your table is longer — 84 or 96 inches — you'll need to move up to a 60 x 120 or 60 x 144 to maintain that same drop proportion. Always measure your actual table surface before ordering."
+  - question: "Linen vs cotton for a formal dinner tablecloth — which reads better?"
+    answer: "Both are appropriate for formal dinners but they read differently. Hemstitched cotton holds a crisper press and photographs more formally; linen has a softer, more relaxed elegance that works beautifully for dinners where the mood is warm rather than stiff. If pressed formality is the goal, cotton is the more reliable choice. If you want elegance without rigidity, stonewashed linen earns its place at even a dressed table."
+  - question: "Juliska Country Estate Tablecloth vs Peacock Alley Hemstitch — which is better for a dinner party?"
+    answer: "They serve different tables almost entirely. The Juliska is designed for buyers inside the Country Estate ceramic ecosystem — it coordinates with the dinnerware pattern and creates a unified table that's hard to achieve otherwise. The Peacock Alley suits a buyer who wants understated formality in a specific color, with a hemstitch detail that elevates a plainer table. If you don't own Juliska ceramics, the Peacock Alley is the stronger general-purpose choice."
+  - question: "What drop length should I use for a home dining table?"
+    answer: "A 12-inch drop on all sides is the standard for home entertaining — it covers the table legs without pooling on the floor and reads as deliberate and polished. An 8-inch drop reads more casual and is practical for everyday use where guests are moving in and out of chairs frequently. Anything over 15 inches approaches floor-length, which is a formal or event aesthetic that can feel excessive in a home dining room."
+  - question: "Can a polyester tablecloth work for home entertaining, or does it only read well at events?"
+    answer: "A polyester cloth can work at home if practicality is the priority and the setting is casual — a large family gathering, a buffet, or a kids' table where the cloth is functional rather than decorative. Under candles at a dinner party, the synthetic sheen becomes visible in ways that matter. For those occasions, natural fiber is worth the extra laundry effort."
 ---
 
 Finding a 60 x 102 tablecloth that actually fits your table well , and looks like you meant it , is harder than it should be. That size covers a standard rectangular table seating eight, and the options range from pressed cotton heirlooms to wrinkle-resistant polyester that ships in a zipper bag. I've set enough tables to have strong opinions about which category deserves your attention and which deserves a pass. Before you commit, it's worth knowing what separates a cloth that elevates the table from one that merely covers it. The full range of [table linens](/linens/) worth considering is broader than most people expect.

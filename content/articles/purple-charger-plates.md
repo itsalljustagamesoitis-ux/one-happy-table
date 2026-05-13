@@ -35,6 +35,17 @@ products:
 tags: ["dinnerware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Are charger plates food-safe to eat off of?"
+    answer: "No. Charger plates are decorative and not intended as serving vessels — food is always placed on a dinner plate that sits on top of the charger. Most chargers, including acrylic and stoneware options, are not food-safe for direct contact with hot dishes. The article recommends removing the charger before serving soup or any dish that would rest directly against the surface for a sustained period."
+  - question: "Acrylic charger plates vs. stoneware — which is better for a formal dinner?"
+    answer: "The article makes the distinction plainly. The Efavormart clear acrylic charger plates are an event piece suited to tables where the linen is doing most of the decorative work — practical and cost-effective, but they read as acrylic up close. The Juliska Berry and Thread stoneware charger is a considered investment piece whose hand-applied relief and stoneware weight register as genuinely premium at a formal setting. Match the piece to the occasion's register."
+  - question: "How many charger plates do I need for a dinner party?"
+    answer: "The article recommends matching your charger count to your maximum guest count, then adding two. A household that regularly hosts tables of eight should own at least ten chargers to account for breakage and the occasional extra guest. Charger lines discontinue, and reordering in a matching finish or color two years later is rarely straightforward — buying short is the more common and more costly mistake."
+  - question: "Do charger plates need to match the dinner plates exactly?"
+    answer: "No, and matching them exactly often produces a table that reads as flat rather than considered. The more useful goal is coordination: the charger should support the dinner plate without overpowering it. A neutral or tonal relationship between the two works reliably. Intentional contrast — a white dinner plate on a deep-colored charger — should be deliberate enough to read as a design choice rather than an accident."
+  - question: "Can I mix different charger plate styles at the same table?"
+    answer: "Intentional mixing works when the pieces share at least one common element — rim finish, color family, or material weight. A glazed porcelain charger and a stoneware charger can coexist if both carry neutral or complementary tones. The shared visual thread is what reads as eclectic rather than mismatched. Mixing acrylic with ceramic at a formal table is harder to make cohesive."
 ---
 
 Purple charger plates are a specific ask, and the answer most people land on is the wrong one , a purple plate that dominates the table rather than anchoring it. A good charger works beneath the place setting, adding color, texture, or material interest without competing with the food or the stemware. If you're building a table with purple as the lead color, the charger is where that intention starts. You'll find a broader view of how chargers fit within a complete place setting in our guide to [Dinnerware & China](/dinnerware/).

@@ -35,6 +35,17 @@ products:
 tags: ["dinnerware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Clear or patterned charger plate — which works for more table settings?"
+    answer: "Clear acrylic chargers are the most versatile option because the transparent body recedes behind whatever dinner plate sits on top, letting your linens and china carry the visual interest. Patterned stoneware chargers like the Juliska Berry and Thread are a design statement in their own right, best suited to simpler dinner plates that give the charger room to read. If you rotate your table textiles or mix and match china across the year, clear is the safer investment."
+  - question: "How long do acrylic charger plates last with regular use?"
+    answer: "Acrylic chargers are honest about their lifespan: surface scratches accumulate from stacking and repeated washing, and the clarity that makes them appealing begins to haze after a season of active use. Hand-washing with a soft cloth extends their life, but they are best understood as a value purchase for one to two seasons rather than a long-term table investment. For frequent hosts who want pieces that last years, glazed porcelain or stoneware chargers hold their finish far better."
+  - question: "Acrylic versus glazed porcelain charger — what is the real difference?"
+    answer: "Acrylic is lightweight, inexpensive, and optically clear, but it scratches easily and hazes over time. Glazed porcelain like the Mikasa Metropolitan survives dishwasher cycles without dulling and holds its rim finish through repeated handling. The practical difference compounds with frequency of use: an occasional host may not notice the acrylic's limitations for years, while a frequent host will see the degradation within a season."
+  - question: "Do charger plates need to match the dinner plates?"
+    answer: "Not necessarily — and a deliberate contrast is often more interesting than a match. The practical rule is that the charger should coordinate without competing: a clear acrylic charger pairs with almost anything, a patterned stoneware charger works best under simpler, plainer dinner plates, and a glazed porcelain charger from a coordinated line pairs naturally with dinner plates from the same collection. The goal is a place setting that looks intentional rather than assembled at random."
+  - question: "What charger plate size works best under a standard dinner plate?"
+    answer: "Standard dinner plates run 10 to 11 inches, so a charger should extend 1 to 2 inches beyond the dinner plate on all sides — meaning 12 to 13 inches is the practical range. Anything smaller loses the framing effect entirely and the charger disappears under the plate. At 13 inches, the Juliska Berry and Thread creates the most visual impact; 12 inches suits casual settings and smaller round tables where spacing is tight."
 ---
 
 Charger plates do one thing well: they make a table look considered before anyone sits down. If you're shopping for clear charger plates specifically, you already understand that the point isn't to hide the table , it's to let the linens, the runner, or the tablecloth do their work while still giving each place setting a finished edge. That distinction matters when you're choosing between materials and styles. Explore the full range of [dinnerware & china](/dinnerware/) options before you commit , chargers live at the intersection of function and décor, and knowing where they fit in a complete table setting helps.

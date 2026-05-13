@@ -35,6 +35,17 @@ products:
 tags: ["dinnerware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Stoneware vs porcelain for Japanese-style dinnerware — which holds up better?"
+    answer: "Stoneware is the more practical choice for everyday use. It handles chips and rough handling better than porcelain at comparable price points, and most stoneware sets are dishwasher and microwave safe. Porcelain is thinner and more refined in appearance, which suits formal and occasional use better. If your table runs daily, stoneware will outlast porcelain in normal handling."
+  - question: "Can Japanese-style dinnerware mix with other table accessories I already own?"
+    answer: "Sets with simpler pattern language — embossed white, minimal border detail, muted palettes — mix most easily with existing glassware, linens, and centerpieces. Strongly patterned sets like the Lenox Butterfly Meadow become the visual anchor and require other accessories to follow their lead. Neutral linens and clear glassware give you the most flexibility across patterned sets."
+  - question: "Is the Lenox Opal Innocence worth the premium over mid-range porcelain sets?"
+    answer: "If you host formal dinners and holiday meals, yes. Opal Innocence is bone china with a platinum band and a full expandable line — charger plates, serving pieces, and additional place settings are all available in the same pattern. The trade-off is hand-wash only for the platinum band and a higher entry cost. For casual everyday entertaining, the premium is harder to justify."
+  - question: "How many place settings do I need for a starter dinnerware set?"
+    answer: "A 12-piece service for four is the standard starting point for a couple building a formal or semi-formal table. If you regularly entertain six to eight, confirm the pattern you buy is expandable. Not all sets offer additional place settings in the same design — established lines like Lenox Opal Innocence allow you to add four-piece expansions over time without mismatching."
+  - question: "What does hand-wash only mean for dinnerware with a platinum or gold band?"
+    answer: "Metallic banding degrades in the dishwasher over repeated cycles — the high water pressure and detergent chemistry dull the finish and eventually strip it. Hand-washing means warm soapy water, no abrasive scrubbers, and immediate drying rather than air-drying. For sets used only on formal occasions a few times a year, that routine is manageable. For weekly use, the maintenance burden adds up."
 ---
 
 Japanese-inspired table design has a way of making everyday meals feel considered , spare, intentional, and quietly beautiful. If you're building a table that reflects that aesthetic, the dinnerware carries most of the work. Exploring the full range of options across [Dinnerware & China](/dinnerware/) before committing to a pattern is time well spent, because the wrong set will fight everything else you've done.

@@ -35,6 +35,17 @@ products:
 tags: ["dinnerware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is bone china more fragile than regular porcelain for everyday use?"
+    answer: "Bone china is actually denser and more durable than standard porcelain at comparable thicknesses, thanks to the bone ash content that strengthens the fired body. The real fragility comparison is against stoneware, which is heavier and more resistant to chipping under rough handling. Bone china chips most often at rim edges when pieces knock together in the dishwasher or storage, so careful loading matters more than the material itself."
+  - question: "Can bamboo fiber dinnerware go in the dishwasher or microwave?"
+    answer: "Neither. Bamboo fiber warps permanently under dishwasher heat and degrades with direct microwave use. The hand-wash requirement is less burdensome in practice than it sounds — pieces are lightweight and clean quickly — but if dishwasher and microwave access are priorities, a different material is the better fit from the start."
+  - question: "How do I keep matte black dinnerware from showing water spots?"
+    answer: "Hand-dry immediately after washing before any water can air-dry on the surface. Matte finishes do not shed water the way glossy ceramics do, so air-drying consistently leaves visible mineral deposits. Establishing the drying habit eliminates the problem; skipping it regularly will make the finish look dull regardless of how clean the dishes actually are."
+  - question: "What is the difference between a 12-piece and a 16-piece dinnerware set?"
+    answer: "The difference is usually mugs. A 12-piece set serving four typically includes a dinner plate, salad plate, and bowl per person. A 16-piece set at the same place-setting count adds a mug for each person. Neither is inherently better — it depends on whether you need mugs bundled in or already own them separately."
+  - question: "Is fine china worth buying if I only entertain a few times a year?"
+    answer: "For buyers who care how the table looks and plan to keep the set for a decade or more, yes. Fine china holds up well to occasional use and careful storage, and the quality difference is visible in a way that matters if presentation is central to how you host. The calculus changes if the set will spend most of the year in a cabinet with no plan to expand it — in that case, a strong mid-range porcelain set used with intention often delivers more satisfaction per use."
 ---
 
 Choosing a dinnerware set for six people , or one that simply serves a table well without feeling like a compromise , is more about fit than it is about price. The wrong set shows up in chipped rims, mismatched aesthetics, and dishes that spend more time soaking than they do on the table. I've worked with enough [dinnerware](/dinnerware/) over the years to know that the details separating a good set from a frustrating one are predictable once you know where to look.

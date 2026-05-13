@@ -35,6 +35,17 @@ products:
 tags: ["decor", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Do wood vases need a special insert to hold fresh flowers?"
+    answer: "Most solid wood and porous wood vases are not waterproof, so a glass tube insert is typically needed to hold water for fresh-cut stems. These narrow inserts slip into the vase opening and work well for single-stem or small-cluster arrangements. If you want to arrange fresh flowers without the extra step, a sealed glass or ceramic vase is the more practical choice for regular use."
+  - question: "Mango wood bud vases vs. white ceramic bud vases for a formal dinner table — which is the better choice?"
+    answer: "The mango wood set reads as warm and organic — it suits a relaxed, textural table with linen napkins and natural-finish flatware. The white ceramic set is genuinely neutral and coordinates with formal china without competing. For a traditional or formal setting, the white ceramic is the safer choice. For a casual, seasonal, or editorial table, the wood set brings more visual interest and a collected quality the ceramic set cannot replicate."
+  - question: "How many vases do I need for a six-person dining table?"
+    answer: "Three to five vases clustered along the center of a six-seat table is the range that reads as intentional rather than sparse. A set of three in varying heights works well for a round or square table. For a longer rectangular table, six pieces give you coverage to span the full runner without gaps. Sets that include varying heights eliminate the need to style individual pieces deliberately."
+  - question: "Is the Simon Pearce Woodstock Vase practical for regular entertaining, or is it a display piece?"
+    answer: "It is practical, but it does require hand-washing — a real consideration if you are changing floral arrangements frequently. The heavy base makes it stable with large stem arrangements, which most bud vases cannot manage. For buyers who entertain regularly and want a vase that doubles as a sculptural display piece between occasions, the trade-off is reasonable. The mouth-blown production means each piece has slight asymmetry that reads as considered rather than manufactured."
+  - question: "Can bud vases be used for dried or faux arrangements, or are they designed for fresh flowers only?"
+    answer: "Bud vases work extremely well for dried and faux arrangements, and in some ways are better suited to them. Dried stems require no water, which eliminates the insert requirement entirely for wood vases. Pampas grass, preserved eucalyptus, cotton stems, and dried seed heads all fit naturally through a narrow neck and hold their shape without any setup beyond placing the stem. This is a genuinely low-maintenance centerpiece option for weeks when fresh flowers are not practical."
 ---
 
 Wood vases have a way of making a table feel considered without looking overdone. If you're searching for centerpiece options that read as intentional rather than assembled at the last minute, you're already thinking in the right direction , the texture and warmth of natural materials do work that painted ceramics and glass simply can't. For more ideas on styling a table from the ground up, the [Decor & Candles](/decor/) hub is a good place to start.

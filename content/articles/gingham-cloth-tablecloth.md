@@ -35,6 +35,17 @@ products:
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What is the difference between a woven gingham and a printed gingham tablecloth?"
+    answer: "A woven gingham builds the check pattern into the fabric structure using colored threads — the pattern is permanent and doesn't degrade with washing. A printed gingham applies color to the fabric surface, which means the pattern can fade or soften over time, especially with UV exposure outdoors. For regular use, a woven check is significantly more durable; the LinenTablecloth green gingham is a woven check, which is why the pattern holds after repeated laundering."
+  - question: "Is linen or cotton better for a gingham tablecloth?"
+    answer: "It depends on the look and how much maintenance you'll accept. Cotton gingham irons to a crisp, clean finish and suits both casual and semi-formal settings. Linen develops a relaxed, slightly rumpled drape that looks intentional in farmhouse or rustic settings — the Juliska Country Estate cloth uses this quality deliberately. Cotton is the more predictable choice; linen rewards buyers who want texture over polish."
+  - question: "How do I calculate the right tablecloth size for my table?"
+    answer: "Measure the table's length and width, then add twice your desired drop — typically eight to twelve inches per side for casual settings, twelve to fifteen for formal. A six-foot rectangular table with a ten-inch drop needs a cloth roughly ninety inches long. Always round up to the next standard size rather than down — a cloth that hangs a little long is manageable, but one that barely clears the edge looks like a mistake."
+  - question: "Can a gingham tablecloth work outdoors, and does it fade in the sun?"
+    answer: "Yes, with the right construction. For outdoor use, choose a woven check rather than a printed one — printed patterns fade faster under UV exposure. Confirm the cloth is machine washable and quick-drying. Lightweight fabrics may need tablecloth clips in any breeze. The LinenTablecloth green gingham handles outdoor use well for exactly these reasons — the woven check resists fading and the cotton-poly blend dries quickly after rain or spills."
+  - question: "Juliska Country Estate tablecloth vs plain green gingham — which works better on a farmhouse table?"
+    answer: "The Juliska cloth is the stronger choice if you want a cohesive farmhouse aesthetic, particularly if you own or plan to buy Juliska's Country Estate dinnerware — the coordination is intentional and tight. For a farmhouse table with mixed or vintage tableware, the LinenTablecloth gingham is more flexible: it reads as classic country without committing to a single design vocabulary. The Juliska cloth is pattern-specific; the LinenTablecloth is neutral by comparison."
 ---
 
 Gingham has been on American tables long enough to feel like a rule rather than a choice , the red-and-white picnic cloth, the farmhouse kitchen, the Easter table that looks exactly like your grandmother's. But a [gingham cloth tablecloth](/linens/) earns its place beyond nostalgia. The pattern works because the woven check creates visual weight without demanding attention, leaving the food and the people across from you as the focal point.

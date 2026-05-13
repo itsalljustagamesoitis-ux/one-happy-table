@@ -35,6 +35,17 @@ products:
 tags: ["decor", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Wooden centerpiece box vs glass bowl — which is better for everyday use?"
+    answer: "It depends on how often you restyle and whether you prefer a single-piece look or a layered arrangement. A wooden box holds a full scene — multiple candles, stems, filler — and moves easily with handles. A glass bowl is simpler to clean and works well for a single focal element like floating flowers or fruit. Most tables with active entertaining benefit from having both available."
+  - question: "Can I use fresh flowers in a wooden centerpiece box?"
+    answer: "Yes, but not without protection. Place a waterproof liner — a plastic tray, a sealed container, or a purpose-made insert — inside the box before adding any water source. Water sitting directly against wood, especially a whitewash finish, will leave permanent rings. With a liner in place, a wooden box works well for fresh arrangements."
+  - question: "What is the difference between machine-pressed and mouth-blown glass for a centerpiece?"
+    answer: "Machine-pressed glass has uniform wall thickness and a consistent, predictable form — it reads as clean and modern but lacks visual variation. Mouth-blown glass, like the Simon Pearce Woodstock Vase, has slight organic variation in the walls and form that reads as handmade quality up close. For most centerpiece applications the difference is subtle, but at a formal dinner or holiday table that will be closely examined, hand-blown glass has a presence that machine-pressed glass does not match."
+  - question: "How do I choose the right size wooden centerpiece box for my dining table?"
+    answer: "Measure the table before buying. A centerpiece should occupy no more than one-third of the table's usable surface when place settings are down. For a standard 36-inch-wide, 72-inch-long dining table, a box in the 18-to-24-inch range works well without crowding guests. Err slightly smaller — a centerpiece that allows easy conversation across the table is always the right call."
+  - question: "Do the side handles on the Creative Co-Op box hold up under a fully loaded centerpiece?"
+    answer: "The article specifically notes that the side handles allow a fully loaded centerpiece — candles, stems, seasonal filler — to be moved from the table to a sideboard without disturbing the contents. The handles are a structural feature rather than a decorative one. For anyone who sets and resets a centerpiece frequently across multiple events or occasions in a season, they make a measurable practical difference."
 ---
 
 A centerpiece wooden box earns its place at the table by doing something few decorative pieces manage: it holds a full arrangement , candles, botanicals, seasonal stems , while still looking intentional rather than assembled. The [Decor & Candles](/decor/) category is full of vessels that try to do this job, and most fall short in one direction or another. Too precious to move, too shallow to hold anything useful, or so plain they disappear into the table.

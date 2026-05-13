@@ -35,6 +35,17 @@ products:
 tags: ["glassware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Are red champagne flutes dishwasher safe?"
+    answer: "It depends on the material. Polymer flutes like the Govino set are dishwasher safe by design. Titanium-reinforced glass like the Luigi Bormioli Atelier is engineered for machine washing and holds up well over repeated cycles. Cut crystal like the Waterford Lismore is hand-wash only — the combination of delicate bowl geometry and cut facets makes it too vulnerable to the heat and agitation of a dishwasher cycle."
+  - question: "Crystal champagne flutes vs. glass — is the difference worth the money?"
+    answer: "The article answers this based on use case. Crystal has a higher refractive index than standard glass, producing the light-scattering quality visible in cut patterns like the Waterford Lismore's diamond-and-wedge design, and allows thinner walls without sacrificing structural integrity. Standard glass is heavier and less optically brilliant but more durable and compatible with dishwasher use. For formal, carefully managed occasions the crystal is worth it; for regular entertaining the distinction is less meaningful."
+  - question: "Waterford Lismore vs. Luigi Bormioli — which is better for regular entertaining?"
+    answer: "The article is direct: the Waterford Lismore is not the right choice for everyday use. It is hand-wash only, comes in pairs requiring multiple orders for a full table, and demands careful handling. The Luigi Bormioli Atelier, sold as a six-pack with titanium-reinforced stems rated for the dishwasher, is the more practical investment for regular entertaining that will hold up over time."
+  - question: "How many champagne flutes do I need for a dinner party of six?"
+    answer: "The article recommends at least six matching flutes for a table of six, plus a buffer of two for breakage. The Luigi Bormioli Atelier set of six covers that in a single purchase. If you regularly host eight, two sets gives you a working inventory without requiring a perfect pattern match if one breaks later."
+  - question: "Can I use champagne flutes for drinks other than champagne?"
+    answer: "Yes. The tall narrow shape that preserves carbonation in sparkling wine works equally well for prosecco, cava, sparkling cider, and any effervescent cocktail. The flute's geometry is a functional specification, not a restrictive one. The Govino polymer flutes are noted as particularly versatile for outdoor use with any sparkling beverage."
 ---
 
 Red champagne flutes bring something to a table that clear glass simply cannot , a warmth and depth that makes the occasion feel considered. Whether you're setting out for a New Year's toast, a holiday dinner, or a wedding reception, the right flute shapes the moment before anyone takes a sip. The range of [glassware & crystal](/glassware/) options available now means you don't have to choose between beauty and practicality.

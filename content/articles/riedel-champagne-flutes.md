@@ -35,6 +35,17 @@ products:
 tags: ["glassware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Are Riedel champagne flutes worth buying over a standard glass flute?"
+    answer: "For most buyers, yes. The article explains that the lead-free crystal construction and tulip bowl shape in the Riedel Ouverture represent a genuine step up from a standard glass flute — thinner walls, better clarity, and a shape designed around how champagne actually behaves. If you are already spending on a decent bottle of champagne, putting it in a better glass is a reasonable extension of that investment."
+  - question: "Riedel Ouverture vs. Waterford Lismore — which should I buy?"
+    answer: "The article distinguishes them by use case. The Riedel Ouverture is an uncut tulip-shaped lead-free crystal flute that is dishwasher safe and positioned as an accessible everyday crystal option. The Waterford Lismore is a hand-wash-only cut crystal piece with a recognized heritage design, positioned as an investment or heirloom. The Riedel is the practical regular-use choice; the Waterford is for hosts who want the table to make a formal statement and are prepared to manage the care requirements."
+  - question: "Can I use champagne flutes outdoors?"
+    answer: "Crystal and standard glass flutes are a poor choice on any outdoor surface where a tip, a gust of wind, or an uneven table could break them. The article identifies the Govino Shatterproof Flexible Champagne Flutes as the only option in the roundup genuinely designed for outdoor use — the shatterproof polymer and thumb-notch base make them safe and practical on pool decks, grass, and boats where broken glass would be a serious hazard."
+  - question: "Do cut crystal champagne flutes need to be hand-washed?"
+    answer: "Yes, if you want to preserve the cut pattern. The Waterford Lismore is hand-wash only — the dishwasher progressively dulls the facets and can cloud the crystal surface in a way that is not reversible. Uncut lead-free crystal like the Riedel Ouverture is top-rack dishwasher safe. The article recommends being honest about your cleaning habits before committing to cut crystal."
+  - question: "How many champagne flutes do I need for a dinner party of eight?"
+    answer: "Most flute sets are sold in pairs, so serving eight guests means buying four sets. The article recommends deciding your full target service size before your first purchase — building up gradually works, but knowing the endpoint prevents the frustration of discovering you need more sets after a production run has changed. The Govino set of four cuts the math in half for outdoor occasions."
 ---
 
 Champagne is one of those things that deserves the right vessel , not because tradition demands it, but because the glass genuinely changes what's in it. The shape affects how aromas gather, how bubbles behave, and how the wine reads on the palate. If you're building a table worth sitting down at, the flutes you reach for matter more than most people realize. A good starting point is the broader [Glassware & Crystal](/glassware/) category, where the range of options makes the tradeoffs between material, shape, and durability easier to see all at once.

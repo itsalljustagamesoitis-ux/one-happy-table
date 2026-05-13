@@ -35,6 +35,17 @@ products:
 tags: ["glassware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Can a whiskey decanter be used for water service at the table?"
+    answer: "Yes, with one practical caveat. Crystal whiskey decanters like the Waterford Lismore are designed for short-term spirit service, not sealed storage, so the stopper fit that matters for whiskey is irrelevant for water. The vessel itself is perfectly suited to table water service — the form, weight, and visual presence all work well at a formal setting. Clean it thoroughly between uses if you are switching between spirits and water."
+  - question: "What is the difference between a decanter and a carafe for everyday use?"
+    answer: "A decanter — particularly for wine — typically has a form designed to increase surface area contact between liquid and air, encouraging aeration. A carafe is a straight-sided vessel for pouring and serving without any aeration function. The Sheffield 34-Ounce by Anchor Hocking is technically a carafe; the Riedel Corneto is a true decanter. For water service, the distinction does not matter — either works functionally, and the choice comes down to how formal the table is."
+  - question: "Is the Riedel Corneto a better wine decanter than the Waterford Lismore?"
+    answer: "For a household that entertains around wine specifically, yes. The Corneto's cone form aerates more efficiently than the Waterford's conventional body — the conical geometry forces wine against the widest glass surface area immediately, which can reduce the time a tannic red needs to open. The Waterford Lismore is the more visually impressive piece and the better gift, but the Riedel outperforms it as a purpose-built wine decanter."
+  - question: "Will a crystal stopper keep spirits fresh for long-term storage?"
+    answer: "No. Ground crystal stoppers seat well enough for short-term serving but are not airtight. Spirit stored in a crystal decanter for more than a few weeks will oxidize noticeably. Decanters are presentation and medium-term storage tools, not indefinite replacements for the original bottle. If long-term storage is the goal, return the spirit to its sealed bottle between uses."
+  - question: "How do I match a decanter to the style of table I set?"
+    answer: "A formal crystal decanter like the Waterford Lismore looks out of place on a casual farmhouse table and belongs on a formally set table or a well-styled bar cart where it will be seen. The Sheffield straight-sided glass carafe belongs where function matters more than impression — everyday dinners, casual entertaining, refrigerator storage between uses. Be honest about how you entertain most often, because the mismatch between a premium piece and a casual table is visible and slightly uncomfortable for everyone."
 ---
 
 Every table needs a vessel that earns its place at the center , something that makes water, wine, or spirits feel considered rather than poured straight from a bottle. A good decanter does that without demanding a cabinet full of specialty glassware. If you're browsing options in [Glassware & Crystal](/glassware/), the honest answer is that three very different decanters serve three very different households, and picking the right one is mostly about being clear-eyed about how you actually entertain.

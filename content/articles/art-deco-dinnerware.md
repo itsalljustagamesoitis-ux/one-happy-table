@@ -35,6 +35,17 @@ products:
 tags: ["dinnerware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Matte black dinnerware — is it practical for everyday use or too high-maintenance?"
+    answer: "Matte black surfaces require more deliberate care than glossy glazes because they show dried water spots prominently. If you run pieces through the dishwasher and let them air-dry, mineral deposits will be visible on the plates. Hand-dry immediately after washing and the surface stays pristine. Whether that extra step is a minor ritual or a daily irritation depends on your temperament — it is a real consideration before committing to this finish."
+  - question: "Bone china vs. porcelain — which is more durable for everyday use?"
+    answer: "Porcelain is denser and more resistant to impact damage under daily use conditions. Bone china is lighter and more translucent, which gives it a refined appearance, but it chips more readily at the rim. For a set used every day, porcelain is the more practical material. For a formal set brought out occasionally, bone china's aesthetic qualities are worth the additional care."
+  - question: "Is gold or platinum banding on dinnerware safe for food contact?"
+    answer: "Yes, when the metallic decoration is fully fused into the glaze by a reputable manufacturer. The risk comes from thin washes of metallic decoration that are not properly fired — these can degrade with acidic foods or aggressive dishwasher detergents over time. Look for sets that specify lead-free and cadmium-free materials. Platinum banding on bone china is traditionally hand-washed, which the article identifies as a real household consideration rather than just a footnote."
+  - question: "Can art deco dinnerware go in the microwave?"
+    answer: "Most art deco sets with gold or platinum banding are not microwave-safe — metallic decoration causes arcing that can damage both the dinnerware and the appliance. Clear glass sets without metallic decoration are generally microwave-safe, but always confirm on the specific set you are purchasing. If microwave use is a daily requirement, this rules out all metallic-trimmed options in this category."
+  - question: "How many place settings do I need if I host dinners for six to eight people regularly?"
+    answer: "A standard four-place-setting set leaves you short. Look for sets in lines with open-stock availability so you can add two or four additional place settings rather than purchasing an entirely separate set. The Lenox Opal Innocence line specifically supports this kind of expansion. Alternatively, purchasing two four-person sets of the same pattern is a practical solution when the line does not offer individual place settings."
 ---
 
 Art deco dinnerware sits at an interesting crossroads , it's decorative enough to make a table feel dressed, but it still has to function through an actual dinner. The wrong set looks stunning in a shop photo and exhausting on a real table. I've spent considerable time with these styles, and the sets that earn permanent cabinet space are the ones that balance visual impact with practical durability. If you're building or refreshing a table with an art deco sensibility, the full range of [dinnerware and china](/dinnerware/) options is worth understanding before you commit.

@@ -35,6 +35,17 @@ products:
 tags: ["decor", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Do gold taper candles drip more than white ones?"
+    answer: "Color has nothing to do with drip rate — wax type does. Paraffin candles drip more than beeswax or beeswax-blend candles regardless of color. A gold taper made from paraffin will drip; the same color in a beeswax blend like the Root Candles Timberline burns much cleaner. If drip is a concern at your table, prioritize wax type over color when selecting."
+  - question: "Can twisted taper candles be used in standard candlestick holders?"
+    answer: "Yes, provided the base of the twisted candle is sized to a standard 7/8-inch socket, which most twisted tapers including the assorted set reviewed here use. The challenge is visual, not mechanical — a twisted taper in a heavily ornate holder creates too much competing detail. Simpler holders, a plain cylinder, a ring, or a minimal metal spike, let the form read clearly."
+  - question: "Twisted tapers vs. straight beeswax tapers — which is right for a formal dinner?"
+    answer: "For a long formal dinner where burn quality matters and you want the candles to look pristine at dessert, the Root Candles Timberline straight taper is the right choice. The beeswax blend burns cleaner, longer, and more evenly than a twist candle, which burns unevenly as wax pools on whichever side of the twist faces the flame first. Twisted tapers are a styling choice first and a burn-quality choice second — save them for occasions where the visual effect matters more than a four-hour burn."
+  - question: "Are the Michael Aram White Orchid holders practical for everyday use?"
+    answer: "They are functional for everyday use, but the enamel finish at the protruding petal edges is vulnerable to chipping if the holders knock against hard surfaces in storage. They hold up beautifully if stored carefully — individually wrapped or kept with space between them. For a table set and cleared frequently without deliberate handling, a holder with a more durable finish would be more practical for daily rotation."
+  - question: "How should taper candles be stored to prevent warping?"
+    answer: "Store tapers flat, away from heat sources, and away from direct sunlight, which fades color over time. Beeswax-blend tapers like the Root Candles Timberline are slightly more resistant to warping than paraffin, but no taper is immune to ambient heat from a cabinet near an oven or a car trunk in summer. A cool interior shelf or a drawer works better than a garage storage bin if you are buying ahead for a season."
 ---
 
 Gold taper candles are one of those small details that quietly change the feeling of an entire table. A pair of them at the center of a dinner setting signals intention , that someone thought about the evening, not just the food. Whether you're setting a table for the holidays or a dinner party that needs a bit of warmth, the right candle and the right holder matter more than most people expect. I've spent enough time sourcing [Decor & Candles](/decor/) for the table to have opinions about what actually works.

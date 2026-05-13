@@ -35,6 +35,17 @@ products:
 tags: ["dinnerware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is fine bone china suitable for everyday use as a daily mug?"
+    answer: "It depends on the piece and the household. Undecorated fine bone china mugs like the Royal Doulton Gordon Ramsay Maze are designed for daily use and tolerate dishwasher cycles well on the top rack. The limitation is chip vulnerability — rough dishwasher loading or careless stacking shortens the life of any bone china piece. In a careful household, daily use is entirely reasonable."
+  - question: "Bone china vs. porcelain mugs — what is actually different?"
+    answer: "Bone china includes bone ash — typically 30 to 45 percent of the body — which produces its characteristic lightness and translucency. Porcelain is fired at higher temperatures and is generally denser and more chip-resistant, but lacks the warm luminosity that makes bone china visually distinctive. For table presence, bone china has the advantage; for pure durability, porcelain is stronger."
+  - question: "Can I put fine bone china mugs with metallic trim in the dishwasher?"
+    answer: "No. Metallic trims — platinum, gold, silver — react with dishwasher detergent and heat, which strips the decoration over time. The Wedgwood Vera Wang Lace Bone China Teacup and Saucer is a clear example: it is a premium formal piece that requires hand-washing to preserve its platinum trim. If dishwasher use is non-negotiable in your household, choose undecorated bone china only."
+  - question: "How do I match a new bone china mug to my existing dinnerware?"
+    answer: "Buy within the same manufacturer's line where possible, since glaze tones and wall thickness are consistent across a single collection. If you are mixing brands, compare pieces in natural daylight rather than relying on product photography, which tends to neutralize tone differences. Warm cream bone china reads noticeably different from pure white against table linens, and the gap is most visible in natural light."
+  - question: "Which pick is best for a formal afternoon tea setting?"
+    answer: "The Wedgwood Vera Wang Lace Bone China Teacup and Saucer is the answer — the lace embossing and platinum-trimmed saucer are specifically designed for that context, and the saucer's scale makes it useful for petit fours as well. If you want something that bridges formal and casual use, the Mikasa Cameo White place setting gives you bone china refinement without the hand-wash-only constraint."
 ---
 
 Fine bone china mugs occupy a specific, worthwhile place in a well-set table , lighter in the hand than stoneware, with a translucency that catches the light in a way denser ceramics simply cannot match. If you're browsing [Dinnerware & China](/dinnerware/) for something that makes a morning coffee or an afternoon tea feel a little more considered, bone china is worth understanding before you buy.

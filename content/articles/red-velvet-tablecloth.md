@@ -35,6 +35,17 @@ products:
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is velvet a practical choice for a dinner table or only for display?"
+    answer: "The article calls velvet genuinely practical for seated dinner service as long as you understand its behavior. A machine-washable option like the Maison d'Hermine handles regular use on a delicate cycle reasonably well. The pile will show marks from plates and sleeves during service — that is the nature of the fabric — but those marks smooth out easily. For display tables or buffets, velvet performs without any compromise."
+  - question: "How much drop should a tablecloth have for a formal dinner?"
+    answer: "A formal dinner table traditionally carries a 10-to-15-inch drop on each side — enough fabric to hang with presence without reaching the floor, which is reserved for buffet and display tables. A drop under 8 inches reads as casual to the point of looking like the cloth was sized wrong. The article recommends measuring from the tabletop edge to your preferred hem height and comparing against the cloth's listed dimensions in both length and width before ordering."
+  - question: "April Cornell vs. Yves Delorme — which is more formal?"
+    answer: "The article distinguishes them clearly. The April Cornell Christmas Rose is festive and patterned, reading as warm and celebratory rather than formally elegant — best suited for a holiday family gathering with relaxed service. The Yves Delorme Triomphe is a French damask linen designed for formal and semi-formal occasions where the cloth itself is expected to signal quality, and it is the appropriate tier for a seated dinner with considered tableware and low candlelight."
+  - question: "Can a red tablecloth be used for occasions other than Christmas?"
+    answer: "A solid red velvet tablecloth works for Valentine's Day dinners, anniversary celebrations, and any table setting where deep color and formality are appropriate. The article notes that a more restrained setting with white or cream napkins and simple stemware can carry red through other formal occasions. The April Cornell Christmas Rose print is more season-specific by design — the botanical motif signals Christmas directly, limiting its versatility."
+  - question: "How do I get wrinkles out of a velvet tablecloth?"
+    answer: "The article is specific: never press velvet with a hot iron directly on the pile, as this will flatten and damage it permanently. Use a handheld steamer or hold the iron just above the surface without contact. Cotton voile like the April Cornell responds well to a steam iron on a medium setting or a steamer applied while the cloth is already draped on the table. Linen and damask flatten well with a hot iron and a pressing cloth."
 ---
 
 A red velvet tablecloth is one of those purchases that photographs beautifully in your head but arrives with real questions attached , the right drop, the right weight, whether it holds up after washing. If you're setting a holiday table or a formal dinner, the cloth sets the tone before a single plate is placed. The three options here cover a genuine range: budget velvet, mid-range printed cotton, and a French damask linen that represents the ceiling of what this category offers. All of it lives within the broader world of [table linens](/linens/) worth understanding before you commit.

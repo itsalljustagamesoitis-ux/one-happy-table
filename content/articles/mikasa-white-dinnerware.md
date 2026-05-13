@@ -35,6 +35,17 @@ products:
 tags: ["dinnerware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Mikasa Trellis White — is it fine china or stoneware?"
+    answer: "The Trellis White is fine china, not stoneware. Fine china is fired at high temperature and produces a denser, more vitrified surface than stoneware, which gives it that translucent quality and a thinner wall. The trade-off is rim fragility — fine china chips more readily than stoneware when pieces are stacked carelessly or knocked against hard surfaces."
+  - question: "What is the real difference between fine china and bone china?"
+    answer: "Both are vitrified, non-porous ceramics, but bone china incorporates calcined bone ash, making it lighter, more translucent, and slightly more resistant to breakage than standard fine china at equivalent thicknesses. A bone china mug like the Royal Doulton Gordon Ramsay Maze White feels noticeably lighter in hand than a fine china piece of the same size. Both require more care at the rim than stoneware."
+  - question: "Does the Lenox Opal Innocence platinum band hold up in the dishwasher?"
+    answer: "The platinum band does not survive repeated dishwasher cycles. Dishwasher detergents accelerate dullness and eventual wear on metallic trim, so the band requires hand-washing to stay intact. The bone china body itself is generally compatible with the dishwasher, but the metallic detail is the constraint. This is a pattern designed for entertaining rather than daily machine-washing."
+  - question: "Can I mix Mikasa Trellis White with other white dinnerware patterns on the same table?"
+    answer: "Yes, with attention to visual weight. The embossed vine pattern has a traditional character that coordinates most naturally with formal linens and similarly scaled plates. Within an all-white table palette, the embossing reads as texture rather than pattern, which makes mixing easier than it would be with colored or strongly graphic pieces. It sits less comfortably alongside stark modern profiles."
+  - question: "How do I know if a Mikasa or Lenox pattern will still be available when I need to replace a broken piece?"
+    answer: "Check the manufacturer's website directly for current catalog listings, and look at whether the pattern's supplemental pieces — serving bowls, platters, mugs — are still available for purchase. Patterns with a full active line are safer long-term investments than those only available as closed set configurations. Retailer availability alone is not a reliable signal, since retailers often hold inventory on discontinued patterns for years after production has ended."
 ---
 
 Mikasa makes some of the most recognizable white dinnerware in the American market, and for good reason , the construction quality relative to the price is genuinely hard to argue with. If you've been browsing [Dinnerware & China](/dinnerware/) and keep circling back to Mikasa's white patterns, you're working through a real decision, not just window shopping.

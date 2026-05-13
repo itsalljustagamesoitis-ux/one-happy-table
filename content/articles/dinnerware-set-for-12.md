@@ -35,6 +35,17 @@ products:
 tags: ["dinnerware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is a 12-piece dinnerware set enough for a table of twelve people?"
+    answer: "A standard 12-piece set covers four place settings — three pieces per person, typically a dinner plate, salad plate, and bowl. To seat twelve, you need three 12-piece sets or a bundle explicitly marketed as a service for twelve. Always confirm the per-person piece count in the product description before purchasing, and verify that replacement pieces are available as open stock."
+  - question: "Porcelain vs. Vitrelle glass for everyday use — which is better?"
+    answer: "Both perform well in the dishwasher and microwave, but they fail differently under stress. Porcelain can chip at the edge when knocked; Vitrelle glass is more chip-resistant but shatters cleanly when dropped from a significant height. For households with children or high daily turnover, Vitrelle's non-porous surface and lighter weight tend to make it easier to sustain over years of actual use."
+  - question: "Can I put the Lenox Opal Innocence set in the dishwasher?"
+    answer: "The bone china body is generally dishwasher-safe, but the platinum band is not — metallic banding degrades under repeated dishwasher exposure. Pieces with the platinum rim need hand-washing. If your household runs the dishwasher after every meal and hand-washing a fine china set is not realistic, the Lenox Butterfly Meadow set is fully dishwasher-safe throughout with no exceptions."
+  - question: "How do I pick a dinnerware pattern that works year-round, not just for one season?"
+    answer: "Lay your existing linens and table accessories alongside the pattern before committing. A heavily illustrated pattern is seasonally evocative and can feel mismatched with the neutral tones of a different season's table. Restrained patterns with a white or near-white body and minimal decoration tend to span seasons and occasions more flexibly, which is why classic designs with simple banding remain popular across decades."
+  - question: "What is the difference between bone china and regular porcelain?"
+    answer: "Bone china incorporates bone ash into the clay body during firing, producing a warmer, more translucent white and a noticeably lighter finished piece compared to standard porcelain. It is also marginally stronger despite its lighter weight. The trade-offs are cost — bone china commands a premium — and care requirements, since decorative elements like platinum bands typically require hand-washing."
 ---
 
 Feeding twelve people at a single table is an event , whether it's Thanksgiving, a milestone birthday, or just the kind of Sunday dinner that keeps growing. The right [dinnerware set for 12](product:corelle-impressions-16pc-dinnerware) carries more weight than most people expect: it frames the food, holds up through the washing, and either survives daily use or breaks your heart when it chips on the third outing.

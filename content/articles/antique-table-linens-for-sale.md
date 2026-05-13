@@ -35,6 +35,17 @@ products:
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Antique white vs ivory vs cream tablecloth — are they actually different colors?"
+    answer: "Not dramatically, but the difference matters when matching to china. Antique white typically has a slightly greyer or more muted undertone compared to the yellow warmth of true ivory. All three sit in the warm-white family and coordinate naturally with aged silver, gold accents, and warm wood. Against cool or pure white porcelain, any of them can read slightly off — test your tablecloth against your china before committing."
+  - question: "Full tablecloth vs table runner for a formal dinner — how do I choose?"
+    answer: "It depends on the table surface and the formality of the setting. A full cloth signals occasion and hides the table; a runner shows the table's surface while adding textile warmth. For a very formal seated dinner, a full cloth is conventional. For a farmhouse or rustic aesthetic — particularly if the table itself is a feature — a runner is often the better choice. Layering both gives you the option to change the table's feel seasonally by swapping only the runner."
+  - question: "Will navy blue tablecloths show food stains more than lighter colors?"
+    answer: "Light-colored stains — cream sauces, light wines, flour — show more on deep navy than on ivory or antique white. Dark stains — red wine, tomato, coffee — show less. Whether that trade-off works in your favor depends on what you typically serve. Lint and light pet hair are also highly visible on the navy cloth, so a lint roller becomes part of the setup routine."
+  - question: "Do pintuck tablecloths require special laundering?"
+    answer: "They don't require specialist care, but they do require thorough care. The pintuck folds collect food residue during a dinner service that a flat-weave cloth would not trap. A standard machine wash cycle is adequate, but the temperature and agitation need to be sufficient to clear the folds. A quick or delicate cycle after a full dinner party is unlikely to be enough — soaking before washing is worth doing after any particularly involved meal."
+  - question: "Can a stonewashed linen runner be ironed flat if I prefer a crisper look?"
+    answer: "Technically yes, but the result won't hold for long and the fabric is not designed for it. The stonewashed finish on pieces like the Juliska Country Estate Table Runner is produced specifically to resist crisp pressing — the fibers have been relaxed as part of the manufacturing process. If a pressed, smooth runner is what you need, look for a piece described as linen blend or cotton-linen rather than stonewashed linen, and confirm it is recommended for ironing."
 ---
 
 Antique table linens reward patience , and they punish impulse buying. Whether you're hunting for genuine vintage pieces or new cloth with that softened, heirloom quality, the difference between a table that feels considered and one that just feels old comes down to how well the linen suits your specific china, wood tone, and occasion. Exploring the full range of [table linens](/linens/) before committing to a single direction is time well spent.

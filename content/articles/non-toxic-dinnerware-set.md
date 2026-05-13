@@ -35,6 +35,17 @@ products:
 tags: ["dinnerware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Stoneware vs. bone china — which is safer from a lead and cadmium standpoint?"
+    answer: "Both can be safe choices if manufactured by reputable brands with FDA-compliant glazes. The clay body itself — stoneware versus bone china — is not the primary variable. What matters is the glaze composition and any overglaze decorations, which is where lead and cadmium have historically appeared. For either material, look for brands that publish third-party testing documentation or cite Proposition 65 compliance, and follow care instructions to prevent glaze degradation."
+  - question: "Does a pattern on dinnerware affect whether it is non-toxic?"
+    answer: "Yes, indirectly. Plain or minimally decorated pieces with tonal glazes have fewer overglaze applications, which reduces the number of potential sources for lead and cadmium. Highly illustrated patterns with multiple colors and metallic accents involve more decorative layers. That does not mean patterned dinnerware is unsafe — it means that with more complex decoration, the manufacturer's compliance documentation matters more, not less."
+  - question: "Gibson Manila Bay vs. Lenox Butterfly Meadow — which is more durable for daily use?"
+    answer: "The Gibson Elite Manila Bay is stoneware; the Lenox Butterfly Meadow is porcelain. Stoneware's clay body is denser and thicker, which generally makes it more resistant to chipping from everyday use, stacking, and dishwasher cycles. Porcelain produces a finer surface finish but is more vulnerable to impact. For a household that puts its everyday dishes through demanding daily use, the Gibson set's stoneware construction is the more durable practical choice."
+  - question: "Can the Lenox Opal Innocence set go in the dishwasher?"
+    answer: "The bone china body of the Lenox Opal Innocence is generally dishwasher-safe, but the platinum band is not. Dishwasher detergents are abrasive enough to degrade metallic overglaze decorations over time, affecting both the appearance of the band and the integrity of the surface. For any china with metallic banding, hand-washing is the right approach if you want the set to remain in good condition long-term."
+  - question: "How many place settings do I need if I primarily entertain small groups?"
+    answer: "A 12-piece service for four covers most small-group entertaining scenarios — dinner for two couples, a holiday meal for close family, a casual dinner party that stays intimate. If your typical gathering size is six to eight, a service for four leaves you short without supplemental pieces. Buying into an expandable line like Lenox Opal Innocence means you can add place settings as needs grow rather than replacing the whole set."
 ---
 
 Finding dinnerware that looks beautiful and raises no questions about what's in the glaze or clay body has become a real priority for a lot of households. If you're shopping our [Dinnerware & China](/dinnerware/) hub, you already know there's no shortage of options , the harder task is sorting the genuinely clean choices from the ones that trade on vague "natural" language without backing it up.

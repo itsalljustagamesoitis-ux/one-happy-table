@@ -35,6 +35,17 @@ products:
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What size tablecloth fits a 6-foot banquet table?"
+    answer: "A 6-foot banquet table is 72 inches long and 30 inches wide. For an 8-inch drop on all sides, you need a cloth approximately 88 inches long by 46 inches wide. Floor-length coverage on a 30-inch-tall table requires 102 by 60 inches. Measure your actual table height before buying — vintage and non-standard tables vary more than you expect."
+  - question: "Polyester vs cotton tablecloth for a 6-foot table — which is better?"
+    answer: "Polyester resists wrinkles, washes easily, and travels well — it's the right choice for events, outdoor settings, and multi-table hosting where consistency matters more than texture. Cotton drapes more naturally and reads as higher quality at close range, but requires more careful washing and often pressing. If you're hosting large gatherings frequently, polyester; if the table is the focal point of a dinner party, cotton."
+  - question: "Fitted vs flat tablecloth — what's the practical difference on a banquet table?"
+    answer: "A fitted tablecloth uses elastic edges or tailored corners to grip the table and stay in place regardless of minor dimensional variations. A flat tablecloth relies entirely on accurate dimensions relative to the table. Fitted styles are more practical for events where the table will be bumped or accessed repeatedly; flat styles typically offer a more formal appearance and a wider range of fabric options."
+  - question: "How do I prevent a dark tablecloth from fading in the wash?"
+    answer: "Cold-water washing in the first several cycles is essential for deep-dye fabrics — jewel tones and dark solids are most vulnerable to color migration when warm water is used. Turn the cloth inside out before washing, avoid high-heat drying, and store separately from white or light linens until the dye is stable. A jacquard-woven pattern is inherently more fade-resistant than a surface print because the color is structural, not applied."
+  - question: "Is a woven tablecloth pattern worth the premium over a printed one?"
+    answer: "For longevity, yes. A printed pattern will eventually fade or crack at the print surface, particularly with hot-wash cycles. A jacquard-woven pattern is part of the fabric structure itself and won't degrade independently of the cloth. If you plan to use the tablecloth regularly over several years, a woven pattern represents better long-term value despite the higher entry cost."
 ---
 
 Finding a tablecloth that fits well, looks intentional, and survives a full season of hosting is harder than it sounds. The category sits squarely in [Table Linens](/linens/) territory, and the options range from wrinkle-resistant event-hall polyester to heirloom-weight Egyptian cotton , with everything in between. Knowing what separates a cloth worth owning from one worth skipping is the first step.

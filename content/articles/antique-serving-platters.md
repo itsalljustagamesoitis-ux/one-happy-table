@@ -35,6 +35,17 @@ products:
 tags: ["serveware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Michael Aram Olive Branch Serving Platter vs Godinger silver round — is the premium worth it?"
+    answer: "It depends on what you're buying for. The Godinger delivers a convincing antique-silver appearance at a budget price — it's a functional serving piece that photographs well. The Michael Aram is a handcrafted sculptural object with a documented secondary market and a finish that develops character over time. For display, collecting, or a long-term piece, the Michael Aram justifies the premium. For occasional hosting on a tighter budget, the Godinger covers the visual need effectively."
+  - question: "Can antique-style serving platters be used with hot food?"
+    answer: "Porcelain platters like the Lenox Butterfly Meadow handle moderate heat reasonably well — they retain warmth for passed dishes but aren't designed for oven-to-table use. Metal platters with oxidized or coated finishes should not be used with very hot food directly from the oven, as sustained heat can affect the surface treatment. For cold presentations — cheese boards, charcuterie, appetizer spreads — all three platters work without restriction."
+  - question: "What size serving platter works best for a dinner party of six to eight?"
+    answer: "For a seated dinner of six to eight, a 13-inch oval handles a main course presentation without dominating the table — the Lenox Butterfly Meadow platter is a practical example of this format. For a buffet or sideboard arrangement where the platter isn't sharing surface space with side dishes and glassware, 16 inches gives you room for a full spread. The right size is a function of how you're serving, not just how many people you're feeding."
+  - question: "How do I prevent scratches on a silver-tone serving platter?"
+    answer: "The silver-tone finish on the Godinger platter is more vulnerable to scratching than solid silver or silver-plate. Use serving utensils with silicone-coated tips rather than bare metal, and hand-wash with a soft cloth — avoid abrasive sponges. Store the platter separately from other metal pieces, or place felt between stacked items. Scratches that accumulate on a coated finish don't develop the appealing patina that genuine silver does, so prevention is worth the habit."
+  - question: "Does the Lenox Butterfly Meadow platter work with non-Lenox dinnerware?"
+    answer: "It can, but the pattern is specific enough that it works best in its own ecosystem. The Butterfly Meadow print — hand-painted florals with insects on a white ground — has a distinctive character that can compete visually with unrelated patterns rather than complementing them. If your existing dinnerware is neutral or simple in pattern, it may integrate reasonably. If your dinnerware already has a strong pattern, the Butterfly Meadow platter is more likely to create visual noise than coherence."
 ---
 
 Antique serving platters occupy a particular place at the table , they're the pieces guests notice before the food arrives. Whether you're hunting for something with genuine age behind it or a new piece that carries the visual weight of a collected heirloom, the [serveware](/serveware/) category rewards patience and a clear sense of what you're actually trying to accomplish. One detail separates a confident purchase from a regrettable one: understanding whether you want display value, everyday function, or both.

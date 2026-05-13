@@ -35,6 +35,17 @@ products:
 tags: ["dinnerware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Royal Doulton vs Royal Worcester — what's the actual difference?"
+    answer: "They are separate heritage brands with distinct histories. Royal Doulton was founded in London in 1815 and tends toward contemporary and transitional styles. Royal Worcester dates to 1751 and is more associated with traditional English patterns like Evesham Gold. Both have been owned by the same parent company in recent years, but their design languages are noticeably different."
+  - question: "Which Royal Doulton pattern is best for everyday use?"
+    answer: "The 1815 White collection is the most practical choice. It's porcelain rather than fine bone china, both dishwasher and microwave safe, and the plain off-white surface works alongside most table settings without requiring careful coordination. The Gordon Ramsay Maze lines are a close second — designed specifically for everyday kitchens with a similar practical profile."
+  - question: "Can Royal Doulton bone china go in the dishwasher?"
+    answer: "It depends on the specific piece. Most Royal Doulton porcelain and stoneware is dishwasher safe. Fine bone china without metallic decoration can usually tolerate the dishwasher on a gentle cycle, but pieces with gold or platinum rim detail — like the Evesham Gold — should always be hand-washed. Dishwasher detergents degrade metallic trim over time in a way that cannot be reversed."
+  - question: "Is the Evesham Gold pattern still available if a piece breaks?"
+    answer: "Evesham Gold has a strong secondary market, which means individual replacement pieces are findable through specialist retailers and auction platforms even if primary production is limited. That secondary market is one of the pattern's genuine strengths — it's collected actively enough that a broken soup bowl isn't necessarily a permanent loss. Verify availability for specific pieces before committing to the set."
+  - question: "How does Royal Doulton compare to Lenox for a mid-range dinner set?"
+    answer: "Both brands produce reliable mid-range porcelain with good glaze quality. Lenox leans toward more decorative patterns — Butterfly Meadow being the most recognizable — while Royal Doulton's mid-range offering like the 1815 White is distinctly plainer and more adaptable to different table aesthetics. Dishwasher and microwave compatibility is comparable across both; the choice is largely about whether you want pattern or restraint."
 ---
 
 Royal Doulton has been producing tableware in England since 1815, and that history shows up in every piece , not as self-congratulation, but as a particular standard of weight, glaze, and proportion that cheaper brands rarely match. If you're searching for a set that holds up to real dinner parties and Tuesday nights in equal measure, you're already asking the right questions about [dinnerware](/dinnerware/).

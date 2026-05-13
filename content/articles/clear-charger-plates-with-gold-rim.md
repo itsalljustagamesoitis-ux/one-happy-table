@@ -35,6 +35,17 @@ products:
 tags: ["dinnerware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Clear acrylic or porcelain charger with gold rim — which is worth buying?"
+    answer: "It depends on how often you entertain and how long you expect the piece to last. Acrylic chargers with a gold rim cost far less and deliver a strong visual effect when new, but the surface scratches with stacking and the gold paint can chip with aggressive cleaning. Glazed porcelain like the Mikasa Metropolitan holds its finish through dishwasher cycles and looks as good in year three as it did on arrival. For hosts who set a formal table more than a few times a year, porcelain is the more honest investment."
+  - question: "How wide should the gold rim be on a charger plate?"
+    answer: "Rim width determines how much visual presence the charger has once a dinner plate is stacked on top. A narrow gold band reads as a refined accent and keeps the clear field dominant. A wider rim, particularly on a 13-inch plate like the Juliska Berry and Thread, becomes the design statement and is visible even when the dinner plate covers the center. Neither is wrong, but a narrower rim suits tables where the dinnerware is already expressive, while a wider rim earns its place on simpler white or cream settings."
+  - question: "Can I use gold-rim charger plates outdoors?"
+    answer: "Acrylic chargers are lighter and more drop-resistant than porcelain, which makes them more practical for outdoor settings. The limitation is UV exposure — prolonged sunlight can yellow clear acrylic over time and may fade the gold rim finish. For a single outdoor event the Efavormart set is a reasonable choice, but for regular outdoor hosting the finish degradation will show faster than it would indoors."
+  - question: "Why is the Juliska Berry and Thread charger best used under plain dinner plates?"
+    answer: "The hand-applied berry and thread motif in relief is detailed enough to function as the primary visual element at each place setting. Pairing it with patterned or highly decorated dinner plates creates visual competition — two strong design elements fighting for attention at the same place setting. The charger reads most clearly and elegantly alongside simple white or cream dinner plates that let the relief carry the interest."
+  - question: "How many gold-rim charger plates do I need for a dinner party?"
+    answer: "Twelve is the practical minimum for most hosts who seat eight or more, giving you a buffer for breakage and settings that look deliberate rather than assembled. The Efavormart set of 12 solves this in a single purchase. The Mikasa and Juliska options are sold individually or in smaller quantities, which requires advance planning — buy all the pieces at once rather than incrementally to avoid variation between production batches."
 ---
 
 Charger plates do more visual work than almost any other piece on a dressed table, and the gold rim variety pulls that off without requiring a complete china overhaul. If you're browsing [Dinnerware & China](/dinnerware/) options and wondering whether clear charger plates with a gold rim are worth the investment , the short answer is yes, with the right pick for your situation.

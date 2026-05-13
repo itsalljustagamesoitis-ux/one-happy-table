@@ -35,6 +35,17 @@ products:
 tags: ["decor", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How many votive candle holders do I need for a dinner table?"
+    answer: "For a dinner table of eight, a set of twelve gives you one at each place with extras for a centerpiece cluster. Buying too few from one production run and supplementing later risks a mismatch in glass shade or finish. Starting with the quantity you need for your largest realistic occasion — not your average one — is the more practical approach, which is exactly the logic behind choosing a 12-pack like the Circleware set."
+  - question: "Tea light holders versus votive holders — can I use either interchangeably?"
+    answer: "They are close in size but not interchangeable. Votive holders are taller and designed to contain a votive candle as it burns down within the glass. Tea light holders are shallower, designed to hold the small aluminum-cupped candle at surface level. A votive candle placed in a tea light holder that is too shallow will leave the flame uncontained, which is a safety issue. Matching candle type to holder design is the right practice."
+  - question: "What is the easiest way to remove wax from glass votive holders?"
+    answer: "The freezer method works reliably: place the spent holder in the freezer for an hour and the contracted wax pops free with light pressure from a wooden or silicone tool. Avoid metal tools against glass, which scratch the interior over time and are the most common cause of the hazy look that accumulates in frequently used votives. A warm water soak handles remaining wax residue, and a drop of dish soap clears the oily film."
+  - question: "Is the lacquered brass pillar candle holder suitable for outdoor entertaining?"
+    answer: "Lacquered brass finishes are not designed for sustained outdoor exposure. Humidity and temperature swings accelerate the edge peeling that can happen even with indoor use over time. The Dwell Studio brass set is best kept as an indoor holder. For a covered porch or outdoor dining table, look for powder-coated metal or sealed ceramic options designed to handle moisture."
+  - question: "How do I style simple glass votives alongside sculptural candlestick holders without the table looking cluttered?"
+    answer: "Keep one type as the primary focal point and let the other play a supporting role. A pair of sculptural Michael Aram Butterfly Ginkgo holders at the center, flanked by a line of clear glass votives, gives the sculptural piece room to read clearly while the votives add warmth and volume across the table. When everything on the table competes for attention equally, nothing wins — choose a focal point and let the rest support it."
 ---
 
 Candles do more for a dinner table than almost anything else , they soften the light, slow the pace, and signal to everyone sitting down that the evening matters. But the holders you choose shape how that candlelight actually lands, and a mismatched set can undercut an otherwise beautiful table. Choosing well means thinking past the candle itself.

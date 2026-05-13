@@ -35,6 +35,17 @@ products:
 tags: ["serveware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What size serving platter do I need for a dinner party of eight?"
+    answer: "Sixteen inches is the practical minimum for a centerpiece platter serving eight guests. At thirteen inches, a platter works for six but begins to feel tight for eight. For a cheese or charcuterie board anchoring a cocktail hour for eight, sixteen inches is the floor and a round format works better than an oval for that specific application."
+  - question: "Can a vintage-inspired serving platter go in the microwave?"
+    answer: "It depends on the material. Porcelain platters without metallic decoration are generally microwave-safe, but confirm with the manufacturer's care instructions for the specific piece. Metal platters and any platter with a silver-tone finish or metallic rim detailing should never go in a microwave. When uncertain, use the platter for serving only and reheat food separately."
+  - question: "Is the Juliska Berry and Thread platter durable enough for regular use?"
+    answer: "Yes, with appropriate care. Hand-crafted stoneware is structurally durable and will not shatter from a bump the way thin porcelain might. The vulnerability is the hand-applied relief detail, which can degrade with harsh dishwasher detergent over repeated cycles. Hand-wash and store it carefully, and it will hold up well with frequent use."
+  - question: "Should I buy a pattern-specific platter like the Lenox Butterfly Meadow if I don't own the matching dinnerware?"
+    answer: "Probably not. The Butterfly Meadow motif is distinctive enough that it reads as part of a matched set — using it alongside unrelated dinnerware creates visual noise rather than character. If you want a floral porcelain platter as a standalone piece, a simpler pattern in a complementary color will mix more naturally. The Butterfly Meadow platter is a set-completion purchase, not a general-purpose entertaining platter."
+  - question: "How do I protect a silver-tone metal platter from scratching?"
+    answer: "Use serving pieces with silicone-coated tips rather than bare metal utensils, which will scratch the finish. Hand-wash with warm water and a soft cloth — never abrasive scrubbers. Dry immediately to prevent water spots, and store away from metal utensils between uses. Scratches on a silver-tone finish are visible and cannot be buffed out, so prevention is the only strategy."
 ---
 
 Vintage serving platters sit at an interesting crossroads , they're practical pieces you actually use, and decorative objects that can anchor a whole table. If you're drawn to antique silver finishes, hand-thrown ceramics, or the kind of detailed porcelain pattern that reads like an heirloom, the collector market has shaped what's available and what buyers expect at every price point. The challenge is finding pieces that deliver that aesthetic without requiring estate-sale patience or antique-dealer prices. The options in [serveware](/serveware/) have expanded considerably, and a few manufacturers have gotten genuinely good at this.

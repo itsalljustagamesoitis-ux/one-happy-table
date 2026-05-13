@@ -35,6 +35,17 @@ products:
 tags: ["decor", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Are Michael Aram candle holders worth the premium price?"
+    answer: "For buyers who want a table object with genuine design identity, yes. Michael Aram pieces are hand-crafted with a sculptural vocabulary — the vine-twist and ginkgo leaf motifs — that reads as art rather than accessory. The article notes the organic nature-motif aesthetic has been consistent for decades and reads as classic rather than fashionable, which changes the value calculation toward a one-time investment. If you want candlelight without a statement object, a glass hurricane delivers the function at a fraction of the cost."
+  - question: "Michael Aram twist candle holder vs hurricane glass — which is better for a dinner table?"
+    answer: "They serve different purposes. The Michael Aram Twist is a sculptural object that commands attention even when unlit — people will notice and comment on it. The hurricane glass nearly disappears until there is a candle in it, protecting the flame from air movement and extending burn time. For a table where atmosphere is the goal and the holder should not compete with the food or florals, the hurricane is the more practical choice. For a table where the setting itself is the statement, the Michael Aram piece earns its place."
+  - question: "Can Michael Aram Butterfly Ginkgo candlesticks be used outdoors?"
+    answer: "The open metalwork design makes them better suited to indoor settings. Wind affects an unprotected taper directly, and outdoor conditions accelerate oxidation of the metal finish in ways that are not always attractive. For outdoor entertaining, a hurricane holder is the more practical choice — the glass chimney protects the flame and the enclosed cylinder handles outdoor conditions better than open decorative metalwork."
+  - question: "How do I clean wax residue out of intricate metalwork candle holders?"
+    answer: "Let the wax cool and harden completely before touching it — picking at warm wax deforms the metalwork. Once hardened, most wax can be removed gently with a wooden skewer or soft brush. For residue in deep crevices, warm water with mild soap and a soft-bristle brush works well. Avoid harsh chemicals or abrasive pads, which can damage the oxidized finish that defines Michael Aram pieces."
+  - question: "Mixed metal vs single-finish candle holders — which is more versatile for different table settings?"
+    answer: "Mixed metal finishes that combine silver and gold tones — like the Butterfly Ginkgo pair — are more versatile than single-finish pieces because they pick up both warm and cool tones in the room. A strictly warm finish limits compatibility with cool-toned linens and silver flatware, and vice versa. If your table setting is not fixed to one palette across occasions, a mixed-finish holder gives you considerably more flexibility."
 ---
 
 Candle holders are one of those table details that either pull a setting together or disappear into the background entirely. Whether you're drawn to Michael Aram's sculptural metalwork or looking for something more neutral that still earns its place on the table, the choices in this category range from investment pieces to practical standbys. There's a full range of options worth exploring in [Decor & Candles](/decor/) before you commit to a style.

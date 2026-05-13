@@ -35,6 +35,17 @@ products:
 tags: ["glassware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Are blue champagne flutes functional for everyday use or just decorative?"
+    answer: "Both, depending on which you choose. The Estelle cobalt flutes are genuinely functional with proper bowl shape and capacity, but their visual presence means most buyers reach for them when the table is being set for a reason. The Zwiesel Glas Enoteca, with dishwasher-safe Tritan crystal, is better suited to regular use. Blue glass does not impair the drinking experience, though it does make the wine's color invisible."
+  - question: "What is the difference between Zwiesel Tritan crystal and standard lead-free crystal?"
+    answer: "Tritan is Zwiesel's proprietary crystal formula engineered to resist the progressive cloudiness that affects most lead-free crystal after repeated dishwasher cycles. Standard lead-free crystal develops a dull haze over time from thermal and chemical stress in the dishwasher. Tritan resists that degradation, which is why the Zwiesel Enoteca can be dishwasher-safe without the long-term visual cost that makes other crystal effectively hand-wash-only."
+  - question: "Can I use champagne flutes for drinks other than champagne?"
+    answer: "Yes. The flute shape works well for any sparkling wine — prosecco, cava, petillant naturel — and the narrow bowl preserves carbonation and concentrates effervescence. Some hosts use flutes for sparkling water or cocktails at celebrations where the glass is part of the visual presentation. The Govino shatterproof flutes work well for any outdoor sparkling drink regardless of what is in them."
+  - question: "How do I order enough Estelle flutes for a large dinner party without visible batch variation?"
+    answer: "Order all sets at once from the same production batch if possible, and order directly from Estelle rather than through third-party resellers. Hand-blown glass from different production runs will show more variation in color saturation and form than sets made in the same batch. For a table of eight, that means ordering four pairs in a single transaction."
+  - question: "Crystal or shatterproof flutes — which should I use for an outdoor party?"
+    answer: "Crystal and colored glass do not belong outdoors. Any glass flute is one bumped elbow from a shattered mess near a pool or on a deck. The Govino shatterproof BPA-free polymer flutes solve that problem and are the correct answer for outdoor settings. Some hosts maintain two sets — crystal for the indoor table, Govino for the lawn or rooftop — which is practical category separation rather than excess."
 ---
 
 Blue glass champagne flutes occupy a genuinely narrow corner of the [Glassware & Crystal](/glassware/) world , specific enough that most buyers already know what they want, but varied enough that the wrong choice is easy to make. Whether you're setting a formal table or reaching for something at the pool, the flute you choose shapes the experience as much as what's in it.

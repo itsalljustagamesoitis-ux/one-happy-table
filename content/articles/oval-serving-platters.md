@@ -35,6 +35,17 @@ products:
 tags: ["serveware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What size oval serving platter is right for most home entertaining?"
+    answer: "A 14-inch platter handles the majority of home entertaining scenarios well — it fits a standard roast, a generous cheese board, or a family-style vegetable dish without overwhelming a four- or six-person table. A 16-inch platter serves a larger gathering but can look sparse at an intimate dinner. The article advises starting with 14 inches and scaling up only when the occasion genuinely requires it."
+  - question: "Stoneware vs. porcelain for an oval serving platter — which is more practical?"
+    answer: "Stoneware tolerates oven-to-table transitions that porcelain typically does not, making it the more practical choice for hosts who finish dishes in the oven and carry them directly to guests. Porcelain is lighter and often more refined in appearance but requires more careful handling. For everyday or frequent entertaining use, stoneware's durability gives it a clear practical edge over porcelain at comparable price points."
+  - question: "Can I use a decorative metalwork platter like the Michael Aram for hot food?"
+    answer: "Metalwork platters are designed for room-temperature presentations — cheese, bread, fruit, and appetizers rather than oven-hot dishes. The metal is not oven-safe, and the oxidized finish reacts to prolonged contact with acidic foods. Treat them as presentation pieces rather than cooking vessels, and the finish will hold up as intended for years. A separate baking dish and the transfer step are required whenever you serve hot food."
+  - question: "Does the Lenox French Perle Blue Platter coordinate with French Perle White pieces?"
+    answer: "Yes — the French Perle pattern is designed to mix colorways intentionally, so the Blue and White pieces work together on the same table without visual conflict. This is one of the pattern's most practical features for collectors who want to build a serveware ensemble over time. The shared beaded border design is consistent across colors, which creates coherence even as the palette shifts between pieces."
+  - question: "What is the difference between a serving platter and a charger plate?"
+    answer: "A serving platter holds food in the center of the table and is passed or served from. A charger plate sits as a decorative base under a dinner plate at each place setting and is typically removed before the main course is served. The two pieces occupy different roles on a table, though a flat, wide platter can occasionally serve as a charger for a styled or casual setting."
 ---
 
 Oval platters have a way of making a table look like someone actually thought about it. The shape follows the natural logic of a meal , it frames a roast, organizes a cheese selection, handles a pile of vegetables without looking accidental. I've tested, used, and passed along a lot of [serveware](/serveware/) over the years, and the platter is where most people either invest thoughtfully or grab whatever's closest.

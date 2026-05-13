@@ -35,6 +35,17 @@ products:
 tags: ["glassware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Tulip vs straight champagne flute — which keeps bubbles longer?"
+    answer: "A straight, narrow flute preserves carbonation longest by minimizing the surface area through which bubbles can escape. A tulip flute like the Riedel Ouverture opens at the rim, which releases carbonation faster but concentrates aromatics toward the nose. If the visual column of rising bubbles matters most, go straight. If you want to taste what is in the glass, go tulip."
+  - question: "Are crystal champagne flutes dishwasher safe?"
+    answer: "Most manufacturers say yes, but material matters. Tritan crystal used in the Zwiesel Glas Enoteca resists the milky clouding that afflicts standard lead-free crystal after repeated dishwasher cycles. Pressed glass like the Libbey Embassy handles the dishwasher without complaint. For any tall-stemmed flute, avoid loading upright in a basket — lateral stress during the wash cycle strains the stem-to-foot join even on dishwasher-safe crystal."
+  - question: "How many champagne flutes do I need for a dinner party of eight?"
+    answer: "You need at least eight matching flutes, and buying a single eight-pack like the Libbey Embassy is the cleanest solution. Buying pairs and assembling a set over time creates a matching problem when one breaks. For a household that entertains occasionally rather than regularly, two sets of four gives flexibility without the storage challenge of twelve stems."
+  - question: "Is Tritan crystal worth paying more than standard crystal for champagne flutes?"
+    answer: "For flutes you use regularly and run through the dishwasher, yes. Standard lead-free crystal develops a mineral-and-detergent film over time that is hard to reverse. Tritan crystal is harder and more resistant to that degradation, so the clarity you paid for at purchase holds up. If your flutes come out a few times a year and get hand-washed carefully, the difference matters less."
+  - question: "Can champagne flutes be used for prosecco and other sparkling wines?"
+    answer: "Yes — the shape logic applies to any sparkling wine regardless of origin. A straight flute works for Prosecco, Cava, Crémant, or Pét-Nat the same way it works for Champagne. Prosecco is typically fruitier and more aromatic than Champagne, so a tulip shape arguably benefits it more by directing those aromas toward the nose. A straight flute remains fully serviceable if you are not optimizing for tasting."
 ---
 
 Choosing a champagne flute sounds straightforward until you're standing in front of a dozen options and realizing the differences matter more than you'd expect. Bubble retention, stem weight, clarity under candlelight , these are the details that separate a flute you'll reach for every celebration from one that sits in the back of the cabinet. If you're building out your entertaining collection, the full range of [glassware and crystal](/glassware/) options is worth a look before you commit.

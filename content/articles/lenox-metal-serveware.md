@@ -35,6 +35,17 @@ products:
 tags: ["serveware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is the Lenox French Perle platter dishwasher safe?"
+    answer: "Yes, the porcelain construction handles machine washing well. The trade-off is the beaded rim — food residue collects between the pearls and a quick rinse cycle may not clear it completely. Inspect the rim after washing and hand-clean any trapped debris before storing. The white surface also shows cutlery marks over time if you slice directly on it, so use a separate cutting board."
+  - question: "Lenox French Perle vs Juliska Berry and Thread — which platter is better for a holiday table?"
+    answer: "The deciding factor is maintenance tolerance and visual intent. The Lenox French Perle is dishwasher safe and works in mixed table settings without demanding the rest of the table follow its lead. The Juliska is hand-wash only but offers more distinctive visual presence — the hand-applied relief becomes the focal point of the table. If your holiday dinnerware is already expressive, the Lenox lets it lead. If you want the platter to anchor the setting, Juliska earns it."
+  - question: "Are natural wood place card holders appropriate for a formal dinner?"
+    answer: "Natural wood reads casual by nature and that does not shift regardless of how the rest of the table is styled. For formal or black-tie settings, silver or brass holders are the appropriate choice. The wooden holders work best at organic, farmhouse, or rustic tables where the warmth of the material reinforces the mood rather than contradicting it."
+  - question: "What platter size do I need for a whole roast at a dinner party?"
+    answer: "The article recommends a 14-to-16-inch platter for main-course presentations. The Lenox French Perle at 16 inches gives enough surface area for a full roast without food hanging over the edge, with room for garnish. For appetizers, cheese boards, or passed dishes, a 10-to-12-inch range is easier to handle and pass around the table."
+  - question: "Can the Juliska Berry and Thread platter go in the dishwasher occasionally?"
+    answer: "It will survive an occasional machine wash, but it is not recommended. The hand-applied relief detail and whitewash surface finish are affected by repeated dishwasher heat and detergent — the motif's definition gradually softens and the surface finish dulls over time. If you are investing in a piece at this level, consistent hand-washing is worth the extra two minutes to protect what makes it worth owning."
 ---
 
 Serving platters do a lot of work at a table , they carry the food, yes, but they also carry the mood. A piece of [serveware](/serveware/) that feels considered makes a roast chicken look like an occasion and a cheese board look like it was arranged by someone who meant it. Lenox has been in the business of making tables look intentional for over a century, and their metal and ceramic serveware still earns a place at both everyday dinners and formal gatherings.

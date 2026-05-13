@@ -35,6 +35,17 @@ products:
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Ivory vs white tablecloth — which looks better on a formal table?"
+    answer: "Ivory carries warm undertones — yellow, cream, or a faint touch of gold — where white is neutral to cool. Under candlelight, ivory reads softer and integrates more naturally with wood tables, warm lighting, and traditional china. White works better with bright, cool lighting and minimalist place settings. For most formal home entertaining, ivory is the easier choice."
+  - question: "Cotton or linen — which is better for a formal tablecloth?"
+    answer: "Both work for formal settings, but they behave differently. Linen holds its drape with less effort and has a natural sheen that reads formal even without heavy pressing. Cotton requires more ironing to achieve a crisp finish, but holds a pressed crease reliably once set. The Sferra Classico shows linen at its best; the Sferra Festival shows what tightly woven cotton achieves. Your care routine should drive the decision."
+  - question: "How much tablecloth drop is right for a formal dinner table?"
+    answer: "A formal table typically calls for an eight-to-twelve-inch drop on each side. Measure your table length and width, add twice your preferred drop to each dimension, then order the next size up if your number falls between standard sizes. A cloth that falls short at the table edge looks underdressed regardless of fabric quality — a generous drop always reads as intentional."
+  - question: "Can a velvet tablecloth be machine washed?"
+    answer: "The Maison d'Hermine velvet in this guide is machine washable on a delicate cycle, which makes it more practical than most velvet looks. The care habit you need to build is smoothing the pile back in one direction after washing — brushing against the grain leaves visible lighter streaks. That step takes a moment but keeps the cloth looking right."
+  - question: "How do I get creases out of a linen tablecloth without professional pressing?"
+    answer: "Dampen the cloth evenly with a spray bottle, then press with a hot steam iron working in the direction of the weave, using a pressing cloth between the iron and the linen. Work in sections. Home pressing gets close to a professional result for most uses, though very fine linen like the Sferra Classico will show the difference under close inspection. If the cloth is the centerpiece of a high-formality event, professional pressing is worth the cost."
 ---
 
 Every ivory tablecloth looks roughly the same folded on a shelf. Spread across a table set for twelve, the differences become obvious fast , how the fabric drapes at the corners, whether the weave holds a crease through dessert, and whether the color reads as warm ivory or a flat near-white under candlelight. These are the details that matter when you're building a table worth sitting at. The full range of [table linens](/linens/) runs wider than most people expect, and ivory sits at the center of nearly every formal setting for good reason.

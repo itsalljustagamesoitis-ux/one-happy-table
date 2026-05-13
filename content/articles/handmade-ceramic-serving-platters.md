@@ -35,6 +35,17 @@ products:
 tags: ["serveware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Earthenware vs. stoneware for ceramic serving platters — which is more durable?"
+    answer: "Stoneware is the more durable choice for regular use. It fires at higher temperatures, producing a denser, less porous material that handles daily use and temperature transitions more reliably than earthenware. Earthenware fires at lower temperatures and tends to be lighter and more porous, requiring a well-sealed glaze to be food safe and water resistant. For a platter in regular rotation, stoneware holds up consistently in a way earthenware cannot match."
+  - question: "Is the Juliska Berry and Thread platter worth the premium over a budget white oval?"
+    answer: "It depends entirely on what you are building. If you are assembling a coherent entertaining collection that coordinates across dinnerware and serving pieces, the Juliska offers longevity and design coherence that a budget platter genuinely cannot match. If you need a functional serving surface and the aesthetic contribution is secondary, a premium platter is an unnecessary spend. The real question is whether the table you are building warrants a piece that will still belong on it in ten years."
+  - question: "Can decorative ceramic platters like the Talavera be used in the oven?"
+    answer: "Most decorative ceramic platters are not designed for oven use. The glaze and any applied decorative elements may not tolerate oven temperatures, and sudden thermal changes can cause cracking. Stoneware platters without decorative surface treatments are generally more oven-tolerant, but always verify the manufacturer's specifications before using any ceramic piece in the oven. When in doubt, treat decorative platters as table-to-table, not oven-to-table."
+  - question: "What size ceramic serving platter is most versatile for home entertaining?"
+    answer: "The 14-inch oval is the most broadly useful size for most home entertaining scenarios. It accommodates a whole roast, a composed salad, or a generously loaded charcuterie spread without being unwieldy to handle or store. Smaller platters in the 10 to 12 inch range suit appetizers and side dishes but limit your flexibility for main course presentation. Unless you are regularly entertaining very large groups, a 14-inch oval covers the majority of use cases."
+  - question: "Talavera platter vs. white oval — which is right for a household with varied table settings?"
+    answer: "If your table settings vary widely by occasion, the white stoneware oval is the more practical choice — it works with everything and requires no coordination. The Talavera is the right pick if Mexican or Southwestern entertaining represents a meaningful portion of how you host, because the pattern is too specific to disappear into a table that was not built to receive it. The mistake is buying the Talavera for general use when what you actually need is a neutral surface."
 ---
 
 Handmade ceramic serving platters sit at the intersection of function and feeling , they carry the food, but they also carry the mood of the table. Whether you're hosting a holiday dinner or setting out cheese and charcuterie before the guests have even found their seats, the platter underneath it all shapes the first impression. The range of options in [serveware](/serveware/) is wide, and the differences between a budget workhorse, a decorated statement piece, and a hand-crafted heirloom are real.

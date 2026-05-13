@@ -35,6 +35,17 @@ products:
 tags: ["decor", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What is the difference between a pillar candle holder and a taper candle holder?"
+    answer: "A pillar candle holder has a flat or lightly recessed platform designed to support the wide, flat base of a pillar candle. A taper holder has a narrow cup or spike designed to grip the slim base of a taper candle. These formats are not interchangeable — using a taper candle on a pillar platform results in an unstable, wobbling candle. Always confirm which format a holder is designed for before purchasing."
+  - question: "Will brass candle holders tarnish, and how do I maintain them?"
+    answer: "Real brass tarnishes with exposure to air and humidity. The rate depends on the finish — lacquered brass tarnishes slowly if the coating is intact, while unlacquered brass tarnishes more readily but can be polished back to brightness with a standard brass polish. The Stoff Nagel Brass system is genuine brass and will benefit from occasional polishing. Many buyers find the developing patina attractive and choose not to polish at all."
+  - question: "Fixed set vs. modular system — which brass pillar holder setup is better for a dinner table?"
+    answer: "A fixed set of three at varying heights delivers immediate visual completeness with no additional purchases required. A modular system suits someone who hosts regularly, changes table configurations seasonally, and wants flexibility across different table lengths. The fixed set is the right call if you entertain occasionally and want a result without ongoing investment; the modular system earns its cost over multiple events."
+  - question: "Can I mix brass and chrome candle holders on the same table?"
+    answer: "Mixed metal styling works when one finish is dominant and the other is an accent. A majority brass grouping with chrome as a secondary element through cutlery or glassware reads cohesive rather than mismatched. The Stoff Nagel modular system is specifically compatible across brass and chrome finishes, which makes intentional mixing straightforward within that product line."
+  - question: "How many candle holders do I need for a rectangular dinner table centerpiece?"
+    answer: "For a four-person table, three holders at varying heights are generally sufficient. For a six- to eight-person rectangular table, five to seven holders arranged in a linear grouping create a proportionate centerpiece without overwhelming the table. The arrangement matters as much as the count — staggered heights read more naturally than a uniform row."
 ---
 
 Brass pillar candle holders are one of the most reliable ways to bring warmth to a table without overcommitting to a decorative style. The metal reads formal enough for a dinner party and relaxed enough for a weeknight supper. I've styled enough tables in Charleston to know that the right candlestick grouping does more than hold a flame , it anchors the whole arrangement. You'll find a broader range of candle styling ideas across [Decor & Candles](/decor/) if you're building out a full table scheme.

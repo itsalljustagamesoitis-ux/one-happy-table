@@ -35,6 +35,17 @@ products:
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is April Cornell worth buying for tablecloths, or is it all aesthetics?"
+    answer: "April Cornell makes genuinely well-constructed tablecloths in cotton voile with distinctive botanical prints. The brand is worth buying if you want pattern and character and are willing to iron before use. For buyers who prefer plain or neutral linens, the specific aesthetic may not fit — but within its category, the execution is consistently solid."
+  - question: "How do I stop a cotton voile tablecloth from wrinkling?"
+    answer: "Remove it from the dryer while still slightly damp and lay it flat or hang it immediately — this significantly reduces set-in creases. Iron on a medium-heat setting before placing it on the table, working in the direction of the grain rather than in circles, which can stretch the fabric. The April Cornell Christmas Rose specifically needs this step to look right."
+  - question: "Tartan table runner vs. full tablecloth — which is better for holiday hosting?"
+    answer: "For November through January entertaining, the Tartan Plaid Table Runner is a practical middle ground. It is wrinkle-resistant, machine washable, and offers seasonal atmosphere without the laundering overhead of a full cloth. A full tablecloth works better for formal seated holiday dinners where the cloth is part of the overall impression — the runner suits casual and buffet-style occasions more naturally."
+  - question: "What makes the Peacock Alley hemstitched tablecloth different from imported alternatives?"
+    answer: "It is American-made using Egyptian cotton yarns, which produces long-staple fibers that resist pilling and maintain surface smoothness through years of laundering. The hemstitching is properly executed with even spacing and mitered corners that lie flat — qualities that distinguish it from lower-cost machine-mimicked hemstitching. The color range, including dusty blue and other muted tones, is also difficult to find in hemstitched cotton at any price."
+  - question: "How do I calculate the right tablecloth size for my table?"
+    answer: "Measure your table in both dimensions, decide on your preferred drop, and add twice the drop amount to each measurement. Standard rectangular tables run 36 inches wide and 60, 72, or 84 inches long. Most tablecloths list the table size they fit assuming a six-to-eight-inch drop — if you want more coverage, size up by one step. Never estimate for round or oval tables; compare your measurements directly against the manufacturer's stated finished dimensions."
 ---
 
 April Cornell tablecloths have a following for a reason , the botanical prints, the soft cotton voile, the way a table set with one of their cloths looks genuinely considered rather than just covered. But the brand is specific, and not every table or occasion calls for that much pattern. Choosing well means knowing what you actually need from a tablecloth before you fall for the print. A good place to start is the full range of [table linens](/linens/) available at different price points and in different styles.

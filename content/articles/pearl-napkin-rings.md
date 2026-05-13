@@ -35,6 +35,17 @@ products:
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Faux pearl napkin rings — are they appropriate for a formal wedding or holiday table?"
+    answer: "Faux pearl napkin rings are entirely appropriate for a formal wedding table. The distinction between faux and real pearl is invisible at tableside distance and in photographs. The neutral white tone pairs with any reception color palette and any china pattern. Where real pearl matters more is in close-handled, intimate settings where guests are likely to examine the rings directly and the material difference becomes apparent."
+  - question: "Can I mix pearl and crystal napkin rings at the same table?"
+    answer: "Mixing pearl and crystal at the same table creates visual inconsistency that works against a polished presentation. Both materials read as formal, but they draw attention differently — crystal sparkles actively while pearl sits quietly — and the contrast reads as accidental rather than intentional. If you need more rings than your set covers, add a matching set of the same style rather than combining two different materials."
+  - question: "How do I keep silverplate napkin rings from tarnishing between dinner parties?"
+    answer: "Store silverplate rings in a sealed zip bag or anti-tarnish pouch between uses, away from open air and humidity. A small piece of anti-tarnish paper in the bag extends the time between polishing significantly. When tarnish appears, a silver polishing cloth removes it in minutes without abrasive chemicals that can damage the plate. The Wallace Silversmiths rings develop a flattering patina that some buyers prefer to a bright-polished finish."
+  - question: "Waterford Lismore crystal napkin rings — do I need two sets for a table of eight?"
+    answer: "Yes. The Lismore crystal rings are sold in sets of four, so a table of eight requires two sets. Buy both sets from the same listing at the same time to minimize batch color variation. Waterford crystal can show slight tonal differences between separately manufactured batches, and those differences are visible in candlelight. Purchasing together is the only reliable way to ensure the table reads as matched."
+  - question: "Which pearl napkin ring style holds up best for regular use throughout the year?"
+    answer: "None of the three options reviewed — pearl beaded, silverplate, or Waterford crystal — are designed for everyday use. All three are formal or semi-formal accessories. That said, the pearl beaded rings are the most practical of the three for regular use: they are lightweight, storage-tolerant, and the faux pearl construction is less fragile than crystal. The article estimates a mid-range pearl beaded ring used at six dinner parties a year will show wear within two to three years."
 ---
 
 Pearl napkin rings sit at the intersection of occasion and restraint , they dress a table without overwhelming it, and the right set signals that you thought about the details. Finding ones that actually hold up to regular use, laundry contact, and the judgment of guests who notice these things is a narrower search than it first appears. If you're building out a table linen collection worth caring about, start with the [Table Linens](/linens/) hub for context on how napkin rings fit into the larger picture.

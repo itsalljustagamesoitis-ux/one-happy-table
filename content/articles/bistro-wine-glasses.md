@@ -35,6 +35,17 @@ products:
 tags: ["glassware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Bormioli Rocco vs. Riedel Vinum — which is better for everyday use?"
+    answer: "The Bormioli Rocco Bistro set is tempered glass designed for durability and casual use — dishwasher-safe and practical in a way the Riedel glasses are not. The Riedel Vinum Bordeaux is lead-free crystal engineered for a specific wine style, noticeably more fragile in the dishwasher and better suited to occasions where the glass matters to the experience. For daily use, Bormioli Rocco is the more realistic answer. For a special bottle, the Riedel earns its place."
+  - question: "Are bistro wine glasses suitable for all types of wine?"
+    answer: "Bistro-style glasses work well for red wine and are serviceable for fuller-bodied whites. They are not optimized for sparkling wine — the wide bowl dissipates bubbles quickly — and they lack the narrow shape that helps aromatic whites like Riesling concentrate on the nose. For an all-purpose glass that handles reds and whites comfortably, bistro proportions are a reasonable choice. For sparkling service, a separate flute or tulip glass is worth having."
+  - question: "Are handblown wine glasses worth the premium over machine-made?"
+    answer: "For a table where craft and intentionality matter, yes — but with clear expectations. Handblown glasses like the Simon Pearce Barre set offer individuality and provenance that machine-made crystal does not replicate, and the weight of that particular glass reads as serious quality at the table. The trade-off is care requirements, higher replacement cost, and slight variation within a set. If you value uniformity and dishwasher practicality, machine-made crystal like the Riedel Vinum is the more sensible investment."
+  - question: "How many wine glasses should I own for regular entertaining?"
+    answer: "Six is the practical minimum for a dinner table, and eight gives you a comfortable buffer for breakage and mid-party washing. A set of four works for a household of two who entertain occasionally and do not mind washing glasses between courses. If you are hosting frequently, consider owning enough to cover double your table size — you will use the extras more often than you expect."
+  - question: "Do crystal wine glasses need to be hand-washed?"
+    answer: "For crystal you want to keep looking good, hand-washing is the honest recommendation regardless of what the label says. Dishwasher cycles create micro-etching over time, particularly in hard-water areas, which gives crystal a cloudy appearance that does not wash out. The Simon Pearce Barre glasses are explicitly hand-wash only. The Riedel Vinum glasses are rated dishwasher-safe but perform better with careful hand-washing. If dishwasher compatibility is non-negotiable, the Bormioli Rocco tempered glass set is the right choice."
 ---
 
 Bistro wine glasses sit in a particular category of useful object , unpretentious enough for a Tuesday night, good-looking enough for a dinner party. They work because they don't try too hard. My approach to recommending them is the same. Browse the full [Glassware & Crystal](/glassware/) collection if you want to explore further, but if you want a straight answer on which glasses are worth your money, read on.

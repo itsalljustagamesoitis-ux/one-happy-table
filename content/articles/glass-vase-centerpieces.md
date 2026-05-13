@@ -35,6 +35,17 @@ products:
 tags: ["decor", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How many vases do I need to center a six-foot rectangular dining table?"
+    answer: "Three to five vases in a grouped cluster create enough visual mass to anchor a standard six-foot table without overcrowding it. A staggered cluster of varied heights — like a set of three cylinder vases — reads better than a single large vase at the midpoint because it creates horizontal flow rather than stopping the eye at one place. The goal is to guide the eye down the length of the table."
+  - question: "Do wood bud vases work for fresh flowers, or only dried arrangements?"
+    answer: "Wood bud vases require glass tube inserts to hold fresh flowers — the tubes sit inside the vessel and hold the water. Without them, the wood absorbs moisture and eventually warps or cracks. Dried botanicals, branches, or fabric stems work directly in the wood vessel with no inserts needed. If you primarily use dried or preserved arrangements, wood vases are genuinely low-maintenance."
+  - question: "Glass cylinders vs. Simon Pearce Woodstock — which is right for a dinner party?"
+    answer: "For a party where you need multiple matching vessels and breakage is a concern, the cylinder set is the answer. The per-unit cost makes buying multiple sets practical and the clear glass disappears behind whatever you put in it. The Woodstock vase is a statement object for a single carefully styled table where guests are meant to notice the details — its mouth-blown organic form and heavy base deliver something the cylinders cannot."
+  - question: "Can glass cylinder vases double as pillar candle holders?"
+    answer: "Yes, provided the candle diameter fits inside without touching the glass walls. Heat accumulates inside the cylinder and can cause stress fractures in thin glass if the candle sits directly against the wall. Use a small glass plate or candle holder at the base to keep the flame centered and never leave burning candles unattended in any glass vessel."
+  - question: "How should I store thin-walled cylinder vases between uses?"
+    answer: "Store them upright and separated rather than nested inside each other, which risks chipping at the rim when stacked carelessly. If storage space forces you to nest them, wrap each vase in a cloth or felt before stacking. Wood vases should be stored completely dry — leaving moisture inside after use causes swelling, staining, and cracking regardless of finish quality."
 ---
 
 Glass vases are the workhorse of the centerpiece world, and it's easy to underestimate how much the vessel itself shapes the final result. Whether you're arranging peonies for a dinner party or filling cylinders with floating candles for a holiday table, the vase is doing more work than it appears. Browse the full range of ideas in [Decor & Candles](/decor/) and you'll see how often the right container makes the difference.

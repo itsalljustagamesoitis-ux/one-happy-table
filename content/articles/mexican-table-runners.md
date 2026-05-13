@@ -35,6 +35,17 @@ products:
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What length table runner do I need for a 72-inch dining table?"
+    answer: "A 90-inch runner gives a comfortable 9-inch overhang on each end, which is the proportionally correct drape for most dining tables. If you prefer a more restrained overhang, an 84-inch runner works on a 72-inch table. Measure your table before ordering and decide whether you want the runner to reach past the end chairs or stop at the table edge — both read intentionally when the length is chosen deliberately."
+  - question: "How do I keep a cotton sarape runner from sliding on a smooth table?"
+    answer: "A thin non-slip pad cut to the runner's dimensions and placed underneath solves this completely — most fabric and kitchen stores carry them by the yard. The DII Sarape has a lighter cotton weave that shifts on polished wood or glass without a pad. A heavier weave or a linen-cotton blend will sit more stably on its own if you prefer not to use a grip pad."
+  - question: "Can a sarape table runner be used year-round or only for Mexican-themed occasions?"
+    answer: "The sarape stripe works well on any table where warmth and color are the goal. It reads naturally alongside terracotta ceramics, hand-thrown pottery, and natural wood tables regardless of occasion. Pair it with solid or simply textured napkins so the stripe carries the visual without competing with everything else on the table. The article notes the key is matching the runner's visual energy to the occasion."
+  - question: "Chilewich vinyl-yarn runner vs cotton sarape runner — which holds up better long-term?"
+    answer: "The Chilewich vinyl-yarn weave is heat-resistant, water-resistant, and machine washable in a way that cotton runners are not. For a table that sees heavy regular use — dinner parties, outdoor entertaining, a holiday table set and cleared multiple times — the Chilewich handles real-world conditions without the color-fade and bleed concerns that come with deeply saturated cotton. Cotton sarape runners reward careful laundering in cold water and air-drying to maintain their color over time."
+  - question: "How do I prevent a bright-colored Mexican table runner from bleeding color in the wash?"
+    answer: "Wash the runner separately in cold water before the first use to check for bleeding. A runner that holds its color through repeated cold washes is worth keeping. Use cold water consistently, avoid high-heat machine drying, and air-dry rather than tumble-dry to extend the life of a cotton sarape runner significantly. Runners with deeply saturated reds and oranges are the most prone to bleeding — the article identifies colorfastness as a non-negotiable in this category."
 ---
 
 Mexican table runners are one of the most versatile pieces on a festive table , bold enough to anchor a Cinco de Mayo spread, relaxed enough to work on a weeknight dinner that just needs some warmth and color. Choosing the right one comes down to more than pattern: construction, washability, and how the runner sits against your other linens all matter more than most buyers expect. If you're building a table that feels intentional rather than thrown together, it's worth understanding what separates a runner that holds up from one that disappoints after the first wash.

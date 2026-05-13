@@ -35,6 +35,17 @@ products:
 tags: ["glassware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Schott Zwiesel vs standard glass for everyday use — is the upgrade worth it?"
+    answer: "For true everyday use, the Schott Zwiesel Convention is one of the few crystal options that survives daily dishwasher use without degrading. Standard glass is cheaper upfront, but Tritan crystal's resistance to clouding and chipping means the Convention holds its appearance over years of regular use. For a host who drinks wine regularly and values the feel of crystal without a hand-wash requirement, the answer is yes."
+  - question: "What is Tritan crystal and how is it different from regular crystal?"
+    answer: "Tritan is a lead-free crystal formula developed by Schott Zwiesel that is significantly more resistant to breakage and clouding in the dishwasher than traditional lead crystal. It has been tested to 10,000 dishwasher cycles without structural degradation. The one concession is that Tritan carries a slightly cooler optical tone than traditional lead crystal — a difference most dinner guests won't notice but collectors may."
+  - question: "How many red wine glasses do I need for a dinner party of eight?"
+    answer: "Ten at minimum — eight for the table, two in reserve for breakage or a last-minute guest. Most mid-range and premium sets sell in fours, so assembling ten matching glasses requires buying multiple sets. The Schott Zwiesel Convention's six-glass packaging is a practical advantage: two sets of six gives you twelve matching glasses efficiently."
+  - question: "Simon Pearce Ascutney vs Schott Zwiesel Convention — which is right for frequent entertainers?"
+    answer: "That depends entirely on whether hand-washing is sustainable for your post-dinner routine. The Simon Pearce Ascutney is a genuinely beautiful hand-blown glass and the most stable of Simon Pearce's wine glasses, but hand-blown glass doesn't survive the dishwasher. For hosts who entertain frequently and need to get through cleanup quickly, the Schott Zwiesel Convention's dishwasher durability is the more practical fit."
+  - question: "Does bowl shape actually matter for red wine, or is it mostly aesthetics?"
+    answer: "Bowl shape has a real effect, though it's easy to overstate. Wider bowls increase the wine's surface area and promote aeration, which matters most for tannic, full-bodied reds that benefit from time to open up. For lighter reds, the effect is less pronounced. What matters practically is having enough volume to swirl comfortably without spilling — most glasses marketed as red wine glasses meet that baseline."
 ---
 
 Good wine glasses are one of those purchases that look simple until you actually start comparing them. Bowl shape, crystal type, stem weight, dishwasher compatibility , the variables add up quickly, and most buying advice either oversimplifies or drowns you in varietal-specific jargon that doesn't help the average host make a decision.

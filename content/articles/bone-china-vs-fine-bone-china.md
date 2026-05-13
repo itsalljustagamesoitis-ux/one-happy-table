@@ -32,6 +32,17 @@ product_a: "mikasa-cameo-white-bone-china"
 product_b: "wedgwood-vera-wang-lace-teacup-saucer"
 # winner: product_a  # SET THIS after review
 # winner_reason: ""  # SET THIS after review
+faq:
+  - question: "What is the actual difference between bone china and fine bone china?"
+    answer: "Bone china contains at least 30 percent bone ash in its composition; fine bone china raises that to 45 percent or above. The higher bone ash content produces a lighter, more translucent piece with a warmer tone and a thinner profile. In practical terms, fine bone china looks and feels more refined, but it commands a higher price and typically requires more careful handling."
+  - question: "Is bone china suitable for everyday use?"
+    answer: "It depends on the specific piece. The Mikasa Cameo White is dishwasher-safe on the top rack and designed to handle regular use without rapid deterioration. Pieces with platinum or gold trim, like the Wedgwood Vera Wang Lace, require hand-washing and are better suited to occasional formal use. The finish and trim are usually the deciding factor, not the bone china body itself."
+  - question: "Which is better for an afternoon tea setting — the Mikasa or the Wedgwood?"
+    answer: "For a formal afternoon tea where the presentation is part of the occasion, the Wedgwood Vera Wang Lace is the stronger choice. The lace embossing and platinum trim are specifically associated with that context, and the saucer doubles as a plate for small accompaniments. The Mikasa Cameo White is the better choice if afternoon tea is casual or if you need a full place setting rather than a dedicated teacup."
+  - question: "Can I mix bone china and fine bone china at the same table?"
+    answer: "Yes, and done thoughtfully it can add visual interest rather than looking inconsistent. The key is cohesion in color tone — bone china and fine bone china both tend toward warm whites and creams, so they read as complementary rather than clashing. Where mixing breaks down is in scale and weight; a substantial dinner plate paired with an extremely thin teacup can look mismatched."
+  - question: "Does bone china yellow over time?"
+    answer: "Bone china can develop a yellowed or discolored tone with prolonged exposure to strong sunlight, certain dishwasher detergents, or improper storage. Storing pieces away from direct light and using a gentle detergent without bleaching agents helps maintain the original tone. The warm cream of pieces like the Mikasa Cameo White is an inherent characteristic of the clay body and should not be confused with yellowing from age or misuse."
 ---
 
 Bone china and fine bone china look nearly identical on a dressed table, and most buyers assume the difference is just marketing. It isn't , but the gap matters less than which piece actually fits how you entertain. The right answer depends on what you're setting, how often you'll use it, and how precious you want your tableware to feel.

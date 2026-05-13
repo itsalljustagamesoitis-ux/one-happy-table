@@ -35,6 +35,17 @@ products:
 tags: ["decor", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Stoff Nagel candle holder system — is three units enough to start with?"
+    answer: "Three is a functional starting point. You can build a straight line, an L-shape, or a tight cluster, any of which reads well on a table for four to six. The modular system becomes dramatically more impressive at six or more units, so buy three as an entry point to evaluate the finish and connector logic before expanding. Each additional unit builds on what you already own, which makes the incremental investment straightforward."
+  - question: "Chrome vs. brass Stoff Nagel — which finish should I choose?"
+    answer: "The decision comes down to the dominant metal tone in your existing table setting. Chrome reads cooler and suits contemporary, minimal interiors with stainless or silver-toned flatware. Brass reads warmer and works with gold-toned flatware, warm-hued linens, and more traditional table styles. Both are available in the same modular system with identical connectors and configuration options — you are choosing tone, not product quality."
+  - question: "Michael Aram Twist Candle Holder — is it practical for regular entertaining or just special occasions?"
+    answer: "The Twist can function at regular dinners, but its cleaning requirement shapes how practical that is. The three-dimensional sculptural elements collect wax and dust in their recesses, and keeping the oxidized metalwork looking its best takes deliberate attention after each use. Most buyers will get the most return using it as a dinner party or special-occasion piece, stored carefully between uses rather than brought out weekly."
+  - question: "Clear glass hurricane vs. metal candle holder — which is better for a table that changes frequently?"
+    answer: "The hurricane is the stronger choice for a rotating table. Clear glass adds no color, no finish, and no stylistic signature — it works alongside warm terracotta and autumn linen as easily as it does with pale spring greens. Its limitation is maintenance: the glass cylinder accumulates soot with regular use and needs cleaning after each dinner. The Stoff Nagel chrome system is more visually distinctive but requires a specific aesthetic commitment — it is a piece for a defined contemporary table, not a neutral one."
+  - question: "How many candle holders do I need for a dining table that seats six to eight?"
+    answer: "A single holder at the center of the table seats two to four comfortably. For six to eight guests, you want at least two or three points of flame to spread the light evenly. The modular Stoff Nagel system is specifically designed for this — start with three and expand the configuration as your needs change. Single-unit pieces like the Michael Aram Twist and the glass hurricane require buying multiples separately, which means a different kind of investment and a consistency-of-style consideration."
 ---
 
 Candle holders sit at the intersection of function and atmosphere , they change how a table feels, not just how it looks. The right holder shapes the entire [Decor & Candles](/decor/) conversation at your table, whether you're setting for two on a Tuesday or arranging something deliberate for a dinner party. I've tested enough of these to know that the difference between a forgettable table and a genuinely beautiful one often comes down to what holds the flame.

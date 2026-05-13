@@ -35,6 +35,17 @@ products:
 tags: ["dinnerware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Bone china vs. stoneware for everyday use — which holds up better?"
+    answer: "Stoneware is the more forgiving choice for daily use. It chips less readily under casual handling, and most stoneware sets are fully dishwasher safe. Bone china is lighter and more refined but chips more easily at the rim and often requires hand-washing when the decoration includes enamel or gilding. If you load a dishwasher after dinner and stack plates without ceremony, stoneware matches your actual habits."
+  - question: "Is the Wedgwood Wild Strawberry worth buying if it has to be hand-washed?"
+    answer: "For a set used at dinner parties and holiday tables a limited number of times per year, yes. The Wild Strawberry pattern has been in continuous Wedgwood production since 1965, and the bone china body is genuine fine china — translucent when held to the light. The problem only arrives if you try to use it as an everyday set, because the pink-and-green botanical colors fade in the dishwasher over time. Buy it for formal occasions and care for it accordingly."
+  - question: "Can the Talavera melamine set be used indoors, or is it outdoor-only?"
+    answer: "It works equally well indoors — a casual dining room, a kitchen table for a colorful weeknight dinner, a brunch spread. The pattern is too bold to function as a neutral backdrop in any setting, so the table's full aesthetic needs to lean into the Talavera look rather than work around it. It is a committed-pattern set, not an outdoor-only set."
+  - question: "Does the Churchill Willow Blue pattern work on a modern table?"
+    answer: "Honestly, no. The blue-and-white transfer print reads as deliberately traditional and tends to clash with minimalist settings and contemporary serving pieces. It works beautifully on a formally styled table with linen napkins, silver flatware, and simple crystal. Buyers drawn to Scandinavian-modern or farmhouse-contemporary aesthetics will find it fights the rest of their table rather than completing it."
+  - question: "How many place settings do I need to seat eight guests?"
+    answer: "Two four-piece sets covers a table of eight in dinner plates and bowls — the Churchill Willow Blue set, for example, is sold as a four-piece, so two sets reaches eight. Most four-piece settings include a dinner plate, salad or side plate, bowl, and mug or cup. Buy one extra setting beyond your guest count if budget allows; having a spare plate when one chips means you are not scrambling the morning before a dinner party."
 ---
 
 Glass place settings sit at the center of every table decision I help people make , they determine what else can work alongside them, how formal or relaxed a table reads, and whether a set holds up to actual use or just looks good in the listing photos. I've spent years working with [dinnerware](/dinnerware/) for everything from casual Sunday lunches to formal seated dinners, and the difference between a considered choice and a regrettable one almost always comes down to a few things buyers don't think to ask upfront.

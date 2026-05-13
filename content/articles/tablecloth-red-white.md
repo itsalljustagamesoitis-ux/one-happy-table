@@ -35,6 +35,17 @@ products:
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Red velvet tablecloth — is it actually practical for a dinner party or just decorative?"
+    answer: "It is practical with realistic expectations. Velvet handles plates, glasses, and a full dinner setting without difficulty. The practical challenge comes before and after the meal: the pile needs to be smoothed in one direction before guests arrive, and it should never be ironed directly — only steamed. Machine washing on a delicate cycle is possible, but the directional pile means restoring it after washing takes a deliberate hand-smoothing step. For a host willing to work within those constraints, the Maison d'Hermine velvet is genuinely usable, not merely decorative."
+  - question: "How much drop should a tablecloth have for a formal dinner?"
+    answer: "Eight to twelve inches per side is the standard for a formal setting — enough to cover the table apron and fall cleanly without reaching the floor. Casual settings can work with six. Measure your table's width and length separately and add the drop to both dimensions when calculating the cloth size you need. The most common sizing mistake is measuring table length only and ending up with a cloth that falls short on the width."
+  - question: "April Cornell botanical print tablecloth — does a busy pattern work on a holiday table?"
+    answer: "The April Cornell Christmas Rose print is detailed but not chaotic — the botanical roses read as intentional pattern rather than visual noise. It works best with simple white or cream dinnerware rather than patterned plates. If your table already has layered patterns in the china or serving pieces, the print will compete. With a spare, neutral table setting, it anchors a holiday color palette without overwhelming the other elements on the table."
+  - question: "Sferra Classico hemstitched tablecloth — is the premium worth it over a standard linen cloth?"
+    answer: "For formal entertaining where construction quality is visible and the table is a deliberate statement, yes. The hand-drawn hemstitch border and Italian linen drape are distinguishable from machine-finished alternatives in person — the slight sheen in the weave catches candlelight differently than cotton. If you are setting a table twice a year for guests who will notice that level of detail, the Sferra Classico holds its value across many years of use. For casual or semi-formal tables, that premium is harder to justify."
+  - question: "Can a red tablecloth work for occasions other than the holidays?"
+    answer: "Red reads differently depending on the surrounding table elements. Paired with white napkins, simple glassware, and natural centerpieces, a solid red cloth works for summer entertaining, a birthday dinner, or a Valentine's table. Pattern specificity is the limiting factor — the April Cornell Christmas Rose print is very difficult to move out of a November-through-January context, while a solid red cloth is genuinely multi-occasion with the right surrounding elements."
 ---
 
 Red and white tablecloths occupy a narrow but reliable slice of the table linen market , festive enough to anchor a holiday table, clean enough to work for summer entertaining. The problem isn't finding one; it's finding one that holds up past a single use. I've covered a lot of ground in [table linens](/linens/) and the gap between a cloth that photographs well and one that actually performs at the table is wider than most listings suggest.

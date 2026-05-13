@@ -35,6 +35,17 @@ products:
 tags: ["decor", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What is the difference between a centerpiece bowl and a decorative box for a table?"
+    answer: "A centerpiece bowl is an open vessel where the contents are the visual feature and the bowl frames them. A decorative box encloses the arrangement on four sides, giving it a more structured, contained look. Boxes like the Creative Co-Op whitewash design work particularly well for seasonal fillers — pinecones, botanicals, wrapped ornaments — where the arrangement benefits from a defined border rather than an open rim."
+  - question: "Can the Creative Co-Op whitewash wood box hold fresh flowers directly?"
+    answer: "Not without a liner. The whitewash finish will show water rings from condensation if a vase or wet container sits directly against the wood within a single use. A simple waterproof liner cut to fit — or a glass dish nested inside — solves the problem entirely. Once lined, the box handles fresh florals, potted plants, and water-filled vessels without issue."
+  - question: "Do the Michael Aram Butterfly Ginkgo candlesticks work on a modern table?"
+    answer: "The ginkgo and butterfly motif reads as sculptural and organic rather than traditionally formal. They work on tables that are deliberately spare and modern — the detail acts as the sole decorative element rather than competing with ornate china or patterned linens. The mixed metal finish helps: it avoids the period-specific quality that fully polished silver or brass can carry."
+  - question: "How do I style the Creative Co-Op wood box across seasons without buying new filler?"
+    answer: "The whitewash finish is neutral enough to carry most seasonal palettes. In fall and winter, dense fillers — pinecones, small gourds, dried botanicals, a candle nestled in greenery — read naturally. In spring and summer, use a glass liner and fresh or dried florals, or keep it spare with a single large stem. The transition requires minimal additional investment because the box itself is the constant."
+  - question: "Are bow-shaped candle holders stable enough to use with tall lit tapers?"
+    answer: "The Danya B. bow holders have a wide enough base that the bow shape distributes weight laterally rather than concentrating it at a single point, making them more stable than they initially appear. Any taper holder benefits from being placed on a flat, even surface away from tablecloth edges where pulling could tip it. Standard candle safety applies: never leave lit tapers unattended regardless of holder stability."
 ---
 
 Choosing a centerpiece bowl , or any decorative vessel meant to anchor a table , sounds simple until you're standing in front of a dozen options and not sure what actually makes one work. The right piece does more than hold filler. It sets the tone for the whole table, and it needs to hold up across seasons without looking like it belongs to only one of them. I've spent years helping clients build tablescapes that feel considered rather than assembled, and these three picks are the ones I reach for most often. Browse the full [Decor & Candles](/decor/) range if you want context before committing.

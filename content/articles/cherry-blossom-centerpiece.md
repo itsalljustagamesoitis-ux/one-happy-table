@@ -35,6 +35,17 @@ products:
 tags: ["decor", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Can I use the whitewash wood box as a direct container for water and fresh cherry blossom branches?"
+    answer: "The article advises against it without a liner. The whitewash finish will absorb moisture and develop water rings from condensation within a single use. A glass cylinder inside the box gives fresh branches the water they need while protecting the wood surface. The combination — box as base, cylinder as vessel — also produces a more layered arrangement than either piece achieves alone."
+  - question: "Brass vs chrome candle holders — which is better for a cherry blossom centerpiece?"
+    answer: "Brass pairs more naturally with the warm pinks and whites of cherry blossom branches because the metal's warmth reinforces the floral palette rather than contrasting with it. Chrome works better on tables with cool-toned settings — silver flatware, white or gray linens, modern china. Both use the same Stoff Nagel modular connection system, so the decision is purely about the palette of your existing table setting."
+  - question: "How do I keep tall cherry blossom branches from tipping in a glass vase?"
+    answer: "Floral foam or a grid of floral tape across the vase opening anchors the base of the branch before the vase is filled with water. River rocks or decorative stones at the bottom add weight at the base and shift the center of gravity lower, which stabilizes taller branches. The 8-inch diameter cylinder vase is inherently more stable for full branches than the 4-inch version."
+  - question: "Fresh cherry blossom branches vs faux — which works better for a dinner table centerpiece?"
+    answer: "Fresh branches are unmatched for a single special evening; faux branches are the more practical choice for a centerpiece that needs to last through a multi-day event or a full month of spring decorating. The vessel choice depends on this decision too — fresh branches require a water-filled vessel, which means wooden elements need a proper liner. Faux branches can sit in a dry vessel, which opens up the whitewash box as a standalone container."
+  - question: "How many glass cylinder vases do I need for a standard dining table centerpiece?"
+    answer: "For a standard six-to-eight-person dining table, two vases from the three-piece set — the 8-inch and 6-inch — grouped together at the center creates a complete arrangement. The 4-inch cylinder works well as a secondary accent at the end of the table or on a sideboard. If you are setting a longer banquet table, two full sets give you enough vessels to create a running centerpiece across the full length."
 ---
 
 A cherry blossom centerpiece earns its place on the table by doing something most seasonal décor can't , it makes the room feel like a moment. The problem isn't finding something that looks like spring; it's finding components that hold together as a cohesive arrangement rather than a collection of unrelated objects. I've built enough of these for dinners and events in Charleston to have strong opinions about what actually works.

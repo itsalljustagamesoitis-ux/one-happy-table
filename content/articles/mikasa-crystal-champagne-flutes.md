@@ -35,6 +35,17 @@ products:
 tags: ["glassware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Mikasa champagne flutes — are they real crystal or just glass?"
+    answer: "The Mikasa Orson line uses lead-free crystal, which meets the technical definition of crystal by mineral content rather than marketing terminology. The walls are thinner and the clarity is noticeably better than standard machine-pressed glass. It is entry-level crystal rather than fine crystal, which is why it sits below lines like Waterford in price and in overall refinement."
+  - question: "How does flute shape affect how long champagne stays bubbly?"
+    answer: "The narrow opening of a tall flute slows CO2 escape, which keeps champagne lively from first pour to last sip. Tulip shapes offer more aromatics but sacrifice some carbonation retention. Coupes are the worst choice for bubbles — they go flat within a few minutes. For sparkling wine specifically, the article recommends staying with a flute or a very gently tapered tulip."
+  - question: "Is the Waterford Lismore worth the price over Mikasa Orson flutes?"
+    answer: "For gifts, a wedding registry, or a set reserved for genuinely special occasions, yes. The Lismore cut is distinctive, the quality has been consistent for decades, and the longevity far exceeds what mid-range lines typically deliver. If you are buying for regular party use or a larger table where breakage is a real possibility, the Mikasa Orson or the Libbey Embassy eight-pack are the more practical answers."
+  - question: "Can I put crystal champagne flutes in the dishwasher?"
+    answer: "Fine crystal is genuinely hand-wash territory, even when a manufacturer lists dishwasher-safe as an option. Mid-range crystal labeled dishwasher-safe can tolerate it with precautions — top rack only, low-heat dry, no crowding — and hand-washing will extend its life considerably. The Libbey Embassy pressed glass set is the most dishwasher-forgiving option reviewed, which is one of its practical advantages for high-volume entertaining."
+  - question: "How many champagne flutes do you actually need for home entertaining?"
+    answer: "The practical target for most hosts is a set of eight — enough to seat a full dinner table with room for a broken stem or a last-minute addition. If you entertain primarily in groups of four or fewer, a set of four is genuinely sufficient. The article also recommends owning one more than your maximum guest count plus a couple of spares to absorb breakage over time."
 ---
 
 Choosing champagne flutes sounds simple until you're standing at a table set for eight, pouring bubbles into glasses that look mismatched or feel wrong in the hand. The right flute holds carbonation well, catches the light, and survives the occasion , whether that's a holiday dinner or a Wednesday that deserves a little ceremony. There's more variety in [Glassware & Crystal](/glassware/) than most people expect, and the differences between crystal and glass, budget and premium, matter more than the marketing suggests.

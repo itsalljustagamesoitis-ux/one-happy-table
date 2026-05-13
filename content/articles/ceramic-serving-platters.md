@@ -35,6 +35,17 @@ products:
 tags: ["serveware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is ceramic or stoneware better for a serving platter?"
+    answer: "Stoneware is a type of ceramic fired at a higher temperature, which makes it denser and less porous than standard earthenware. For a platter you will use regularly, stoneware is the more durable choice — it handles oven-to-table transitions and repeated dishwasher cycles better than lower-fired ceramics. Both the white oval and the Juliska Berry and Thread are stoneware, which is a meaningful part of why both hold up well over time."
+  - question: "Is the Juliska Berry and Thread platter worth the premium price?"
+    answer: "For hosts who entertain regularly and want serveware that coordinates with a full table setting, yes. The hand-applied relief work and whitewash finish deliver a level of visual finish that no budget-tier piece replicates. The hand-wash requirement is a genuine trade-off, but the piece is built to last if you respect that care instruction. If dishwasher convenience matters more than aesthetics, the white oval is the more practical pick."
+  - question: "Will the Talavera platter coordinate with everyday white dinnerware?"
+    answer: "Probably not as a regular pairing. The Talavera motif in cobalt and terracotta is bold enough to dominate any table visually — pairing it with plain white dinnerware creates contrast that can feel intentional or dissonant depending on the rest of the setting. It works best when the rest of the table is built around the same Mexican or Southwestern palette rather than used as a standalone accent against neutral dinnerware."
+  - question: "What size serving platter is best for a dinner party of six?"
+    answer: "A 14-inch oval handles a six-person serving comfortably for most dishes — a roast, a large composed salad, a full cheese and charcuterie arrangement. All three platters in this guide are 14 inches. For parties larger than six, a second platter of the same size is usually more practical than trying to find a single oversized piece that is difficult to pass and harder to store between uses."
+  - question: "Can a ceramic serving platter go in the oven?"
+    answer: "Stoneware platters generally handle moderate oven temperatures without cracking, but confirm the specific piece before using it as a baking vessel. The white oval stoneware platter is designed to go from oven to table, which is one of its practical advantages. Decorated pieces with applied surface finishes — including the Talavera platter — are better used for serving food cooked elsewhere rather than for oven use."
 ---
 
 Choosing a ceramic serving platter that holds up in everyday use while still looking intentional on the table is harder than it sounds. The category spans everything from plain white ovals to hand-painted statement pieces, and the gap between a platter that serves the food and one that elevates the whole table is real. If you're building out your [serveware](/serveware/) collection or replacing a piece that finally gave out, this guide cuts to what actually matters.

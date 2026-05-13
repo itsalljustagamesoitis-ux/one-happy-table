@@ -35,6 +35,17 @@ products:
 tags: ["decor", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Table centerpiece height — how tall is too tall for a dining table?"
+    answer: "If you cannot comfortably make eye contact with the person across from you, the piece is too tall. For a formal dinner setting, that means staying under twelve inches as a working rule. Candle arrangements that use tall tapers are the common exception — the flame is above eye level and does not block conversation the way a solid form at that height would. Width matters equally: leave at least eight inches of clear space on each side of the centerpiece for glasses and serving pieces."
+  - question: "Whitewash wood centerpiece box — is it practical for everyday use or just special occasions?"
+    answer: "A wooden box works well as an everyday piece because it functions as a staging container you fill and change with the season, rather than a fixed decorative object. The key practical note is to use a glass liner if you are placing a water-filled vase inside — the whitewash finish on the Creative Co-Op box will show water rings from condensation, and those marks are difficult to reverse. Without that constraint, it is low-maintenance and genuinely useful as a daily table piece."
+  - question: "Clear glass bowl as a centerpiece — does it work year-round or only for specific seasons?"
+    answer: "A clear glass bowl is one of the most adaptable centerpiece forms you can own. Fill it with citrus in winter, greenery in spring, stones or shells in summer, and gourds or seed pods in fall. The Libbey Glass Serving Bowl Set of 3 gives you three working sizes, which adds flexibility — the largest bowl for a dinner party statement, the smallest for a quiet weeknight when the table does not need much dressing. Glass reads as both casual and formal depending on what you place inside it."
+  - question: "Stoff Nagel candle system as a centerpiece — how many holders do I need to start?"
+    answer: "Three holders is a functional starting point that gives you a horizontal line or a simple cluster, both of which read well on a table. The sculptural configurations that make this system compelling in design photography require six or more. Buy three to understand how the connectors work and whether the chrome finish suits your table, then expand once you know which configuration suits your space. The modular design means each addition builds on what you already own."
+  - question: "Natural wood vs. clear glass centerpiece — which works better on a dark dining table?"
+    answer: "Glass is the safer choice for dark tables because it does not compete with the wood grain — it simply sits on top and catches light. A whitewash wood box on a dark walnut table creates contrast that can work, but requires more intention in the surrounding elements to look deliberate. On a pale Scandinavian oak or light-finished table, the tonal harmony between wood and whitewash is easier to achieve and reads as more considered with less effort."
 ---
 
 Choosing a centerpiece that actually suits your table , not just the one that photographs well in someone else's dining room , takes more thought than most people expect. The right piece anchors the whole table and ties into the rest of your [Decor & Candles](/decor/) choices, whether you're setting up for a dinner party or just making a weeknight feel more intentional.

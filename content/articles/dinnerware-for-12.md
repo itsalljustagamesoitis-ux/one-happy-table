@@ -35,6 +35,17 @@ products:
 tags: ["dinnerware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Dinnerware set for 12 — how many pieces do I actually need?"
+    answer: "Twelve complete place settings means one dinner plate, one salad plate, and one soup bowl per guest at minimum, plus mugs if coffee or tea is being served. A set advertised as '12-piece' often contains only twelve individual items covering four people, not twelve. Three standard four-place-setting sets is the most common and cost-effective way to reach true service for twelve."
+  - question: "Stoneware vs. fine china for a large dinner table — which holds up better?"
+    answer: "Stoneware is denser and more forgiving of casual handling, making it the better material if the table includes children or rough dishwasher loading. Fine china and bone china are thinner and more refined but chip more readily, particularly at rim edges. For a table of twelve where dishes cycle through the dishwasher regularly, stoneware is the more honest choice for everyday durability."
+  - question: "Is tempered glass dinnerware safe for a family table?"
+    answer: "Tempered glass is non-porous, contains no lead or cadmium, and absorbs nothing from food or detergents, making it one of the safest dinnerware materials available. The key caveat is breakage behavior: it shatters completely when dropped rather than chipping. For households with young children or anyone prioritizing non-toxic construction, it is a deliberate rather than a compromise choice."
+  - question: "Can I mix dinnerware patterns when setting a large table?"
+    answer: "Intentional mixing — pairing a plain white dinner plate with a textured salad plate — reads as deliberate and can add visual interest. Where it breaks down is two sets that are visually similar but slightly off in white tone or proportion, which tends to look unplanned rather than considered. The safest approach for a first large-table set is a single cohesive pattern with enough visual interest to carry the table on its own."
+  - question: "How do I know if a dinnerware pattern will still be available for replacements in a few years?"
+    answer: "Search the manufacturer's site for 'open stock' availability, or call their customer service and ask directly whether the pattern is active or archived. Brands like Mikasa and Lenox maintain popular patterns for years and sell individual replacement pieces through their sites and authorized retailers. Buying one extra dinner plate and soup bowl at the time of original purchase is the most reliable protection against a discontinued pattern."
 ---
 
 Feeding twelve people from mismatched plates is a thing I've done more times than I'd like to admit , and it's exactly the kind of problem a good [dinnerware](/dinnerware/) set solves before the first guest arrives. Service for twelve means thinking about durability, storage, and whether the pieces will still look intentional after a hundred runs through the dishwasher.

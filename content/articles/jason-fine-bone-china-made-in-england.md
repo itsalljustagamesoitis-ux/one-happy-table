@@ -35,6 +35,17 @@ products:
 tags: ["dinnerware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is bone china made in England more durable than bone china made elsewhere?"
+    answer: "British manufacturers have been refining firing standards for centuries, and commercial-grade producers like Churchill fire to hospitality tolerances that produce denser, harder pieces than many lower-cost offshore alternatives. The difference shows in rim hardness and glaze density over time, not in dramatic visible ways. Made in England is a meaningful signal but not a blanket guarantee — production quality varies between British manufacturers just as it does elsewhere."
+  - question: "What does fine bone china mean compared to regular porcelain?"
+    answer: "Fine bone china contains a minimum of 30 percent calcined bone ash in the clay body. That is what creates the characteristic warm translucency and cream tone — hold a piece up to light and a quality bone china plate glows at the edges in a way dense porcelain cannot replicate. Standard porcelain uses kaolin and feldspar without bone ash, resulting in a whiter, denser, and less translucent fired body."
+  - question: "Can fine bone china go in the dishwasher?"
+    answer: "Undecorated bone china like the Mikasa Cameo White is generally dishwasher safe on the top rack, provided pieces do not knock against each other during the cycle. Any piece with platinum or gold trim — including the Wedgwood Vera Wang Lace teacup — must be hand-washed without exception. The detergent and heat combination strips metallic decoration faster than any other form of use."
+  - question: "Churchill Willow Blue vs Mikasa Cameo White — which is better for everyday use?"
+    answer: "Churchill fires to commercial hospitality standards, which makes the Willow Blue harder and more chip-resistant than most domestic bone china at the same price point. The Cameo White is more stylistically flexible and fully dishwasher safe, but the undecorated surface shows cutlery scratching more visibly over time. For a daily-use table, the Churchill's fired hardness is a practical argument in its favor — though the Willow pattern commits you to a specific aesthetic."
+  - question: "Should I start with a full place setting or buy accent pieces like teacups first?"
+    answer: "Starting with a teacup and saucer is a low-risk way to evaluate a pattern and glaze quality before committing to a full service. A teacup shows you handle attachment, rim weight, and glaze consistency at a scale that is easy to assess. If the piece holds up well and the pattern works with your table, expanding to a full place setting is a straightforward next step."
 ---
 
 Fine bone china made in England occupies a specific place at the table , not quite everyday, not quite precious, but exactly right for the meals that deserve a little more than your usual set. Searching for Jason fine bone china tends to pull in results from across the broader [dinnerware](/dinnerware/) category, so it helps to know what you're actually comparing before you buy.

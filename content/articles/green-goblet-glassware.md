@@ -35,6 +35,17 @@ products:
 tags: ["glassware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Are the Estelle Colored Glass wine glasses worth the price over cheaper green goblets?"
+    answer: "For most buyers, yes — but the value is specific. The hand-blown emerald delivers a quality of light and visual depth that machine-pressed green glass does not match. If you are buying colored goblets for a table you care about and entertain at deliberately, the investment is justified. If you are furnishing a casual everyday table, a less expensive machine-made option may serve you better without the hand-washing requirement."
+  - question: "Can hand-blown green goblets go in the dishwasher?"
+    answer: "Neither the Estelle nor the Simon Pearce Ascutney are dishwasher safe. The thin walls of hand-blown glass are vulnerable to thermal shock, and repeated machine washing can craze or fade the color. Both require hand-washing with warm water and mild soap. If dishwasher compatibility is a firm requirement, that constraint eliminates most hand-blown colored glassware from consideration."
+  - question: "Simon Pearce Ascutney vs. Estelle — which is better for red wine specifically?"
+    answer: "The Ascutney's generous bowl and thick, stable base make it well suited to red wine — the proportions allow for swirling without risk and the thick base keeps it grounded at a full table. The Estelle is designed as a wine glass and performs well, but its narrower bowl suits whites and lighter reds better. For serious red wine service at a formal table, the Simon Pearce is the stronger choice."
+  - question: "How noticeable is color variation between glasses in a hand-blown set?"
+    answer: "It is visible when you line all six up and look directly at them — some will run a touch more olive, some a touch more jewel-toned. In use around a table the variation reads as craft character rather than inconsistency. The better approach is to arrange pieces so the lightest and darkest examples alternate rather than cluster together. It is only jarring when two noticeably different pieces sit directly beside each other."
+  - question: "Do I need both a wine goblet and a carafe on the table, or will one suffice?"
+    answer: "They serve different functions and are not interchangeable. A goblet is a drinking vessel; a carafe is a serving vessel for water, juice, or wine. For a fully set table, having both makes sense — the goblets handle the wine service, and a clear carafe handles water without requiring guests to reach for a bottle. A budget-tier carafe like the Anchor Hocking does this job cleanly without competing visually with the colored goblets."
 ---
 
 Green goblet glassware sits at an interesting intersection right now , stem form that's been around for centuries, color that feels genuinely current without being a passing trend. Whether you're setting a dinner table for eight or adding one considered piece to an everyday shelf, the glass you choose shapes how a table reads as much as the flowers or the cloth.

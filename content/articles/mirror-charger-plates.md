@@ -35,6 +35,17 @@ products:
 tags: ["dinnerware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What are mirror charger plates — are they different from regular charger plates?"
+    answer: "Mirror charger plates have a reflective, metallic, or high-gloss finish rather than a matte or textured surface. They function identically to standard charger plates — they sit under the dinner plate and are removed before the main course — but the reflective finish adds visual brightness to the table. Clear acrylic chargers with a metallic rim fall into this category."
+  - question: "Acrylic vs. porcelain charger plates — which holds up better over time?"
+    answer: "Porcelain and glazed ceramic chargers are significantly more durable over multiple seasons of use. A quality glaze holds through regular dishwasher cycles without hazing or crazing. Acrylic scratches with repeated stacking and dishwasher cycling, and once scratched, the surface hazes rather than showing clean wear. Acrylic makes practical sense for a single large event or a few seasons of casual use, but ceramic is the right investment if you want pieces that improve rather than degrade."
+  - question: "Efavormart acrylic chargers vs. Juliska Berry and Thread — which is right for a formal dinner?"
+    answer: "For a genuinely formal dinner with multiple courses and cloth napkins, the Juliska Berry and Thread reads as a considered, hand-crafted piece in a way acrylic cannot. The Efavormart set's transparency is its strength for casual or semi-formal occasions where adaptability to any color scheme matters more than visual prestige. If the dinner is the kind where the table itself is part of the hospitality, the Juliska is the right choice."
+  - question: "Do charger plates need to match my dinnerware exactly?"
+    answer: "They do not need to match, but they need to cohere. The most common failure is mismatched formality registers — a rustic decorated charger under minimalist modern dinnerware, or a high-gloss charger under casual stoneware. A safe approach is to choose a charger with a neutral or subordinate finish when your dinnerware has strong character, and let the charger carry more decorative weight when your dinnerware is plain white."
+  - question: "How many charger plates should I buy for a dinner party?"
+    answer: "Buy to match your maximum seated guest count plus two extras as insurance against damage or last-minute additions. For most home entertaining, a set of ten covers a standard table of eight with room to spare. For ceramic chargers sold individually, ordering all at once ensures glaze consistency across the set — batch variation is a real concern with ceramic manufacturing."
 ---
 
 Mirror charger plates photograph beautifully and look polished in person, but choosing between acrylic, porcelain, and stoneware options requires more thought than most people expect. I've set enough tables , from casual dinner parties to formal holiday feasts , to know that the wrong charger plate can undermine an otherwise well-considered table setting. This guide covers three distinct options across the price spectrum, drawing on my experience working with [Dinnerware & China](/dinnerware/) for every kind of occasion.

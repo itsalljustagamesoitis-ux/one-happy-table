@@ -35,6 +35,17 @@ products:
 tags: ["decor", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Do clear glass votive holders change the color of a red candle's flame?"
+    answer: "No. Clear glass transmits light without altering the candle's color, making it the reliable choice when preserving the specific hue of a red votive is the intent. Tinted or frosted glass will absorb or shift the red tone, sometimes in ways that look unintentional. If the saturated red is part of the visual effect you are building, clear glass is the straightforward answer."
+  - question: "How many votive holders do I need for a dinner table?"
+    answer: "The article recommends four to six holders down the center of a standard six-seat rectangular table to establish a convincing line of light — a single votive reads as an afterthought rather than an effect. For longer tables or a full event setup, twelve or more is a practical starting point. The Circleware set of twelve is specifically highlighted as the solution to the quantity problem at budget pricing."
+  - question: "Is the Stoff Nagel chrome system worth buying with just three holders?"
+    answer: "Three holders form a compact, attractive cluster that works for a small table or an intimate centerpiece without requiring expansion to look intentional. The modular system's value grows as you add pieces over time, and the full dramatic configurations in brand imagery require buying beyond the base set. The article is direct: buyers expecting a full-table centerpiece from one set of three should recalibrate expectations."
+  - question: "How do I remove wax from stone candle holders without scratching them?"
+    answer: "Let the wax cool and harden completely before attempting removal — wiping hot wax spreads it further into the porous surface. Once hardened, a wooden or plastic tool lifts most of the bulk without scratching. Warm water and a soft cloth handles the residue. Metal tools and abrasive cleaners scratch stone permanently, so the article recommends treating this step as one that requires patience rather than speed."
+  - question: "Can red votive holders be used outdoors?"
+    answer: "With limitations. Clear glass performs reasonably well outdoors in still conditions but is vulnerable to wind, which will extinguish an open votive. Stone holders are heavier and less prone to tipping but share the same wind problem. The Stoff Nagel chrome system is designed as an indoor object and may weather poorly if left outside long-term. For outdoor candle use, a holder with a taller glass surround or a windproof design is more appropriate than any of these three picks."
 ---
 
 Red votives are the fastest way to shift a dinner table from ordinary to intentional , a handful of them down the center of a table, and the whole room feels different. The challenge isn't finding a red candle; it's finding the right holder to put it in. Browse the [Decor & Candles](/decor/) section and you'll see how many directions this decision can go.

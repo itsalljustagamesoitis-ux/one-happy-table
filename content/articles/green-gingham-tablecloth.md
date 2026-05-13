@@ -35,6 +35,17 @@ products:
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is woven gingham better than printed gingham, or does the difference only show up after washing?"
+    answer: "The difference is visible immediately and grows with use. Woven check fabric has a texture and hand that printed fabric lacks, because the pattern is structural rather than applied. After repeated washing, a printed gingham fades and loses definition in a way a woven check cannot — the color is in the thread, not on the surface. For a cloth used regularly, woven construction is worth prioritizing from the start rather than learning the difference after a few months."
+  - question: "How do I calculate the right tablecloth size for my table?"
+    answer: "Measure your actual table dimensions and decide on your drop — six to eight inches per side for casual, ten to twelve for formal. Add twice your target drop to both the length and width of your table to get the minimum cloth dimensions you need. Do not rely on the 'fits a table of' language in product listings, which is sometimes optimistic. A tablecloth that's too short looks worse than no tablecloth at all."
+  - question: "Can a green gingham tablecloth be used outdoors without fading quickly?"
+    answer: "A woven gingham resists sun fading better than a printed one because the color is in the thread rather than a surface treatment. That said, no tablecloth is designed for extended outdoor sun exposure. Use the cloth for outdoor dining when guests are present, then bring it in and launder it normally. Leaving any tablecloth outdoors in direct sunlight for prolonged periods accelerates color loss regardless of whether the pattern is woven or printed."
+  - question: "LinenTablecloth gingham vs. the Pomegranate Estate Collection — is the premium worth it?"
+    answer: "For buyers who entertain regularly and want a tablecloth that holds its quality over many years, the Egyptian cotton construction and jacquard-woven pattern of the Estate Collection offer a genuinely different experience. The drape, weight, and softness that increases with washing are things a cotton-poly blend cannot replicate. For buyers who use a tablecloth casually a few times a year, the premium is harder to justify. The honest answer depends on how often you set a real table."
+  - question: "Does a green gingham tablecloth work for settings beyond casual and outdoor dining?"
+    answer: "Green gingham works best on a table with neutral tableware — white ceramic, natural wood, simple glass — where the cloth sets the casual-to-relaxed register. It competes with bold or patterned tableware and tends to feel incongruous on very formal or contemporary tables. If your everyday setting is already busy with color and pattern, the combination may create visual noise. With simple pieces, it elevates the setting by providing the pattern anchor."
 ---
 
 A green gingham tablecloth is one of those purchases that sounds simple until you're standing in front of four options that look identical in thumbnail and completely different in person. The pattern is specific enough that most buyers know exactly what they want , that crisp, even check in garden green , but fabric, construction, and finish separate a cloth that earns a permanent place in your linen cabinet from one that pills after three washes. This is a roundup of the options worth considering, drawn from the broader world of [table linens](/linens/) I've spent years testing and recommending.

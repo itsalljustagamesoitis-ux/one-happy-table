@@ -35,6 +35,17 @@ products:
 tags: ["decor", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Nambe alloy vs. silver-plate — what is the actual difference?"
+    answer: "Nambe's proprietary alloy is a magnesium-based metal blend developed in the 1950s, not a coating applied over a base metal the way silver-plate works. Silver-plate wears through at contact points over time, exposing the base metal underneath. Nambe alloy maintains its finish more consistently because the composition is uniform throughout, does not tarnish the way sterling does, and does not wear through the way silver-plate does over years of use."
+  - question: "Does a copper finish on a centerpiece require special maintenance?"
+    answer: "Copper and copper-tone finishes accumulate patina over time, particularly in humid environments or with infrequent use. If you want to maintain the original warm reddish tone, occasional polishing with a copper-specific cream polish is needed. If the piece has a lacquered finish — common on decorative objects — skip the polish and use only a damp soft cloth, since polish will strip the lacquer unevenly. Abrasive cleaners and steel wool damage the finish faster than regular use does."
+  - question: "Statement object vs. glass vase — which makes a better centerpiece for regular entertaining?"
+    answer: "A statement object like the Nambe Karim Rashid candleholder earns attention even when empty, which means it is ready without advance preparation — no flowers to source, no arrangement to maintain. Clear glass vases like the cylinder set exist to hold something else, giving you seasonal flexibility if you enjoy arranging. For frequent hosts who want a centerpiece that is available immediately every time, a sculptural statement object is the more practical answer."
+  - question: "Can I mix the Nambe warm-silver pieces with copper-finish pieces on the same table?"
+    answer: "You can, and the contrast can work well if it is intentional. Warm silver and copper occupy adjacent positions on the metal tone spectrum and are not the jarring opposites that silver and gold can be. The key is keeping the rest of the table neutral so the mixed metals read as curated rather than mismatched. If your flatware or dinnerware is already pulling in a third metal direction, simplify rather than add complexity."
+  - question: "How many glass cylinder vases do I need for a long dining table?"
+    answer: "For a rectangular table seating eight to ten guests, two to three groupings of three cylinders — each grouping in staggered heights — gives the table a finished, intentional look. For shorter tables of four to six, one grouped arrangement centered on the table or offset toward one end reads better than multiple small clusters. The Efavormart set of three gives you one complete grouping; buy two sets for longer tables."
 ---
 
 Copper finishes and sculptural metalwork have a way of making a table feel considered rather than assembled. If you've landed here searching for the Nambe Copper centerpiece by Karim Rashid, you're already thinking beyond the basic vase , you want something with design intent. This guide covers that piece alongside a few alternatives worth knowing, pulling from the full range of [Decor & Candles](/decor/) options that work for home entertaining.

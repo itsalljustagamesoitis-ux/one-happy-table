@@ -35,6 +35,17 @@ products:
 tags: ["decor", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "What size candle fits in a hurricane candle holder?"
+    answer: "The right candle depends on the holder's interior diameter and height. Most large cylinder hurricane holders are sized for standard pillar candles with roughly three-inch diameter bases, or tapers with a narrow neck opening at the top. Always check the product dimensions before buying. A candle too narrow for the interior will sit off-center and the glass cylinder will not protect the flame effectively."
+  - question: "Glass hurricane holder vs stone tealight holders — which is easier to maintain?"
+    answer: "Glass is significantly easier. A soot film that accumulates inside a glass cylinder wipes clean with a damp cloth and mild dish soap. Stone holders are porous, and wax drips that penetrate the surface bond to it and require careful freezing and lifting to remove without scratching. For any host who wants to use candleholders regularly without planning around cleanup time, glass is the practical choice."
+  - question: "Is the Stoff Nagel brass candle holder system compatible with chrome holders in the same range?"
+    answer: "Yes. The modular connection system is consistent across the full Stoff Nagel range, meaning brass and chrome holders connect to each other. A set of three brass holders can link with chrome holders from a separate purchase to create mixed-finish arrangements. This modularity is part of what makes the initial investment worth treating as a starting point rather than a complete solution."
+  - question: "How many candle holders do I need for a dinner table centerpiece?"
+    answer: "For a round or square table seating four to six, one to three holders in a cluster is enough. For a rectangular table seating six to eight, three to five in a linear arrangement reads proportionally. For tables seating ten or more, use five or more low holders distributed down the length rather than a single tall centerpiece that only serves the middle seats. Odd numbers read more naturally than even ones at any table size."
+  - question: "Does the Stoff Nagel brass finish tarnish, and does that ruin the look?"
+    answer: "Brass does develop a patina over time with exposure. Whether that is a flaw or a feature depends on your aesthetic. The patina that develops over years of use deepens the warmth of the metal in a way that many people find more beautiful than the original finish. If you prefer to maintain the original warmth, occasional polishing with a non-abrasive brass cleaner brings it back."
 ---
 
 Candles turn a set table into an occasion. The flicker, the warmth, the way light shifts across glassware and linen , none of that happens under overhead lighting. But the candle holder matters just as much as the candle itself, and the hurricane style in particular has earned its place on tables that need to hold up through a full dinner without a flame going out every time someone reaches for the bread basket. If you're exploring the broader category, the [Decor & Candles](/decor/) hub is a useful starting point before narrowing your focus.

@@ -35,6 +35,17 @@ products:
 tags: ["dinnerware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Do round charger plates work under square dinnerware?"
+    answer: "Round charger plates work under square dinnerware as long as the diameter is generous enough to extend clearly beyond all four sides of the plate. For most 10-to-11-inch square plates, a 13-inch charger creates sufficient visual margin. The corners of the square plate will float above the charger's surface — treat that as a design feature by choosing a charger with a strong rim detail that earns its own attention."
+  - question: "Juliska Berry and Thread vs Lenox Opal Innocence — which is better for a formal table?"
+    answer: "The Juliska Berry and Thread suits an organic, artisan-formal aesthetic — textured, handcrafted, visually warm. The Lenox Opal Innocence is a cleaner, more traditional formal choice with a platinum rim that reads as precise and refined. Both require hand-washing. The Juliska works best with simple white dinnerware; the Lenox integrates most naturally with its matching Opal Innocence set or other minimalist formal china."
+  - question: "Are plastic charger plates appropriate for an indoor seated dinner?"
+    answer: "It depends on the occasion and the distance between host and guests. The American Atelier Black and Gold plastic chargers photograph well and hold up to casual and semi-formal indoor settings — holiday gatherings, birthday dinners, buffet-style entertaining. For a seated formal dinner where guests have time to examine the table closely, the lightweight feel reads as less formal than porcelain or stoneware alternatives."
+  - question: "Can charger plates go in the dishwasher?"
+    answer: "It depends on the material and rim finish. The American Atelier plastic chargers are dishwasher-safe. The Lenox Opal Innocence has a platinum band that requires hand-washing to preserve the metallic finish. The Juliska Berry and Thread is handcrafted stoneware — hand-washing is recommended to protect the hand-applied relief glaze. When in doubt, hand-wash any charger with a metallic rim or decorative hand-applied detail."
+  - question: "How does the diagonal of a square plate affect charger size selection?"
+    answer: "The diagonal of a square plate is longer than its side measurement. On a 10-inch square plate, the diagonal is roughly 14 inches — wider than most charger plates. This means the corners will always extend closer to the charger's edge than the sides do. For square plates in the 10-to-11-inch range, a 13-inch charger gives you the widest possible margin and ensures the charger's rim detail is visible on all sides."
 ---
 
 Charger plates do a specific job , they frame the place setting before the first course arrives and disappear before the food does. If you're working with square dinnerware, that job gets more complicated. Most charger plates are round, and a round charger under a square plate can look like a design accident rather than a deliberate choice. The [dinnerware](/dinnerware/) decisions that feel minor at the planning stage have a way of dominating the table once everything is set.

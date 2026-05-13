@@ -35,6 +35,17 @@ products:
 tags: ["decor", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Fitz and Floyd candle holders — do they work with standard taper candles?"
+    answer: "Most Fitz and Floyd ceramic candlestick holders, including the Halcyon line, are designed for standard taper diameters. Handmade or artisan tapers vary slightly, and a loose fit can be corrected with a small foil shim around the base. Check the receiver opening against your specific taper before the table is set, particularly with hand-dipped or beeswax candles that can run narrower than machine-made tapers."
+  - question: "Stoff Nagel brass vs chrome — which finish holds up better over time?"
+    answer: "The practical difference is wear behavior. Brass develops a warm patina over time that most people find attractive; chrome stays bright until it scratches, and scratches on chrome are more visible against the reflective surface. Aesthetically, chrome reads cooler and more contemporary, making it a better match for minimalist or Scandinavian-influenced table settings. Brass works better with warm-toned linens and candlelight-heavy environments."
+  - question: "How many Stoff Nagel holders do I need for a real centerpiece arrangement?"
+    answer: "Three holders build a modest configuration — a straight line or an L-shape. Most of the branching, asymmetric arrangements shown in Stoff Nagel's own styling require six to nine holders minimum. A practical entry point is two sets of three, which gives you enough pieces to build a genuinely interesting configuration while leaving room to expand over time."
+  - question: "How do I clean wax out of bubble-textured glass tealight holders?"
+    answer: "Place the holders in the freezer for thirty minutes — wax contracts as it cools and pops free from the glass more cleanly than at room temperature. For residue caught in the bubble texture, a toothpick or thin silicone brush works better than a cloth. The simplest prevention is to always burn tealights inside their foil cups rather than removing them first, which keeps wax pooling inside the cup rather than against the textured glass wall."
+  - question: "Can I mix the Halcyon candlestick pair with tealight holders in one centerpiece?"
+    answer: "Yes, and it's one of the more practical ways to build a layered centerpiece. The vertical line of the taper holders carries the eye upward while the tealight cluster fills the horizontal plane at table level. White ceramic reads alongside most neutral glass tealight holders without conflict. The key is keeping the finish language consistent — pairing the Halcyon pair with bubble glass tealights in clear glass works because neither material competes with the other."
 ---
 
 Fitz and Floyd candle holders have a loyal following for good reason , the brand built its reputation on detailed ceramic work and table-ready proportions. But the category has expanded well beyond the original Fitz and Floyd line, and the best pick for your table depends heavily on the setting you're creating. I've styled enough tables across formal dinners and relaxed entertaining to know that a candle holder choice is rarely just aesthetic. It affects how light moves, how stable your centerpiece is, and how much cleanup you're doing after guests leave. Browse the full [Decor & Candles](/decor/) section for the broader landscape.

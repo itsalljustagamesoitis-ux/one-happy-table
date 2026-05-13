@@ -35,6 +35,17 @@ products:
 tags: ["glassware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is cobalt blue glassware safe to drink from?"
+    answer: "Yes. Cobalt blue glassware from reputable manufacturers like Libbey and Simon Pearce is food-safe — the color is in the glass itself, not a surface coating, so there is no leaching concern with normal use. The coloring process for glassware sold for food use in the US is subject to FDA compliance standards. If you are buying from a lesser-known source, look for explicit food-safe certification before using the piece for serving."
+  - question: "Can you use cobalt blue wine glasses to actually evaluate wine?"
+    answer: "Not well. Cobalt glass makes it impossible to assess wine color, clarity, or the color shifts associated with aging — all of which require clear or very lightly tinted glass. For casual entertaining where visual assessment is not a priority, cobalt works fine as a serving vessel. For anyone who hosts wine tastings or cares about evaluating what is in the glass, clear stemware is the appropriate choice."
+  - question: "Libbey cobalt wine glasses vs Estelle hand-blown flutes — what is the actual difference?"
+    answer: "The Libbey set is machine-made, dishwasher-safe, sold as a set of four, and designed for regular use. The Estelle flutes are hand-blown, sold in pairs, and function as much as decorative objects as drinking vessels — the colored stem catches candlelight in a way machine-made glass does not replicate. Scaling Estelle to a table of eight means four separate orders at significant cumulative cost. One is a working set; the other is a considered purchase for specific occasions."
+  - question: "How do I style cobalt blue glassware so it looks intentional at the table?"
+    answer: "White or natural linen tablecloths give cobalt the most room to read as intentional. Both silver and gold flatware work — silver reads crisp and formal, gold warmer and slightly eclectic. Avoid competing strong colors in the centerpiece or chargers; cobalt works best as the dominant color statement. Simple greenery, white florals, and natural textures like raw linen and wood complement cobalt without competing with it."
+  - question: "Is hand-blown cobalt glass more fragile than machine-made?"
+    answer: "It depends on the piece rather than the production method. Thicker-walled hand-blown pieces like the Simon Pearce Ascutney have a thick base and generous wall thickness that provides real chip resistance. Delicate hand-blown flutes with thin walls and narrow stems are more vulnerable at the rim and stem junction. The fragility question is really about wall thickness and stem diameter, not hand-blown versus machine-made."
 ---
 
 Cobalt blue glassware has a way of doing the heavy lifting at a table , one set of deep blue stems and the whole setting reads as intentional. If you're building a color-forward tablescape or just want glassware that works harder than a plain tumbler, the options in [Glassware & Crystal](/glassware/) range from budget-accessible to hand-blown heirlooms. What separates a worthwhile cobalt piece from one that disappoints after two dinner parties comes down to glass quality, stem design, and whether the color is rich and even or thin and unconvincing.

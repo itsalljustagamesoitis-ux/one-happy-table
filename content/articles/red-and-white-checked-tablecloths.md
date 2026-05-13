@@ -35,6 +35,17 @@ products:
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Woven check vs. printed check tablecloth — which holds up better over time?"
+    answer: "A woven check builds the pattern into the fabric structure using colored threads, so it will not fade or crack regardless of how many times it is washed and ironed. A printed check applies the design to the fabric surface and can deteriorate with repeated laundering, particularly at high temperatures. For a tablecloth used regularly over several years, the article recommends looking for jacquard-woven or yarn-dyed in the product description as confirmation that the pattern is structural."
+  - question: "Is the April Cornell Christmas Rose tablecloth suitable for outdoor use?"
+    answer: "No. The cotton voile construction is a lightweight fabric that wrinkles readily and is not built for outdoor conditions — it would not hold up to humidity, wind, or direct sun. The article recommends this cloth for indoor dining where you can control conditions and press it before setting the table. For covered outdoor entertaining, a heavier performance-fabric tablecloth is the practical alternative."
+  - question: "Can a table runner be used without a base tablecloth underneath?"
+    answer: "Yes, and the article says it works well on a bare wood or stone table where the surface itself is meant to show. The black-and-white check runner reads clearly on natural wood without a base cloth. If your table surface is not part of the aesthetic — glass, lacquered finishes, or heavily worn surfaces — layering the runner over a solid tablecloth produces better visual results."
+  - question: "How do I choose the right tablecloth size for my dining table?"
+    answer: "Measure your table's length and width, then add your desired drop — six to twelve inches per side — to each dimension. That calculation gives you the minimum finished tablecloth size you need. Always check finished dimensions in product listings rather than relying on nominal sizing, since manufacturers differ significantly on how they label sizes. When two sizes could both work, the article recommends choosing the larger one."
+  - question: "How do I keep a tablecloth looking sharp through a long dinner party?"
+    answer: "Press it thoroughly before the table is set, not after. A tablecloth pressed flat and then disturbed during setting holds its surface longer than one pressed hastily at the last minute. Heavier cotton and jacquard-woven tablecloths hold a pressed finish better than light voile or thin cotton. Placing a table pad underneath also reduces movement during the meal, keeping the cloth correctly positioned from the first course through dessert."
 ---
 
 Red and white checked tablecloths sit at an interesting intersection , classic enough to anchor a farmhouse kitchen, graphic enough to make a holiday table feel intentional. They read rustic or refined depending on what surrounds them, which makes them one of the more useful patterns in any [table linens](/linens/) collection. The challenge isn't finding one. It's knowing which one is worth owning.

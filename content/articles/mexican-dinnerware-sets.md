@@ -35,6 +35,17 @@ products:
 tags: ["dinnerware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is Mexican dinnerware safe to eat off of?"
+    answer: "Commercially produced Mexican-style dinnerware from established brands is food-safe. The concern applies to informally produced or imported handmade pieces, where lead and cadmium in glazes can leach into food — particularly acidic dishes like salsa, citrus, or tomato-based sauces. If you are buying handmade traditional pottery, ask for explicit lead-free certification from the manufacturer, not just a general food-safe label. Non-porous materials like Corelle's Vitrelle glass eliminate the issue entirely."
+  - question: "What is the difference between authentic Talavera and Mexican-style dinnerware?"
+    answer: "Authentic Talavera is a specific tin-glazed earthenware tradition originating in Puebla, Mexico, produced by certified artisans using regional clay and traditional methods. Mexican-style dinnerware is a broader category that draws on the visual vocabulary of Talavera and other Mexican folk ceramics without meeting those production standards. Most commercially available sets are Mexican-style rather than authentic Talavera — that is not a quality criticism, just an accurate description of what you are buying."
+  - question: "Corelle vs earthenware for a colorful daily-use dinnerware set — which holds up better?"
+    answer: "Corelle's triple-layer Vitrelle glass prints the pattern beneath the glass surface, protecting it from dishwasher degradation and surface wear. Portmeirion and similar earthenware sets carry illustrated surfaces that show chips prominently — a white chip on a hand-painted border is hard to ignore. For households running heavy dishwasher cycles, Corelle's durability holds up significantly better. Earthenware rewards careful handling and benefits from hand-washing the most decorative pieces."
+  - question: "Can Mexican-style dinnerware be mixed with plain white dishes?"
+    answer: "Yes, and it is often the better approach. Pattern-forward dinnerware reads most clearly as an accent layer alongside neutral pieces. Patterned salad plates under white dinner plates, or patterned serving pieces with solid-color place settings, lets the decorative work show without competing with itself. Keep the color palette consistent between patterned and plain pieces and the table holds together."
+  - question: "How many pieces do I need to host a dinner party with Mexican-style dinnerware?"
+    answer: "A setting for four — twelve to sixteen pieces — is the practical minimum. If you host six or eight guests regularly, buy to that capacity from the start. Mexican-style and decorative sets are notoriously difficult to match after the fact, and most handmade lines do not offer individual piece replacement. Serving pieces like a large platter and a salad bowl extend a basic place-setting set considerably and are worth adding early if the line offers them."
 ---
 
 Mexican dinnerware sets attract buyers looking for bold color and hand-crafted character , the kind of table presence that mass-produced white porcelain simply can't replicate. The category spans everything from authentic Talavera pottery to colorful stoneware patterns, and the quality gap between options is wide enough to matter. Before you commit to a set, it's worth spending time with the full range of [dinnerware](/dinnerware/) styles to understand what you're actually choosing between.

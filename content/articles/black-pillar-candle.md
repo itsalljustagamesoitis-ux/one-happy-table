@@ -35,6 +35,17 @@ products:
 tags: ["decor", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Stoff Nagel vs. a standard pillar candle holder set — what's the real difference?"
+    answer: "The Stoff Nagel connects individual holders together so you can build continuous horizontal or geometric arrangements across a table. Standard fixed sets give you a predetermined number of heights and that's it. The Stoff Nagel is the right choice if you want a collection you can expand over time; a fixed brass set is the right choice if you want a complete arrangement in one purchase."
+  - question: "How many candle holders do I need for a dinner table centerpiece?"
+    answer: "For a table seating six to eight, three holders at varied heights create a centerpiece with genuine visual weight. Fewer than three tends to read as sparse rather than minimal. If you want candlelight beyond the centerpiece, add four smaller holders near place settings to carry the glow across the full table surface."
+  - question: "Does the lacquered brass finish on pillar candle holders hold up over time?"
+    answer: "Lacquered brass holds its shine longer than unlacquered brass with minimal care, but the coating is vulnerable at the base edges where holders are set down repeatedly. Over years of regular use, peeling can appear at those contact points. For occasional hosting a few times a year, the timeline extends considerably and lacquered brass is a reasonable trade-off at a mid-range price point."
+  - question: "Are the bubble glass tealight holders safe to use with bare tealights?"
+    answer: "They are designed for tealights, but bare tealights without a metal cup increase the risk of wax pooling in the textured base, which is nearly impossible to clean fully. Tealights sold in metal cups — the most common format — contain the wax and eliminate the problem. Treat metal-cup tealights as a requirement, not a preference, when using these holders."
+  - question: "Chrome or brass candle holder — which finish works better on a formal table?"
+    answer: "Chrome reads cool and modern; brass reads warm and traditional. Chrome pairs well with pale linens, marble surfaces, and clear glassware. Brass works naturally alongside linen in off-white or terracotta and with warm wood surfaces. Match the finish to the dominant material language of your table rather than choosing based on the candle color alone."
 ---
 
 Black pillar candles anchor a table the way almost nothing else does , the height, the glow, the weight of them. Finding the right holder matters more than most people expect, and I've spent enough time styling tables for gatherings large and small to have opinions about what actually works. If you're building a candle moment on your table, the holder is half the decision. The full range of [candles and decorative accents](/decor/) I've worked with shapes how I think about pairings, and that context drives every pick below.

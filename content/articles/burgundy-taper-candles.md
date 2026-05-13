@@ -35,6 +35,17 @@ products:
 tags: ["decor", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Do burgundy taper candles drip more than other colors?"
+    answer: "Color does not affect drip rate — wax composition does. A burgundy beeswax-blend taper will drip far less than a burgundy paraffin taper regardless of color. The wax type is the dominant variable, not the dye. If low drip is a priority, choose a beeswax or beeswax-blend taper in any color."
+  - question: "Twisted tapers vs straight tapers — which is better for a formal dinner?"
+    answer: "Straight tapers are the more versatile choice for a formal setting because they recede and let the holder and table carry the room. Twisted tapers introduce their own sculptural presence, which works well with simple holders but can feel busy alongside ornate candlesticks or an already-detailed table. For a formal dinner where the rest of the table is doing significant decorative work, straight tapers are the safer call."
+  - question: "How do I get a taper candle to fit a holder that is slightly too tight?"
+    answer: "Warm the base of the candle between your palms for fifteen to twenty seconds. The heat softens the wax enough to compress slightly as it seats without deforming the candle visibly. Avoid forcing a cold candle into a tight holder — you risk splitting the base or cracking an enamel or ceramic socket. This is especially relevant with beeswax-blend tapers, which are firmer than paraffin at room temperature."
+  - question: "Are the Root Candles Timberline tapers worth it compared to standard paraffin?"
+    answer: "For a dinner where candles need to last the full evening, yes. The beeswax blend burns without the black soot that marks paraffin tapers, the drip rate is low enough to use on bare wood with a catch plate, and the color accuracy holds its depth under warm dining light rather than shifting toward purple or brown. The firmer wax requires a brief palm-warming to seat in tight holders, but that is a minor step."
+  - question: "Can I mix burgundy tapers with other candle colors in the same arrangement?"
+    answer: "Yes. Burgundy pairs well with ivory, deep green, rust, and gold. Keep the number of colors in an arrangement to two or three — more than that tends to read as accidental variety rather than a considered palette. The Twisted Taper set in assorted colors is designed for exactly this kind of mixed arrangement."
 ---
 
 Burgundy taper candles sit at a particular intersection of formality and warmth that few other table elements can replicate. The depth of the color , somewhere between wine and dried rose , earns its place on dinner tables from casual autumn gatherings to formal holiday settings. I've worked with enough candle and candlestick combinations to know that the candle and its holder are a single visual decision, not two separate ones. You'll find everything connected to building that look in the [Decor & Candles](/decor/) section.

@@ -35,6 +35,17 @@ products:
 tags: ["dinnerware", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "Is Costa Nova Roda stoneware dishwasher safe?"
+    answer: "The stoneware body of the Roda line is dishwasher safe, but the reactive glaze finish benefits from hand-drying rather than air-drying after a machine wash cycle. Water spots become visible on the textured surface when pieces dry without being wiped down. The structural integrity of the stoneware is unaffected by dishwasher use — it is a cosmetic maintenance consideration, not a material risk."
+  - question: "Costa Nova reactive glaze stoneware versus Lenox Opal Innocence bone china — which is right for my table?"
+    answer: "These two sets serve fundamentally different table registers. The Roda reactive glaze stoneware is warm and artisanal, suited to casual and semi-formal occasions like harvest dinners, weeknight gatherings, and any setting where a relaxed aesthetic is the point. The Lenox Opal Innocence bone china communicates occasion and ceremony, best reserved for formal holiday meals and dinner parties where the table itself is part of what you are presenting. If you host a wide range of gatherings, owning both tiers is a practical rather than extravagant position."
+  - question: "How does bamboo fiber dinnerware compare to melamine for families with young children?"
+    answer: "Bamboo fiber is made without the formaldehyde-based resins used in melamine production, which makes it the more conservative material choice for households with young children. It is also lighter and near-unbreakable, which makes it genuinely practical for daily family use. The trade-offs are real: not microwave safe, hand-wash only, and the warm natural finish reads as casual in a way that limits its formal-occasion versatility."
+  - question: "Can the Lenox Opal Innocence set be expanded with additional place settings later?"
+    answer: "Yes — the full Opal Innocence line is built around an open-stock model, which means dinner plates, salad plates, mugs, charger plates, and serving pieces can be purchased individually or in additional place-setting increments. Starting with the 12-piece four-place-setting configuration and adding pieces over time is a reasonable approach if you entertain larger groups occasionally rather than regularly."
+  - question: "What happens to the reactive glaze on Costa Nova Roda if I air-dry the plates?"
+    answer: "Water spots become visible on the textured surface when pieces air-dry without being wiped down. The reactive glaze is slightly more porous than a smooth ceramic glaze, which means the spots catch in the texture rather than beading off cleanly. Hand-drying after each wash cycle keeps the finish looking intentional rather than neglected. That is the one consistent maintenance step the Roda line demands in exchange for its visual character."
 ---
 
 Costa Nova makes dinnerware the way good tableware should be made , with enough character to hold up across years of real meals, not just styled photographs. If you've landed here searching for costa nova dinnerware, you're likely choosing between a few different aesthetics and material philosophies, which is exactly where this kind of decision benefits from a clear recommendation rather than a list. The broader world of [Dinnerware & China](/dinnerware/) is full of options that blur together; what follows narrows that down to three honest picks.

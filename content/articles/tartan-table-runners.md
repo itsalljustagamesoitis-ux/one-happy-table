@@ -35,6 +35,17 @@ products:
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
+faq:
+  - question: "How long should a tartan table runner be for a standard dining table?"
+    answer: "A six-person dining table is typically 60 to 72 inches long. A 72-inch runner fits that configuration with minimal overhang — closer to flush than draped. For a more traditional look with six inches of overhang on each end, an 84-inch runner works better. If your table is 96 inches or longer, two 72-inch runners staggered end-to-end create a layered effect and cover the full length cleanly without the gap that a single short runner creates."
+  - question: "Tartan table runner — can I use it outside of the holiday season?"
+    answer: "Traditional red-and-green tartan reads as Christmas-specific and is difficult to use outside of November through January without the table feeling seasonally mismatched. Navy, forest green, charcoal, and camel tartans have a heritage-plaid character that sits comfortably in autumn and winter without triggering holiday associations. If you want a runner with a longer usable window, the colorway is the variable to choose carefully — not the pattern itself."
+  - question: "Elrene tartan runner vs. Chilewich woven runner — which is more practical for frequent hosting?"
+    answer: "Both are machine washable, but they serve different tables. The Elrene tartan is a fabric runner with a wrinkle-resistant finish, best suited to hosts who want the seasonal holiday look and launder between every use. The Chilewich Trellis is vinyl-yarn weave — heat-resistant, water-resistant, and wipeable between meals — which makes it fundamentally more durable and easier to maintain for year-round use. The Chilewich reads as contemporary rather than traditional, so the aesthetic fit depends on the room it lives in."
+  - question: "Juliska Country Estate runner — does it require ironing before each use?"
+    answer: "No, and that is intentional. The stonewashed linen finish is designed to have a relaxed, slightly rumpled surface that does not press flat — Juliska intends the lived-in texture as part of the farmhouse aesthetic the collection is built around. If you prefer a sharply dressed and crisply pressed table, this runner will look underdone. If you want heritage texture without a hot iron before every dinner party, the no-press quality is a genuine selling point."
+  - question: "What dinnerware works best alongside a tartan table runner?"
+    answer: "Solid dinnerware in colors that appear within the plaid — white, cream, red, forest green, or navy depending on the colorway. Tartan's grid structure is visually assertive and competes with patterned dinnerware rather than coordinating with it. Simple glassware and napkins in a single solid color from the tartan's palette complete the table without adding more pattern weight. Restraint in every other element is what lets the runner do its job without the table looking crowded."
 ---
 
 Tartan table runners occupy a narrow lane , they do this one thing, and they do it well. A strong runner sets the spine of a holiday or winter table without requiring you to swap out every piece of dinnerware you own. Browse the full range of [table linens](/linens/) and you'll find runners in every material and pattern imaginable, but tartan specifically rewards buyers who understand what they're actually choosing: a statement piece with a seasonal personality.
