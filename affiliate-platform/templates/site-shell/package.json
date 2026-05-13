@@ -1,19 +1,13 @@
 {
-  "name": "one-happy-table",
+  "name": "{{SITE_SLUG}}",
   "type": "module",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "engines": {
     "node": ">=22.12.0"
   },
   "scripts": {
     "dev": "astro dev",
     "build": "astro build && npx pagefind --site dist && node node_modules/@platform/core/scripts/build-validator.mjs",
-    "postbuild": "node scripts/submit-indexnow.mjs",
-    "submit-indexnow": "node scripts/submit-indexnow.mjs",
-    "validate:asins": "node node_modules/@platform/core/scripts/validate-asins.mjs",
-    "clone:site": "bash scripts/clone-site.sh",
-    "update:clones": "bash scripts/update-all-clones.sh",
-    "check:health": "node scripts/check-health.mjs",
     "preview": "astro preview",
     "astro": "astro"
   },
