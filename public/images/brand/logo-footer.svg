@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 40" width="240" height="40" role="img" aria-label="One Happy Table">
 
-  <g transform="translate(18,20)">
+  <g transform="translate(22,20)">
     <circle cx="0" cy="0" r="11" fill="none" stroke="#ffffff" stroke-width="1.6"/>
     <circle cx="0" cy="0" r="7.5" fill="none" stroke="#ffffff" stroke-width="0.75" opacity="0.45"/>
     <line x1="-17" y1="-9" x2="-17" y2="10" stroke="#D4A853" stroke-width="1.4" stroke-linecap="round"/>
