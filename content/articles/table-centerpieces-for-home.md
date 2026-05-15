@@ -28,7 +28,7 @@ products:
   - id: "stoff-nagel-candle-holder-chrome-set3"
     role: "also_consider"
     article_specific_pros:
-      - "The Danish modular system , each holder connects to the next, building any shape"
+      - "Minimalist chrome taper candle holders , each holder connects to the next, building any shape"
       - "Chrome finish is more modern than brass; works on contemporary minimalist tables"
     article_specific_cons:
       - "Chrome scratches more visibly than brass on close inspection"
@@ -42,7 +42,7 @@ faq:
     answer: "A wooden box works well as an everyday piece because it functions as a staging container you fill and change with the season, rather than a fixed decorative object. The key practical note is to use a glass liner if you are placing a water-filled vase inside — the whitewash finish on the Creative Co-Op box will show water rings from condensation, and those marks are difficult to reverse. Without that constraint, it is low-maintenance and genuinely useful as a daily table piece."
   - question: "Clear glass bowl as a centerpiece — does it work year-round or only for specific seasons?"
     answer: "A clear glass bowl is one of the most adaptable centerpiece forms you can own. Fill it with citrus in winter, greenery in spring, stones or shells in summer, and gourds or seed pods in fall. The Libbey Glass Serving Bowl Set of 3 gives you three working sizes, which adds flexibility — the largest bowl for a dinner party statement, the smallest for a quiet weeknight when the table does not need much dressing. Glass reads as both casual and formal depending on what you place inside it."
-  - question: "Stoff Nagel candle system as a centerpiece — how many holders do I need to start?"
+  - question: "Chrome modular candle holders as a centerpiece — how many do I need to start?"
     answer: "Three holders is a functional starting point that gives you a horizontal line or a simple cluster, both of which read well on a table. The sculptural configurations that make this system compelling in design photography require six or more. Buy three to understand how the connectors work and whether the chrome finish suits your table, then expand once you know which configuration suits your space. The modular design means each addition builds on what you already own."
   - question: "Natural wood vs. clear glass centerpiece — which works better on a dark dining table?"
     answer: "Glass is the safer choice for dark tables because it does not compete with the wood grain — it simply sits on top and catches light. A whitewash wood box on a dark walnut table creates contrast that can work, but requires more intention in the surrounding elements to look deliberate. On a pale Scandinavian oak or light-finished table, the tonal harmony between wood and whitewash is easier to achieve and reads as more considered with less effort."
@@ -110,13 +110,13 @@ The honest limitation is the glass itself. Machine-pressed construction means th
 
 ### Chrome Taper Candle Holders Set of 3
 
-No other centerpiece on this list does what the Stoff Nagel Candle Holder System in Chrome does: it builds. Each holder connects to the next, so the configuration you use for a dinner for four is different from the one you assemble for a holiday table for twelve. That modularity is the entire premise, and it's executed well enough to justify the premium price band.
+No other centerpiece on this list does what these chrome taper candle holders do: they build. Each holder connects to the next, so the configuration you use for a dinner for four is different from the one you assemble for a holiday table for twelve. That modularity is the entire premise, and it's executed well enough to justify the premium price band.
 
 The chrome finish positions this as a distinctly contemporary piece. Brass versions of the same system read warmer and work on traditional or transitional tables , chrome is sharper, more architectural, better suited to a minimalist dining room or a table with clean-lined chairs and white dinnerware. The finish does show scratches more readily than brass on close inspection, but at candle-lit dinner distance, the surface reads as uniformly bright.
 
 The practical note any buyer should understand: the dramatic configurations you see in styling photographs require more than three holders. The set of three gives you a functional starting point , a horizontal line or a simple cluster , but the sculptural arrangements that make this system compelling require six or more. Buy the set knowing you'll likely add to it, and that second purchase becomes easier once you understand how the connectors work.
 
-![Stoff Nagel chrome candle holder set arranged on a dining table](/images/articles/decor-3.jpg)
+![Chrome taper candle holders arranged on a dining table](/images/articles/decor-3.jpg)
 
 ,
 
@@ -138,13 +138,13 @@ For less frequent entertaining, a single strong piece in a neutral finish is mor
 
 ### Think About Candles Deliberately
 
-Candles are the fastest way to make a table feel like a deliberate setting rather than just a surface with food on it. But not every centerpiece works with candles , a wooden box filled with dried botanicals and open-flame candles requires care that a glass bowl arrangement does not. The Stoff Nagel system is built entirely around candle use and handles that context well. If candles are central to how you entertain, a holder system designed for the purpose is a more honest choice than adapting a piece that wasn't meant for it.
+Candles are the fastest way to make a table feel like a deliberate setting rather than just a surface with food on it. But not every centerpiece works with candles , a wooden box filled with dried botanicals and open-flame candles requires care that a glass bowl arrangement does not. The chrome modular candle holder system is built entirely around candle use and handles that context well. If candles are central to how you entertain, a holder system designed for the purpose is a more honest choice than adapting a piece that wasn't meant for it.
 
-Candle height also interacts with sightline rules. Tapered candles in low holders keep the eye level clear. Pillar candles above twelve inches block the view across a standard dining table. The Stoff Nagel set at three holders sits low enough to work within the sightline limit without adjustment.
+Candle height also interacts with sightline rules. Tapered candles in low holders keep the eye level clear. Pillar candles above twelve inches block the view across a standard dining table. The chrome taper holder set at three holders sits low enough to work within the sightline limit without adjustment.
 
 ### Factor in Storage and Off-Season Use
 
-Centerpieces that don't break down or stack occupy real cabinet space for however many months they're not on the table. The Libbey bowl set nests completely , three bowls take up the footprint of one. The wooden box doesn't compress, but its rectangular form stacks cleanly on a shelf. The Stoff Nagel holders nest loosely in a box but the connectors add some bulk.
+Centerpieces that don't break down or stack occupy real cabinet space for however many months they're not on the table. The Libbey bowl set nests completely , three bowls take up the footprint of one. The wooden box doesn't compress, but its rectangular form stacks cleanly on a shelf. The chrome taper candle holders nest loosely in a box but the connectors add some bulk.
 
 Before committing to any piece, consider where it lives when it's not in use. A centerpiece that's difficult to store tends to stay out even when it's wrong for the occasion, or gets used less often because retrieving and putting it away is inconvenient. Storage practicality is a real part of the decision. Browsing through the [Decor & Candles](/decor/) category with storage in mind can help you spot which forms will actually fit your life.
 
@@ -162,7 +162,7 @@ For a standard six- to eight-seat rectangular dining table, a centerpiece betwee
 ### Can a glass bowl work as a year-round centerpiece?
 
 A clear glass bowl is one of the most adaptable forms you can own , fill it with citrus in winter, greenery in spring, stones and shells in summer, and gourds or seed pods in fall. The [Libbey Glass Serving Bowl Set of 3](product:libbey-glass-serving-bowl-set3) gives you multiple sizes, which adds to that flexibility. Glass reads as both casual and formal depending on what you place inside it, making it a genuinely year-round option.
-### How many Stoff Nagel holders do I need to start?
+### How many chrome modular candle holders do I need to start?
 
 The set of three gives you a workable starting arrangement , a horizontal line or a small cluster , but the distinctive sculptural configurations require six or more holders. Buy three to understand the system and how the connectors work, then expand once you know which configuration suits your table. The modular design means each addition builds on what you already own rather than replacing it.
 ### Is a wooden centerpiece box practical for everyday use?
@@ -194,7 +194,7 @@ For a dinner party, the centerpiece should make a statement , more candles, tall
  },
  {
  "@type": "Question",
- "name": "How many Stoff Nagel holders do I need to start?",
+ "name": "How many chrome modular candle holders do I need to start?",
  "acceptedAnswer": {
  "@type": "Answer",
  "text": "The set of three gives you a workable starting arrangement , a horizontal line or a small cluster , but the distinctive sculptural configurations require six or more holders. Buy three to understand the system and how the connectors work, then expand once you know which configuration suits your table. The modular design means each addition builds on what you already own rather than replacing it."

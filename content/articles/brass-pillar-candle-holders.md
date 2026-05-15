@@ -15,7 +15,7 @@ products:
     role: "best_overall"
     article_specific_pros:
       - "Set of three heights allows tiered centerpiece arrangement out of the box"
-      - "Brass finish has the warmth of the Stoff Nagel system at a lower price point"
+      - "Brass finish has the warmth of a modular brass candle holder system at a lower price point"
     article_specific_cons:
       - "Brass finish is lacquered rather than solid brass , finish can peel at base edges over years"
   - id: "stoff-nagel-candle-holder-brass-set3"
@@ -39,11 +39,11 @@ faq:
   - question: "What is the difference between a pillar candle holder and a taper candle holder?"
     answer: "A pillar candle holder has a flat or lightly recessed platform designed to support the wide, flat base of a pillar candle. A taper holder has a narrow cup or spike designed to grip the slim base of a taper candle. These formats are not interchangeable — using a taper candle on a pillar platform results in an unstable, wobbling candle. Always confirm which format a holder is designed for before purchasing."
   - question: "Will brass candle holders tarnish, and how do I maintain them?"
-    answer: "Real brass tarnishes with exposure to air and humidity. The rate depends on the finish — lacquered brass tarnishes slowly if the coating is intact, while unlacquered brass tarnishes more readily but can be polished back to brightness with a standard brass polish. The Stoff Nagel Brass system is genuine brass and will benefit from occasional polishing. Many buyers find the developing patina attractive and choose not to polish at all."
+    answer: "Real brass tarnishes with exposure to air and humidity. The rate depends on the finish — lacquered brass tarnishes slowly if the coating is intact, while unlacquered brass tarnishes more readily but can be polished back to brightness with a standard brass polish. Genuine brass taper holders benefit from occasional polishing. Many buyers find the developing patina attractive and choose not to polish at all."
   - question: "Fixed set vs. modular system — which brass pillar holder setup is better for a dinner table?"
     answer: "A fixed set of three at varying heights delivers immediate visual completeness with no additional purchases required. A modular system suits someone who hosts regularly, changes table configurations seasonally, and wants flexibility across different table lengths. The fixed set is the right call if you entertain occasionally and want a result without ongoing investment; the modular system earns its cost over multiple events."
   - question: "Can I mix brass and chrome candle holders on the same table?"
-    answer: "Mixed metal styling works when one finish is dominant and the other is an accent. A majority brass grouping with chrome as a secondary element through cutlery or glassware reads cohesive rather than mismatched. The Stoff Nagel modular system is specifically compatible across brass and chrome finishes, which makes intentional mixing straightforward within that product line."
+    answer: "Mixed metal styling works when one finish is dominant and the other is an accent. A majority brass grouping with chrome as a secondary element through cutlery or glassware reads cohesive rather than mismatched. Modular candle holder systems that are compatible across brass and chrome finishes make intentional mixing straightforward within a single product line."
   - question: "How many candle holders do I need for a rectangular dinner table centerpiece?"
     answer: "For a four-person table, three holders at varying heights are generally sufficient. For a six- to eight-person rectangular table, five to seven holders arranged in a linear grouping create a proportionate centerpiece without overwhelming the table. The arrangement matters as much as the count — staggered heights read more naturally than a uniform row."
 ---
@@ -96,13 +96,13 @@ Check current price on Amazon.
 
 ### Brass Taper Candle Holders Set of 3
 
-This is the choice I'd steer most readers toward if they're building a table they plan to keep styling for years. The Stoff Nagel Candle Holder System in Brass carries the same modular connection architecture as the chrome version, which means any piece you buy now can be linked and extended with additional holders later. That expandability is what separates it from a standard fixed set.
+This is the choice I'd steer most readers toward if they're building a table they plan to keep styling for years. The brass taper candle holders carry the same modular connection architecture as the chrome version, which means any piece you buy now can be linked and extended with additional holders later. That expandability is what separates it from a standard fixed set.
 
-The brass finish here is genuinely different from a lacquered equivalent. It will tarnish with exposure , that's honest brass behavior , but the patina it develops is warm and characterful in a way that suits a traditional or Scandinavian-influenced table particularly well. If your base palette runs toward linen, natural wood, and neutral or cream-toned china, this finish photographs beautifully and holds its own as the centerpiece anchor.
+The brass finish here is genuinely different from a lacquered equivalent. It will tarnish with exposure , that's honest brass behavior , but the patina it develops is warm and characterful in a way that suits a traditional or warmly styled table particularly well. If your base palette runs toward linen, natural wood, and neutral or cream-toned china, this finish photographs beautifully and holds its own as the centerpiece anchor.
 
 The trade-off is maintenance and investment. Brass polishing is a real task, not a once-in-a-while wipe-down. And the modular potential only materializes if you're willing to add pieces over time. One set of three is lovely; the system becomes genuinely impressive at five or six holders arranged across a long table , but that requires a second purchase.
 
-![Stoff Nagel brass candle holders arranged across a linen table runner](/images/articles/decor-2.jpg)
+![Brass taper candle holders arranged across a linen table runner](/images/articles/decor-2.jpg)
 
 ,
 
@@ -161,10 +161,10 @@ Storage matters too. Holders that stack or nest compactly are easier to maintain
 A pillar candle holder has a flat or lightly recessed platform designed to support the wide, flat base of a pillar candle. A taper holder has a narrow cup or spike designed to grip the slim base of a taper candle. These formats are not interchangeable , using a taper candle on a pillar platform will result in an unstable, wobbling candle. Always confirm which format a holder is designed for before purchasing.
 ### Will brass candle holders tarnish, and how do I maintain them?
 
-Yes , real brass tarnishes with exposure to air and humidity. The rate depends on the finish: lacquered brass tarnishes slowly if the coating is intact, while unlacquered brass tarnishes more readily but can be polished back to brightness with a standard brass polish. The Stoff Nagel Candle Holder System in Brass is genuine brass and will benefit from occasional polishing. Many buyers find the developing patina attractive and choose not to polish at all.
+Yes , real brass tarnishes with exposure to air and humidity. The rate depends on the finish: lacquered brass tarnishes slowly if the coating is intact, while unlacquered brass tarnishes more readily but can be polished back to brightness with a standard brass polish. Genuine brass taper holders benefit from occasional polishing. Many buyers find the developing patina attractive and choose not to polish at all.
 ### Can I mix brass and chrome candle holders on the same table?
 
-Mixed metal styling is well-established in table design and generally works when one finish is dominant and the other is an accent. A majority brass grouping with chrome as a secondary element , through cutlery or glassware , reads cohesive rather than mismatched. The Stoff Nagel modular system is specifically compatible across brass and chrome finishes, which makes intentional mixing straightforward within that product line.
+Mixed metal styling is well-established in table design and generally works when one finish is dominant and the other is an accent. A majority brass grouping with chrome as a secondary element , through cutlery or glassware , reads cohesive rather than mismatched. Modular candle holder systems compatible across brass and chrome finishes make intentional mixing straightforward within a single product line.
 ### How many candle holders do I need for a dinner table centerpiece?
 
 For a four-person table, three holders at varying heights are generally sufficient. For a six- to eight-person rectangular table, five to seven holders arranged in a linear grouping create a proportionate centerpiece without overwhelming the table. A set of three serves as a complete starting point; modular systems allow you to expand that grouping as needed. The arrangement matters as much as the count.
@@ -189,7 +189,7 @@ Danya B. bow taper holders are designed with a specific cup diameter that may no
  "name": "Will brass candle holders tarnish, and how do I maintain them?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "Yes , real brass tarnishes with exposure to air and humidity. The rate depends on the finish: lacquered brass tarnishes slowly if the coating is intact, while unlacquered brass tarnishes more readily but can be polished back to brightness with a standard brass polish. The Stoff Nagel Candle Holder System in Brass is genuine brass and will benefit from occasional polishing. Many buyers find the developing patina attractive and choose not to polish at all."
+ "text": "Yes , real brass tarnishes with exposure to air and humidity. The rate depends on the finish: lacquered brass tarnishes slowly if the coating is intact, while unlacquered brass tarnishes more readily but can be polished back to brightness with a standard brass polish. Genuine brass taper holders benefit from occasional polishing. Many buyers find the developing patina attractive and choose not to polish at all."
  }
  },
  {
@@ -197,7 +197,7 @@ Danya B. bow taper holders are designed with a specific cup diameter that may no
  "name": "Can I mix brass and chrome candle holders on the same table?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "Mixed metal styling is well-established in table design and generally works when one finish is dominant and the other is an accent. A majority brass grouping with chrome as a secondary element , through cutlery or glassware , reads cohesive rather than mismatched. The Stoff Nagel modular system is specifically compatible across brass and chrome finishes, which makes intentional mixing straightforward within that product line."
+ "text": "Mixed metal styling is well-established in table design and generally works when one finish is dominant and the other is an accent. A majority brass grouping with chrome as a secondary element , through cutlery or glassware , reads cohesive rather than mismatched. Modular candle holder systems compatible across brass and chrome finishes make intentional mixing straightforward within a single product line."
  }
  },
  {

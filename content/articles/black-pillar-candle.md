@@ -80,9 +80,9 @@ Modular systems solve this permanently. Fixed sets give you a defined starting p
 
 ## Top Picks
 
-### Stoff Nagel Candle Holder System , Chrome (Set of 3)
+### Chrome Taper Candle Holders (Set of 3)
 
-The modular connection system is what sets the Stoff Nagel apart from every other holder on this list, and frankly from most holders on the market. Each unit connects to the next via a locking mechanism at the base, allowing you to build horizontal runs, L-shapes, and clustered arrangements without any of the visual chaos that comes from mismatched pieces. Buy three to start, and the configuration still looks considered. Add more over time and the system grows with you.
+The modular connection system is what sets these chrome taper candle holders apart from every other holder on this list, and frankly from most holders on the market. Each unit connects to the next via a locking mechanism at the base, allowing you to build horizontal runs, L-shapes, and clustered arrangements without any of the visual chaos that comes from mismatched pieces. Buy three to start, and the configuration still looks considered. Add more over time and the system grows with you.
 
 The chrome finish is deliberately cool , it works best on tables where the other materials are pale or reflective: white linens, stone surfaces, clear glassware. Against darker settings or warm wood, it can read as slightly cold. That's not a flaw; it's a design choice that pairs correctly with some tablescapes and less well with others.
 
@@ -90,7 +90,7 @@ The one honest drawback: the dramatic configurations you see in styling photos ,
 
 Check current price on Amazon.
 
-![Stoff Nagel chrome candle holder system on a styled dining table](/images/articles/decor-1.jpg)
+![Chrome modular candle holders on a styled dining table](/images/articles/decor-1.jpg)
 
 ,
 
@@ -100,7 +100,7 @@ Three heights, bought once, ready to arrange. That's the practical appeal of thi
 
 The brass finish sits in warm territory , it photographs well by candlelight and pairs naturally with linens in off-white, terracotta, and deep green. The flat-topped design holds pillar candles without adhesive or spikes, which makes switching candles between gatherings straightforward. No fighting with wax residue stuck to a spike.
 
-I'd be honest about the finish: this is lacquered brass, not solid brass, and over years of use the lacquer at the base edges can show wear. If you're buying this for occasional hosting , a few times a year , that timeline extends considerably. If you're using these weekly, the wear will show sooner. At a mid-range price point, this is the right trade-off for most buyers who want the warmth of brass without committing to the Stoff Nagel investment.
+I'd be honest about the finish: this is lacquered brass, not solid brass, and over years of use the lacquer at the base edges can show wear. If you're buying this for occasional hosting , a few times a year , that timeline extends considerably. If you're using these weekly, the wear will show sooner. At a mid-range price point, this is the right trade-off for most buyers who want the warmth of brass without committing to a premium modular system.
 
 Check current price on Amazon.
 
@@ -134,7 +134,7 @@ Mixing finishes on the same table is possible, but it requires at least one othe
 
 A single pillar arrangement at the center of the table is a centerpiece. Candlelight distributed across the table , including near place settings , is a different effect entirely, and it requires a different holder strategy. If the centerpiece is the goal, invest in height and modular flexibility. If you want the whole table to glow, supplement your centerpiece with lower holders at each seat.
 
-The bubble glass tealight holders in this list exist for exactly the second scenario. They're not competing with the Stoff Nagel or the brass set , they're completing a table that already has a centerpiece and needs candlelight carried further across the surface.
+The bubble glass tealight holders in this list exist for exactly the second scenario. They're not competing with the chrome modular holders or the brass set , they're completing a table that already has a centerpiece and needs candlelight carried further across the surface.
 
 ### Match the Holder to How Often You Entertain
 
@@ -146,7 +146,7 @@ Be honest about your hosting frequency before deciding how much to spend on hold
 
 Pillar candles are not a standard size. A three-inch pillar from one brand may be 2.9 inches; from another, 3.1 inches. Flat-topped holders accommodate this variation better than spike or cup holders because there's no mechanical fit required. If you're committed to a specific candle brand, verify its diameter against the holder's specifications before purchasing.
 
-This matters most for spike-style holders , the Stoff Nagel uses a spike mechanism , where a candle that's too narrow will wobble and a candle that's too dense may crack at the base when pressed onto the spike. Softer pillar candles (paraffin-based) accept spikes more readily than harder compositions.
+This matters most for spike-style holders , the chrome candle holder system uses a spike mechanism , where a candle that's too narrow will wobble and a candle that's too dense may crack at the base when pressed onto the spike. Softer pillar candles (paraffin-based) accept spikes more readily than harder compositions.
 
 ### Think About the Arrangement Before You Buy the Holders
 
@@ -156,10 +156,10 @@ Before purchasing, sketch the table in your head: where does the eye enter, wher
 
 ## Frequently Asked Questions
 
-### What is the difference between the Stoff Nagel system and a standard pillar candle holder set?
+### What is the difference between modular candle holders and a standard pillar candle holder set?
 
-The Stoff Nagel system connects individual holders together so you can build continuous horizontal or geometric arrangements , something no fixed set can do. Standard sets give you a defined number of predetermined heights. The Stoff Nagel is the right choice if you want a living collection you can expand; a fixed brass set is the right choice if you want a complete arrangement in one purchase without buying additional pieces over time.
-### Can I use black pillar candles in the Stoff Nagel chrome holders?
+The modular chrome candle holders connect individual pieces together so you can build continuous horizontal or geometric arrangements , something no fixed set can do. Standard sets give you a defined number of predetermined heights. The modular system is the right choice if you want a living collection you can expand; a fixed brass set is the right choice if you want a complete arrangement in one purchase without buying additional pieces over time.
+### Can I use black pillar candles in the chrome taper candle holders?
 
 Yes, and the contrast reads very well. Black pillar candles against chrome holders on a pale surface , white linen, light marble , creates a high-contrast, modern arrangement. The spike mechanism works with most standard paraffin pillar candles; softer compositions accept the spike more easily than harder ones. Verify the candle's base diameter fits the spike before your event rather than discovering a wobble problem mid-dinner.
 ### Are the bubble glass tealight holders safe to use with bare tealights?
@@ -178,15 +178,15 @@ The lacquered brass finish doesn't require polishing the way unlacquered brass d
  "mainEntity": [
  {
  "@type": "Question",
- "name": "What is the difference between the Stoff Nagel system and a standard pillar candle holder set?",
+ "name": "What is the difference between modular candle holders and a standard pillar candle holder set?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "The Stoff Nagel system connects individual holders together so you can build continuous horizontal or geometric arrangements , something no fixed set can do. Standard sets give you a defined number of predetermined heights. The Stoff Nagel is the right choice if you want a living collection you can expand; a fixed brass set is the right choice if you want a complete arrangement in one purchase without buying additional pieces over time."
+ "text": "The modular chrome candle holders connect individual pieces together so you can build continuous horizontal or geometric arrangements , something no fixed set can do. Standard sets give you a defined number of predetermined heights. The modular system is the right choice if you want a living collection you can expand; a fixed brass set is the right choice if you want a complete arrangement in one purchase without buying additional pieces over time."
  }
  },
  {
  "@type": "Question",
- "name": "Can I use black pillar candles in the Stoff Nagel chrome holders?",
+ "name": "Can I use black pillar candles in the chrome taper candle holders?",
  "acceptedAnswer": {
  "@type": "Answer",
  "text": "Yes, and the contrast reads very well. Black pillar candles against chrome holders on a pale surface , white linen, light marble , creates a high-contrast, modern arrangement. The spike mechanism works with most standard paraffin pillar candles; softer compositions accept the spike more easily than harder ones. Verify the candle's base diameter fits the spike before your event rather than discovering a wobble problem mid-dinner."

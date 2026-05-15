@@ -21,7 +21,7 @@ products:
   - id: "stoff-nagel-candle-holder-chrome-set3"
     role: "also_consider"
     article_specific_pros:
-      - "The Danish modular system , each holder connects to the next, building any shape"
+      - "Minimalist chrome taper candle holders , each holder connects to the next, building any shape"
       - "Chrome finish is more modern than brass; works on contemporary minimalist tables"
     article_specific_cons:
       - "Chrome scratches more visibly than brass on close inspection"
@@ -40,8 +40,8 @@ faq:
     answer: "Most bow candle holders are designed for standard 7/8-inch diameter taper candles, which is the most common size in the US. However, decorative holders with shaped cups may run slightly narrower or shallower, so it is worth checking the listed cup diameter before purchasing. If the fit is loose, a rubber candle ring — sold separately and inexpensively — will stabilize most standard tapers in an undersized cup."
   - question: "Danya B. bow holder vs. Michael Aram Twist — which is better for a formal dinner table?"
     answer: "The Danya B. bow holder is the cleaner formal choice — the defined bow shape reads crisp and intentional against formal linens and structured charger plates. The Michael Aram Twist works better on tables with organic or artisanal elements where the sculptural form complements rather than competes. If the table is symmetrical and formally dressed, the Danya B. is the more disciplined answer."
-  - question: "Is the Stoff Nagel system worth buying as a set of three, or should I start smaller?"
-    answer: "A set of three is the practical starting point for the Stoff Nagel system because three holders create a configuration with enough visual presence to stand on its own. A single holder or a pair does not give you the benefit of the modular concept — the design logic depends on connection and arrangement. Starting with three lets you evaluate whether the system fits your table before committing to a larger build."
+  - question: "Is the modular candle holder system worth buying as a set of three, or should I start smaller?"
+    answer: "A set of three is the practical starting point for a modular candle holder system because three holders create a configuration with enough visual presence to stand on its own. A single holder or a pair does not give you the benefit of the modular concept — the design logic depends on connection and arrangement. Starting with three lets you evaluate whether the system fits your table before committing to a larger build."
   - question: "Can bow candle holders be used with LED or battery-operated tapers?"
     answer: "Yes, and it is often practical for tablescapes where open flame is not appropriate — events with children nearby, venues with fire restrictions, or outdoor settings with wind. The fit question still applies: an LED taper has a fixed base diameter, so the same cup-diameter compatibility check matters. LED tapers also tend to have a slightly more consistent base width than wax tapers, which can actually improve the fit in holders designed for standard dimensions."
   - question: "How should I store metal candle holders between uses to prevent scratches?"
@@ -98,15 +98,15 @@ The trade-off worth flagging: because this is a decorative form first, the taper
 
 [Check current price on Amazon.](product:danya-b-metal-bow-candle-holders-pair)
 
-### Stoff Nagel Candle Holder System , Chrome (Set of 3)
+### Chrome Taper Candle Holders (Set of 3)
 
-The modular logic is what separates the Stoff Nagel Candle Holder System , Chrome (Set of 3) from everything else in this category. Each holder connects to the next using a simple pin system, which means you're not buying a candle holder , you're buying a starting point for a configuration that can grow in any direction. A set of three is enough to create a clean linear arrangement or a small cluster; add more holders and the possibilities expand substantially.
+The modular logic is what separates these chrome taper candle holders from everything else in this category. Each holder connects to the next using a simple pin system, which means you're not buying a candle holder , you're buying a starting point for a configuration that can grow in any direction. A set of three is enough to create a clean linear arrangement or a small cluster; add more holders and the possibilities expand substantially.
 
 The chrome finish is a deliberate choice relative to the more common brass version of this system. Chrome reads cooler and more contemporary , it integrates with modern minimalist tables in a way that warm brass doesn't. The trade-off is that chrome shows fine scratches more readily than brass on close inspection, which matters if your holders are stored and restacked regularly.
 
 For anyone building a tablescape that changes across events, the modular system justifies the premium tier entirely. A bow-adjacent shape emerges naturally when you build a curved configuration, and the flexibility to disassemble and rebuild means this set earns its place across multiple table aesthetics rather than being committed to one.
 
-![Stoff Nagel chrome candle holder system arranged on a table](/images/articles/decor-2.jpg)
+![Chrome modular candle holders arranged on a table](/images/articles/decor-2.jpg)
 
 ,
 
@@ -136,7 +136,7 @@ If your table changes character across events , formal holiday dinner one month,
 
 ### Single Statement Piece vs. Modular System
 
-A single sculptural holder like the Michael Aram works as a standalone object. Its scale and detail provide enough visual weight that it doesn't need partners. A modular system like the Stoff Nagel, by contrast, is designed to grow , a set of three is the starting configuration, not the finished version.
+A single sculptural holder like the Michael Aram works as a standalone object. Its scale and detail provide enough visual weight that it doesn't need partners. A modular chrome candle holder system, by contrast, is designed to grow , a set of three is the starting configuration, not the finished version.
 
 Your answer here depends on how you actually use your table. If you set it once for a specific aesthetic and leave it, a single statement piece is the practical choice. If you reconfigure regularly, a modular system earns its cost over multiple events because it adapts rather than accumulating.
 
@@ -144,7 +144,7 @@ Your answer here depends on how you actually use your table. If you set it once 
 
 A bow candle holder with a clean geometric base reads formal. An organic twisted-metal holder reads relaxed-artisanal. A modular chrome system reads contemporary. These aren't interchangeable. The holder you choose should match the formality register of the events you actually host, not the ones you imagine hosting.
 
-For formal dinner parties and holiday tables, the defined geometric form of a bow base is consistently the right answer. For more casual gatherings with organic styling, a sculptural form handles the table better. For contemporary entertaining with minimal linens and clean lines, the modular chrome system sits most naturally. Exploring [tabletop decor options by style](/decor/) can help you identify which register your existing pieces already occupy before you commit to a new holder.
+For formal dinner parties and holiday tables, the defined geometric form of a bow base is consistently the right answer. For more casual gatherings with organic styling, a sculptural form handles the table better. For contemporary entertaining with minimal linens and clean lines, the modular chrome candle holders sit most naturally. Exploring [tabletop decor options by style](/decor/) can help you identify which register your existing pieces already occupy before you commit to a new holder.
 
 ### Taper Length and Burn Time
 
@@ -163,9 +163,9 @@ A holder bought at a budget price point and replaced annually costs more over fi
 ### What size taper candle fits a bow candle holder?
 
 Most bow candle holders are designed for standard 7/8-inch diameter taper candles, which is the most common size in the US. However, decorative holders with shaped cups may run slightly narrower or shallower, so it's worth checking the listed cup diameter before purchasing. If the fit is loose, a rubber candle ring , sold separately and inexpensively , will stabilise most standard tapers in an undersized cup.
-### Is the Stoff Nagel system worth buying as a set of three or should I start smaller?
+### Is the modular candle holder system worth buying as a set of three or should I start smaller?
 
-A set of three is the practical starting point for the Stoff Nagel system because three holders create a configuration with enough visual presence to stand on its own. A single holder or a pair doesn't give you the benefit of the modular concept , the design logic depends on connection and arrangement. Starting with three lets you evaluate whether the system fits your table before committing to a larger build.
+A set of three is the practical starting point for a modular candle holder system because three holders create a configuration with enough visual presence to stand on its own. A single holder or a pair doesn't give you the benefit of the modular concept , the design logic depends on connection and arrangement. Starting with three lets you evaluate whether the system fits your table before committing to a larger build.
 ### How do I choose between the Danya B. bow holder and the Michael Aram Twist for a formal table?
 
 The [Danya B. Metal Bow Taper Candle Holders Pair](product:danya-b-metal-bow-candle-holders-pair) is the cleaner formal choice , the defined bow shape reads crisp and intentional against formal linens and structured charger plates. The [Michael Aram Twist Candle Holder](product:michael-aram-twist-candle-holder) works better on tables with organic or artisanal elements where the sculptural form complements rather than competes. If the table is symmetrical and formally dressed, the Danya B. is the more disciplined answer.
@@ -190,10 +190,10 @@ Store them individually wrapped in soft cloth or tissue, away from contact with 
  },
  {
  "@type": "Question",
- "name": "Is the Stoff Nagel system worth buying as a set of three or should I start smaller?",
+ "name": "Is the modular candle holder system worth buying as a set of three or should I start smaller?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "A set of three is the practical starting point for the Stoff Nagel system because three holders create a configuration with enough visual presence to stand on its own. A single holder or a pair doesn't give you the benefit of the modular concept , the design logic depends on connection and arrangement. Starting with three lets you evaluate whether the system fits your table before committing to a larger build."
+ "text": "A set of three is the practical starting point for a modular candle holder system because three holders create a configuration with enough visual presence to stand on its own. A single holder or a pair doesn't give you the benefit of the modular concept , the design logic depends on connection and arrangement. Starting with three lets you evaluate whether the system fits your table before committing to a larger build."
  }
  },
  {

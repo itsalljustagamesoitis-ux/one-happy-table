@@ -39,7 +39,7 @@ faq:
   - question: "Can I use the whitewash wood box as a direct container for water and fresh cherry blossom branches?"
     answer: "The article advises against it without a liner. The whitewash finish will absorb moisture and develop water rings from condensation within a single use. A glass cylinder inside the box gives fresh branches the water they need while protecting the wood surface. The combination — box as base, cylinder as vessel — also produces a more layered arrangement than either piece achieves alone."
   - question: "Brass vs chrome candle holders — which is better for a cherry blossom centerpiece?"
-    answer: "Brass pairs more naturally with the warm pinks and whites of cherry blossom branches because the metal's warmth reinforces the floral palette rather than contrasting with it. Chrome works better on tables with cool-toned settings — silver flatware, white or gray linens, modern china. Both use the same Stoff Nagel modular connection system, so the decision is purely about the palette of your existing table setting."
+    answer: "Brass pairs more naturally with the warm pinks and whites of cherry blossom branches because the metal's warmth reinforces the floral palette rather than contrasting with it. Chrome works better on tables with cool-toned settings — silver flatware, white or gray linens, modern china. Both use the same modular connection system, so the decision is purely about the palette of your existing table setting."
   - question: "How do I keep tall cherry blossom branches from tipping in a glass vase?"
     answer: "Floral foam or a grid of floral tape across the vase opening anchors the base of the branch before the vase is filled with water. River rocks or decorative stones at the bottom add weight at the base and shift the center of gravity lower, which stabilizes taller branches. The 8-inch diameter cylinder vase is inherently more stable for full branches than the 4-inch version."
   - question: "Fresh cherry blossom branches vs faux — which works better for a dinner table centerpiece?"
@@ -110,13 +110,13 @@ The trade-off is fragility. Thin walls at this price point are the expected comp
 
 ### Brass Taper Candle Holders Set of 3
 
-Brass photographs better than chrome with cherry blossoms. That's not an aesthetic preference , it's a practical observation about how warm-toned metal interacts with pink and white florals under candlelight versus overhead light. The [Candle Holder System , Brass](product:stoff-nagel-candle-holder-chrome-set3) from Stoff Nagel brings the same modular connection system as the chrome version, which means you can expand and reconfigure the arrangement as your table size or layout changes.
+Brass photographs better than chrome with cherry blossoms. That's not an aesthetic preference , it's a practical observation about how warm-toned metal interacts with pink and white florals under candlelight versus overhead light. The [Candle Holder System , Brass](product:stoff-nagel-candle-holder-chrome-set3) modular connection system means you can expand and reconfigure the arrangement as your table size or layout changes.
 
 The modular system's real value is adjustability. Cherry blossom arrangements are rarely symmetrical, and a candlelight layer that can shift left or right by a connection or two gives you more compositional control than three fixed holders in a line ever could. Set up the configuration before the flowers go in, then adjust once the branches are placed.
 
 Brass does tarnish with exposure. It's a slow process, and the patina that develops over years of use is something most people find more beautiful than the original finish , but if you want the piece to maintain its original warmth, occasional polishing is part of the commitment. The maintenance is light; it's worth knowing about rather than being surprised by.
 
-![Brass candle holders beside cherry blossom arrangement](/images/articles/decor-3.jpg)
+![Brass taper candle holders beside cherry blossom arrangement](/images/articles/decor-3.jpg)
 
 ,
 
@@ -134,7 +134,7 @@ Start with the vessel. If the arrangement feels finished at that point, stop. Ad
 
 Brass, whitewash wood, and clear glass each belong to a different palette family, and the right choice is determined almost entirely by what's already on your table. Brass reads as warm and traditional , it pairs well with linen, aged wood, and neutral or warm-toned china. Clear glass is genuinely neutral and pairs with everything. Whitewash wood works best on tables that already have natural texture , raw linen, wooden chargers, woven placemats.
 
-The mistake is mixing warm and cool metal finishes across the table. If your flatware is silver-toned, the Stoff Nagel brass will create a noticeable clash. In that situation, either choose the chrome version of the candle holder system or lean into all-glass and let the flowers do the work.
+The mistake is mixing warm and cool metal finishes across the table. If your flatware is silver-toned, brass candle holders will create a noticeable clash. In that situation, either choose the chrome version of the candle holder system or lean into all-glass and let the flowers do the work.
 
 ### Fresh Branches vs. Faux Branches
 
@@ -152,7 +152,7 @@ For guidance on how centerpiece scale translates across different table formats,
 
 A centerpiece you'll use for one spring season and discard is a different investment than one you're building to use for years. Glass cylinders store flat and stack cleanly. The whitewash box stores empty with nothing to protect. Brass candleholders should be stored in a dry environment to slow the tarnishing process , a simple cloth bag or original packaging is sufficient.
 
-If you're investing in premium components like the Stoff Nagel brass system, proper storage protects both the finish and the modular connections. The pieces that hold up over multiple seasons are the ones cared for between uses, not the ones left assembled on a shelf from March through March.
+If you're investing in brass taper candle holders, proper storage protects both the finish and the modular connections. The pieces that hold up over multiple seasons are the ones cared for between uses, not the ones left assembled on a shelf from March through March.
 
 ## Frequently Asked Questions
 
@@ -162,7 +162,7 @@ You can, but I'd advise against it without a liner. The whitewash finish will ab
 ### How do I keep a tall cherry blossom branch arrangement from tipping in a glass vase?
 
 The most reliable method is floral foam or a grid of floral tape across the vase opening, both of which anchor the base of the branch before the vase is filled with water. River rocks or decorative stones at the bottom of the cylinder add weight at the base and shift the center of gravity lower, which stabilizes taller branches. The 8-inch diameter cylinder is inherently more stable for full branches than the 4-inch.
-### Is brass or chrome better for a cherry blossom centerpiece?
+### Are brass or chrome candle holders better for a cherry blossom centerpiece?
 
 Brass pairs more naturally with the warm pinks and whites of cherry blossom branches because the metal's warmth reinforces the floral palette rather than contrasting with it. Chrome works better on tables with cool-toned settings , silver flatware, white or gray linens, modern china. Both use the same modular connection system, so the decision is purely about the palette of your existing table setting.
 ### How many vases from the three-piece cylinder set do I need for a typical dining table?
@@ -194,7 +194,7 @@ Faux branches can stand in a dry glass cylinder, but without water or filler the
  },
  {
  "@type": "Question",
- "name": "Is brass or chrome better for a cherry blossom centerpiece?",
+ "name": "Are brass or chrome candle holders better for a cherry blossom centerpiece?",
  "acceptedAnswer": {
  "@type": "Answer",
  "text": "Brass pairs more naturally with the warm pinks and whites of cherry blossom branches because the metal's warmth reinforces the floral palette rather than contrasting with it. Chrome works better on tables with cool-toned settings , silver flatware, white or gray linens, modern china. Both use the same modular connection system, so the decision is purely about the palette of your existing table setting."

@@ -1,5 +1,5 @@
 ---
-title: "Stoff Nagel Candle Holder Reviewed: Style Meets Function"
+title: "Modular Taper Candle Holders Reviewed: Style Meets Function"
 slug: "stoff-nagel-candle-holder"
 type: "buyer_guide"
 date: 2026-05-06
@@ -7,8 +7,8 @@ author: "sarah"
 category: "Home Entertaining"
 hub: "decor"
 hero_image: "articles/decor-2.jpg"
-hero_image_alt: "Stoff Nagel Candle Holder Reviewed: Style Meets Function"
-description: "Find out if Stoff Nagel candle holders deliver both beauty and practicality. Our tested guide helps you choose the right holder for your home."
+hero_image_alt: "Modular Taper Candle Holders Reviewed: Style Meets Function"
+description: "Find out if modular taper candle holders deliver both beauty and practicality. Our tested guide helps you choose the right holder for your home."
 target_keyword: "stoff nagel candle holder"
 products:
   - id: "stoff-nagel-candle-holder-chrome-set3"
@@ -126,7 +126,7 @@ This is the right choice for buyers who want candlelit atmosphere without commit
 
 ### Decide Whether You Want a Design Statement or a Support Player
 
-The first question isn't about material or price band , it's about the role the holder will play on your table. The Stoff Nagel chrome system and the Michael Aram Twist are both objects that draw attention. The hurricane is not. If your table setting already has strong visual elements , patterned dishware, elaborate florals, layered linens , adding another statement piece creates competition, not composition. A glass hurricane holds the flame and steps back. If your table is spare and needs an anchor, one of the more distinctive holders earns its prominence.
+The first question isn't about material or price band , it's about the role the holder will play on your table. The chrome modular candle holder system and the Michael Aram Twist are both objects that draw attention. The hurricane is not. If your table setting already has strong visual elements , patterned dishware, elaborate florals, layered linens , adding another statement piece creates competition, not composition. A glass hurricane holds the flame and steps back. If your table is spare and needs an anchor, one of the more distinctive holders earns its prominence.
 
 This is a decision that only you can make, but it's worth making explicitly before you browse.
 

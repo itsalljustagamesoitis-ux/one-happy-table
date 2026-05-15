@@ -40,11 +40,11 @@ faq:
     answer: "The right candle depends on the holder's interior diameter and height. Most large cylinder hurricane holders are sized for standard pillar candles with roughly three-inch diameter bases, or tapers with a narrow neck opening at the top. Always check the product dimensions before buying. A candle too narrow for the interior will sit off-center and the glass cylinder will not protect the flame effectively."
   - question: "Glass hurricane holder vs stone tealight holders — which is easier to maintain?"
     answer: "Glass is significantly easier. A soot film that accumulates inside a glass cylinder wipes clean with a damp cloth and mild dish soap. Stone holders are porous, and wax drips that penetrate the surface bond to it and require careful freezing and lifting to remove without scratching. For any host who wants to use candleholders regularly without planning around cleanup time, glass is the practical choice."
-  - question: "Is the Stoff Nagel brass candle holder system compatible with chrome holders in the same range?"
-    answer: "Yes. The modular connection system is consistent across the full Stoff Nagel range, meaning brass and chrome holders connect to each other. A set of three brass holders can link with chrome holders from a separate purchase to create mixed-finish arrangements. This modularity is part of what makes the initial investment worth treating as a starting point rather than a complete solution."
+  - question: "Are brass and chrome modular candle holders compatible with each other?"
+    answer: "Yes. The modular connection system is consistent across the full range, meaning brass and chrome holders connect to each other. A set of three brass holders can link with chrome holders from a separate purchase to create mixed-finish arrangements. This modularity is part of what makes the initial investment worth treating as a starting point rather than a complete solution."
   - question: "How many candle holders do I need for a dinner table centerpiece?"
     answer: "For a round or square table seating four to six, one to three holders in a cluster is enough. For a rectangular table seating six to eight, three to five in a linear arrangement reads proportionally. For tables seating ten or more, use five or more low holders distributed down the length rather than a single tall centerpiece that only serves the middle seats. Odd numbers read more naturally than even ones at any table size."
-  - question: "Does the Stoff Nagel brass finish tarnish, and does that ruin the look?"
+  - question: "Does the brass candle holder finish tarnish, and does that ruin the look?"
     answer: "Brass does develop a patina over time with exposure. Whether that is a flaw or a feature depends on your aesthetic. The patina that develops over years of use deepens the warmth of the metal in a way that many people find more beautiful than the original finish. If you prefer to maintain the original warmth, occasional polishing with a non-abrasive brass cleaner brings it back."
 ---
 
@@ -116,13 +116,13 @@ Wax management requires care. Stone is porous, and a wax drip that sits and cool
 
 ### Brass Taper Candle Holders Set of 3
 
-There's a reason this Stoff Nagel design has been in continuous production for decades. The [Candle Holder System , Brass (Set of 3)](product:stoff-nagel-candle-holder-chrome-set3) is the kind of object that looks better in a real dining room than it does in a product photo , the warm brass catches candlelight and throws it back in a way that makes linen, wood, and neutral ceramics look more considered than they might otherwise. The modular connection system means three holders can become a single composed cluster or a linear arrangement, depending on the table and the occasion.
+These brass taper candle holders are the kind of object that looks better in a real dining room than they do in a product photo , the warm brass catches candlelight and throws it back in a way that makes linen, wood, and neutral ceramics look more considered than they might otherwise. The [Candle Holder System , Brass (Set of 3)](product:stoff-nagel-candle-holder-chrome-set3) modular connection system means three holders can become a single composed cluster or a linear arrangement, depending on the table and the occasion.
 
 Brass develops a patina. Over years of use, the finish deepens and takes on more variation than it had out of the box. That process is worth embracing rather than fighting , it's what separates a well-used piece from a prop. If you prefer to maintain the original warmth, occasional polishing with a non-abrasive brass cleaner brings it back. If you leave it, the patina that develops is its own form of character.
 
-The investment case here is longevity and modularity. Buying the set of three is a starting point , the system expands, and additional holders in brass or chrome connect to create larger configurations. For readers building a table they want to feel considered and personal over time rather than styled for a single season, this is the direction worth taking.
+The investment case here is longevity and modularity. Buying the set of three is a starting point , the system expands, and additional holders in brass or chrome connect to create larger configurations. For readers building a table they want to feel considered and personal over time rather than styled for a single season, brass taper holders are the direction worth taking.
 
-![Brass candle holders set on a dinner table with linen napkins](/images/articles/decor-3.jpg)
+![Brass taper candle holders on a dinner table with linen napkins](/images/articles/decor-3.jpg)
 
 ,
 
@@ -156,7 +156,7 @@ The candle type you already use , or already own , should anchor this decision. 
 
 ### Budget, Mid-Range, and Premium Are Not Interchangeable Tiers
 
-The three options here serve genuinely different purposes. The glass hurricane is a functional object at a budget price point , it performs reliably and requires no aesthetic commitment. The stone tealight set is a mid-range choice that brings natural material and distributed light to the table. The Stoff Nagel brass system is a premium piece that builds in value through modularity and longevity.
+The three options here serve genuinely different purposes. The glass hurricane is a functional object at a budget price point , it performs reliably and requires no aesthetic commitment. The stone tealight set is a mid-range choice that brings natural material and distributed light to the table. The brass taper candle holder system is a premium piece that builds in value through modularity and longevity.
 
 Buying the budget option when you need the design presence of the premium one will leave the table feeling underserved. Buying the premium option when you need the practical simplicity of the glass one adds upkeep you may not want. Matching the option to what the table actually requires is more important than staying within a tier for its own sake.
 
@@ -170,9 +170,9 @@ The right candle size depends on the holder's interior diameter and height. Most
 Yes, with a caveat. A standard tealight placed inside a tall cylinder hurricane holder will sit low enough that the flame provides minimal visible light from table height. The effect works better with a shorter hurricane holder that keeps the tealight near the rim, or by raising the tealight on a small riser inside the cylinder. The [Natural Stone Tealight Holders](product:stone-tealight-candle-holders-set4) are purpose-built for tealights and will give you better results than adapting a tall cylinder.
 ### How do I remove wax from a glass hurricane holder?
 Let the wax cool and harden completely, then place the holder in the freezer for thirty minutes. Cold wax contracts and lifts away from glass cleanly. Remove the solidified wax with a wooden or silicone tool , nothing metal that could scratch the interior. Follow with warm soapy water and a soft cloth to remove any residue.
-### Is the Stoff Nagel brass set compatible with other Stoff Nagel holders?
+### Are the brass and chrome modular candle holders compatible with each other?
 
-Yes. The modular connection system is consistent across the full Stoff Nagel range , brass, chrome, and other finishes connect to each other. This means a set of three brass holders can link with chrome holders from a separate purchase to create mixed-finish arrangements. The system was designed for this kind of expansion, which is part of what makes the initial investment in the [Candle Holder System , Brass (Set of 3)](product:stoff-nagel-candle-holder-chrome-set3) worth considering as a starting point rather than a complete solution.
+Yes. The modular connection system is consistent across the full range , brass, chrome, and other finishes connect to each other. This means a set of three brass holders can link with chrome holders from a separate purchase to create mixed-finish arrangements. The system was designed for this kind of expansion, which is part of what makes the initial investment in the [Candle Holder System , Brass (Set of 3)](product:stoff-nagel-candle-holder-chrome-set3) worth considering as a starting point rather than a complete solution.
 ### How many candle holders do I need for a dinner table centerpiece?
 
 For a round or square table seating four to six, one to three holders in a cluster is enough. For a rectangular table seating six to eight, three to five holders in a linear arrangement reads proportionally. For tables seating ten or more, use five or more low holders distributed down the length rather than one tall centerpiece that only serves the middle seats. Odd numbers read more naturally than even ones , this applies at any table size.
@@ -207,10 +207,10 @@ For a round or square table seating four to six, one to three holders in a clust
  },
  {
  "@type": "Question",
- "name": "Is the Stoff Nagel brass set compatible with other Stoff Nagel holders?",
+ "name": "Are the brass and chrome modular candle holders compatible with each other?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "Yes. The modular connection system is consistent across the full Stoff Nagel range , brass, chrome, and other finishes connect to each other. This means a set of three brass holders can link with chrome holders from a separate purchase to create mixed-finish arrangements. The system was designed for this kind of expansion, which is part of what makes the initial investment in the Candle Holder System , Brass (Set of 3) worth considering as a starting point rather than a complete solution."
+ "text": "Yes. The modular connection system is consistent across the full range , brass, chrome, and other finishes connect to each other. This means a set of three brass holders can link with chrome holders from a separate purchase to create mixed-finish arrangements. The system was designed for this kind of expansion, which is part of what makes the initial investment in the Candle Holder System , Brass (Set of 3) worth considering as a starting point rather than a complete solution."
  }
  },
  {

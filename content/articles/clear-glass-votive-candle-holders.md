@@ -22,7 +22,7 @@ products:
     role: "also_consider"
     article_specific_pros:
       - "Set of three heights allows tiered centerpiece arrangement out of the box"
-      - "Brass finish has the warmth of the Stoff Nagel system at a lower price point"
+      - "Brass finish has the warmth of a modular brass candle holder system at a lower price point"
     article_specific_cons:
       - "Brass finish is lacquered rather than solid brass , finish can peel at base edges over years"
   - id: "michael-aram-butterfly-ginkgo-candlesticks-pair"
@@ -98,7 +98,7 @@ The trade-off worth knowing: the glass walls are thin enough that metal tongs us
 
 A cluster of three holders at different heights reads as a deliberate centerpiece rather than a row of candles , and the [Brass Pillar Candle Holders (Set of 3, Varying Heights)](product:brass-pillar-candle-holders-set3) from Dwell Studio deliver that arrangement out of the box, without sourcing holders separately and hoping the proportions work. The three predetermined heights are well-chosen: low, medium, and tall create visual depth without requiring any of them to be extreme.
 
-The brass finish is warm in a way that flatters candlelight specifically , more so than chrome or matte black, which compete with the flame rather than extending it. This is the quality that makes modular brass systems like Stoff Nagel worth the investment for serious tablescapers, and it's present here at a substantially lower price point.
+The brass finish is warm in a way that flatters candlelight specifically , more so than chrome or matte black, which compete with the flame rather than extending it. This is the quality that makes modular brass taper candle holders worth the investment for serious tablescapers, and it's present here at a substantially lower price point.
 
 The lacquered finish is the honest limitation. Solid brass develops a living patina; lacquered brass eventually peels at edges under repeated handling, particularly at the base. For buyers who want a brass look for years of regular use, that's a consideration worth weighing. For buyers who want warmth and height variation at a mid-range price, these deliver both without apology.
 

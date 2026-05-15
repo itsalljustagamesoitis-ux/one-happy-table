@@ -40,8 +40,8 @@ faq:
     answer: "High-fired porcelain handles moderate heat well, but the article flags one specific risk: if a taper burns all the way down and heat concentrates at the cup base, the holder can crack. The fix is simple — use a candle snuffer to extinguish tapers before they reach the last inch. Managed that way, a porcelain holder lasts for years without issue."
   - question: "Porcelain candle holder vs. ceramic — is there a real difference?"
     answer: "Yes. Porcelain is fired at a higher temperature than most ceramics, producing a denser, smoother body and a harder glaze. For candle holders specifically, that means better heat resistance and a glaze that is less likely to craze or crackle when a taper burns low. On a formal table, the surface quality also reads at a higher register alongside fine bone china than lower-fired earthenware or stoneware."
-  - question: "Stoff Nagel brass system or a simple porcelain pair — which is right for a dinner party table?"
-    answer: "It depends on the aesthetic and your long-term intention. The brass Stoff Nagel system is the stronger choice for a warm, layered table with linen and wood elements, and for buyers who want a modular centerpiece that grows over time. A white porcelain pair is right if your table runs formal, your china is white or bone, and you want the holders to recede rather than become a focal point. The brass also requires occasional polishing to prevent tarnish, which the porcelain does not."
+  - question: "Brass taper candle holders or a simple porcelain pair — which is right for a dinner party table?"
+    answer: "It depends on the aesthetic and your long-term intention. The brass taper candle holders are the stronger choice for a warm, layered table with linen and wood elements, and for buyers who want a modular centerpiece that grows over time. A white porcelain pair is right if your table runs formal, your china is white or bone, and you want the holders to recede rather than become a focal point. The brass also requires occasional polishing to prevent tarnish, which the porcelain does not."
   - question: "How many candle holders do I need for a dinner table?"
     answer: "The article recommends two as a starting point for most tables — positioned flanking a centerpiece or at opposite ends of a longer table for symmetry. For a table seating six to eight, three holders placed centrally, or two pairs with a floral element between them, provides sufficient light and visual interest. Beyond five holders, the article notes, the table begins to feel like a ceremony rather than a dinner."
   - question: "What taper candle diameter fits a standard porcelain holder?"
@@ -94,13 +94,13 @@ The one thing to watch: porcelain can crack if a taper burns all the way down an
 
 ### Brass Taper Candle Holders Set of 3
 
-The [Candle Holder System , Brass (Set of 3)](product:stoff-nagel-candle-holder-chrome-set3) from Stoff Nagel occupies a different category than most candle holders , it is a modular system with ambitions beyond a single set. Each piece connects to the others through a proprietary coupling that lets you build a horizontal row, a staggered cluster, or a branching centerpiece depending on how many sets you own. That flexibility is the genuine appeal here.
+The [Candle Holder System , Brass (Set of 3)](product:stoff-nagel-candle-holder-chrome-set3) occupies a different category than most candle holders , it is a modular system with ambitions beyond a single set. Each piece connects to the others through a coupling that lets you build a horizontal row, a staggered cluster, or a branching centerpiece depending on how many sets you own. That flexibility is the genuine appeal here.
 
 On a table with warm textiles , linen in oatmeal or ivory, wood charger plates, neutral stoneware , the warm brass finish reads beautifully. It does not compete with the food or the china; it contributes something textural without demanding attention. The finish also develops a subtle patina with use, which I find more interesting than the version that comes out of the box.
 
 The honest trade-off: brass tarnishes. Exposure to air and the oils from handling will dull the finish over time, and restoring it requires occasional polishing. If you want something you can put away in a cupboard and pull out without maintenance, the chrome version of this system is the more practical choice. The brass rewards attention.
 
-![Stoff Nagel brass candle holder system on a linen-set table](/images/articles/decor-2.jpg)
+![Brass taper candle holders on a linen-set table](/images/articles/decor-2.jpg)
 
 ,
 
@@ -130,7 +130,7 @@ This is not about spending more or less. It is about matching the visual registe
 
 ### Single Pieces vs. Systems
 
-A pair of matching taper holders is the most common purchase, and it is the right starting point for most buyers. Two holders, flanking a centerpiece or placed at opposite ends of a longer table, create symmetry without effort. A modular system like the Stoff Nagel is a different proposition , it rewards buyers who are building a table intentionally over time and want pieces that compound in visual interest as the collection grows.
+A pair of matching taper holders is the most common purchase, and it is the right starting point for most buyers. Two holders, flanking a centerpiece or placed at opposite ends of a longer table, create symmetry without effort. A modular candle holder system is a different proposition , it rewards buyers who are building a table intentionally over time and want pieces that compound in visual interest as the collection grows.
 
 If you are setting a table for the first time and buying all at once, start with a pair. If you are adding to an established table, a modular system is worth the investment in multiples.
 
@@ -166,7 +166,7 @@ Yes. A hurricane holder is designed to accept a taper candle , the glass cylinde
 ### How do I clean soot from a glass hurricane holder?
 
 Warm water and a small amount of dish soap handle most soot deposits on the interior of a glass hurricane. For heavier buildup, a cloth dampened with white vinegar will cut through the carbon residue without scratching the glass. Clean after each use rather than allowing deposits to accumulate , baked-on soot from multiple dinners is significantly harder to remove.
-### Should I choose the Stoff Nagel brass system or a simple porcelain pair for a dinner party table?
+### Should I choose brass taper candle holders or a simple porcelain pair for a dinner party table?
 
 It depends on the aesthetic of your table and your intention with the purchase. The [Candle Holder System , Brass (Set of 3)](product:stoff-nagel-candle-holder-chrome-set3) is the stronger choice for a warm, layered table with linen and wood elements, and for buyers who want to build a modular centerpiece over time. A porcelain pair is the right choice if your table runs formal, your china is white or bone, and you want the holders to recede rather than become a focal point.
 <script type="application/ld+json">
@@ -208,7 +208,7 @@ It depends on the aesthetic of your table and your intention with the purchase. 
  },
  {
  "@type": "Question",
- "name": "Should I choose the Stoff Nagel brass system or a simple porcelain pair for a dinner party table?",
+ "name": "Should I choose brass taper candle holders or a simple porcelain pair for a dinner party table?",
  "acceptedAnswer": {
  "@type": "Answer",
  "text": "It depends on the aesthetic of your table and your intention with the purchase. The Candle Holder System , Brass (Set of 3) is the stronger choice for a warm, layered table with linen and wood elements, and for buyers who want to build a modular centerpiece over time. A porcelain pair is the right choice if your table runs formal, your china is white or bone, and you want the holders to recede rather than become a focal point."

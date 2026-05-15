@@ -40,9 +40,9 @@ faq:
     answer: "Tealights in their metal housings are the correct choice for glass-bowl bubble holders. The metal shell prevents liquid wax from reaching the textured glass surface and making cleaning difficult. Avoid placing bare wax discs directly in the bowl — if the wax melts fully, it pools in the bubble pockets and is nearly impossible to remove without chipping the glass."
   - question: "How do I clean wax out of a bubble-textured glass holder?"
     answer: "The most effective method is prevention: always use tealights in their metal shells. If wax does reach the glass, let it solidify completely, then place the holder in the freezer for 20 minutes. Cold wax contracts and lifts cleanly from glass surfaces without scratching. For residue in the bubble pockets, a wooden skewer or soft-bristle toothbrush with warm soapy water removes what remains."
-  - question: "Can I mix the Creative Co-Op bubble glass set with the Stoff Nagel brass holders on the same table?"
-    answer: "Yes, and the contrast works well in practice. The glass tealight holders read as texture and warmth, while the brass Stoff Nagel system adds height and structure. Grouping the glass holders at the table center and flanking them with the brass set creates a layered arrangement that reads as intentional rather than mismatched. Consistent candle color — warm ivory or natural beeswax tones — pulls both materials together."
-  - question: "Does the Stoff Nagel brass finish tarnish quickly?"
+  - question: "Can I mix the Creative Co-Op bubble glass set with the brass taper candle holders on the same table?"
+    answer: "Yes, and the contrast works well in practice. The glass tealight holders read as texture and warmth, while the brass taper candle holders add height and structure. Grouping the glass holders at the table center and flanking them with the brass set creates a layered arrangement that reads as intentional rather than mismatched. Consistent candle color — warm ivory or natural beeswax tones — pulls both materials together."
+  - question: "Does the brass candle holder finish tarnish quickly?"
     answer: "It develops a visible change in six to twelve months with regular use and exposure to air, particularly in humid environments. Whether that reads as tarnish or patina depends on how you maintain it. Light buffing with a soft cloth after each use slows the process. A proper brass polish once or twice a year restores the original warmth if you prefer that look."
   - question: "Is the Michael Aram Twist Candle Holder suitable for everyday use?"
     answer: "It is durable enough for regular use but designed for display as much as function. The oxidized metal holds up well to normal handling, but the sculptural elements can bend if the piece is knocked over or packed carelessly. Most buyers treat it as a dinner-party and occasion piece rather than a nightly fixture — not because it cannot handle regular use, but because the visual impact feels appropriately reserved for settings where you want the table to feel considered."
@@ -108,13 +108,13 @@ Check current price on Amazon.
 
 ### Brass Taper Candle Holders Set of 3
 
-The Stoff Nagel system is a long-term investment in a table setting, not an impulse purchase. The brass finish photographs with a warmth that pairs naturally with linen, wood, and neutral earthenware , if you've built a table around those materials, this set slides into place as though it belongs there. The modular connection system means these three holders can be linked into a single sculptural cluster or spaced independently depending on what the table needs that night.
+These brass taper candle holders are a long-term investment in a table setting, not an impulse purchase. The brass finish photographs with a warmth that pairs naturally with linen, wood, and neutral earthenware , if you've built a table around those materials, this set slides into place as though it belongs there. The modular connection system means these three holders can be linked into a single sculptural cluster or spaced independently depending on what the table needs that night.
 
-The patina argument is real. Brass tarnishes, and with Stoff Nagel that's not a flaw , it's a feature. A set used consistently for two or three years develops a richness that new brass doesn't have. The trade-off is that occasional polishing is necessary if you want to maintain the initial warmth; neglect it long enough and the finish dulls rather than deepens.
+The patina argument is real. Brass tarnishes, and with genuine brass candle holders that's not a flaw , it's a feature. A set used consistently for two or three years develops a richness that new brass doesn't have. The trade-off is that occasional polishing is necessary if you want to maintain the initial warmth; neglect it long enough and the finish dulls rather than deepens.
 
 The modular system's full potential only reveals itself if you're willing to add to the set over time. Three holders is a complete and functional starting point, but the system's real strength is in combining multiple sets , and potentially mixing brass and chrome finishes , across a longer table.
 
-![Stoff Nagel brass candle holder set on a styled table](/images/articles/decor-3.jpg)
+![Brass taper candle holder set on a styled table](/images/articles/decor-3.jpg)
 
 ,
 
@@ -132,17 +132,17 @@ The Creative Co-Op set of four is designed for exactly this kind of flexibility.
 
 Budget-tier holders do one thing well: the visual effect. They are not objects you'll pass on or keep for decades. That's fine , table decor doesn't have to be heirloom-grade to be worth owning. If you entertain a few times a year and want the look without the commitment, beginning at the budget level is the sensible call.
 
-Premium and mid-range pieces earn their place differently. The Stoff Nagel brass set is the kind of purchase that improves with age and grows with your table. The Michael Aram Twist piece earns its place by being beautiful unlit, which a plain glass votive is not. Understand which of those arguments applies to your situation before spending significantly more.
+Premium and mid-range pieces earn their place differently. The brass modular taper candle holders are the kind of purchase that improves with age and grows with your table. The Michael Aram Twist piece earns its place by being beautiful unlit, which a plain glass votive is not. Understand which of those arguments applies to your situation before spending significantly more.
 
 ### Candle Type Compatibility
 
 Tealights are the standard for glass holders in this category, and they're the right choice for the Creative Co-Op set. The metal housing protects the glass base from direct wax contact, and the flame height stays low enough to sit within the bubble walls rather than projecting above them.
 
-For taper-style holders like the Stoff Nagel system, standard tapers work in the open cups. Check the diameter of the cup opening before purchasing , most standard tapers fit, but some wider-diameter candles require adapters. Drip protection from a quality taper candle is worth the small premium; cleaning wax from a modular brass system is more involved than from a simple glass votive.
+For taper-style holders like the brass modular system, standard tapers work in the open cups. Check the diameter of the cup opening before purchasing , most standard tapers fit, but some wider-diameter candles require adapters. Drip protection from a quality taper candle is worth the small premium; cleaning wax from a modular brass system is more involved than from a simple glass votive.
 
 ### Storage and Longevity
 
-Glass holders are low-maintenance to store: a soft cloth between pieces prevents scratching, and a dedicated box keeps them from getting buried. Sculptural metalwork needs more thought. The Michael Aram Twist piece benefits from individual wrapping; the Stoff Nagel system should be disassembled at its connection points before storage to prevent stress on the joints over years of use.
+Glass holders are low-maintenance to store: a soft cloth between pieces prevents scratching, and a dedicated box keeps them from getting buried. Sculptural metalwork needs more thought. The Michael Aram Twist piece benefits from individual wrapping; the brass modular candle holder system should be disassembled at its connection points before storage to prevent stress on the joints over years of use.
 
 Longevity is also a function of how you use the piece. Glass that encounters open flame from an unwrapped candle will eventually show heat stress. Metal that is never cleaned will eventually show corrosion, not just patina. Small habits , right candle type, occasional wipe-down, careful storage , extend the life of all three options significantly. The broader [candle and entertaining decor](/decor/) category is full of pieces that last for years with minimal effort, and these are no exception when treated accordingly.
 
@@ -151,16 +151,16 @@ Longevity is also a function of how you use the piece. Glass that encounters ope
 ### What type of candle works best in a bubble glass candle holder?
 
 Tealights in their metal housings are the correct choice for glass-bowl bubble holders. The metal shell prevents liquid wax from reaching the textured glass surface and making cleaning difficult. Avoid placing bare wax discs directly in the bowl , if the wax melts fully, it pools in the bubble pockets and is nearly impossible to remove without chipping the glass.
-### Can I mix the Creative Co-Op set with the Stoff Nagel brass holders on the same table?
+### Can I mix the Creative Co-Op set with the brass taper candle holders on the same table?
 
-Yes, and the contrast works well in practice. The glass tealight holders read as texture and warmth, while the brass Stoff Nagel system adds height and structure. Grouping the glass holders at table center and flanking them with the brass set creates a layered arrangement that reads as intentional rather than mismatched. The key is consistent candle color , warm ivory or natural beeswax tones pull both materials together.
+Yes, and the contrast works well in practice. The glass tealight holders read as texture and warmth, while the brass taper candle holders add height and structure. Grouping the glass holders at table center and flanking them with the brass set creates a layered arrangement that reads as intentional rather than mismatched. The key is consistent candle color , warm ivory or natural beeswax tones pull both materials together.
 ### Is the Michael Aram Twist Candle Holder suitable for everyday use?
 
 It's durable enough for regular use but designed for display as much as function. The oxidized metal holds up well to normal handling, but the sculptural elements can bend if the piece is knocked over or packed carelessly. Most buyers treat it as a dinner-party and occasion piece rather than a nightly fixture , not because it can't handle regular use, but because the visual impact feels appropriately reserved for settings where you want the table to feel considered.
 ### How do I clean wax out of a bubble-textured glass holder?
 
 The most effective method is prevention: always use tealights in their metal shells. If wax does reach the glass, let it solidify completely, then place the holder in the freezer for twenty minutes. Cold wax contracts and lifts cleanly from glass surfaces without scratching. For residue in the bubble pockets, a wooden skewer or soft-bristle toothbrush with warm soapy water removes what remains.
-### Does the Stoff Nagel brass finish tarnish quickly?
+### Does the brass candle holder finish tarnish quickly?
 It develops a visible change in six to twelve months with regular use and exposure to air, particularly in humid environments. Whether that reads as tarnish or patina depends on how you maintain it. Light buffing with a soft cloth after each use slows the process. A proper brass polish once or twice a year restores the original warmth if you prefer that look.
 <script type="application/ld+json">
 {
@@ -177,10 +177,10 @@ It develops a visible change in six to twelve months with regular use and exposu
  },
  {
  "@type": "Question",
- "name": "Can I mix the Creative Co-Op set with the Stoff Nagel brass holders on the same table?",
+ "name": "Can I mix the Creative Co-Op set with the brass taper candle holders on the same table?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "Yes, and the contrast works well in practice. The glass tealight holders read as texture and warmth, while the brass Stoff Nagel system adds height and structure. Grouping the glass holders at table center and flanking them with the brass set creates a layered arrangement that reads as intentional rather than mismatched. The key is consistent candle color , warm ivory or natural beeswax tones pull both materials together."
+ "text": "Yes, and the contrast works well in practice. The glass tealight holders read as texture and warmth, while the brass taper candle holders add height and structure. Grouping the glass holders at table center and flanking them with the brass set creates a layered arrangement that reads as intentional rather than mismatched. The key is consistent candle color , warm ivory or natural beeswax tones pull both materials together."
  }
  },
  {
@@ -201,7 +201,7 @@ It develops a visible change in six to twelve months with regular use and exposu
  },
  {
  "@type": "Question",
- "name": "Does the Stoff Nagel brass finish tarnish quickly?",
+ "name": "Does the brass candle holder finish tarnish quickly?",
  "acceptedAnswer": {
  "@type": "Answer",
  "text": "It develops a visible change in six to twelve months with regular use and exposure to air, particularly in humid environments. Whether that reads as tarnish or patina depends on how you maintain it. Light buffing with a soft cloth after each use slows the process. A proper brass polish once or twice a year restores the original warmth if you prefer that look. If you leave it entirely untouched, the finish deepens unevenly, which some find appealing and others do not."

@@ -28,7 +28,7 @@ products:
   - id: "stoff-nagel-candle-holder-chrome-set3"
     role: "also_consider"
     article_specific_pros:
-      - "The Danish modular system , each holder connects to the next, building any shape"
+      - "Minimalist chrome taper candle holders , each holder connects to the next, building any shape"
       - "Chrome finish is more modern than brass; works on contemporary minimalist tables"
     article_specific_cons:
       - "Chrome scratches more visibly than brass on close inspection"
@@ -40,12 +40,12 @@ faq:
     answer: "No. Clear glass transmits light without altering the candle's color, making it the reliable choice when preserving the specific hue of a red votive is the intent. Tinted or frosted glass will absorb or shift the red tone, sometimes in ways that look unintentional. If the saturated red is part of the visual effect you are building, clear glass is the straightforward answer."
   - question: "How many votive holders do I need for a dinner table?"
     answer: "The article recommends four to six holders down the center of a standard six-seat rectangular table to establish a convincing line of light — a single votive reads as an afterthought rather than an effect. For longer tables or a full event setup, twelve or more is a practical starting point. The Circleware set of twelve is specifically highlighted as the solution to the quantity problem at budget pricing."
-  - question: "Is the Stoff Nagel chrome system worth buying with just three holders?"
-    answer: "Three holders form a compact, attractive cluster that works for a small table or an intimate centerpiece without requiring expansion to look intentional. The modular system's value grows as you add pieces over time, and the full dramatic configurations in brand imagery require buying beyond the base set. The article is direct: buyers expecting a full-table centerpiece from one set of three should recalibrate expectations."
+  - question: "Is the chrome modular candle holder system worth buying with just three holders?"
+    answer: "Three holders form a compact, attractive cluster that works for a small table or an intimate centerpiece without requiring expansion to look intentional. The modular system's value grows as you add pieces over time, and the full dramatic configurations require buying beyond the base set. Buyers expecting a full-table centerpiece from one set of three should recalibrate expectations."
   - question: "How do I remove wax from stone candle holders without scratching them?"
     answer: "Let the wax cool and harden completely before attempting removal — wiping hot wax spreads it further into the porous surface. Once hardened, a wooden or plastic tool lifts most of the bulk without scratching. Warm water and a soft cloth handles the residue. Metal tools and abrasive cleaners scratch stone permanently, so the article recommends treating this step as one that requires patience rather than speed."
   - question: "Can red votive holders be used outdoors?"
-    answer: "With limitations. Clear glass performs reasonably well outdoors in still conditions but is vulnerable to wind, which will extinguish an open votive. Stone holders are heavier and less prone to tipping but share the same wind problem. The Stoff Nagel chrome system is designed as an indoor object and may weather poorly if left outside long-term. For outdoor candle use, a holder with a taller glass surround or a windproof design is more appropriate than any of these three picks."
+    answer: "With limitations. Clear glass performs reasonably well outdoors in still conditions but is vulnerable to wind, which will extinguish an open votive. Stone holders are heavier and less prone to tipping but share the same wind problem. The chrome modular candle holder system is designed as an indoor object and may weather poorly if left outside long-term. For outdoor candle use, a holder with a taller glass surround or a windproof design is more appropriate than any of these three picks."
 ---
 
 Red votives are the fastest way to shift a dinner table from ordinary to intentional , a handful of them down the center of a table, and the whole room feels different. The challenge isn't finding a red candle; it's finding the right holder to put it in. Browse the [Decor & Candles](/decor/) section and you'll see how many directions this decision can go.
@@ -118,7 +118,7 @@ Four holders is the right number for an intimate four-seat table or a compact ce
 
 ### Chrome Taper Candle Holders Set of 3
 
-Every other option on this list holds a candle. The [Candle Holder System , Chrome (Set of 3)](product:stoff-nagel-candle-holder-chrome-set3) by Stoff Nagel is a modular design object , Danish in origin, built around a connecting system that lets individual holders link together into any configuration you want to build. Three holders form a compact cluster. Add more and the arrangement grows into something that runs the full length of a table.
+Every other option on this list holds a candle. The [Candle Holder System , Chrome (Set of 3)](product:stoff-nagel-candle-holder-chrome-set3) is a modular design object built around a connecting system that lets individual holders link together into any configuration you want to build. Three holders form a compact cluster. Add more and the arrangement grows into something that runs the full length of a table.
 
 The chrome finish reads as more contemporary than the brand's brass version. On a table with white linens, matte black dinnerware, or any palette built around contrast rather than warmth, chrome is the natural fit. Brass leans traditional; chrome leans architectural. Neither is better , they serve different tables.
 
@@ -126,7 +126,7 @@ The honest limitation is that the styling photographs show dramatic multi-holder
 
 For a reader who invests in their table and treats tabletop objects as design pieces rather than disposable props, this is the pick that will still be on the table in ten years.
 
-![Stoff Nagel chrome modular candle holder system on a contemporary table setting](/images/articles/decor-3.jpg)
+![Chrome modular candle holders on a contemporary table setting](/images/articles/decor-3.jpg)
 
 ,
 
@@ -138,11 +138,11 @@ For a reader who invests in their table and treats tabletop objects as design pi
 
 Start with the table, not the product listing. Measure the length of your center runner or the space you're working with, then count realistically. A six-seat table needs at least four holders to establish a candlelight line that reads as intentional; eight seats needs six to eight. Buying too few is the most common mistake , two votives on a long table look lonely rather than atmospheric.
 
-If you're entertaining regularly, buying in volume at the outset is more economical than adding one or two holders at a time. The Circleware set of twelve addresses this directly. The Stoff Nagel system addresses it differently: start with three, expand deliberately.
+If you're entertaining regularly, buying in volume at the outset is more economical than adding one or two holders at a time. The Circleware set of twelve addresses this directly. The modular chrome candle holder system addresses it differently: start with three, expand deliberately.
 
 ### Matching the Holder to Your Existing Table Aesthetic
 
-The holder should serve the table you already have, not require you to rebuild it. Clear glass is the universal option , it disappears and amplifies. Natural stone works with organic, Scandinavian, or earth-toned palettes. Chrome works with contemporary, minimalist, or high-contrast tables.
+The holder should serve the table you already have, not require you to rebuild it. Clear glass is the universal option , it disappears and amplifies. Natural stone works with organic or earth-toned palettes. Chrome works with contemporary, minimalist, or high-contrast tables.
 
 A quick diagnostic: look at your existing dinnerware and linens. If the palette includes linen, wood, and matte ceramics, stone fits naturally. If it includes polished surfaces, white or black linens, and clean geometric forms, chrome belongs there. If the table varies by occasion and you need one set that works with everything, clear glass is the answer.
 
@@ -160,9 +160,9 @@ If you're committed to saturated reds , bordeaux, crimson, deep ruby , test one 
 
 ### Budget Versus Investment Mindset
 
-These three picks span the full range deliberately. The Circleware set is budget-friendly and designed to be used at volume without anxiety. The Creative Home stone set is mid-range and meant to last indefinitely if maintained. The Stoff Nagel chrome system is a premium investment in a design object that appreciates aesthetically , the kind of purchase you make once.
+These three picks span the full range deliberately. The Circleware set is budget-friendly and designed to be used at volume without anxiety. The Creative Home stone set is mid-range and meant to last indefinitely if maintained. The chrome modular candle holders are a premium investment in a design object that appreciates aesthetically , the kind of purchase you make once.
 
-None of those is the wrong answer. The right framework is matching the investment level to how much the holder matters to your table. For someone who changes their table aesthetic seasonally, budget glass makes sense. For someone building a permanent table identity, the Stoff Nagel is worth the investment.
+None of those is the wrong answer. The right framework is matching the investment level to how much the holder matters to your table. For someone who changes their table aesthetic seasonally, budget glass makes sense. For someone building a permanent table identity, the chrome modular candle holder system is worth the investment.
 
 ## Frequently Asked Questions
 
@@ -172,15 +172,15 @@ Clear glass transmits light without altering the candle's color, making it a rel
 ### How do I remove wax cleanly from stone candle holders?
 
 Let the wax cool and harden completely before attempting to remove it , trying to wipe hot wax spreads it further into the porous surface. Once hardened, a wooden or plastic tool will lift most of the bulk without scratching. Warm water and a soft cloth handles the residue. Metal tools and abrasive cleaners will scratch stone permanently, so this is a step worth doing carefully.
-### Is the Stoff Nagel chrome system worth buying if I only start with three holders?
+### Is the chrome modular candle holder system worth buying if I only start with three holders?
 
-Three Stoff Nagel holders form a compact, attractive cluster suitable for a small table or an intimate centerpiece , they don't require expansion to look intentional. The modular system is a genuine advantage if your table grows or your entertaining scale changes, but the base set of three stands on its own. Buyers who want the full dramatic configurations shown in brand imagery should plan to add holders over time.
+Three chrome modular holders form a compact, attractive cluster suitable for a small table or an intimate centerpiece , they don't require expansion to look intentional. The modular system is a genuine advantage if your table grows or your entertaining scale changes, but the base set of three stands on its own. Buyers who want the full dramatic configurations should plan to add holders over time.
 ### What's the practical difference between a votive holder and a tealight holder?
 
 Votive candles are slightly taller and wider than tealights and burn longer, making them better suited for full evening entertaining. Tealight holders are typically shallower and designed for the smaller, metal-cupped tealight format. Some holders accommodate both, but most are sized for one or the other , the Natural Stone Tealight Holders by Creative Home are designed for tealights specifically, while the Circleware clear glass set accommodates standard votive candles.
 ### Can I use these holders outdoors for patio or garden entertaining?
 
-Clear glass performs reasonably well outdoors in still conditions but is vulnerable to wind , even a light breeze will extinguish an open votive. Stone holders are heavier and less prone to tipping but share the same wind problem. The Stoff Nagel chrome system is designed as an indoor object and may weather poorly if left outside long-term. For outdoor entertaining with candles, a holder with a taller glass surround or a windproof design is more appropriate than any of these three picks.
+Clear glass performs reasonably well outdoors in still conditions but is vulnerable to wind , even a light breeze will extinguish an open votive. Stone holders are heavier and less prone to tipping but share the same wind problem. The chrome modular candle holders are designed as indoor objects and may weather poorly if left outside long-term. For outdoor entertaining with candles, a holder with a taller glass surround or a windproof design is more appropriate than any of these three picks.
 <script type="application/ld+json">
 {
  "@context": "https://schema.org",
@@ -204,10 +204,10 @@ Clear glass performs reasonably well outdoors in still conditions but is vulnera
  },
  {
  "@type": "Question",
- "name": "Is the Stoff Nagel chrome system worth buying if I only start with three holders?",
+ "name": "Is the chrome modular candle holder system worth buying if I only start with three holders?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "Three Stoff Nagel holders form a compact, attractive cluster suitable for a small table or an intimate centerpiece , they don't require expansion to look intentional. The modular system is a genuine advantage if your table grows or your entertaining scale changes, but the base set of three stands on its own. Buyers who want the full dramatic configurations shown in brand imagery should plan to add holders over time."
+ "text": "Three chrome modular holders form a compact, attractive cluster suitable for a small table or an intimate centerpiece , they don't require expansion to look intentional. The modular system is a genuine advantage if your table grows or your entertaining scale changes, but the base set of three stands on its own. Buyers who want the full dramatic configurations should plan to add holders over time."
  }
  },
  {
@@ -223,7 +223,7 @@ Clear glass performs reasonably well outdoors in still conditions but is vulnera
  "name": "Can I use these holders outdoors for patio or garden entertaining?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "Clear glass performs reasonably well outdoors in still conditions but is vulnerable to wind , even a light breeze will extinguish an open votive. Stone holders are heavier and less prone to tipping but share the same wind problem. The Stoff Nagel chrome system is designed as an indoor object and may weather poorly if left outside long-term. For outdoor entertaining with candles, a holder with a taller glass surround or a windproof design is more appropriate than any of these three picks."
+ "text": "Clear glass performs reasonably well outdoors in still conditions but is vulnerable to wind , even a light breeze will extinguish an open votive. Stone holders are heavier and less prone to tipping but share the same wind problem. The chrome modular candle holders are designed as indoor objects and may weather poorly if left outside long-term. For outdoor entertaining with candles, a holder with a taller glass surround or a windproof design is more appropriate than any of these three picks."
  }
  }
  ]
