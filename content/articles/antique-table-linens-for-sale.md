@@ -28,10 +28,10 @@ products:
   - id: "juliska-country-estate-table-runner"
     role: "also_consider"
     article_specific_pros:
-      - "Country Estate linen runner coordinates with the full Juliska ceramic and linen table collection"
+      - "Faux-linen table runner with relaxed farmhouse texture , reversible double-layer construction"
       - "Stonewashed finish means it does not require ironing , intentionally relaxed for a farmhouse aesthetic"
     article_specific_cons:
-      - "Premium pricing for a runner that explicitly does not press flat , a judgement call on the value of the brand's aesthetic"
+      - "Faux-linen texture is slightly stiffer than natural linen , worth feeling before committing to a full table set"
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
@@ -44,8 +44,8 @@ faq:
     answer: "Light-colored stains — cream sauces, light wines, flour — show more on deep navy than on ivory or antique white. Dark stains — red wine, tomato, coffee — show less. Whether that trade-off works in your favor depends on what you typically serve. Lint and light pet hair are also highly visible on the navy cloth, so a lint roller becomes part of the setup routine."
   - question: "Do pintuck tablecloths require special laundering?"
     answer: "They don't require specialist care, but they do require thorough care. The pintuck folds collect food residue during a dinner service that a flat-weave cloth would not trap. A standard machine wash cycle is adequate, but the temperature and agitation need to be sufficient to clear the folds. A quick or delicate cycle after a full dinner party is unlikely to be enough — soaking before washing is worth doing after any particularly involved meal."
-  - question: "Can a stonewashed linen runner be ironed flat if I prefer a crisper look?"
-    answer: "Technically yes, but the result won't hold for long and the fabric is not designed for it. The stonewashed finish on pieces like the Juliska Country Estate Table Runner is produced specifically to resist crisp pressing — the fibers have been relaxed as part of the manufacturing process. If a pressed, smooth runner is what you need, look for a piece described as linen blend or cotton-linen rather than stonewashed linen, and confirm it is recommended for ironing."
+  - question: "Can a stonewashed faux-linen runner be ironed flat if I prefer a crisper look?"
+    answer: "Technically yes, but the result won't hold for long and the fabric is not designed for it. The stonewashed finish on faux-linen runners is produced specifically to resist crisp pressing — the fibers have been relaxed as part of the manufacturing process. If a pressed, smooth runner is what you need, look for a piece described as linen blend or cotton-linen rather than stonewashed faux-linen, and confirm it is recommended for ironing."
 ---
 
 Antique table linens reward patience , and they punish impulse buying. Whether you're hunting for genuine vintage pieces or new cloth with that softened, heirloom quality, the difference between a table that feels considered and one that just feels old comes down to how well the linen suits your specific china, wood tone, and occasion. Exploring the full range of [table linens](/linens/) before committing to a single direction is time well spent.
@@ -110,11 +110,11 @@ The practical note is one that applies to any deep, saturated cloth: navy shows 
 
 ### Farmhouse Rustic Faux Linen Table Runner
 
-Not every table wants a full cloth. The [Juliska Country Estate Table Runner](product:juliska-country-estate-table-runner) is designed for the kind of table that shows its wood , a farmhouse plank table, an antique trestle, a dining surface with enough character that covering it entirely would be a mistake. The stonewashed linen finish is intentionally relaxed; it does not press flat, and that is the point.
+Not every table wants a full cloth. The [DII Faux-Linen Table Runner](product:juliska-country-estate-table-runner) is designed for the kind of table that shows its wood , a farmhouse plank table, an antique trestle, a dining surface with enough character that covering it entirely would be a mistake. The stonewashed faux-linen finish is intentionally relaxed; it does not press flat, and that is the point.
 
-The runner coordinates with Juliska's full Country Estate ceramic and linen collection, which gives it genuine utility if you're building a cohesive table around that line. It also works independently , the stonewashed texture and muted linen tone sit naturally with most wooden tables and handmade ceramics without requiring the rest of the Juliska range.
+The reversible double-layer construction gives you two surface options from one piece, and the layered weight provides enough body to drape naturally on a set table without curling at the edges. The stonewashed texture and muted tone sit naturally with most wooden tables and handmade ceramics.
 
-The value question is fair to ask at premium pricing for a runner that explicitly does not iron smooth. You are paying for the brand's aesthetic commitment and the quality of the stonewash process , a finish that many linens attempt and few execute with this level of consistency. If you want a crisp, pressed runner, this is the wrong choice entirely. If you want something that looks genuinely worn-in from the first use and improves with age, it earns the price.
+The value is clear for the buyer who wants a runner that looks genuinely worn-in from the first use and launders without ceremony. If you want a crisp, pressed runner, this is the wrong choice entirely. If you want something that suits a farmhouse aesthetic without ironing, it delivers that consistently.
 
 ![Stonewashed linen table runner on a farmhouse wood dining table](/images/articles/linens-3.jpg)
 
@@ -161,7 +161,7 @@ If storage is limited, prioritize cloths with finishes that are meant to look sl
 Not exactly, though the terms are used interchangeably in product listings more often than they should be. Antique white, ivory, and cream all sit in the warm-white family, but antique white typically has a slightly greyer or more muted undertone compared to the yellow warmth of true ivory. The practical difference matters most when matching to china , warm ivory china coordinates well with all three, but cool or pure white china can make any of them read slightly off.
 ### How do I choose between a full tablecloth and a table runner for a formal dinner?
 
-It depends on the table surface and the formality of the setting. A full cloth signals occasion and hides the table; a runner shows the table's surface while adding textile warmth. For a very formal seated dinner, a full cloth is conventional. For a farmhouse or rustic aesthetic , particularly if the table itself is a feature , a runner like the [Juliska Country Estate Table Runner](product:juliska-country-estate-table-runner) is often the better choice.
+It depends on the table surface and the formality of the setting. A full cloth signals occasion and hides the table; a runner shows the table's surface while adding textile warmth. For a very formal seated dinner, a full cloth is conventional. For a farmhouse or rustic aesthetic , particularly if the table itself is a feature , a runner like the [DII Faux-Linen Table Runner](product:juliska-country-estate-table-runner) is often the better choice.
 ### Will navy blue tablecloths show food stains more than lighter colors?
 
 Light-colored stains , cream sauces, light wines, flour , show more on deep navy than on ivory or antique white. Dark stains , red wine, tomato, coffee , show less. Whether that trade-off works in your favor depends on what you typically serve. The [LinenTablecloth Navy Blue Tablecloth 90x132](product:linen-tablecloth-navy-blue-90x132) is especially worth factoring on this point; lint and light pet hair are also highly visible on this cloth.
@@ -169,7 +169,7 @@ Light-colored stains , cream sauces, light wines, flour , show more on deep navy
 They do not require specialist care, but they do require thorough care. The pintuck folds collect food residue during a dinner service that a flat-weave cloth would not trap. A standard machine wash cycle is adequate, but the temperature and agitation need to be sufficient to clear the folds. A quick or delicate cycle after a full dinner party is unlikely to be enough.
 ### Can stonewashed linen runners be ironed flat if I prefer a crisper look?
 
-Technically yes, but the result will not hold for long and the fabric is not designed for it. The stonewashed finish on pieces like the Juliska Country Estate Table Runner is produced specifically to resist crisp pressing , the fibers have been relaxed as part of the manufacturing process. If a pressed, smooth runner is what you need, look for a piece described as "linen blend" or "cotton-linen" rather than "stonewashed linen," and check that it is recommended for ironing.
+Technically yes, but the result will not hold for long and the fabric is not designed for it. The stonewashed finish on a faux-linen runner like this is produced specifically to resist crisp pressing , the fibers have been relaxed as part of the manufacturing process. If a pressed, smooth runner is what you need, look for a piece described as "linen blend" or "cotton-linen" rather than "stonewashed linen," and check that it is recommended for ironing.
 <script type="application/ld+json">
 {
  "@context": "https://schema.org",
@@ -188,7 +188,7 @@ Technically yes, but the result will not hold for long and the fabric is not des
  "name": "How do I choose between a full tablecloth and a table runner for a formal dinner?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "It depends on the table surface and the formality of the setting. A full cloth signals occasion and hides the table; a runner shows the table's surface while adding textile warmth. For a very formal seated dinner, a full cloth is conventional. For a farmhouse or rustic aesthetic , particularly if the table itself is a feature , a runner like the Juliska Country Estate Table Runner is often the better choice."
+ "text": "It depends on the table surface and the formality of the setting. A full cloth signals occasion and hides the table; a runner shows the table's surface while adding textile warmth. For a very formal seated dinner, a full cloth is conventional. For a farmhouse or rustic aesthetic , particularly if the table itself is a feature , a faux-linen table runner is often the better choice."
  }
  },
  {
@@ -212,7 +212,7 @@ Technically yes, but the result will not hold for long and the fabric is not des
  "name": "Can stonewashed linen runners be ironed flat if I prefer a crisper look?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "Technically yes, but the result will not hold for long and the fabric is not designed for it. The stonewashed finish on pieces like the Juliska Country Estate Table Runner is produced specifically to resist crisp pressing , the fibers have been relaxed as part of the manufacturing process. If a pressed, smooth runner is what you need, look for a piece described as \"linen blend\" or \"cotton-linen\" rather than \"stonewashed linen,\" and check that it is recommended for ironing."
+ "text": "Technically yes, but the result will not hold for long and the fabric is not designed for it. The stonewashed finish on a faux-linen runner like this is produced specifically to resist crisp pressing , the fibers have been relaxed as part of the manufacturing process. If a pressed, smooth runner is what you need, look for a piece described as \"linen blend\" or \"cotton-linen\" rather than \"stonewashed linen,\" and check that it is recommended for ironing."
  }
  }
  ]

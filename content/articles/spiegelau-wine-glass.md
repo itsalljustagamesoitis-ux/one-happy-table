@@ -21,8 +21,8 @@ products:
   - id: "simon-pearce-ascutney-red-wine-glass"
     role: "also_consider"
     article_specific_pros:
-      - "Mouth-blown in Vermont , each glass has a subtle organic irregularity that distinguishes it from machine production"
-      - "Thick base and generous bowl make it the most stable of Simon Pearce's wine glasses for a set table"
+      - "Hand-blown crystal , each glass has a subtle organic irregularity that distinguishes it from machine production"
+      - "Thick base and generous bowl make it stable on a set table , not a tipping risk"
     article_specific_cons:
       - "Hand-blown glass requires hand-washing , premium care for a premium piece"
   - id: "libbey-signature-kentfield-red-wine-set4"
@@ -40,8 +40,8 @@ faq:
     answer: "Spiegelau and Riedel are related companies — Riedel acquired Spiegelau — but they occupy different market positions. Spiegelau's glasses are positioned as more accessible, with thinner construction at a lower price than Riedel's comparable lines. For everyday use, Spiegelau's dishwasher-safe certification and genuine lead-free crystal clarity make them a strong choice. Riedel's performance-tier options are more refined but require more care and come at a higher cost that's harder to justify for daily use."
   - question: "Can Spiegelau Definition glasses go in the dishwasher?"
     answer: "Yes, with conditions. Spiegelau certifies the Definition series as dishwasher safe, but the stem is the vulnerability. Top rack placement, stable spacing that prevents contact with other glasses, and a gentle cycle are the parameters that matter. Owners who skip those steps report broken stems — not because the glass is poorly made, but because the stem is narrow by design and needs support during the cycle. Load them deliberately and the dishwasher certification holds up."
-  - question: "Spiegelau Definition vs Simon Pearce Ascutney — are they even comparable?"
-    answer: "These are different products for different purposes, not competing versions of the same thing. The Spiegelau Definition is machine-produced lead-free crystal, dishwasher safe, and optimized for consistent thin-rim performance at a mid-range price. The Simon Pearce Ascutney is mouth-blown by hand in Vermont, requires hand-washing, and costs significantly more — but each glass carries an organic character that machine production doesn't replicate."
+  - question: "Spiegelau Definition vs BACLIFE hand-blown — are they even comparable?"
+    answer: "These are different products for different purposes, not competing versions of the same thing. The Spiegelau Definition is machine-produced lead-free crystal, dishwasher safe, and optimized for consistent thin-rim performance at a mid-range price. The BACLIFE hand-blown set requires hand-washing and costs more — but each glass carries an organic character that machine production doesn't replicate."
   - question: "Stemless wine glasses vs stemmed — which is better for a dinner party?"
     answer: "Stemless works well for casual entertaining and for red wine specifically, where temperature maintenance is less critical. For a more formal table setting or any gathering where white wine or sparkling wine is being served, stemmed glasses are worth the effort — the stem keeps body heat away from the bowl in a way stemless cannot replicate. If you pour cold and drink within 10 to 12 minutes, the warming rate difference is a non-issue."
   - question: "How many wine glasses do I actually need for a dinner party of eight?"
@@ -104,15 +104,15 @@ The stem requires attention in the dishwasher. Broken stems are the primary comp
 
 ### BACLIFE Hand Blown Red Wine Glasses Set of 4
 
-There is a specific category of buyer who wants glassware that announces itself as something other than a commodity purchase. The [Simon Pearce Ascutney Red Wine Glass](product:simon-pearce-ascutney-red-wine-glass) is for that buyer, and it is not trying to be anything else.
+There is a specific category of buyer who wants glassware that announces itself as something other than a commodity purchase. The [BACLIFE Hand Blown Red Wine Glasses](product:simon-pearce-ascutney-red-wine-glass) are for that buyer, and they are not trying to be anything else.
 
-Each glass is mouth-blown in Vermont. The process introduces subtle organic variation , a slight asymmetry in the bowl, a shift in wall thickness that changes how light moves through the glass , that no machine-produced option replicates. Placed on a table alongside a linen runner and proper flatware, these glasses are the kind of detail guests notice and ask about without quite knowing why.
+Each glass is hand-blown crystal. The process introduces subtle organic variation , a slight asymmetry in the bowl, a shift in wall thickness that changes how light moves through the glass , that no machine-produced option replicates. Placed on a table alongside a linen runner and proper flatware, these glasses are the kind of detail guests notice and ask about without quite knowing why.
 
-The base is thick and deliberately generous, which makes this the most stable of Simon Pearce's wine glasses on a set table. The bowl is wide enough for a red wine to breathe without being aggressively oversized, and the profile reads as confident rather than fussy. None of this comes without a requirement: these must be hand-washed.
+The base is thick and deliberately generous, making these stable on a set table. The bowl is wide enough for a red wine to breathe without being aggressively oversized, and the profile reads as confident rather than fussy. None of this comes without a requirement: these must be hand-washed.
 
 That's not a small concession. Hand-washing a full table's worth of glasses after a dinner party is real labor. For the buyer who owns six of these and pulls them out for occasions that warrant them, the maintenance fits the object. For a buyer who needs everyday glassware for a household of four, it doesn't.
 
-![Simon Pearce Ascutney red wine glass with wine poured](/images/articles/glassware-2.jpg)
+![Hand-blown crystal red wine glass showing generous bowl and weighted base](/images/articles/glassware-2.jpg)
 
 ,
 
@@ -171,9 +171,9 @@ For hand-blown or artisan glass, hand-washing is non-negotiable, but the techniq
 Spiegelau and Riedel are related companies , Riedel acquired Spiegelau , but they occupy different market positions. Spiegelau's glasses are positioned as more accessible, with thinner construction at a lower price than Riedel's comparable lines. For everyday use, Spiegelau's dishwasher-safe certification and genuine lead-free crystal clarity make them a strong choice. Riedel's performance-tier options are more refined but require more care and come at a higher cost that's harder to justify for daily use.
 ### Can I put Spiegelau Definition glasses in the dishwasher?
 Yes, with conditions. Spiegelau certifies the Definition series as dishwasher safe, but the stem is the vulnerability. Top rack placement, stable spacing that prevents contact with other glasses, and a gentle cycle are the parameters that matter. Owners who skip those steps report broken stems , not because the glass is poorly made, but because the stem is narrow by design and needs support during the cycle.
-### What's the difference between the Spiegelau Definition and the Simon Pearce Ascutney?
+### What's the difference between the Spiegelau Definition and the BACLIFE hand-blown set?
 
-The [Spiegelau Definition White Wine Glasses](product:spiegelau-definition-white-wine-set4) are machine-produced lead-free crystal, dishwasher safe, and optimized for consistent thin-rim performance at a mid-range price. The [Simon Pearce Ascutney Red Wine Glass](product:simon-pearce-ascutney-red-wine-glass) is mouth-blown by hand in Vermont, requires hand-washing, and costs significantly more , but each glass carries an organic character that machine production doesn't replicate. These are different products for different purposes, not competing versions of the same thing.
+The [Spiegelau Definition White Wine Glasses](product:spiegelau-definition-white-wine-set4) are machine-produced lead-free crystal, dishwasher safe, and optimized for consistent thin-rim performance at a mid-range price. The [BACLIFE Hand Blown Red Wine Glasses](product:simon-pearce-ascutney-red-wine-glass) are hand-blown crystal, require hand-washing, and cost more , but each glass carries an organic character that machine production doesn't replicate. These are different products for different purposes, not competing versions of the same thing.
 ### How many wine glasses do I need for a dinner party of eight?
 
 Ten is the honest answer , two extra glasses account for breakage during the evening and give you flexibility if a guest arrives unexpectedly. If you're using mid-range crystal, buying two sets of four gives you eight glasses with extras available. If you're stretching budget for a large gathering, the [Libbey Signature Kentfield](product:libbey-signature-kentfield-red-wine-set4) in sufficient quantity is more practical than premium crystal in short supply.
@@ -203,10 +203,10 @@ Stemless works well for casual entertaining and for red wine specifically, where
  },
  {
  "@type": "Question",
- "name": "What's the difference between the Spiegelau Definition and the Simon Pearce Ascutney?",
+ "name": "What's the difference between the Spiegelau Definition and the BACLIFE hand-blown set?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "The Spiegelau Definition White Wine Glasses are machine-produced lead-free crystal, dishwasher safe, and optimized for consistent thin-rim performance at a mid-range price. The Simon Pearce Ascutney Red Wine Glass is mouth-blown by hand in Vermont, requires hand-washing, and costs significantly more , but each glass carries an organic character that machine production doesn't replicate. These are different products for different purposes, not competing versions of the same thing."
+ "text": "The Spiegelau Definition White Wine Glasses are machine-produced lead-free crystal, dishwasher safe, and optimized for consistent thin-rim performance at a mid-range price. The BACLIFE Hand Blown Red Wine Glasses are hand-blown crystal, require hand-washing, and cost more , but each glass carries an organic character that machine production doesn't replicate. These are different products for different purposes, not competing versions of the same thing."
  }
  },
  {

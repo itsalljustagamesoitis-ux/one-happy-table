@@ -28,10 +28,10 @@ products:
   - id: "juliska-country-estate-table-runner"
     role: "also_consider"
     article_specific_pros:
-      - "Country Estate linen runner coordinates with the full Juliska ceramic and linen table collection"
+      - "Faux-linen table runner with relaxed farmhouse texture , reversible double-layer construction"
       - "Stonewashed finish means it does not require ironing , intentionally relaxed for a farmhouse aesthetic"
     article_specific_cons:
-      - "Premium pricing for a runner that explicitly does not press flat , a judgement call on the value of the brand's aesthetic"
+      - "Faux-linen texture is slightly stiffer than natural linen , worth feeling before committing to a full table set"
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
@@ -40,8 +40,8 @@ faq:
     answer: "Yes. The vintage-botanical prints April Cornell produces were developed specifically to coordinate with collected, layered tableware rather than matched sets. The muted, slightly faded palette works alongside mismatched antique china, pressed glass, and linen napkins in different patterns. If your china is modern or graphic, the print will compete rather than complement."
   - question: "Does the woven gingham pattern fade after repeated washing?"
     answer: "No. The green gingham on the LinenTablecloth check is woven into the yarn rather than printed on the surface, which means color and pattern integrity hold through consistent laundering. The cotton-poly blend also handles normal machine washing without shrinkage risk. The cloth does require ironing to look crisp, but it presses cleanly and holds that finish between uses."
-  - question: "Is the Juliska Country Estate runner worth buying without other Juliska pieces?"
-    answer: "Probably not at its price point. The runner is most valuable when it reinforces the shared design language of a broader Country Estate setting with Juliska ceramics and glassware. Used in isolation, the premium pricing is harder to justify. If you plan to build toward that collection over time, buying the runner first is reasonable — otherwise the LinenTablecloth gingham delivers more practical value as a standalone."
+  - question: "Is the faux-linen table runner worth buying alongside other table linens?"
+    answer: "Yes, when the farmhouse aesthetic is your direction. The reversible double-layer construction gives you two surface options from one runner, and the stonewashed finish means no ironing is required. For a table that leans casual and relaxed, it delivers that consistently. If you want a crisp, pressed runner, the LinenTablecloth gingham delivers more practical value as a standalone."
   - question: "What tablecloth drop length should I use for a dinner party?"
     answer: "Twelve inches is the standard for a seated dinner party — it looks intentional without producing a draped floor-length effect. Sixteen inches suits very formal occasions. Eight to ten inches reads as casual and works well for everyday meals or outdoor tables. Measure from the table edge to your desired drop point, then add twice that figure to your table dimensions to find the cloth size you need."
   - question: "Can I layer a patterned tablecloth with a patterned runner?"
@@ -110,13 +110,13 @@ The cotton-poly blend is a reasonable trade-off for the price band. It handles w
 
 ### Farmhouse Rustic Faux Linen Table Runner
 
-The [Juliska Country Estate Table Runner](product:juliska-country-estate-table-runner) exists within a larger design system , Juliska's Country Estate collection spans ceramics, glassware, and linens, all developed around a cohesive English countryside aesthetic. If you own Country Estate dinnerware or serving pieces, the runner is an obvious choice because the linen coordinates with those pieces at the design level, not just the color level.
+The [DII Faux-Linen Table Runner](product:juliska-country-estate-table-runner) brings relaxed farmhouse texture with reversible double-layer construction , two surface options from one piece and enough body to drape well on a set table.
 
-The stonewashed finish is a deliberate design decision rather than a quality concession. The intentional softness and slight rumpled quality of the linen means the runner works well without ironing, which suits the relaxed farmhouse aesthetic the collection is built around. Buyers who associate crisp, pressed linens with quality may find it underwhelming; buyers who want a table that looks lived-in and comfortable will find that quality appealing.
+The stonewashed faux-linen finish means the runner arrives with the relaxed, lived-in drape of something that has been washed dozens of times. That is a genuine advantage for a farmhouse aesthetic where pressed perfection would feel wrong. It also means no ironing is required , the wrinkle is built into the look. For a table that leans casual and warm, this runner works without ceremony.
 
-The honest context for this runner: it is a premium-priced item that will deliver the most value to buyers who are already invested in the Juliska table aesthetic. As a standalone runner with no other Country Estate pieces, the price is harder to justify. As part of a layered table where the ceramics and linen are speaking the same visual language, it earns its place.
+The reversible construction is the feature worth naming: you get two looks from one piece, and the layered weight gives it body that single-layer runners at the same price often lack. Buyers who want a crisp, structured runner will find this the wrong tool entirely , the relaxed quality is built in and is not a compromise.
 
-![Juliska Country Estate linen runner styled on a farmhouse dining table with ceramic tableware](/images/articles/linens-3.jpg)
+![Faux-linen table runner with relaxed farmhouse texture on a dining table](/images/articles/linens-3.jpg)
 
 ,
 
@@ -144,7 +144,7 @@ Be realistic about your laundering habits. A cloth used for everyday family meal
 
 ### Consider the Full Table Layer, Not Just the Cloth
 
-A table runner placed over a tablecloth accomplishes two things: it adds a second layer of pattern or texture, and it protects the tablecloth from direct contact with hot dishes and centerpiece condensation. Used well, a runner like the Juliska Country Estate can tie together a table setting that otherwise lacks visual cohesion, particularly when the runner shares a design language with the ceramics or serving pieces.
+A table runner placed over a tablecloth accomplishes two things: it adds a second layer of pattern or texture, and it protects the tablecloth from direct contact with hot dishes and centerpiece condensation. Used well, a faux-linen runner with relaxed farmhouse texture can tie together a table setting that otherwise lacks visual cohesion, particularly when the runner's warmth and drape complement the ceramics or serving pieces.
 
 Runners are also a lower-commitment way to introduce a pattern or color than a full tablecloth. Exploring the broader range of [table linens](/linens/) , tablecloths, runners, overlays, and placemats together , often produces a more interesting result than approaching each element as a separate purchase.
 
@@ -162,9 +162,9 @@ April Cornell's vintage-botanical prints were developed specifically to coordina
 ### How does the LinenTablecloth gingham hold up after repeated washing?
 
 The green gingham pattern is woven into the fabric rather than printed on the surface, which means color and pattern integrity remain stable through consistent laundering. The cotton-poly blend handles normal machine washing without the shrinkage risk of 100% cotton. The main maintenance requirement is ironing , the cloth doesn't recover from washing looking crisp on its own, but it does press cleanly and holds that crispness reasonably well between uses.
-### Should I buy the Juliska runner if I don't own other Country Estate pieces?
+### Is the faux-linen table runner worth buying alongside other table linens?
 
-The runner is most valuable when it's part of a broader Country Estate table setting, where it reinforces a shared design language with the ceramics and glassware. Used in isolation without other Juliska pieces, the premium pricing is harder to justify , the aesthetic is distinctive but not irreplaceable at that price point. If you're committed to building toward the Country Estate collection over time, buying the runner first is reasonable. Otherwise, the [LinenTablecloth Green Gingham Check Tablecloth](product:linen-tablecloth-green-gingham-check) delivers more practical value as a standalone purchase.
+When the farmhouse aesthetic is your direction, yes. The reversible double-layer construction gives you two surface options from one runner, and the stonewashed finish means no ironing is required. For a table that leans casual and relaxed, it delivers that consistently. If you want a crisp, pressed runner, the [LinenTablecloth Green Gingham Check Tablecloth](product:linen-tablecloth-green-gingham-check) delivers more practical value as a standalone purchase.
 ### What tablecloth drop length is appropriate for a dinner party?
 
 A twelve-inch drop is the standard for a seated dinner party , it looks intentional without being so formal that it creates a draped, floor-length effect. Sixteen inches is appropriate for very formal occasions. Eight to ten inches reads as casual and works well for everyday family meals or outdoor entertaining. Measure from the table edge to where you want the cloth to fall, then add twice that number to the table dimensions to determine the cloth size you need.
@@ -194,10 +194,10 @@ Mixing a tablecloth and runner works well when the two patterns are in the same 
  },
  {
  "@type": "Question",
- "name": "Should I buy the Juliska runner if I don't own other Country Estate pieces?",
+ "name": "Is the faux-linen table runner worth buying alongside other table linens?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "The runner is most valuable when it's part of a broader Country Estate table setting, where it reinforces a shared design language with the ceramics and glassware. Used in isolation without other Juliska pieces, the premium pricing is harder to justify , the aesthetic is distinctive but not irreplaceable at that price point. If you're committed to building toward the Country Estate collection over time, buying the runner first is reasonable. Otherwise, the LinenTablecloth Green Gingham Check Tablecloth delivers more practical value as a standalone purchase."
+ "text": "When the farmhouse aesthetic is your direction, yes. The reversible double-layer construction gives you two surface options from one runner, and the stonewashed finish means no ironing is required. For a table that leans casual and relaxed, it delivers that consistently. If you want a crisp, pressed runner, the LinenTablecloth Green Gingham Check Tablecloth delivers more practical value as a standalone purchase."
  }
  },
  {

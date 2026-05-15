@@ -15,7 +15,7 @@ products:
     role: "best_overall"
     article_specific_pros:
       - "Set of three heights allows tiered centerpiece arrangement out of the box"
-      - "Brass finish has the warmth of the Stoff Nagel system at a lower price point"
+      - "Brass finish has the warmth of a modular brass candle holder system at a lower price point"
     article_specific_cons:
       - "Brass finish is lacquered rather than solid brass , finish can peel at base edges over years"
   - id: "creative-co-op-bubble-glass-tealight-set4"
@@ -28,7 +28,7 @@ products:
   - id: "stoff-nagel-candle-holder-chrome-set3"
     role: "also_consider"
     article_specific_pros:
-      - "The Danish modular system , each holder connects to the next, building any shape"
+      - "Minimalist chrome taper candle holders , each holder connects to the next, building any shape"
       - "Chrome finish is more modern than brass; works on contemporary minimalist tables"
     article_specific_cons:
       - "Chrome scratches more visibly than brass on close inspection"
@@ -36,8 +36,8 @@ tags: ["decor", "buyer_guide"]
 disclosure_required: true
 noindex: false
 faq:
-  - question: "Stoff Nagel vs. a standard pillar candle holder set — what's the real difference?"
-    answer: "The Stoff Nagel connects individual holders together so you can build continuous horizontal or geometric arrangements across a table. Standard fixed sets give you a predetermined number of heights and that's it. The Stoff Nagel is the right choice if you want a collection you can expand over time; a fixed brass set is the right choice if you want a complete arrangement in one purchase."
+  - question: "Modular candle holders vs. a standard pillar candle holder set — what's the real difference?"
+    answer: "The modular chrome candle holders connect individual pieces together so you can build continuous horizontal or geometric arrangements across a table. Standard fixed sets give you a predetermined number of heights and that's it. The modular system is the right choice if you want a collection you can expand over time; a fixed brass set is the right choice if you want a complete arrangement in one purchase."
   - question: "How many candle holders do I need for a dinner table centerpiece?"
     answer: "For a table seating six to eight, three holders at varied heights create a centerpiece with genuine visual weight. Fewer than three tends to read as sparse rather than minimal. If you want candlelight beyond the centerpiece, add four smaller holders near place settings to carry the glow across the full table surface."
   - question: "Does the lacquered brass finish on pillar candle holders hold up over time?"

@@ -28,10 +28,10 @@ products:
   - id: "juliska-country-estate-table-runner"
     role: "also_consider"
     article_specific_pros:
-      - "Country Estate linen runner coordinates with the full Juliska ceramic and linen table collection"
+      - "Faux-linen table runner with relaxed farmhouse texture , reversible double-layer construction"
       - "Stonewashed finish means it does not require ironing , intentionally relaxed for a farmhouse aesthetic"
     article_specific_cons:
-      - "Premium pricing for a runner that explicitly does not press flat , a judgement call on the value of the brand's aesthetic"
+      - "Faux-linen texture is slightly stiffer than natural linen , worth feeling before committing to a full table set"
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
@@ -43,7 +43,7 @@ faq:
   - question: "Is Belgian linen worth the price compared to cotton napkins?"
     answer: "Belgian linen costs more per napkin than comparable cotton and requires more considered laundering. What it offers in return is a texture, drape, and hand feel that cotton does not replicate — and it improves with use rather than degrading. For households that entertain regularly, the investment pays out over time. For occasional use, a high-quality cotton napkin is more practical and nearly as presentable."
   - question: "Can I layer a runner over a tablecloth, or does that look overdone?"
-    answer: "Layering a runner over a tablecloth is a standard approach in formal and event table setting, not an overreach. It adds visual texture and an additional color layer without requiring you to swap out the full tablecloth. The Juliska Country Estate Table Runner, with its relaxed stonewashed finish, layers well over a solid tablecloth because the texture contrast reads as intentional rather than accidental."
+    answer: "Layering a runner over a tablecloth is a standard approach in formal and event table setting, not an overreach. It adds visual texture and an additional color layer without requiring you to swap out the full tablecloth. A faux-linen table runner with a relaxed stonewashed finish layers well over a solid tablecloth because the texture contrast reads as intentional rather than accidental."
   - question: "How do I keep navy blue table linens looking sharp before guests arrive?"
     answer: "Navy and deep blue fabrics show lint, pet hair, and loose fibers more readily than lighter colors. Keep a lint roller at hand as part of your table-setting routine and use it after the cloth is placed and before dinnerware goes down. For linen pieces, a light steam smooths wrinkles without damaging the fibers. Set the table as close to guest arrival as practical to minimize the window for lint accumulation."
 ---
@@ -112,13 +112,13 @@ The honest case against them: linen wrinkles are structural, not a laundering fa
 
 ### Farmhouse Rustic Faux Linen Table Runner
 
-The [Juliska Country Estate Table Runner](product:juliska-country-estate-table-runner) is a specific kind of purchase , one that makes the most sense if you're already working within the Juliska aesthetic or building a table with a deliberate farmhouse-relaxed sensibility. It's stonewashed linen, which means it arrives with the soft, lived-in finish already established. You don't need to iron it. That's not an oversight; it's the design intention.
+The [DII Faux-Linen Table Runner](product:juliska-country-estate-table-runner) arrives with the soft, lived-in finish already established. The stonewashed faux-linen finish means you don't need to iron it , that's not an oversight, it's the design intention. The reversible double-layer construction gives you two surface options from one piece, and the layered weight provides enough body to drape naturally on a set table without curling at the edges.
 
-Coordinating with the full Juliska ceramic and linen collection is a real advantage for anyone who commits to that system. A runner that was designed alongside specific plates and serving pieces will always integrate more naturally than one assembled from separate sources. The Country Estate pattern carries enough visual weight to anchor a table without competing with the dinnerware.
+The stonewashed texture and muted tone sit naturally with most wooden tables and handmade ceramics. For a buyer building a farmhouse or relaxed country-style table, the value is clear: a runner that looks genuinely worn-in from the first use and launders without ceremony.
 
-The premium pricing is the honest friction point. You're paying for the brand's aesthetic coherence and the quality of the stonewashed linen, not for a runner that presses flat or demands precision. If that trade-off aligns with how you set a table , and for many people who prioritize warmth over formality, it does , this runner delivers exactly what it promises.
+If that trade-off aligns with how you set a table , and for many hosts who prioritize warmth over formality, it does , this runner delivers exactly what it promises. If you're after a runner that presses flat and holds crisp lines, this is the wrong choice.
 
-![Stonewashed linen table runner with relaxed drape across a farmhouse dining table](/images/articles/linens-3.jpg)
+![Faux-linen table runner with relaxed farmhouse texture on a dining table](/images/articles/linens-3.jpg)
 
 ,
 
@@ -169,7 +169,7 @@ Belgian linen costs more per napkin than comparable cotton, and it requires more
 Deep-dyed colors including navy are more vulnerable to wash fading than lighter shades because there's more pigment to lose. Cold water washing and line drying or low-heat tumble drying significantly slow that process. Pre-washed fabrics tend to hold color better because the dye instability is reduced before you first launder them. Check manufacturer care instructions before the first wash , they're there specifically to protect color integrity.
 ### Can I layer a runner over a tablecloth, or does it look overdone?
 
-Layering a runner over a tablecloth is a standard approach in formal and event table setting, not an overreach. It adds visual texture and an additional color layer without requiring you to change out the full tablecloth between courses or occasions. The Juliska Country Estate Table Runner, with its relaxed stonewashed finish, layers well over a solid tablecloth because the texture contrast reads as intentional rather than accidental.
+Layering a runner over a tablecloth is a standard approach in formal and event table setting, not an overreach. It adds visual texture and an additional color layer without requiring you to change out the full tablecloth between courses or occasions. A faux-linen runner with a relaxed stonewashed finish layers well over a solid tablecloth because the texture contrast reads as intentional rather than accidental.
 ### How do I keep blue table linens looking sharp before guests arrive?
 
 Navy and deep blue fabrics show lint, pet hair, and loose fibers more readily than lighter colors. Keep a lint roller at hand as part of your table-setting routine and use it after the cloth is placed and before dinnerware goes down. For linen pieces, a light steam , rather than a hot iron pressed flat , smooths wrinkles without damaging the fibers or distorting the weave. Set the table as close to guest arrival as practical to minimize the window for lint accumulation.
@@ -207,7 +207,7 @@ Navy and deep blue fabrics show lint, pet hair, and loose fibers more readily th
  "name": "Can I layer a runner over a tablecloth, or does it look overdone?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "Layering a runner over a tablecloth is a standard approach in formal and event table setting, not an overreach. It adds visual texture and an additional color layer without requiring you to change out the full tablecloth between courses or occasions. The Juliska Country Estate Table Runner, with its relaxed stonewashed finish, layers well over a solid tablecloth because the texture contrast reads as intentional rather than accidental."
+ "text": "Layering a runner over a tablecloth is a standard approach in formal and event table setting, not an overreach. It adds visual texture and an additional color layer without requiring you to change out the full tablecloth between courses or occasions. A faux-linen runner with a relaxed stonewashed finish layers well over a solid tablecloth because the texture contrast reads as intentional rather than accidental."
  }
  },
  {

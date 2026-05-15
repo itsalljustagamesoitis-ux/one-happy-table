@@ -28,10 +28,10 @@ products:
   - id: "juliska-country-estate-table-runner"
     role: "also_consider"
     article_specific_pros:
-      - "Country Estate linen runner coordinates with the full Juliska ceramic and linen table collection"
+      - "Faux-linen table runner with relaxed farmhouse texture , reversible double-layer construction"
       - "Stonewashed finish means it does not require ironing , intentionally relaxed for a farmhouse aesthetic"
     article_specific_cons:
-      - "Premium pricing for a runner that explicitly does not press flat , a judgement call on the value of the brand's aesthetic"
+      - "Faux-linen texture is slightly stiffer than natural linen , worth feeling before committing to a full table set"
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
@@ -42,8 +42,8 @@ faq:
     answer: "Linen holds up better over time and develops a more characterful texture with use, but it wrinkles readily and costs more per piece. Cotton is easier to press, more affordable, and still looks considered on a cocktail table. If touch and longevity matter most, linen is the clear answer. If you need a larger set on a budget or want crisp, wrinkle-free folds, cotton is a practical and entirely respectable choice."
   - question: "How many napkins do I actually need for a cocktail party?"
     answer: "Plan for at least one and a half to two napkins per guest — cocktail parties involve more informal movement, guests often grab a second napkin, and you want a buffer for spills without running short mid-party. For a group of twelve, that means eighteen to twenty-four napkins is practical. Buying two sets of six Belgian linen napkins gets you there, or supplement a premium set with a less expensive cotton backup that coordinates in color."
-  - question: "Is the Juliska Country Estate runner worth the premium if I am not buying other Juliska pieces?"
-    answer: "That depends almost entirely on whether you are building within the Juliska ecosystem. The runner is designed to coordinate with Juliska's Country Estate ceramics and glassware — the value is in the cohesion of that full table story. As a standalone runner evaluated purely on material and finish, the premium is harder to justify. If coordinated brand aesthetics matter to your hosting practice it earns its price; if you are mixing and matching freely, a less expensive option in a complementary colorway will serve you just as well."
+  - question: "Is the faux-linen table runner worth it compared to a budget option?"
+    answer: "It depends on whether a relaxed, no-iron farmhouse aesthetic is what you want. The reversible double-layer construction gives you two surface options from one piece, and the stonewashed finish means the worn-in look is immediate. As a standalone runner evaluated on material and finish, it delivers what it promises. If you are mixing and matching freely and want a crisp result, a less expensive option in a complementary colorway will serve you just as well."
   - question: "What causes a woven check runner to look skewed after washing and how do I fix it?"
     answer: "The woven check can shift on the bias through the wash cycle, making the grid look slightly skewed. The fix is straightforward: press the runner while slightly damp, pulling the grain straight along the edge of your ironing board before pressing. A spray bottle helps. This takes about five minutes once you know to do it and restores the pattern cleanly — build it into your routine if you wash the runner frequently."
 ---
@@ -110,15 +110,15 @@ One maintenance note worth knowing: the woven check can shift on the bias after 
 
 ### Farmhouse Rustic Faux Linen Table Runner
 
-There's a specific aesthetic this runner is designed for, and if that aesthetic is yours, it delivers it without compromise. The [Juliska Country Estate Table Runner](product:juliska-country-estate-table-runner) is built around the brand's full Country Estate collection , the printed linen coordinates with their ceramics and glassware in a way that's intentional and coherent rather than coincidentally matched.
+The [DII Faux-Linen Table Runner](product:juliska-country-estate-table-runner) brings relaxed farmhouse texture to a cocktail table without any ironing required. The stonewashed finish means the piece arrives looking like it has been on your table for years , soft, slightly worn at the edges, and completely unpressed. That's not a flaw; it's the aesthetic position.
 
-The stonewashed finish means the piece arrives looking like it has been on your table for years , soft, slightly faded at the edges, and completely unpressed. That's not a flaw; it's the aesthetic position. For a farmhouse cocktail table, a harvest table in a converted barn, or any setting where a pressed-flat runner would look wrong, this is the right choice. It also means zero ironing is required, which is either a feature or a non-issue depending on how you think about table maintenance.
+For a farmhouse cocktail table, a harvest table, or any setting where a pressed-flat runner would look wrong, this is the right choice. The reversible double-layer construction gives you two looks in one piece, and the layered weight gives it body that single-layer runners at the same price often lack.
 
-The value question is an honest one: this is premium-priced for a piece that explicitly doesn't achieve a formal finish. What you're paying for is brand cohesion within the Juliska collection and a stonewashed linen quality that feels genuinely good on the table. If you're building a Juliska tablescape and want everything to speak the same language, the premium is justified. If you're evaluating it as a standalone runner, the calculus is tighter.
+The value is clear for the buyer who wants a runner that looks genuinely worn-in from the first use and launders without ceremony. If you need a crisp, formal finish, this runner is pointed in the wrong direction.
 
 [Check current price on Amazon.](product:juliska-country-estate-table-runner)
 
-![Juliska Country Estate table runner on a farmhouse cocktail table](/images/articles/linens-3.jpg)
+![Faux-linen table runner with relaxed farmhouse texture on a cocktail table](/images/articles/linens-3.jpg)
 
 , 
 
@@ -126,7 +126,7 @@ The value question is an honest one: this is premium-priced for a piece that exp
 
 ### Match the Piece to the Aesthetic, Not Just the Table
 
-The most common mistake I see is buying linens based on table dimensions without accounting for the visual register of the entertaining style. A stonewashed, relaxed runner like the Juliska piece is exactly right for an unfussy farmhouse setup and slightly wrong for a high-contrast, editorial cocktail table where precision matters. Start by knowing whether your aesthetic is relaxed, graphic, or formal , then filter by fabric and finishing within that frame.
+The most common mistake I see is buying linens based on table dimensions without accounting for the visual register of the entertaining style. A stonewashed, relaxed faux-linen runner is exactly right for an unfussy farmhouse setup and slightly wrong for a high-contrast, editorial cocktail table where precision matters. Start by knowing whether your aesthetic is relaxed, graphic, or formal , then filter by fabric and finishing within that frame.
 
 A runner or napkin set that fights your other table objects creates low-level visual noise that most guests can't name but everyone feels. Coherence is worth more than novelty.
 
@@ -152,7 +152,7 @@ Napkins for cocktail use can be slightly smaller than dinner napkins , a cocktai
 
 The honest answer on where to spend: napkins. They're handled, they telegraph quality directly, and a set of six good Belgian linen napkins will outlast several rounds of cheaper cotton. The runner is the place to make a graphic or aesthetic statement, and budget-tier options can absolutely carry that role if the pattern is strong.
 
-Investing in both at the premium tier simultaneously only makes sense if you're building a cohesive collection around a specific brand's aesthetic , the Juliska approach, where the runner is part of a larger coordinated table story. Otherwise, mix tiers deliberately and let quality sit where it's felt most directly.
+Investing in both at the premium tier simultaneously only makes sense when you're building a very deliberate table aesthetic where the runner, napkins, and ceramics all speak the same visual language. Otherwise, mix tiers deliberately and let quality sit where it's felt most directly.
 
 ## Frequently Asked Questions
 
@@ -164,8 +164,8 @@ A cocktail table runner is sized for a lower, smaller surface , typically shorte
 Linen holds up better over time and develops a more characterful texture with use, but it wrinkles readily and costs more per piece. Cotton is easier to press, more affordable, and still looks clean and considered on a cocktail table. If touch and longevity matter most to you, linen is the clear answer. If you're building a larger set on a budget or want crisp, wrinkle-free folds, cotton is a practical and entirely respectable choice.
 ### How do I keep a woven check runner properly aligned after washing?
 A woven check , like the one on the LinenTablecloth Black and White Check Table Runner , can shift on the bias through the wash cycle, making the grid look slightly skewed. The fix is straightforward: press it while slightly damp, pulling the grain straight along the edge of your ironing board before pressing. A spray bottle helps. This takes about five minutes and restores the pattern cleanly.
-### Is the Juliska Country Estate runner worth the premium over a budget option?
-That depends almost entirely on whether you're building within the Juliska ecosystem. The runner is designed to coordinate with Juliska's Country Estate ceramics and glassware , the value is in the cohesion of that full table story. As a standalone runner evaluated purely on material and finish, the premium is harder to justify. If coordinated brand aesthetics matter to your hosting practice, it earns its price.
+### Is the faux-linen table runner worth it compared to a budget option?
+It depends on whether a relaxed, no-iron farmhouse aesthetic is what you want. The reversible double-layer construction gives you two surface options from one piece, and the stonewashed finish means the worn-in look is immediate. As a standalone runner, it delivers what it promises. If you want a crisp result and are mixing and matching freely, a less expensive option in a complementary colorway will serve just as well.
 ### How many napkins do I need for a cocktail party?
 
 Plan for at least one and a half to two napkins per guest , cocktail parties involve more informal movement, guests often grab a second napkin, and you want a buffer for spills without running short mid-party. For a group of twelve, that means a set of eighteen to twenty-four napkins is practical. Buying two sets of six Belgian linen napkins gets you there, or supplement a premium set with a less expensive cotton backup set that coordinates in color.
@@ -200,10 +200,10 @@ Plan for at least one and a half to two napkins per guest , cocktail parties inv
  },
  {
  "@type": "Question",
- "name": "Is the Juliska Country Estate runner worth the premium over a budget option?",
+ "name": "Is the faux-linen table runner worth it compared to a budget option?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "That depends almost entirely on whether you're building within the Juliska ecosystem. The runner is designed to coordinate with Juliska's Country Estate ceramics and glassware , the value is in the cohesion of that full table story. As a standalone runner evaluated purely on material and finish, the premium is harder to justify. If coordinated brand aesthetics matter to your hosting practice, it earns its price. If you're mixing and matching freely, a less expensive option in a complementary colorway will serve you just as well."
+ "text": "It depends on whether a relaxed, no-iron farmhouse aesthetic is what you want. The reversible double-layer construction gives you two surface options from one piece, and the stonewashed finish means the worn-in look is immediate. As a standalone runner, it delivers what it promises. If you want a crisp result and are mixing and matching freely, a less expensive option in a complementary colorway will serve just as well."
  }
  },
  {

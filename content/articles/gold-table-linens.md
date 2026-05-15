@@ -28,10 +28,10 @@ products:
   - id: "juliska-country-estate-table-runner"
     role: "also_consider"
     article_specific_pros:
-      - "Country Estate linen runner coordinates with the full Juliska ceramic and linen table collection"
+      - "Faux-linen table runner with relaxed farmhouse texture , reversible double-layer construction"
       - "Stonewashed finish means it does not require ironing , intentionally relaxed for a farmhouse aesthetic"
     article_specific_cons:
-      - "Premium pricing for a runner that explicitly does not press flat , a judgement call on the value of the brand's aesthetic"
+      - "Faux-linen texture is slightly stiffer than natural linen , worth feeling before committing to a full table set"
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
@@ -41,7 +41,7 @@ faq:
   - question: "Does a woven gingham pattern really hold up better than a printed one?"
     answer: "Yes, significantly. A woven check means the color is in the yarn itself, so washing does not affect the pattern because there is no surface dye to fade. A printed check sits on top of the fabric and will fade with repeated laundering, often unevenly, so the pattern loses definition over time. For any tablecloth used regularly, woven construction is worth prioritizing from the start."
   - question: "Can a table runner be layered over a tablecloth without looking overdone?"
-    answer: "Layering a runner over a tablecloth is a standard technique, not an error. The key is contrast — the runner should differ from the tablecloth in texture or pattern rather than repeat it. A stonewashed linen runner like the Juliska Country Estate over a smooth white tablecloth works precisely because the textures are different. Keep the overhang proportionate and the color temperatures consistent and the result reads as intentional."
+    answer: "Layering a runner over a tablecloth is a standard technique, not an error. The key is contrast — the runner should differ from the tablecloth in texture or pattern rather than repeat it. A stonewashed faux-linen runner over a smooth white tablecloth works precisely because the textures are different. Keep the overhang proportionate and the color temperatures consistent and the result reads as intentional."
   - question: "Are gold table linens appropriate outside of holiday and formal settings?"
     answer: "Completely. Gold in natural linen tones — warm flax, antique gold, wheat — reads casual and organic rather than ceremonial. The formality comes from the table setup, not the color. Natural-toned gold napkins folded simply on a weeknight table with plain dinnerware look relaxed and warm. Reserve brighter or more saturated gold for occasions where you want the table to feel intentionally festive."
   - question: "How do I keep Belgian linen napkins from shrinking in the wash?"
@@ -110,13 +110,13 @@ The honest limitation is the cotton-poly blend. It doesn't have the crispness of
 
 ### Farmhouse Rustic Faux Linen Table Runner
 
-The [Juliska Country Estate Table Runner](product:juliska-country-estate-table-runner) is for a specific buyer: someone already in the Juliska ecosystem, or someone building a table aesthetic around the Country Estate collection's particular warmth and patina. The stonewashed linen finish is intentional , this runner is designed not to press flat, and it photographs beautifully because of that texture rather than in spite of it.
+The [DII Faux-Linen Table Runner](product:juliska-country-estate-table-runner) is for the buyer who wants a relaxed farmhouse aesthetic without ironing. The stonewashed finish is intentional , this runner is designed not to press flat, and it photographs beautifully because of that texture rather than in spite of it.
 
-The coordination with Juliska's ceramics and linen collection is the primary value proposition. If you're setting a table with Country Estate dinnerware, the runner reads as part of a considered whole rather than a separate accessory. That kind of visual coherence is harder to achieve when sourcing pieces from different brands.
+The reversible double-layer construction gives you two surface options from one piece, and the layered weight provides enough body to drape naturally on a set table. The stonewashed texture and muted tone sit naturally with most wooden tables and handmade ceramics, without needing any particular coordinating collection to make sense.
 
-The value judgement here is clear: you are paying a premium price for a runner that explicitly does not iron smooth. For buyers who want that relaxed farmhouse look and are already invested in the collection, that's not a con , it's the point. For buyers comparing runners purely on a fabric-per-dollar basis, there are more practical options.
+The value is clear for the buyer who wants a runner that looks genuinely worn-in from the first use and launders without ceremony. For buyers comparing runners purely on a fabric-per-dollar basis, there are more economical options , but few that arrive with this relaxed, lived-in quality already built in.
 
-![Stonewashed linen table runner styled with ceramics](/images/articles/linens-3.jpg)
+![Faux-linen table runner styled on a dining table](/images/articles/linens-3.jpg)
 
 ,
 
@@ -161,7 +161,7 @@ Warm gold tones (amber, flax, ochre) pair naturally with warm neutrals , cream, 
 Linen is a natural fiber made from flax and is heavier, more textural, and more durable than most cotton. It gets softer with every wash rather than pilling or thinning. Cotton is easier to iron to a crisp finish and is generally more affordable. For everyday use and relaxed table settings, linen outperforms cotton over time , but if you want sharp, formal folds, well-starched cotton is easier to work with.
 ### Can I use a table runner over a tablecloth, or does it look too layered?
 
-Layering a runner over a tablecloth is a standard table-setting technique, not an error. The runner should contrast the tablecloth in texture or pattern rather than repeat it , a stonewashed linen runner like the [Juliska Country Estate Table Runner](product:juliska-country-estate-table-runner) over a smooth white tablecloth works precisely because the textures are different. Keep the overhang proportionate and the color temperatures consistent, and layering reads as intentional.
+Layering a runner over a tablecloth is a standard table-setting technique, not an error. The runner should contrast the tablecloth in texture or pattern rather than repeat it , a stonewashed faux-linen runner like the [DII Faux-Linen Table Runner](product:juliska-country-estate-table-runner) over a smooth white tablecloth works precisely because the textures are different. Keep the overhang proportionate and the color temperatures consistent, and layering reads as intentional.
 ### Does a woven gingham pattern really hold up better than a printed one?
 
 Yes, significantly. A woven check means the color is in the yarn itself , washing doesn't affect the pattern because there's no surface dye to fade. A printed check sits on top of the fabric and will fade with repeated laundering, often unevenly, so the pattern loses definition over time. For any tablecloth used regularly, woven construction is worth prioritizing.
@@ -188,7 +188,7 @@ Completely. Gold in natural linen tones , warm flax, antique gold, wheat , reads
  "name": "Can I use a table runner over a tablecloth, or does it look too layered?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "Layering a runner over a tablecloth is a standard table-setting technique, not an error. The runner should contrast the tablecloth in texture or pattern rather than repeat it , a stonewashed linen runner like the Juliska Country Estate Table Runner over a smooth white tablecloth works precisely because the textures are different. Keep the overhang proportionate and the color temperatures consistent, and layering reads as intentional."
+ "text": "Layering a runner over a tablecloth is a standard table-setting technique, not an error. The runner should contrast the tablecloth in texture or pattern rather than repeat it , a stonewashed faux-linen runner over a smooth white tablecloth works precisely because the textures are different. Keep the overhang proportionate and the color temperatures consistent, and layering reads as intentional."
  }
  },
  {

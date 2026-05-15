@@ -28,10 +28,10 @@ products:
   - id: "juliska-country-estate-table-runner"
     role: "also_consider"
     article_specific_pros:
-      - "Country Estate linen runner coordinates with the full Juliska ceramic and linen table collection"
+      - "Faux-linen table runner with relaxed farmhouse texture , reversible double-layer construction"
       - "Stonewashed finish means it does not require ironing , intentionally relaxed for a farmhouse aesthetic"
     article_specific_cons:
-      - "Premium pricing for a runner that explicitly does not press flat , a judgement call on the value of the brand's aesthetic"
+      - "Faux-linen texture is slightly stiffer than natural linen , worth feeling before committing to a full table set"
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
@@ -42,8 +42,8 @@ faq:
     answer: "Yes, and the article says it looks better without one for most casual to transitional tables. A runner directly on the table surface shows the wood grain alongside the fabric, giving the setting a more modern and intentional quality. The practical caveat is that without a tablecloth, the table itself is more exposed to spills and heat — on a surface with a finish worth protecting, a tablecloth or placemats alongside the runner adds a useful layer."
   - question: "How do I keep a table runner from sliding on a smooth table?"
     answer: "A non-slip runner pad placed beneath it is the most reliable and least expensive solution. Alternatively, choosing a heavier fabric runner makes a meaningful difference — the Chilewich Trellis stays put more reliably than lightweight cotton options because of its weight and woven vinyl-yarn texture. The DII Sarape Striped Runner is the most likely to shift on a smooth surface and benefits most from a pad."
-  - question: "Chilewich woven runner vs. stonewashed linen — which is more durable?"
-    answer: "The Chilewich vinyl-yarn construction is more durable by a significant margin. It resists heat from serving dishes, sheds water rather than absorbing it, and machine washes without colourfast anxiety. The Juliska stonewashed linen is a premium natural fiber product that requires more care, though the stonewashed finish eliminates the need for ironing. For hosts who entertain frequently and want a runner that simply holds up, the article recommends the Chilewich without hesitation."
+  - question: "Chilewich woven runner vs. stonewashed faux-linen — which is more durable?"
+    answer: "The Chilewich vinyl-yarn construction is more durable by a significant margin. It resists heat from serving dishes, sheds water rather than absorbing it, and machine washes without colourfast anxiety. The faux-linen runner requires more care, though the stonewashed finish eliminates the need for ironing. For hosts who entertain frequently and want a runner that simply holds up, the Chilewich is the more practical choice."
   - question: "How do I choose the right length runner for my dining table?"
     answer: "Measure the full length of your dining table and add at least eight inches for overhang — four inches per end is the minimum that looks intentional. For a formal setting, six inches of drop on each end reads better. The article warns that a standard 72-inch runner will look short on all but the smallest tables — a six-seat table typically runs 72 to 84 inches, and an eight-seat table should get the 90-inch or 108-inch option."
 ---
@@ -110,13 +110,13 @@ The trade-off is texture and register. The vinyl-yarn construction has a slight 
 
 ### Farmhouse Rustic Faux Linen Table Runner
 
-Premium runners occupy a specific niche: they are for buyers who want the table to tell a coherent story across every element. The [Juliska Country Estate Table Runner](product:juliska-country-estate-table-runner) is that kind of product. The stonewashed linen coordinates directly with Juliska's ceramic and linen collection, which means if you already own their dinnerware, this runner completes the picture.
+The [DII Faux-Linen Table Runner](product:juliska-country-estate-table-runner) brings relaxed farmhouse texture with reversible double-layer construction. The stonewashed finish means no ironing is required , the intentionally relaxed, slightly rumpled look is the aesthetic point, not a compromise.
 
-The stonewashed finish is genuinely useful , it means the runner does not require ironing, which is a real convenience for a linen product. The intentionally relaxed, slightly rumpled look is the aesthetic point, not a compromise. Buyers who want a pressed, architectural table will find this runner frustrating. Buyers who want a farmhouse table that looks lived-in and considered will find it exactly right.
+Buyers who want a pressed, architectural table will find this runner frustrating. Buyers who want a farmhouse table that looks lived-in and considered will find it exactly right. The reversible construction gives you two looks in one piece, and the layered weight gives it more body than single-layer runners at the same price.
 
-The premium price asks you to accept a runner that explicitly does not press flat. That is a coherent design position, but it is worth being honest with yourself about whether that aesthetic matches your table before you commit to it.
+The stonewashed quality asks you to accept a runner that explicitly does not press flat. That is a coherent design position, but it is worth being honest with yourself about whether that aesthetic matches your table before you commit to it.
 
-![Stonewashed linen runner styled with farmhouse ceramic dinnerware](/images/articles/linens-4.jpg)
+![Faux-linen table runner with farmhouse texture on a dining table](/images/articles/linens-4.jpg)
 
 ,
 
@@ -134,7 +134,7 @@ Rough or matte-finished wood tables grip lighter fabrics naturally and are forgi
 
 Royal blue reads as a statement color regardless of fabric. The question is whether that statement lands as festive, modern, or elegant , and that depends almost entirely on the runner's texture and the pieces surrounding it.
 
-For a formal dinner, the Chilewich Trellis in navy offers enough structure and quiet authority to sit alongside fine china without looking casual. For a farmhouse or transitional table, the Juliska stonewashed linen brings warmth and softness that a vinyl-yarn product cannot replicate. For an explicitly festive or casual table , celebrations, outdoor dining, relaxed entertaining , the DII Sarape makes more sense than either of the others.
+For a formal dinner, the Chilewich Trellis in navy offers enough structure and quiet authority to sit alongside fine china without looking casual. For a farmhouse or transitional table, the faux-linen runner brings warmth and softness that a vinyl-yarn product cannot replicate. For an explicitly festive or casual table , celebrations, outdoor dining, relaxed entertaining , the DII Sarape makes more sense than either of the others.
 
 ### Think Past the First Use
 
@@ -146,7 +146,7 @@ All three options here are machine washable, which is the baseline I'd argue eve
 
 A table runner does not live in isolation. It sits next to placemats, napkins, and tablecloths , and if those are all from different aesthetic registers, the result reads as incoherent rather than eclectic. Before you choose a runner, consider what you are already using and whether this piece will settle naturally into that context or fight it.
 
-The Juliska runner is explicitly designed to coordinate within a full collection. If you are building toward a cohesive table rather than mixing pieces, that system logic has genuine value. Browsing the full range of [table linens](/linens/) available by style and setting is worth doing before you commit to a piece that may or may not integrate with what you already own.
+The faux-linen runner's reversible construction and stonewashed finish give it flexibility across different table styles. If you are building toward a cohesive farmhouse table, that relaxed texture has genuine value. Browsing the full range of [table linens](/linens/) available by style and setting is worth doing before you commit to a piece that may or may not integrate with what you already own.
 
 ### Length Before You Order
 
@@ -165,9 +165,9 @@ Yes, and for most casual to transitional tables it looks better without one. A r
 ### How do I keep a table runner from sliding on a smooth table?
 
 A non-slip runner pad placed beneath it is the most reliable solution and costs very little. Alternatively, choosing a heavier fabric runner , the [Chilewich Trellis Woven Table Runner in Navy](product:chilewich-trellis-woven-navy-runner) stays put more reliably than lightweight cotton options because of its weight and texture. The [DII Sarape Striped Table Runner](product:dii-sarape-striped-table-runner) is the most likely to shift on a smooth surface and benefits most from a pad.
-### Is the Juliska Country Estate runner worth the premium price?
+### Is the faux-linen table runner worth the price?
 
-For buyers who already own Juliska ceramics or are building a coordinated farmhouse table, yes , the system coherence is genuinely valuable. For buyers who want a linen runner without the brand context, the premium price is harder to justify when mid-range options perform similarly on durability. The stonewashed no-iron finish is a real convenience, but it is the only strong practical argument for the price outside of the brand's aesthetic ecosystem.
+For buyers building a farmhouse table who want a runner with genuine relaxed texture and no-iron convenience, yes. The reversible double-layer construction and stonewashed finish deliver what they promise. For buyers who want a crisp, pressed runner, mid-range options perform better on that specific requirement. The stonewashed no-iron finish is the runner's strongest practical argument.
 ### How do I choose the right length for my table?
 
 Measure the full length of your dining table and add at least eight inches for overhang , four inches per end is a minimum that looks intentional. For a formal setting, six inches of drop on each end reads better. A six-seat table typically runs 72 to 84 inches, and a standard 72-inch runner will look short on all but the smallest tables. If your table seats eight, order the 90-inch or 108-inch option without hesitation.
@@ -202,10 +202,10 @@ Measure the full length of your dining table and add at least eight inches for o
  },
  {
  "@type": "Question",
- "name": "Is the Juliska Country Estate runner worth the premium price?",
+ "name": "Is the faux-linen table runner worth the price?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "For buyers who already own Juliska ceramics or are building a coordinated farmhouse table, yes , the system coherence is genuinely valuable. For buyers who want a linen runner without the brand context, the premium price is harder to justify when mid-range options perform similarly on durability. The stonewashed no-iron finish is a real convenience, but it is the only strong practical argument for the price outside of the brand's aesthetic ecosystem."
+ "text": "For buyers building a farmhouse table who want genuine relaxed texture and no-iron convenience, yes. The reversible double-layer construction and stonewashed finish deliver what they promise. For buyers who want a crisp, pressed runner, mid-range options perform better on that requirement. The stonewashed no-iron finish is the runner's strongest practical argument."
  }
  },
  {

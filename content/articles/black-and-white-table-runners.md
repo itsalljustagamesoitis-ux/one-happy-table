@@ -28,10 +28,10 @@ products:
   - id: "juliska-country-estate-table-runner"
     role: "also_consider"
     article_specific_pros:
-      - "Country Estate linen runner coordinates with the full Juliska ceramic and linen table collection"
+      - "Faux-linen table runner with relaxed farmhouse texture , reversible double-layer construction"
       - "Stonewashed finish means it does not require ironing , intentionally relaxed for a farmhouse aesthetic"
     article_specific_cons:
-      - "Premium pricing for a runner that explicitly does not press flat , a judgement call on the value of the brand's aesthetic"
+      - "Faux-linen texture is slightly stiffer than natural linen , worth feeling before committing to a full table set"
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
@@ -40,7 +40,7 @@ faq:
     answer: "It depends on scale and styling. A smaller check reads as more formal and coordinates with traditional china and candlestick centerpieces. A larger check is inherently more casual — at home at a weekend brunch or farmhouse-style dinner but incongruous under fine bone china. Styling adjustments like linen napkins and simple florals can bridge the gap, but the runner's base pattern sets the register of the table."
   - question: "Can a table runner be used over a tablecloth, or does it need to go on a bare table?"
     answer: "A runner over a tablecloth is a classic layering approach and works particularly well with a neutral base cloth beneath it. The combination adds depth and texture and protects the underlying tablecloth from direct contact with food and heat. The runner should be narrower than the tablecloth by at least eight inches on each side so the base cloth frames it — a runner that nearly matches the tablecloth width looks like a sizing mistake rather than an intentional layer."
-  - question: "Does the Juliska Country Estate Table Runner need to be ironed before use?"
+  - question: "Does the faux-linen table runner need to be ironed before use?"
     answer: "No. The stonewashed finish is intentionally relaxed and the wrinkle is part of the aesthetic. Ironing it flat would undermine the look the runner is designed to create. After washing, shake it out while damp and drape it over the table to finish drying. If specific creases develop from storage, smoothing them by hand while the fabric is slightly damp resolves them without heat."
   - question: "How do I keep a woven check runner looking aligned after washing?"
     answer: "The check can drift on the bias during agitation cycles. Washing on a gentle cycle in cold water reduces the drift, and pulling the runner taut while still damp before laying it flat to dry helps considerably. If the pattern has shifted, re-press with a damp cloth on the bias, working from the center outward, to realign it. Machine drying on high heat is the most reliable way to make alignment worse."
@@ -110,13 +110,13 @@ Cotton construction means it washes reliably and improves with age. The pintucks
 
 ### Farmhouse Rustic Faux Linen Table Runner
 
-The [Juliska Country Estate Table Runner](product:juliska-country-estate-table-runner) belongs to a coordinated table collection, and that context is the honest reason to buy it. If you're already working with Juliska ceramics or planning to build a table around their aesthetic, this runner closes the look in a way that a one-off purchase simply cannot replicate. The coordination is intentional and it shows.
+The [DII Faux-Linen Table Runner](product:juliska-country-estate-table-runner) brings relaxed farmhouse texture with a reversible double-layer construction , two surface options from one purchase and enough body to drape well on a set table.
 
-The stonewashed finish means the runner arrives with the relaxed, lived-in drape of something that's been washed dozens of times. That's a genuine advantage for a farmhouse or collected aesthetic where pressed perfection would feel wrong. It also means no ironing is required , the wrinkle is built into the look, not a failure of laundering.
+The stonewashed faux-linen finish means the runner arrives with the relaxed, lived-in drape of something that's been washed dozens of times. That's a genuine advantage for a farmhouse or collected aesthetic where pressed perfection would feel wrong. It also means no ironing is required , the wrinkle is built into the look, not a failure of laundering.
 
-The premium pricing is the only real question to answer before buying. You're paying for a considered aesthetic and brand coherence, not superior technical performance. If the Juliska table universe is the one you're building, this runner is an easy decision. If it isn't, the budget stretch is harder to justify on construction alone.
+The reversible construction is the feature worth naming: you get two looks in one piece, and the layered weight gives it body that single-layer runners at the same price often lack. If your table setting leans casual and warm, this is the runner that works without ceremony.
 
-![Juliska country estate linen runner on a farmhouse dining table](/images/articles/linens-3.jpg)
+![Faux-linen table runner with relaxed farmhouse texture on a dining table](/images/articles/linens-3.jpg)
 
 ,
 
@@ -132,7 +132,7 @@ If your china is plain and your glassware is simple, you can carry a bolder patt
 
 ### Consider How Often You Entertain
 
-The right runner for a weekly dinner party is not the same runner that's right for three formal occasions a year. For frequent use, machine washability and wrinkle resilience are the practical priorities , the LinenTablecloth check handles both without demanding much. For occasional formal entertaining, you have more latitude to invest in something that requires more care, and the Juliska runner's intentionally relaxed finish means it actually performs well in both contexts.
+The right runner for a weekly dinner party is not the same runner that's right for three formal occasions a year. For frequent use, machine washability and wrinkle resilience are the practical priorities , the LinenTablecloth check handles both without demanding much. For occasional formal entertaining, you have more latitude to invest in something that requires more care, and the faux-linen runner's intentionally relaxed finish means it actually performs well in both contexts.
 
 Think honestly about your real laundering habits. A runner that needs ironing every time it's used will eventually live in a drawer.
 
@@ -150,7 +150,7 @@ The broader category of [table linens](/linens/) offers softer contrast options 
 
 ### Budget Against Frequency
 
-Premium pricing on a runner is most defensible when the piece is doing double work , functioning as part of a coordinated table collection and surviving frequent laundering without deteriorating. The Juliska runner meets that bar if you're already in that aesthetic world. If you're not, the LinenTablecloth check delivers real performance at a fraction of the investment, and the difference in construction quality is not proportional to the price gap.
+The faux-linen runner's reversible double-layer construction makes it most defensible when the table setting leans casual and farmhouse. For a formal or crisp table, the LinenTablecloth check delivers clear pattern and real performance at a fraction of the investment , and for that register, it's the stronger choice.
 
 ## Frequently Asked Questions
 
@@ -166,7 +166,7 @@ A runner over a tablecloth is a classic layering approach and works particularly
 ### What's the difference between buying a purpose-built runner and using a tablecloth in this category?
 
 A runner is typically hemmed on all four sides and sized for center-table placement, which gives it clean edges and deliberate proportions. A tablecloth used as a runner , folded lengthwise to reduce width , can work in a pinch but rarely drapes with the same precision at the ends. The April Cornell pintuck is technically a tablecloth, and its visual character is different from the two runners on this list: more coverage, more presence, and more suited to a table where the cloth is the primary design element rather than a frame for other pieces.
-### Does the Juliska Country Estate Table Runner need to be ironed before use?
+### Does the faux-linen table runner need to be ironed before use?
 
 No , the stonewashed finish is intentionally relaxed and the wrinkle is part of the aesthetic. Ironing it flat would actually undermine the look the runner is designed to create. After washing, shaking it out while damp and draping it over the table to finish drying is sufficient. If specific creases develop from storage, smoothing them out by hand while the fabric is slightly damp resolves them without heat.
 <script type="application/ld+json">
@@ -208,7 +208,7 @@ No , the stonewashed finish is intentionally relaxed and the wrinkle is part of 
  },
  {
  "@type": "Question",
- "name": "Does the Juliska Country Estate Table Runner need to be ironed before use?",
+ "name": "Does the faux-linen table runner need to be ironed before use?",
  "acceptedAnswer": {
  "@type": "Answer",
  "text": "No , the stonewashed finish is intentionally relaxed and the wrinkle is part of the aesthetic. Ironing it flat would actually undermine the look the runner is designed to create. After washing, shaking it out while damp and draping it over the table to finish drying is sufficient. If specific creases develop from storage, smoothing them out by hand while the fabric is slightly damp resolves them without heat."

@@ -28,10 +28,10 @@ products:
   - id: "juliska-country-estate-table-runner"
     role: "also_consider"
     article_specific_pros:
-      - "Country Estate linen runner coordinates with the full Juliska ceramic and linen table collection"
+      - "Faux-linen table runner with relaxed farmhouse texture , reversible double-layer construction"
       - "Stonewashed finish means it does not require ironing , intentionally relaxed for a farmhouse aesthetic"
     article_specific_cons:
-      - "Premium pricing for a runner that explicitly does not press flat , a judgement call on the value of the brand's aesthetic"
+      - "Faux-linen texture is slightly stiffer than natural linen , worth feeling before committing to a full table set"
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
@@ -40,8 +40,8 @@ faq:
     answer: "Lightweight cotton runners, including the DII Sarape Striped Table Runner, will shift on smooth surfaces like glass, lacquered wood, or marble without a non-slip pad underneath. A runner pad is an inexpensive fix and worth buying alongside the runner if your table is smooth. The Chilewich's heavier vinyl-yarn construction stays in place more reliably on most surfaces without an additional pad."
   - question: "DII sarape runner vs Chilewich for a table that gets daily use — which holds up better?"
     answer: "The Chilewich Trellis Woven Runner in Navy is fundamentally more durable. Its vinyl-yarn construction is heat-resistant, water-resistant, and machine washable in a way that natural cotton fibers cannot match. The DII delivers authentic sarape pattern and color at a budget price point but requires more care under heavy use. If your table sees daily meals and spills, the Chilewich is the more practical investment even at a higher price."
-  - question: "Does the Juliska Country Estate Table Runner need to be ironed?"
-    answer: "No, and that's intentional. The stonewashed linen finish is designed to have a relaxed, lived-in drape. It will not press completely flat and isn't meant to. For farmhouse or casual-formal tables where that relaxed texture reads well, this is an asset. If your table setting calls for crisp, structured linens, the Juliska runner is not the right match."
+  - question: "Does the faux-linen table runner need to be ironed?"
+    answer: "No, and that's intentional. The stonewashed faux-linen finish is designed to have a relaxed, lived-in drape. It will not press completely flat and isn't meant to. For farmhouse or casual-formal tables where that relaxed texture reads well, this is an asset. If your table setting calls for crisp, structured linens, this runner is not the right match."
   - question: "How long should a sarape table runner be for a six-person dining table?"
     answer: "A standard six-person dining table runs between 60 and 72 inches in length. Most table runners are sold in 72-inch lengths, which works well — you'll get a modest overhang of six to eight inches on each end, which is visually balanced. For longer tables or if you prefer a more dramatic overhang, a 90-inch runner is worth considering. Measure your table before ordering."
   - question: "Is a sarape table runner appropriate for a formal dinner table?"
@@ -104,13 +104,13 @@ The trade-off is aesthetic register. The slight sheen and texture read as modern
 
 ### Farmhouse Rustic Faux Linen Table Runner
 
-The [Juliska Country Estate Table Runner](product:juliska-country-estate-table-runner) isn't sold as a standalone purchase , it's sold as part of a world. The Country Estate collection spans ceramics, linens, and barware, and the runner is designed to sit within that ecosystem. If you already own Juliska pieces, or if you're building a table from that collection, the coordination value here is real.
+The [DII Faux-Linen Table Runner](product:juliska-country-estate-table-runner) brings relaxed farmhouse texture with reversible double-layer construction , two looks from one piece and enough body to drape naturally on a set table. The stonewashed faux-linen finish means it arrives ready to use without ironing , the intentional relaxed drape is the aesthetic point, not a sign of low quality.
 
-The stonewashed linen finish means it arrives ready to use without ironing , the intentional relaxed drape is the aesthetic point, not a sign of low quality. For a farmhouse table where pressed linens would read as too formal, this works beautifully. For a table that calls for clean, flat lines, it won't press flat and isn't meant to.
+For a farmhouse table where pressed linens would read as too formal, this works beautifully. For a table that calls for clean, flat lines, it won't press flat and isn't meant to. The reversible construction and muted stonewashed tone sit naturally with wooden tables and handmade ceramics.
 
-The premium price reflects brand positioning and coordinated collection design rather than durability claims. That's a legitimate value proposition if you're building that specific table, and it's not the right calculus if you're not. I'd recommend it to buyers already committed to the Juliska aesthetic , and steer everyone else toward the DII or Chilewich depending on their priorities.
+I'd recommend it to buyers building a relaxed farmhouse table , and steer everyone else toward the DII Sarape or Chilewich depending on their priorities.
 
-![Juliska linen runner with farmhouse ceramics and linen napkins on a wooden table](/images/articles/linens-3.jpg)
+![Faux-linen runner with farmhouse ceramics and linen napkins on a wooden table](/images/articles/linens-3.jpg)
 
 ,
 
@@ -144,21 +144,21 @@ If you're layering a runner over a tablecloth, the contrast between runner and c
 
 ### Consider the Rest of Your Table Setting
 
-A runner doesn't work in isolation , it's part of a composed table. The ceramics, napkins, and centerpiece all affect whether the runner integrates or sticks out. Bold sarape stripes coordinate naturally with solid-color dinnerware and simple glassware; they can clash with heavily patterned plates. The Juliska runner is specifically designed to coordinate within a defined collection, which removes this calculation if you're building from that ecosystem. For everyone else, test the combination on the actual table before a dinner party, not during one.
+A runner doesn't work in isolation , it's part of a composed table. The ceramics, napkins, and centerpiece all affect whether the runner integrates or sticks out. Bold sarape stripes coordinate naturally with solid-color dinnerware and simple glassware; they can clash with heavily patterned plates. The faux-linen runner's stonewashed tone sits naturally with most table settings. For everyone else, test the combination on the actual table before a dinner party, not during one.
 
 ## Frequently Asked Questions
 
 ### Is a sarape table runner appropriate for everyday use, or is it more of an occasional piece?
 
-It depends on the runner's construction and your table's aesthetic. A traditional cotton sarape runner like the DII holds its own for everyday use if you wash it at low heat and use a non-slip pad on smooth surfaces. The Chilewich, with its vinyl-yarn weave, handles daily use more robustly than any natural-fiber runner in this category. The Juliska is styled for entertaining rather than every weeknight , its relaxed drape and premium positioning suit occasional use better.
+It depends on the runner's construction and your table's aesthetic. A traditional cotton sarape runner like the DII holds its own for everyday use if you wash it at low heat and use a non-slip pad on smooth surfaces. The Chilewich, with its vinyl-yarn weave, handles daily use more robustly than any natural-fiber runner in this category. The faux-linen runner is styled for entertaining rather than every weeknight , its relaxed drape and premium positioning suit occasional use better.
 ### What's the difference between the DII and the Chilewich runner for a dining table that gets heavy use?
 
 The DII delivers authentic sarape pattern and color at a budget price point , excellent for the aesthetic, but the cotton construction requires more care under heavy use. The Chilewich Trellis Woven Runner in Navy is heat-resistant, water-resistant, and fundamentally more durable than any woven natural-fiber runner. If your table sees daily meals, spills, and regular washing, the Chilewich's engineered construction is the more practical investment even at a higher price band.
 ### Will a sarape runner work on a glass or marble table without slipping?
 
 Lightweight cotton runners , including the DII Sarape Striped Table Runner , will shift on smooth surfaces like glass, lacquered wood, or marble without a non-slip pad underneath. A runner pad is an inexpensive fix and worth buying alongside the runner if your table is smooth. The Chilewich's heavier vinyl-yarn construction stays in place more reliably on most surfaces without an additional pad.
-### Does the Juliska Country Estate Table Runner need to be ironed?
-No , and that's intentional. The stonewashed linen finish is designed to have a relaxed, lived-in drape. It will not press completely flat, and Juliska doesn't recommend ironing it flat as a styling goal. For farmhouse or casual-formal tables where that relaxed texture reads well, this is an asset.
+### Does the faux-linen table runner need to be ironed?
+No , and that's intentional. The stonewashed faux-linen finish is designed to have a relaxed, lived-in drape. It will not press completely flat, and ironing it flat would undermine the look it's designed to create. For farmhouse or casual-formal tables where that relaxed texture reads well, this is an asset.
 ### How long should a sarape table runner be for a standard six-person dining table?
 
 A standard six-person dining table runs between sixty and seventy-two inches in length. Most table runners are sold in seventy-two-inch lengths, which works well for a table that seats six , you'll get a modest overhang of six to eight inches on each end, which is visually balanced. For longer tables or if you prefer a more dramatic overhang, a ninety-inch runner is worth considering. Always measure your table before ordering.
@@ -172,7 +172,7 @@ A standard six-person dining table runs between sixty and seventy-two inches in 
  "name": "Is a sarape table runner appropriate for everyday use, or is it more of an occasional piece?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "It depends on the runner's construction and your table's aesthetic. A traditional cotton sarape runner like the DII holds its own for everyday use if you wash it at low heat and use a non-slip pad on smooth surfaces. The Chilewich, with its vinyl-yarn weave, handles daily use more robustly than any natural-fiber runner in this category. The Juliska is styled for entertaining rather than every weeknight , its relaxed drape and premium positioning suit occasional use better."
+ "text": "It depends on the runner's construction and your table's aesthetic. A traditional cotton sarape runner like the DII holds its own for everyday use if you wash it at low heat and use a non-slip pad on smooth surfaces. The Chilewich, with its vinyl-yarn weave, handles daily use more robustly than any natural-fiber runner in this category. The faux-linen runner is styled for entertaining rather than every weeknight , its relaxed drape and premium positioning suit occasional use better."
  }
  },
  {
@@ -193,10 +193,10 @@ A standard six-person dining table runs between sixty and seventy-two inches in 
  },
  {
  "@type": "Question",
- "name": "Does the Juliska Country Estate Table Runner need to be ironed?",
+ "name": "Does the faux-linen table runner need to be ironed?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "No , and that's intentional. The stonewashed linen finish is designed to have a relaxed, lived-in drape. It will not press completely flat, and Juliska doesn't recommend ironing it flat as a styling goal. For farmhouse or casual-formal tables where that relaxed texture reads well, this is an asset. If your table setting calls for crisp, structured linens, the Juliska runner isn't the right match."
+ "text": "No , and that's intentional. The stonewashed faux-linen finish is designed to have a relaxed, lived-in drape. It will not press completely flat, and ironing it flat would undermine the look it's designed to create. For farmhouse or casual-formal tables where that relaxed texture reads well, this is an asset. If your table setting calls for crisp, structured linens, this runner isn't the right match."
  }
  },
  {

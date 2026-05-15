@@ -21,7 +21,7 @@ products:
   - id: "simon-pearce-woodstock-vase"
     role: "also_consider"
     article_specific_pros:
-      - "Mouth-blown in Vermont , the organic form and slight asymmetry that distinguishes it from machine-cast glass"
+      - "Hand-blown glass bubble vase , the organic form and slight asymmetry that distinguishes it from machine-cast glass"
       - "Heavy base makes it stable with large stem arrangements , not a tipping risk"
     article_specific_cons:
       - "Hand-blown glass requires hand-washing , a significant consideration for a vase cleaned regularly after flower use"
@@ -42,8 +42,8 @@ faq:
     answer: "The mango wood set reads as warm and organic — it suits a relaxed, textural table with linen napkins and natural-finish flatware. The white ceramic set is genuinely neutral and coordinates with formal china without competing. For a traditional or formal setting, the white ceramic is the safer choice. For a casual, seasonal, or editorial table, the wood set brings more visual interest and a collected quality the ceramic set cannot replicate."
   - question: "How many vases do I need for a six-person dining table?"
     answer: "Three to five vases clustered along the center of a six-seat table is the range that reads as intentional rather than sparse. A set of three in varying heights works well for a round or square table. For a longer rectangular table, six pieces give you coverage to span the full runner without gaps. Sets that include varying heights eliminate the need to style individual pieces deliberately."
-  - question: "Is the Simon Pearce Woodstock Vase practical for regular entertaining, or is it a display piece?"
-    answer: "It is practical, but it does require hand-washing — a real consideration if you are changing floral arrangements frequently. The heavy base makes it stable with large stem arrangements, which most bud vases cannot manage. For buyers who entertain regularly and want a vase that doubles as a sculptural display piece between occasions, the trade-off is reasonable. The mouth-blown production means each piece has slight asymmetry that reads as considered rather than manufactured."
+  - question: "Is the MDLUU hand-blown glass bubble vase practical for regular entertaining, or is it a display piece?"
+    answer: "It is practical, but it does require hand-washing — a real consideration if you are changing floral arrangements frequently. The heavy base makes it stable with large stem arrangements, which most bud vases cannot manage. For buyers who entertain regularly and want a vase that doubles as a sculptural display piece between occasions, the trade-off is reasonable. The hand-blown production means each piece has slight asymmetry that reads as considered rather than manufactured."
   - question: "Can bud vases be used for dried or faux arrangements, or are they designed for fresh flowers only?"
     answer: "Bud vases work extremely well for dried and faux arrangements, and in some ways are better suited to them. Dried stems require no water, which eliminates the insert requirement entirely for wood vases. Pampas grass, preserved eucalyptus, cotton stems, and dried seed heads all fit naturally through a narrow neck and hold their shape without any setup beyond placing the stem. This is a genuinely low-maintenance centerpiece option for weeks when fresh flowers are not practical."
 ---
@@ -96,7 +96,7 @@ What this set does better than most at this price band is justify the organic te
 
 ### MDLUU Decorative Hand-Blown Glass Bubble Vase 11"
 
-There's a category of object that functions as both a vase and a sculptural piece, and the [Simon Pearce Woodstock Vase](product:simon-pearce-woodstock-vase) sits in it. Mouth-blown in Vermont, each piece carries the slight asymmetry and organic form that hand production produces , the kind of variation that machine-cast glass explicitly tries to eliminate. For a centerpiece that needs to hold its own on a formally set table, that distinction matters more than it might sound.
+There's a category of object that functions as both a vase and a sculptural piece, and the [MDLUU Decorative Hand-Blown Glass Bubble Vase](product:simon-pearce-woodstock-vase) sits in it. Hand-blown, each piece carries the slight asymmetry and organic bubble form that hand production produces , the kind of variation that machine-cast glass explicitly tries to eliminate. For a centerpiece that needs to hold its own on a formally set table, that distinction matters more than it might sound.
 
 The heavy base solves a problem that most bud vases create: instability with large stem arrangements. A tall peony or a branching stem of flowering quince will tip a lightweight vase before the arrangement is finished. The Woodstock base keeps things grounded. This is the pick for buyers who want something that looks considered at the premium end , not a filler piece, but something a guest might notice and ask about.
 
@@ -134,7 +134,7 @@ For a large table with a long runner, err toward more pieces rather than fewer. 
 
 If your arrangements will always be dried or faux stems, the waterproofing question disappears entirely , wood vases with no insert become a simpler proposition. Dried pampas, preserved eucalyptus, cotton stems, and bleached branches all work well in unlined wood vessels and don't require any additional setup.
 
-For fresh flowers, the insert requirement on wood vases adds a step but isn't a dealbreaker. If you change arrangements frequently or entertain weekly, a glass or ceramic vase that holds water directly will reduce friction over time. The Simon Pearce Woodstock Vase is the option here that handles fresh arrangements without any insert workaround.
+For fresh flowers, the insert requirement on wood vases adds a step but isn't a dealbreaker. If you change arrangements frequently or entertain weekly, a glass or ceramic vase that holds water directly will reduce friction over time. The MDLUU hand-blown glass bubble vase is the option here that handles fresh arrangements without any insert workaround.
 
 ### Matching Sets vs. Collected Looks
 
@@ -160,7 +160,7 @@ Most solid wood and porous wood vases are not waterproof, so yes , a glass tube 
 ### What's the difference between the mango wood set and the white ceramic set for a formal dinner table?
 
 The mango wood set reads as warm and organic , it suits a relaxed, textural table with linen napkins and natural-finish flatware. The white ceramic set is genuinely neutral and coordinates with formal china without competing. For a traditional or formal setting, the white ceramic is the safer choice. For a casual, seasonal, or editorial table, the wood set brings more visual interest.
-### Is the Simon Pearce Woodstock Vase practical for everyday use?
+### Is the MDLUU hand-blown glass bubble vase practical for everyday use?
 
 It's practical, but it does require hand-washing , a real consideration if you're changing floral arrangements frequently. The heavy base and hand-blown glass construction make it stable and durable in daily use. For buyers who entertain regularly and want a vase that doubles as a display piece between occasions, the trade-off is reasonable.
 ### How many vases do I need for a six-person dining table?
@@ -192,7 +192,7 @@ Bud vases work extremely well for dried and faux arrangements , and in some ways
  },
  {
  "@type": "Question",
- "name": "Is the Simon Pearce Woodstock Vase practical for everyday use?",
+ "name": "Is the MDLUU hand-blown glass bubble vase practical for everyday use?",
  "acceptedAnswer": {
  "@type": "Answer",
  "text": "It's practical, but it does require hand-washing , a real consideration if you're changing floral arrangements frequently. The heavy base and hand-blown glass construction make it stable and durable in daily use. For buyers who entertain regularly and want a vase that doubles as a display piece between occasions, the trade-off is reasonable."

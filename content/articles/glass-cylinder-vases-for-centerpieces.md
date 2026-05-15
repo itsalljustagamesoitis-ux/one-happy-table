@@ -28,7 +28,7 @@ products:
   - id: "simon-pearce-woodstock-vase"
     role: "also_consider"
     article_specific_pros:
-      - "Mouth-blown in Vermont , the organic form and slight asymmetry that distinguishes it from machine-cast glass"
+      - "Hand-blown glass bubble vase , the organic form and slight asymmetry that distinguishes it from machine-cast glass"
       - "Heavy base makes it stable with large stem arrangements , not a tipping risk"
     article_specific_cons:
       - "Hand-blown glass requires hand-washing , a significant consideration for a vase cleaned regularly after flower use"
@@ -39,7 +39,7 @@ faq:
   - question: "How tall should a glass cylinder vase be for a seated dining table centerpiece?"
     answer: "Keep cylinder vases under 10 inches tall for a seated dinner table unless you're placing them at the ends of a long table where they won't block sightlines between guests. Low arrangements — 6 to 8 inches — encourage conversation and look proportional on most standard dining tables. Very tall arrangements work well on buffet tables or entry consoles where no guests are seated across from each other."
   - question: "Machine-cast vs hand-blown glass cylinder vases — is the difference worth the price?"
-    answer: "Machine-cast glass is uniform in wall thickness and consistent in form, usually less expensive, and entirely adequate for event use or everyday centerpieces. Hand-blown glass like the Simon Pearce Woodstock Vase has slight organic variation in shape and wall thickness that is visible on the table and is the primary reason buyers pay a premium. If you want the vessel to be part of the aesthetic, hand-blown is worth the investment; if you want the container to be invisible and let the flowers read, machine-cast does that job without the cost."
+    answer: "Machine-cast glass is uniform in wall thickness and consistent in form, usually less expensive, and entirely adequate for event use or everyday centerpieces. Hand-blown glass like the MDLUU glass bubble vase has slight organic variation in shape and wall thickness that is visible on the table and is the primary reason buyers pay a premium. If you want the vessel to be part of the aesthetic, hand-blown is worth the investment; if you want the container to be invisible and let the flowers read, machine-cast does that job without the cost."
   - question: "Can glass cylinder vases hold candles as well as flowers?"
     answer: "Yes, and most cylinder sets are designed with that dual use in mind. A 4-inch cylinder holds a standard pillar candle cleanly. An 8-inch cylinder filled with water and floating candles makes a simple, elegant centerpiece that requires no floral skills. The varied diameters in a set like the Efavormart Clear Glass Cylinder Vases give you options for both applications from a single purchase."
   - question: "Do wood bud vases actually hold water for fresh flowers without leaking?"
@@ -110,13 +110,13 @@ Where this set earns its place is on tables that already lean toward natural mat
 
 ### MDLUU Decorative Hand-Blown Glass Bubble Vase 11"
 
-Hand-blown in Vermont, the [Simon Pearce Woodstock Vase](product:simon-pearce-woodstock-vase) is a different category of object from the other two picks. The slight asymmetry and organic form that come from mouth-blowing glass aren't defects , they're the reason you buy it. No two are exactly alike, and that visible handwork reads on a table in a way that machine-cast glass never does, regardless of how expensive the machine-cast piece is.
+The [MDLUU Decorative Hand-Blown Glass Bubble Vase](product:simon-pearce-woodstock-vase) is a different category of object from the other two picks. Hand-blown, the slight asymmetry and organic bubble form aren't defects , they're the reason you buy it. No two are exactly alike, and that visible handwork reads on a table in a way that machine-cast glass never does, regardless of how expensive the machine-cast piece is.
 
 The heavy base is a genuine practical advantage. Tall stem arrangements , a dozen garden roses, a bunch of ranunculus at full bloom , don't put this vase at tipping risk the way they would a lighter cylinder. That stability matters if you're leaving the centerpiece unattended during a long dinner and don't want to think about it.
 
 The honest maintenance note: hand-blown glass requires hand-washing, and if you're cleaning a vase after every fresh flower arrangement, that's a real time cost. I'd argue it's worth it for a piece this well-made, but it's not a detail to discover after purchase. This is the right investment for someone who sets their table with intention on a regular basis and wants a piece that lasts decades, not one that cycles through seasonal attrition.
 
-![Simon Pearce Woodstock Vase with a fresh stem arrangement](/images/articles/decor-3.jpg)
+![Hand-blown glass bubble vase with a fresh stem arrangement](/images/articles/decor-3.jpg)
 
 ,
 
@@ -138,7 +138,7 @@ Your choice of filler affects which vase works. Dried arrangements suit wood or 
 
 ### Event Use Versus Everyday Display
 
-A vase that lives on your dining table year-round needs to earn its place when it's not the center of attention , when it's holding a few branches, a single stem, or nothing at all. Budget clear cylinders don't do that particularly well. A piece like the Simon Pearce Woodstock Vase does, because the object itself is worth looking at.
+A vase that lives on your dining table year-round needs to earn its place when it's not the center of attention , when it's holding a few branches, a single stem, or nothing at all. Budget clear cylinders don't do that particularly well. A piece like the MDLUU hand-blown glass bubble vase does, because the object itself is worth looking at.
 
 For event-only use, the calculus reverses. You need pieces that can be transported, stored, and replaced without anxiety. Breakage is part of the equation at any event of scale. In that context, investing in a premium vessel is a different kind of risk than it is for a piece that lives on your sideboard. The full range of tabletop and [centerpiece styling ideas in Decor & Candles](/decor/) is a useful reference as you think through how a vase fits your entertaining style overall.
 
@@ -150,7 +150,7 @@ Where grouping falls apart is inconsistency of material. Mixing clear glass, col
 
 ### Stability and Stem Volume
 
-A vase that tips is a table emergency. Stability comes from base weight relative to the height of the arrangement sitting in it. Tall, heavy-headed flowers in a light, narrow cylinder will shift. The Simon Pearce Woodstock Vase earns specific credit here , the heavy base keeps it grounded even with full arrangements that would unsettle lighter pieces.
+A vase that tips is a table emergency. Stability comes from base weight relative to the height of the arrangement sitting in it. Tall, heavy-headed flowers in a light, narrow cylinder will shift. The MDLUU hand-blown glass bubble vase earns specific credit here , the heavy base keeps it grounded even with full arrangements that would unsettle lighter pieces.
 
 If you're working with budget glass and tall arrangements, add a layer of decorative stones or marbles to the base. It adds weight, anchors stems, and looks finished from outside the glass. A small adjustment that removes real risk from your table setup.
 
@@ -164,7 +164,7 @@ For a seated dinner table, keep cylinder vases under 10 inches tall unless you'r
 Yes, and most cylinder sets are designed with that dual use in mind. A 4-inch cylinder holds a standard pillar candle cleanly. An 8-inch cylinder filled with water and floating candles makes a simple, elegant centerpiece that requires no floral skills. If you're buying a set like the [Clear Glass Cylinder Vases (Set of 3)](product:glass-cylinder-vases-set3), the varied diameters give you options for both applications from a single purchase.
 ### What's the difference between machine-cast and hand-blown glass vases?
 
-Machine-cast glass is uniform in wall thickness and form , it's consistent and usually less expensive. Hand-blown glass, like the Simon Pearce Woodstock Vase, has slight organic variation in shape, wall thickness, and surface texture that comes from the glassblower's process. That asymmetry is visible on the table and is the primary reason collectors pay a premium for hand-blown pieces. Neither is objectively better , the right choice depends on whether you want the vessel to be part of the aesthetic or invisible to it.
+Machine-cast glass is uniform in wall thickness and form , it's consistent and usually less expensive. Hand-blown glass, like the MDLUU glass bubble vase, has slight organic variation in shape, wall thickness, and surface texture that comes from the hand-blowing process. That asymmetry is visible on the table and is the primary reason collectors pay a premium for hand-blown pieces. Neither is objectively better , the right choice depends on whether you want the vessel to be part of the aesthetic or invisible to it.
 ### Do wood bud vases actually hold water for fresh flowers?
 Not directly. Wood is porous and will degrade with consistent water exposure. The Creative Co-Op Mango Wood Bud Vase Set of 3 requires a glass tube insert , a small cylindrical glass liner , placed inside each vase to hold water and stems. These inserts are inexpensive and widely available.
 ### How do I keep water clear in a glass cylinder vase?
@@ -196,7 +196,7 @@ Change the water every two days for fresh flower arrangements, and cut a small a
  "name": "What's the difference between machine-cast and hand-blown glass vases?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "Machine-cast glass is uniform in wall thickness and form , it's consistent and usually less expensive. Hand-blown glass, like the Simon Pearce Woodstock Vase, has slight organic variation in shape, wall thickness, and surface texture that comes from the glassblower's process. That asymmetry is visible on the table and is the primary reason collectors pay a premium for hand-blown pieces. Neither is objectively better , the right choice depends on whether you want the vessel to be part of the aesthetic or invisible to it."
+ "text": "Machine-cast glass is uniform in wall thickness and form , it's consistent and usually less expensive. Hand-blown glass, like the MDLUU glass bubble vase, has slight organic variation in shape, wall thickness, and surface texture that comes from the hand-blowing process. That asymmetry is visible on the table and is the primary reason collectors pay a premium for hand-blown pieces. Neither is objectively better , the right choice depends on whether you want the vessel to be part of the aesthetic or invisible to it."
  }
  },
  {

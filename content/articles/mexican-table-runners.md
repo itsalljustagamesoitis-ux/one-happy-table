@@ -28,10 +28,10 @@ products:
   - id: "juliska-country-estate-table-runner"
     role: "also_consider"
     article_specific_pros:
-      - "Country Estate linen runner coordinates with the full Juliska ceramic and linen table collection"
+      - "Faux-linen table runner with relaxed farmhouse texture , reversible double-layer construction"
       - "Stonewashed finish means it does not require ironing , intentionally relaxed for a farmhouse aesthetic"
     article_specific_cons:
-      - "Premium pricing for a runner that explicitly does not press flat , a judgement call on the value of the brand's aesthetic"
+      - "Faux-linen texture is slightly stiffer than natural linen , worth feeling before committing to a full table set"
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
@@ -110,11 +110,11 @@ Think of this as a runner for the buyer who entertains constantly and wants some
 
 ### Farmhouse Rustic Faux Linen Table Runner
 
-The [Juliska Country Estate Table Runner](product:juliska-country-estate-table-runner) exists in a different register from the other two picks. It's a premium linen runner with a stonewashed finish designed to coordinate with Juliska's broader ceramic and linen collection , the kind of piece that makes sense if you're already invested in that aesthetic. The intentionally relaxed, unpressed look is a design choice, not a quality shortfall.
+The [DII Faux-Linen Table Runner](product:juliska-country-estate-table-runner) exists in a different register from the other two picks. It brings relaxed farmhouse texture with reversible double-layer construction and a stonewashed finish that requires no ironing. The intentionally relaxed, unpressed look is a design choice, not a quality shortfall.
 
-For a buyer focused specifically on Mexican table runners, this is the most lateral of the three picks. The Country Estate pattern and palette skew farmhouse-European rather than Mexican. What it earns its place here for is the buyer who wants a runner with real textile quality and doesn't need pattern fidelity to a specific tradition , or who is layering it alongside more explicitly Mexican elements like painted ceramics or embroidered napkins. The no-iron stonewashed finish is a genuine practical advantage for anyone who hates ironing table linens.
+For a buyer focused specifically on Mexican table runners, this is the most lateral of the three picks. The faux-linen texture and muted palette skew farmhouse rather than Mexican. What it earns its place here for is the buyer who wants a runner with real textile quality and doesn't need pattern fidelity to a specific tradition , or who is layering it alongside more explicitly Mexican elements like painted ceramics or embroidered napkins.
 
-The premium pricing is the honest sticking point. You're paying for brand coordination and linen quality, not necessarily for a runner that outperforms a well-made cotton alternative in everyday use.
+The no-iron stonewashed finish is a genuine practical advantage for anyone who hates ironing table linens. The reversible double-layer construction gives you two surface options from one piece.
 
 ![Stonewashed linen table runner in a relaxed farmhouse table setting](/images/articles/linens-3.jpg)
 
@@ -161,9 +161,9 @@ A thin non-slip pad cut to the runner's dimensions and placed underneath it solv
 ### Can the Chilewich runner replace a Mexican table runner at a festive table?
 
 Not directly , the Trellis pattern is contemporary and geometric rather than traditionally Mexican. But it layers well alongside Mexican ceramic pieces, colored glassware, or embroidered napkins that carry the festive visual. If you want a durable foundation piece and plan to build the Mexican aesthetic through your tableware rather than through the runner itself, it works.
-### Does the Juliska Country Estate runner coordinate with Mexican-style table settings?
+### Does the faux-linen table runner coordinate with Mexican-style table settings?
 
-It can, with the right supporting pieces. The stonewashed linen and Country Estate pattern skew farmhouse rather than Mexican, so it doesn't signal the aesthetic on its own. Paired with painted Talavera-style ceramics, bold colored napkins, or hand-thrown pottery, the neutral linen quality of the Juliska runner acts as a calm backdrop that lets those other elements lead.
+It can, with the right supporting pieces. The stonewashed faux-linen texture and muted palette skew farmhouse rather than Mexican, so it doesn't signal the aesthetic on its own. Paired with painted Talavera-style ceramics, bold colored napkins, or hand-thrown pottery, the neutral quality of the faux-linen runner acts as a calm backdrop that lets those other elements lead.
 ### What length Mexican table runner do I need for a 72-inch dining table?
 
 A 90-inch runner gives you a comfortable 9-inch overhang on each end, which is the proportionally correct drape for most dining tables. If you prefer a more restrained overhang, an 84-inch runner works on a 72-inch table. Measure your table before ordering and account for whether you want the runner to reach past the end chairs or stop just at the table's edge.
@@ -198,10 +198,10 @@ A 90-inch runner gives you a comfortable 9-inch overhang on each end, which is t
  },
  {
  "@type": "Question",
- "name": "Does the Juliska Country Estate runner coordinate with Mexican-style table settings?",
+ "name": "Does the faux-linen table runner coordinate with Mexican-style table settings?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "It can, with the right supporting pieces. The stonewashed linen and Country Estate pattern skew farmhouse rather than Mexican, so it doesn't signal the aesthetic on its own. Paired with painted Talavera-style ceramics, bold colored napkins, or hand-thrown pottery, the neutral linen quality of the Juliska runner acts as a calm backdrop that lets those other elements lead."
+ "text": "It can, with the right supporting pieces. The stonewashed faux-linen texture and muted palette skew farmhouse rather than Mexican, so it doesn't signal the aesthetic on its own. Paired with painted Talavera-style ceramics, bold colored napkins, or hand-thrown pottery, the neutral quality of the faux-linen runner acts as a calm backdrop that lets those other elements lead."
  }
  },
  {

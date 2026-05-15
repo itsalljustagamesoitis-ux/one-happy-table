@@ -28,10 +28,10 @@ products:
   - id: "juliska-country-estate-table-runner"
     role: "also_consider"
     article_specific_pros:
-      - "Country Estate linen runner coordinates with the full Juliska ceramic and linen table collection"
+      - "Faux-linen table runner with relaxed farmhouse texture , reversible double-layer construction"
       - "Stonewashed finish means it does not require ironing , intentionally relaxed for a farmhouse aesthetic"
     article_specific_cons:
-      - "Premium pricing for a runner that explicitly does not press flat , a judgement call on the value of the brand's aesthetic"
+      - "Faux-linen texture is slightly stiffer than natural linen , worth feeling before committing to a full table set"
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
@@ -43,7 +43,7 @@ faq:
   - question: "How do I calculate the right tablecloth size for a round table?"
     answer: "Measure the diameter of your table, then add twice your desired drop to get the cloth diameter you need. A 60-inch round table with a 12-inch drop requires an 84-inch round tablecloth. Most buyers skip this calculation and size up hoping it works out — it rarely does cleanly. Run the numbers before ordering."
   - question: "Can I layer a table runner over a round tablecloth?"
-    answer: "Yes, and it is one of the more effective ways to add depth to a round table. The runner will extend past the edges rather than spanning the full width evenly, and that asymmetry is part of the look. A natural linen runner over a black base cloth creates a strong contrast that anchors the table without requiring elaborate centerpieces."
+    answer: "Yes, and it is one of the more effective ways to add depth to a round table. The runner will extend past the edges rather than spanning the full width evenly, and that asymmetry is part of the look. A faux-linen runner with relaxed farmhouse texture over a black base cloth creates a strong contrast that anchors the table without requiring elaborate centerpieces."
   - question: "Is linen worth it over cotton for dinner napkins?"
     answer: "Linen is worth it if texture and drape matter to you. Belgian linen in particular softens with each wash and develops a quality that cotton at the same price point does not replicate. Cotton is easier to care for and cheaper per napkin, which makes it the more practical choice for everyday use. For a table you are deliberately setting, linen napkins are a meaningful upgrade."
 ---
@@ -110,13 +110,13 @@ The natural flax color works with nearly any table palette, including a black ba
 
 ### Farmhouse Rustic Faux Linen Table Runner
 
-The [Juliska Country Estate Table Runner](product:juliska-country-estate-table-runner) is a specific object for a specific aesthetic , and if that aesthetic is yours, there's nothing else quite like it. Juliska built the Country Estate line as a coordinated table collection, meaning the runner was designed alongside the ceramics, the napkins, and the serving pieces. That coherence shows on a fully set table in a way that sourced-separately pieces rarely achieve.
+The [DII Faux-Linen Table Runner](product:juliska-country-estate-table-runner) brings relaxed farmhouse texture with reversible double-layer construction , two surface options and enough body to drape well on a set table. The stonewashed finish means it won't press flat, and that is the point. The intentional relaxed drape is the design, not a compromise.
 
-The stonewashed finish means it won't press flat, and Juliska doesn't expect you to try. The intentional relaxed drape is the design, not a compromise. On a farmhouse or European country-style table, that works completely. On a table where crisp lines are the goal, it's the wrong tool , the soft, lived-in quality is built in and can't be ironed out.
+On a farmhouse or European country-style table, that works completely. On a table where crisp lines are the goal, it's the wrong tool , the soft, lived-in quality is built in. The reversible double-layer construction gives it more body than single-layer runners at a similar price, and the stonewashed texture sits naturally with wooden tables and handmade ceramics.
 
-Premium pricing reflects both the material quality and the brand's design system. Whether that value equation makes sense depends entirely on whether you're building the full Juliska table or just looking for a runner on its own.
+The value is clear for the buyer who wants a runner that looks genuinely worn-in from the first use and launders without ceremony.
 
-![Juliska Country Estate linen runner styled on a farmhouse dining table with ceramic tableware](/images/articles/linens-3.jpg)
+![Faux-linen table runner with relaxed farmhouse texture on a dining table](/images/articles/linens-3.jpg)
 
 ,
 
@@ -165,7 +165,7 @@ Polyester is more durable through repeated washing, resists wrinkles less effect
 Polyester cloths need steaming or pressing after storage , folding creases are visible and don't hang out on their own. Linen wrinkles differently: they're softer and part of the fabric's character, especially on pre-washed or stonewashed cloths. For the crispest result on a polyester cloth, steam it while it's already on the table. For linen, a light steam or a pass with a warm iron on a slightly damp cloth is enough to take out sharp fold lines without flattening the natural texture.
 ### Can I layer a table runner over a round tablecloth?
 
-Yes, and it's one of the more effective ways to add depth to a round table. The runner won't span the full width evenly the way it does on a rectangular table , it will extend past the edges , and that asymmetry is part of the look. A natural linen runner over a black base cloth creates a strong contrast that anchors the table without requiring elaborate centerpieces. The [Juliska Country Estate Table Runner](product:juliska-country-estate-table-runner) is specifically designed for a relaxed, layered aesthetic and handles this combination well.
+Yes, and it's one of the more effective ways to add depth to a round table. The runner won't span the full width evenly the way it does on a rectangular table , it will extend past the edges , and that asymmetry is part of the look. A faux-linen runner over a black base cloth creates a strong contrast that anchors the table without requiring elaborate centerpieces. The [DII Faux-Linen Table Runner](product:juliska-country-estate-table-runner) is specifically designed for a relaxed, layered aesthetic and handles this combination well.
 ### How many napkins do I need, and is linen worth it over cotton?
 
 Plan for one napkin per guest, plus two or three spares if you're hosting a longer meal where a second napkin might be needed. Linen is worth it over cotton if texture and drape matter to you , Belgian linen in particular softens with each wash and develops a quality that cotton at the same price point doesn't replicate. Cotton is easier to care for and cheaper per napkin, which makes it the more practical choice for everyday use. For a table you're deliberately setting, the Sur La Table Belgian linen napkins are a meaningful upgrade.
@@ -203,7 +203,7 @@ Plan for one napkin per guest, plus two or three spares if you're hosting a long
  "name": "Can I layer a table runner over a round tablecloth?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "Yes, and it's one of the more effective ways to add depth to a round table. The runner won't span the full width evenly the way it does on a rectangular table , it will extend past the edges , and that asymmetry is part of the look. A natural linen runner over a black base cloth creates a strong contrast that anchors the table without requiring elaborate centerpieces. The Juliska Country Estate Table Runner is specifically designed for a relaxed, layered aesthetic and handles this combination well."
+ "text": "Yes, and it's one of the more effective ways to add depth to a round table. The runner won't span the full width evenly the way it does on a rectangular table , it will extend past the edges , and that asymmetry is part of the look. A faux-linen runner over a black base cloth creates a strong contrast that anchors the table without requiring elaborate centerpieces. The DII Faux-Linen Table Runner is specifically designed for a relaxed, layered aesthetic and handles this combination well."
  }
  },
  {

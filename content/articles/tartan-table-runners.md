@@ -28,10 +28,10 @@ products:
   - id: "juliska-country-estate-table-runner"
     role: "also_consider"
     article_specific_pros:
-      - "Country Estate linen runner coordinates with the full Juliska ceramic and linen table collection"
+      - "Faux-linen table runner with relaxed farmhouse texture , reversible double-layer construction"
       - "Stonewashed finish means it does not require ironing , intentionally relaxed for a farmhouse aesthetic"
     article_specific_cons:
-      - "Premium pricing for a runner that explicitly does not press flat , a judgement call on the value of the brand's aesthetic"
+      - "Faux-linen texture is slightly stiffer than natural linen , worth feeling before committing to a full table set"
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
@@ -42,8 +42,8 @@ faq:
     answer: "Traditional red-and-green tartan reads as Christmas-specific and is difficult to use outside of November through January without the table feeling seasonally mismatched. Navy, forest green, charcoal, and camel tartans have a heritage-plaid character that sits comfortably in autumn and winter without triggering holiday associations. If you want a runner with a longer usable window, the colorway is the variable to choose carefully — not the pattern itself."
   - question: "Elrene tartan runner vs. Chilewich woven runner — which is more practical for frequent hosting?"
     answer: "Both are machine washable, but they serve different tables. The Elrene tartan is a fabric runner with a wrinkle-resistant finish, best suited to hosts who want the seasonal holiday look and launder between every use. The Chilewich Trellis is vinyl-yarn weave — heat-resistant, water-resistant, and wipeable between meals — which makes it fundamentally more durable and easier to maintain for year-round use. The Chilewich reads as contemporary rather than traditional, so the aesthetic fit depends on the room it lives in."
-  - question: "Juliska Country Estate runner — does it require ironing before each use?"
-    answer: "No, and that is intentional. The stonewashed linen finish is designed to have a relaxed, slightly rumpled surface that does not press flat — Juliska intends the lived-in texture as part of the farmhouse aesthetic the collection is built around. If you prefer a sharply dressed and crisply pressed table, this runner will look underdone. If you want heritage texture without a hot iron before every dinner party, the no-press quality is a genuine selling point."
+  - question: "Does the faux-linen table runner require ironing before each use?"
+    answer: "No, and that is intentional. The stonewashed faux-linen finish is designed to have a relaxed, slightly rumpled surface that does not press flat , the lived-in texture is the point, not a flaw. If you prefer a sharply dressed and crisply pressed table, this runner will look underdone. If you want relaxed farmhouse texture without a hot iron before every dinner party, the no-press quality is a genuine selling point."
   - question: "What dinnerware works best alongside a tartan table runner?"
     answer: "Solid dinnerware in colors that appear within the plaid — white, cream, red, forest green, or navy depending on the colorway. Tartan's grid structure is visually assertive and competes with patterned dinnerware rather than coordinating with it. Simple glassware and napkins in a single solid color from the tartan's palette complete the table without adding more pattern weight. Restraint in every other element is what lets the runner do its job without the table looking crowded."
 ---
@@ -110,13 +110,13 @@ The honest caveat: the vinyl-yarn surface has a slight sheen and a texture that 
 
 ### Farmhouse Rustic Faux Linen Table Runner
 
-For buyers building a coordinated table from the ground up, the [Juliska Country Estate Table Runner](product:juliska-country-estate-table-runner) belongs in the conversation. Juliska designs the Country Estate linen collection to coordinate directly with their ceramic patterns , the runner works in the same visual world as their dishes, serving pieces, and flatware. If you're already invested in that ecosystem, the runner is the natural extension.
+For buyers building a farmhouse table from the ground up, the [DII Faux-Linen Table Runner](product:juliska-country-estate-table-runner) belongs in the conversation. The stonewashed faux-linen finish is a deliberate design decision, not a compromise. It does not press flat, and it's not meant to. The slightly rumpled, lived-in surface is the point , it reads as relaxed and warm rather than stiff and formal.
 
-The stonewashed linen finish is a deliberate design decision, not a compromise. It does not press flat, and it's not meant to. The slightly rumpled, lived-in surface is the point , it reads as heritage and relaxed rather than stiff and formal. For a farmhouse or country aesthetic, that's exactly right. For a more polished, sharply dressed table, it will feel underdone.
+The reversible double-layer construction gives you two looks in one piece, and the layered weight gives it more body than single-layer runners at the same price. For a farmhouse or country aesthetic, that combination is exactly right. For a more polished, sharply dressed table, it will feel underdone.
 
-The premium price positioning is worth interrogating before purchase. You're paying for brand coordination and an aesthetic that requires no ironing , which is genuinely valuable for a certain type of host. If you don't own the Juliska ceramic collection, the runner loses its primary argument. On its own, without the coordinating pieces, there are less expensive linen runners that deliver a similar relaxed texture. This is a purchase that makes the most sense in context.
+This is a purchase that makes the most sense for buyers who want no-iron farmhouse texture. On its own, as a standalone runner, the relaxed stonewashed quality is genuinely appealing and requires no coordinating collection to work.
 
-![Stonewashed linen table runner in a farmhouse dining setting](/images/articles/linens-3.jpg)
+![Stonewashed faux-linen table runner in a farmhouse dining setting](/images/articles/linens-3.jpg)
 
 ,
 
@@ -138,7 +138,7 @@ Width proportion matters equally. A narrow runner on a wide table reads as under
 
 ### Honest Assessment of Your Care Tolerance
 
-A beautiful runner you're afraid to use is a bad purchase. Linen wrinkles , that is a fact, not a complaint , and unless you're committed to pressing it before every dinner, or embracing the intentionally relaxed aesthetic that Juliska designs toward, wrinkled linen on a holiday table can look like an oversight rather than a choice.
+A beautiful runner you're afraid to use is a bad purchase. Linen wrinkles , that is a fact, not a complaint , and unless you're committed to pressing it before every dinner, or embracing the intentionally relaxed aesthetic of a stonewashed faux-linen runner, wrinkled linen on a holiday table can look like an oversight rather than a choice.
 
 Machine-washable, wrinkle-resistant runners eliminate that variable entirely. The Elrene tartan handles weekly use without special care. The Chilewich wipes clean between meals and goes in the machine when needed. Exploring the [full table linens](/linens/) category with care requirements as a filter is a practical starting point , sort by washability first, then aesthetics.
 
@@ -165,8 +165,8 @@ Traditional red-and-green tartan reads as Christmas-specific and is difficult to
 ### Is the Chilewich runner appropriate for a formal holiday table?
 
 The [Chilewich Trellis Woven Table Runner in Navy](product:chilewich-trellis-woven-navy-runner) reads as contemporary rather than traditional, which makes it a good fit for modern or transitional dining rooms but less suited to formal settings that lean toward heritage or country house aesthetics. Its heat and water resistance are real advantages for meals with candles and multiple courses. For a strictly traditional holiday table, a woven fabric runner will feel more appropriate.
-### Does the Juliska Country Estate runner require ironing?
-No , and that's deliberate. The stonewashed linen finish is designed to have a relaxed, slightly rumpled surface that does not press flat. Juliska intends the lived-in texture as part of the farmhouse aesthetic the collection is built around. If you prefer a sharply dressed, crisply pressed table, this runner will look underdone to you.
+### Does the faux-linen table runner require ironing?
+No , and that's deliberate. The stonewashed faux-linen finish is designed to have a relaxed, slightly rumpled surface that does not press flat. The lived-in texture is the aesthetic point, not a flaw. If you prefer a sharply dressed, crisply pressed table, this runner will look underdone.
 ### What dinnerware works best with a tartan table runner?
 
 Tartan's grid structure is visually assertive, so it pairs best with solid dinnerware in colors that appear within the plaid , white, cream, red, forest green, or navy depending on the colorway. Patterned dinnerware competes with tartan rather than coordinating with it. Simple glassware and linen napkins in a single solid color from the tartan's palette complete the table without adding more pattern weight. Restraint in every other element is what lets the runner do its job.
@@ -201,10 +201,10 @@ Tartan's grid structure is visually assertive, so it pairs best with solid dinne
  },
  {
  "@type": "Question",
- "name": "Does the Juliska Country Estate runner require ironing?",
+ "name": "Does the faux-linen table runner require ironing?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "No , and that's deliberate. The stonewashed linen finish is designed to have a relaxed, slightly rumpled surface that does not press flat. Juliska intends the lived-in texture as part of the farmhouse aesthetic the collection is built around. If you prefer a sharply dressed, crisply pressed table, this runner will look underdone to you. If you want effortless heritage texture without a hot iron before every dinner party, it's a genuine selling point."
+ "text": "No , and that's deliberate. The stonewashed faux-linen finish is designed to have a relaxed, slightly rumpled surface that does not press flat. The lived-in texture is the aesthetic point, not a flaw. If you prefer a sharply dressed, crisply pressed table, this runner will look underdone. If you want relaxed farmhouse texture without a hot iron before every dinner party, it's a genuine selling point."
  }
  },
  {

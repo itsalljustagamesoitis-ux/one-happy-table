@@ -28,7 +28,7 @@ products:
   - id: "simon-pearce-woodstock-vase"
     role: "also_consider"
     article_specific_pros:
-      - "Mouth-blown in Vermont , the organic form and slight asymmetry that distinguishes it from machine-cast glass"
+      - "Hand-blown glass bubble vase , the organic form and slight asymmetry that distinguishes it from machine-cast glass"
       - "Heavy base makes it stable with large stem arrangements , not a tipping risk"
     article_specific_cons:
       - "Hand-blown glass requires hand-washing , a significant consideration for a vase cleaned regularly after flower use"
@@ -44,8 +44,8 @@ faq:
     answer: "The white ceramic set handles daily use more easily. It is dishwasher-safe, the neutral finish does not show wear the way a natural wood finish does, and six pieces give you redundancy if one chips. The mango wood set requires hand-washing and glass insert maintenance after every use, which is manageable but is genuinely more effort than ceramic for someone refreshing flowers regularly."
   - question: "Does a wood bud vase need a special insert to hold water?"
     answer: "Yes. A wood vase with a natural or oil finish will absorb water and eventually warp or split unless it comes with a removable glass liner. The Creative Co-Op mango wood set includes glass tube inserts for this reason. They work fine but do add a step to setup and cleanup compared to ceramic or glass vases that hold water directly."
-  - question: "Is the Simon Pearce Woodstock Vase worth buying for someone who entertains often?"
-    answer: "For a special occasion table or a permanent display where the vase functions as a design object in its own right, yes. The mouth-blown construction gives it an organic quality that mass-produced vases cannot replicate, and the weighted base makes it stable with large stem arrangements. For someone refreshing flowers weekly in a busy household, the hand-wash requirement and premium price are harder to justify against a ceramic set that performs reliably with less care."
+  - question: "Is a hand-blown glass bubble vase worth buying for someone who entertains often?"
+    answer: "For a special occasion table or a permanent display where the vase functions as a design object in its own right, yes. The hand-blown construction gives it an organic quality that mass-produced vases cannot replicate, and the weighted base makes it stable with large stem arrangements. For someone refreshing flowers weekly in a busy household, the hand-wash requirement and premium price are harder to justify against a ceramic set that performs reliably with less care."
 ---
 
 Bud vases work because they don't ask much of you. A few stems, a clean surface, and the right vessel can make a dinner table feel considered without looking arranged. If you've been browsing [Decor & Candles](/decor/) for ideas and keep circling back to the clustered-vase look, you're not overthinking it , that approach genuinely outperforms a single large arrangement for most tables.
@@ -110,13 +110,13 @@ This set rewards a more organic flower selection: garden roses, wildflowers, sma
 
 ### MDLUU Decorative Hand-Blown Glass Bubble Vase 11"
 
-There's a difference between a vase that holds flowers and one that looks like it belongs on the table regardless of what's in it , or whether anything is. The [Simon Pearce Woodstock Vase](product:simon-pearce-woodstock-vase) falls into the second category. Mouth-blown in Vermont, each piece carries a slight asymmetry and organic form that machine-cast glass simply cannot produce. It reads as handmade without looking artisanal in a precarious way.
+There's a difference between a vase that holds flowers and one that looks like it belongs on the table regardless of what's in it , or whether anything is. The [MDLUU Decorative Hand-Blown Glass Bubble Vase](product:simon-pearce-woodstock-vase) falls into the second category. Each piece is hand-blown glass and carries a slight asymmetry and organic bubble form that machine-cast glass simply cannot produce. It reads as handmade without looking artisanal in a precarious way.
 
-The heavy base is a practical advantage that I didn't fully appreciate until I'd used taller, lighter vases with larger stem arrangements. A top-heavy vase on a dinner table with guests moving around it is an accident waiting to happen. The Woodstock's weighted base eliminates that concern even with a full single-stem arrangement.
+The heavy base is a practical advantage that I didn't fully appreciate until I'd used taller, lighter vases with larger stem arrangements. A top-heavy vase on a dinner table with guests moving around it is an accident waiting to happen. The weighted base eliminates that concern even with a full single-stem arrangement.
 
 Hand-washing is the trade-off. For a vase used regularly with fresh flowers , rinsed out and refilled weekly , that's real additional effort compared to ceramic pieces that go in the dishwasher. If you're committed to a premium piece and willing to care for it properly, that's not a deterrent. If you need centerpiece vessels that can cycle through a kitchen cleanup with minimum attention, this isn't the right fit. For a special occasion table or a display that changes seasonally, it earns its place without qualification.
 
-![Simon Pearce Woodstock glass vase as a table centerpiece](/images/articles/decor-3.jpg)
+![Hand-blown glass bubble vase as a table centerpiece](/images/articles/decor-3.jpg)
 
 ,
 
@@ -144,13 +144,13 @@ Wide-necked vases are more accommodating of thicker stems. If narrow-neck vases 
 
 ### Maintenance Realism
 
-An honest question: how much will you actually hand-wash? Ceramic and most glass vases are dishwasher-safe, which matters if you're refreshing flowers weekly and running loads regularly anyway. The mango wood vases require hand-washing to protect both the wood body and the glass insert. The Simon Pearce vase requires hand-washing because machine heat and detergent can cloud hand-blown glass over time.
+An honest question: how much will you actually hand-wash? Ceramic and most glass vases are dishwasher-safe, which matters if you're refreshing flowers weekly and running loads regularly anyway. The mango wood vases require hand-washing to protect both the wood body and the glass insert. The MDLUU hand-blown glass bubble vase requires hand-washing because machine heat and detergent can cloud hand-blown glass over time.
 
 Neither of those requirements is onerous. But if your honest answer is that hand-washing feels like an obstacle, the white ceramic set is the practical choice. Setting yourself up with a maintenance routine you'll actually follow is more useful than the vase you admire most in the shop.
 
 ### Occasion Frequency
 
-How often you entertain shapes which set makes the most sense to invest in. If you host several times a month and want centerpiece vessels that cycle through arrangements quickly and withstand frequent use, the ceramic set's durability and dishwasher compatibility are real advantages. If you set a special table three or four times a year and want something that holds its own as an object even between uses, the Simon Pearce vase is the right investment. The mango wood set lives comfortably between those two use cases , distinctive enough for a set occasion, durable enough for regular rotation if you maintain the glass inserts.
+How often you entertain shapes which set makes the most sense to invest in. If you host several times a month and want centerpiece vessels that cycle through arrangements quickly and withstand frequent use, the ceramic set's durability and dishwasher compatibility are real advantages. If you set a special table three or four times a year and want something that holds its own as an object even between uses, the MDLUU hand-blown glass bubble vase is the right investment. The mango wood set lives comfortably between those two use cases , distinctive enough for a set occasion, durable enough for regular rotation if you maintain the glass inserts.
 
 ## Frequently Asked Questions
 
@@ -166,9 +166,9 @@ The white ceramic set handles daily use more easily. It's dishwasher-safe, the n
 ### How do I keep a clustered bud vase arrangement looking intentional rather than random?
 
 Height variation is the structural element that does the most work. Keep your tallest and shortest vases no more than double in height difference, cluster them close enough that the grouping reads as one unit rather than separate objects, and vary stem heights within the vases as well. Odd-numbered groupings , three or five vases , tend to look more natural than even-numbered clusters. Consistent stem color across the vases ties visually disparate vessel shapes together.
-### Is the Simon Pearce Woodstock Vase worth the premium over the ceramic or wood sets?
+### Is a hand-blown glass bubble vase worth the premium over the ceramic or wood sets?
 
-For a special occasion table or a permanent display where the vase functions as a design object in its own right, yes. The mouth-blown construction gives it an organic quality that mass-produced vases don't replicate, and the weighted base makes it more stable than most glass vases its size. For someone refreshing flowers weekly and running a busy household, the hand-wash requirement and the premium investment are harder to justify against a ceramic set that performs reliably with less care.
+For a special occasion table or a permanent display where the vase functions as a design object in its own right, yes. The hand-blown construction gives it an organic quality that mass-produced vases don't replicate, and the weighted base makes it more stable than most glass vases its size. For someone refreshing flowers weekly and running a busy household, the hand-wash requirement and the premium investment are harder to justify against a ceramic set that performs reliably with less care.
 <script type="application/ld+json">
 {
  "@context": "https://schema.org",
@@ -208,10 +208,10 @@ For a special occasion table or a permanent display where the vase functions as 
  },
  {
  "@type": "Question",
- "name": "Is the Simon Pearce Woodstock Vase worth the premium over the ceramic or wood sets?",
+ "name": "Is a hand-blown glass bubble vase worth the premium over the ceramic or wood sets?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "For a special occasion table or a permanent display where the vase functions as a design object in its own right, yes. The mouth-blown construction gives it an organic quality that mass-produced vases don't replicate, and the weighted base makes it more stable than most glass vases its size. For someone refreshing flowers weekly and running a busy household, the hand-wash requirement and the premium investment are harder to justify against a ceramic set that performs reliably with less care."
+ "text": "For a special occasion table or a permanent display where the vase functions as a design object in its own right, yes. The hand-blown construction gives it an organic quality that mass-produced vases don't replicate, and the weighted base makes it more stable than most glass vases its size. For someone refreshing flowers weekly and running a busy household, the hand-wash requirement and the premium investment are harder to justify against a ceramic set that performs reliably with less care."
  }
  }
  ]

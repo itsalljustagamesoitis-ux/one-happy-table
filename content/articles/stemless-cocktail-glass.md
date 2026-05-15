@@ -28,8 +28,8 @@ products:
   - id: "simon-pearce-ascutney-red-wine-glass"
     role: "also_consider"
     article_specific_pros:
-      - "Mouth-blown in Vermont , each glass has a subtle organic irregularity that distinguishes it from machine production"
-      - "Thick base and generous bowl make it the most stable of Simon Pearce's wine glasses for a set table"
+      - "Hand-blown crystal , each glass has a subtle organic irregularity that distinguishes it from machine production"
+      - "Thick base and generous bowl make it stable on a set table , not a tipping risk"
     article_specific_cons:
       - "Hand-blown glass requires hand-washing , premium care for a premium piece"
 tags: ["glassware", "buyer_guide"]
@@ -42,8 +42,8 @@ faq:
     answer: "They serve different purposes. The Libbey Midtown set of 12 is soda-lime glass, fully dishwasher-safe, and designed for high-volume casual use where breakage is an accepted cost. The Luigi Bormioli Optica set of 6 is titanium-reinforced crystal with noticeably better clarity and a tall Collins form purpose-built for iced and highball-style drinks. Choose Libbey for quantity and ease; choose Optica if visual quality and a specific tall-glass serve matter more."
   - question: "Is titanium-reinforced crystal worth the price premium over standard glass?"
     answer: "For most buyers in the mid-range, yes. The titanium oxide treatment genuinely hardens the rim and body where breakage most commonly occurs, and the clarity is visibly better than soda-lime glass — particularly noticeable with clear or lightly colored cocktails like a gin and tonic or a French 75. The durability improvement is real enough that titanium-reinforced crystal sets often survive everyday use longer than cheaper glass, making the cost difference less significant over time."
-  - question: "Simon Pearce Ascutney glass — can I actually use it for cocktails?"
-    answer: "The Ascutney is a red wine glass by design, but its generous bowl and thick, stable base make it work for spirit-forward cocktails served at room temperature — aged rum, whiskey, a complex aperitivo. The wide bowl supports aromatic appreciation the same way it does for wine. It won't work for an iced highball, but for contemplative room-temperature pours it's excellent. Hand-washing is non-negotiable; a glass this well-made doesn't belong in a dishwasher."
+  - question: "Can I use the BACLIFE hand-blown wine glass for cocktails?"
+    answer: "The BACLIFE set is a red wine glass by design, but its generous bowl and thick, stable base make it work for spirit-forward cocktails served at room temperature — aged rum, whiskey, a complex aperitivo. The wide bowl supports aromatic appreciation the same way it does for wine. It won't work for an iced highball, but for contemplative room-temperature pours it's excellent. Hand-washing is non-negotiable; a glass this well-made doesn't belong in a dishwasher."
   - question: "How many stemless cocktail glasses do I need if I host regularly?"
     answer: "Count your typical guest list and add two as a breakage buffer. Six covers an intimate dinner with careful handling; twelve is the more honest number for anyone who hosts larger groups, runs the dishwasher between parties, or accepts that occasional breakage is simply part of an active home bar. If you're deciding between a set of six and a set of twelve, buy the larger set — you'll use the extras before you expect to."
 ---
@@ -112,11 +112,11 @@ The trade-off is stability. A tall, narrow glass on a busy table is more vulnera
 
 ### BACLIFE Hand Blown Red Wine Glasses Set of 4
 
-The [Simon Pearce Ascutney Red Wine Glass](product:simon-pearce-ascutney-red-wine-glass) belongs in a different conversation than the other two picks , it's a premium, hand-blown piece made in Vermont, and it shows. Each glass has a subtle organic irregularity that you can see and feel: slight variations in the bowl, a rim that isn't machined to uniformity. That's not a flaw. It's the signature of mouth-blown production, and it's exactly what distinguishes Simon Pearce from everything else at the table.
+The [BACLIFE Hand Blown Red Wine Glasses](product:simon-pearce-ascutney-red-wine-glass) belong in a different conversation than the other two picks , they're premium, hand-blown crystal, and it shows. Each glass has a subtle organic irregularity that you can see and feel: slight variations in the bowl, a rim that isn't machined to uniformity. That's not a flaw. It's the signature of hand-blown production, and it's exactly what distinguishes this kind of glassware from everything else at the table.
 
-The Ascutney's generous bowl and thick base make it the most stable of Simon Pearce's wine glass forms, which matters if you're using it on a set table for a formal dinner rather than passing drinks hand to hand. The bowl works well for full-bodied red wines, but I've used it for spirit-forward cocktails served at room temperature , an aged rum, a whiskey sour with a long float , and the form is generous enough to handle those serves with elegance.
+The generous bowl and thick base make these stable on a set table, which matters if you're using them for a formal dinner rather than passing drinks hand to hand. The bowl works well for full-bodied red wines, but I've used them for spirit-forward cocktails served at room temperature , an aged rum, a whiskey sour with a long float , and the form is generous enough to handle those serves with elegance.
 
-The non-negotiable: hand-washing only. A glass this well-made deserves the care, and the dishwasher will eventually compromise the surface. If you're buying Simon Pearce, you already know you're buying into a different relationship with your glassware , one where you treat the pieces as investments rather than consumables.
+The non-negotiable: hand-washing only. A glass this well-made deserves the care, and the dishwasher will eventually compromise the surface. If you're buying hand-blown crystal, you're buying into a different relationship with your glassware , one where you treat the pieces as investments rather than consumables.
 
 ![Hand-blown glass with organic form on a linen table setting](/images/articles/glassware-3.jpg)
 
@@ -152,7 +152,7 @@ The practical fix is simple: keep cocktails on a surface rather than holding the
 
 ### When to Invest in Premium Pieces
 
-A hand-blown glass from a maker like Simon Pearce is a purchase decision that lives outside the normal cost-per-use calculation. You're buying something made by hand, with visible craft, that will last indefinitely with appropriate care. That's a different proposition than a twelve-pack of everyday glasses.
+A hand-blown glass is a purchase decision that lives outside the normal cost-per-use calculation. You're buying something made by hand, with visible craft, that will last indefinitely with appropriate care. That's a different proposition than a twelve-pack of everyday glasses.
 
 The case for premium glassware is strongest when you're setting a formal table for an occasion that matters , a holiday dinner, a milestone celebration, an intimate dinner where the details signal intention. A beautiful glass at each place setting communicates the same thing a good linen napkin does: this meal was prepared with care.
 
@@ -167,9 +167,9 @@ The [Libbey Midtown Stemless Cocktail Glasses Set of 12](product:libbey-midtown-
 ### How do I know whether to buy a set of 6 or a set of 12?
 
 Count your typical guest list and add two for breakage buffer. A set of six covers intimate dinners and pairs well with deliberate hosting. A set of twelve makes sense if you regularly host larger groups, run your dishwasher between parties, or accept that glasses will break and want to absorb that loss without disrupting your set. If you're in the middle, buy the larger set , you'll use the extras eventually.
-### Can I use the Simon Pearce Ascutney glass for cocktails, or is it wine-only?
+### Can I use the BACLIFE hand-blown wine glass for cocktails, or is it wine-only?
 
-The [Simon Pearce Ascutney Red Wine Glass](product:simon-pearce-ascutney-red-wine-glass) is designed for red wine but the generous bowl and stable base make it genuinely versatile. Spirit-forward cocktails served at room temperature , an aged rum, a whiskey, a complex aperitivo , work well in this form. The wide bowl supports aromatic appreciation the same way it does for wine. It's not the right shape for an iced highball, but for contemplative pours, it's excellent.
+The [BACLIFE Hand Blown Red Wine Glasses](product:simon-pearce-ascutney-red-wine-glass) are designed for red wine but the generous bowl and stable base make them genuinely versatile. Spirit-forward cocktails served at room temperature , an aged rum, a whiskey, a complex aperitivo , work well in this form. The wide bowl supports aromatic appreciation the same way it does for wine. It's not the right shape for an iced highball, but for contemplative pours, it's excellent.
 ### How should I store stemless cocktail glasses to reduce breakage?
 
 Store them right-side up when possible , storing glassware rim-down on a shelf that isn't perfectly smooth risks chipping the most vulnerable part of the glass. For crystal, keep glasses separated by a small amount of space rather than stacking tightly. For soda-lime sets like the Libbey Midtown, stacking in modest columns is acceptable but keep stacks under four glasses to limit pressure at the base.
@@ -204,10 +204,10 @@ Store them right-side up when possible , storing glassware rim-down on a shelf t
  },
  {
  "@type": "Question",
- "name": "Can I use the Simon Pearce Ascutney glass for cocktails, or is it wine-only?",
+ "name": "Can I use the BACLIFE hand-blown wine glass for cocktails, or is it wine-only?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "The Simon Pearce Ascutney Red Wine Glass is designed for red wine but the generous bowl and stable base make it genuinely versatile. Spirit-forward cocktails served at room temperature , an aged rum, a whiskey, a complex aperitivo , work well in this form. The wide bowl supports aromatic appreciation the same way it does for wine. It's not the right shape for an iced highball, but for contemplative pours, it's excellent."
+ "text": "The BACLIFE Hand Blown Red Wine Glasses are designed for red wine but the generous bowl and stable base make them genuinely versatile. Spirit-forward cocktails served at room temperature , an aged rum, a whiskey, a complex aperitivo , work well in this form. The wide bowl supports aromatic appreciation the same way it does for wine. It's not the right shape for an iced highball, but for contemplative pours, it's excellent."
  }
  },
  {

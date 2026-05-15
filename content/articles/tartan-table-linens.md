@@ -28,10 +28,10 @@ products:
   - id: "juliska-country-estate-table-runner"
     role: "also_consider"
     article_specific_pros:
-      - "Country Estate linen runner coordinates with the full Juliska ceramic and linen table collection"
+      - "Faux-linen table runner with relaxed farmhouse texture , reversible double-layer construction"
       - "Stonewashed finish means it does not require ironing , intentionally relaxed for a farmhouse aesthetic"
     article_specific_cons:
-      - "Premium pricing for a runner that explicitly does not press flat , a judgement call on the value of the brand's aesthetic"
+      - "Faux-linen texture is slightly stiffer than natural linen , worth feeling before committing to a full table set"
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
@@ -42,8 +42,8 @@ faq:
     answer: "A runner is the lower-commitment choice for regular use. It is easier to launder, takes up less storage space, and works on more table types since the surface shows on either side — which softens the pattern's seasonal associations and lets the table finish contribute to the look. A full tablecloth makes a stronger formal statement and is the right call when you want the table surface to disappear entirely under the setting. For casual hosts who entertain frequently, the runner is far more practical on a weekly basis."
   - question: "Waterford Stewart Plaid — what makes it different from a budget tartan tablecloth?"
     answer: "Two things: authenticated pattern and fabric weight. The Stewart Plaid reproduces a documented clan tartan with correct color sequence and proportions, not a simplified approximation. Waterford's licensed linen production runs at hotel quality, which means the cloth has a substantive hand that shows in how it drapes and how it holds position through a full dinner. Lighter polyester alternatives look flat under direct light and shift when dishes are moved — the weight difference is apparent the moment you lift either cloth from the box."
-  - question: "Juliska Country Estate runner — is it a true Scottish tartan or just a plaid pattern?"
-    answer: "Not in the strict clan-pattern sense. The Country Estate collection draws on a pastoral English-countryside aesthetic, and the pattern is plaid in structure but is not derived from a documented Scottish clan sett. If authenticity to Scottish tartan tradition matters for your occasion — a Burns Night supper, a gathering where the heritage is part of the point — the Waterford Stewart Plaid is the more historically grounded choice. The Juliska runner is the right pick if you are building around the Country Estate ceramic collection and want coordinated pieces."
+  - question: "Is the faux-linen table runner a true Scottish tartan or just a plaid pattern?"
+    answer: "It is not a Scottish tartan in any sense. The faux-linen runner has a relaxed farmhouse aesthetic with no connection to clan tartans or plaid traditions. If authenticity to Scottish tartan tradition matters for your occasion — a Burns Night supper, a gathering where the heritage is part of the point — the Waterford Stewart Plaid is the correct choice. The faux-linen runner is the right pick if you want a no-iron farmhouse runner that layers well alongside other table elements."
   - question: "Can tartan table linens work with patterned dinnerware?"
     answer: "Tartan is a bold pattern that competes directly with patterned dinnerware, and the collision is difficult to resolve mid-dinner. The most successful tartan table settings share one characteristic: plain dinnerware. White, cream, or solid-colored plates give the tartan room to read clearly. A tartan runner paired with plain white bistro plates and simple stemware is a complete, considered look. The same runner with a transferware or floral dinner service produces a pattern collision that neither piece wins."
 ---
@@ -110,13 +110,13 @@ The dry-clean-only care requirement is real and worth sitting with before you bu
 
 ### Farmhouse Rustic Faux Linen Table Runner
 
-The [Juliska Country Estate Table Runner](product:juliska-country-estate-table-runner) occupies a different register from the other two picks. It's not a traditional tartan in the clan-pattern sense , it belongs to Juliska's Country Estate collection, which draws on a pastoral, English-countryside aesthetic rather than Scottish heritage. The pattern reads as plaid rather than strict tartan, and that distinction is worth making if authenticity is part of what you're after.
+The [DII Faux-Linen Table Runner](product:juliska-country-estate-table-runner) occupies a different register from the other two picks. It is not a tartan in any sense , it has a relaxed farmhouse aesthetic rather than a Scottish heritage. The distinction is worth making plainly if pattern authenticity is part of what you're after.
 
-What it does well is coordinate. If you already own pieces from the Juliska Country Estate ceramic line , the dinnerware, the serving pieces, the pitchers , this runner was designed to work with that ecosystem. The stonewashed linen finish means it arrives with an intentionally relaxed, lived-in quality that doesn't require pressing and doesn't try to look stiff. For a farmhouse or cottagecore table, that's the right aesthetic call.
+What it does well is provide no-iron farmhouse texture. The stonewashed faux-linen finish means it arrives with an intentionally relaxed, lived-in quality that doesn't require pressing. The reversible double-layer construction gives you two surface options from one piece. For a farmhouse or cottagecore table, that's the right aesthetic call.
 
-The premium pricing is a candid trade-off. You're paying for the brand's design coherence and the quality of the stonewashed linen, not for a pressed formal cloth. If you already invest in the Juliska table collection, this runner extends it naturally. If you're coming to it fresh without that context, it's a harder case to make against the Waterford at a lower price point.
+This runner earns its place here for buyers who want a relaxed, textured companion piece alongside a more formal tartan tablecloth, or who are building a table with mixed-register elements. On its own, without a tartan anchor, the faux-linen runner is a fine farmhouse pick.
 
-![Juliska Country Estate runner on a relaxed farmhouse-style table setting](/images/articles/linens-3.jpg)
+![Faux-linen table runner on a relaxed farmhouse-style table setting](/images/articles/linens-3.jpg)
 
 ,
 
@@ -126,7 +126,7 @@ The premium pricing is a candid trade-off. You're paying for the brand's design 
 
 ### Match the Occasion to the Product
 
-Tartan table linens are occasion-driven in a way that solid or neutral linens are not. The Elrene runner is built for seasonal entertaining , it's the choice if your tartan use is concentrated in the November-through-January window and you want zero friction in the process. The Waterford tablecloth is built for formal occasions where the cloth is part of the statement. The Juliska runner is built for a specific interior aesthetic that values relaxed coordination over ceremony.
+Tartan table linens are occasion-driven in a way that solid or neutral linens are not. The Elrene runner is built for seasonal entertaining , it's the choice if your tartan use is concentrated in the November-through-January window and you want zero friction in the process. The Waterford tablecloth is built for formal occasions where the cloth is part of the statement. The faux-linen runner is built for a farmhouse aesthetic that values relaxed texture over ceremony.
 
 Starting from your occasion rather than your budget almost always leads to the better decision. A mid-range tablecloth used twice a year for the right occasions will give you more satisfaction than a budget option used constantly and never quite right.
 
@@ -168,9 +168,9 @@ Fold along the existing creases rather than creating new ones, and store flat or
 ### Can I use a tartan runner with patterned dinnerware?
 
 It's genuinely difficult to make work. Tartan is a structured pattern with strong color blocking, and most dinnerware patterns , floral, transferware, geometric , compete rather than coordinate. The cleaner move is plain white or cream dinnerware alongside a tartan runner, which lets both pieces read clearly. If you're committed to using patterned dinnerware, look for a tartan colorway that shares one color with your dinnerware pattern and keep everything else on the table neutral.
-### Is the Juliska Country Estate runner a true Scottish tartan?
+### Is the faux-linen table runner a true Scottish tartan?
 
-Not in the strict clan-pattern sense. The Country Estate collection draws on a pastoral English-countryside aesthetic , the pattern is plaid in structure but isn't derived from a documented Scottish clan sett. If authenticity to Scottish tartan tradition matters for your occasion, the [Waterford Stewart Plaid Tartan Tablecloth](product:waterford-stewart-plaid-tartan-tablecloth) is the more historically grounded choice. The Juliska runner is the right pick if you're building around the Country Estate aesthetic and want coordinated pieces from a single collection.
+No. The faux-linen runner has a relaxed farmhouse aesthetic with no connection to clan tartans or Scottish heritage. If authenticity to Scottish tartan tradition matters for your occasion, the [Waterford Stewart Plaid Tartan Tablecloth](product:waterford-stewart-plaid-tartan-tablecloth) is the correct choice. The faux-linen runner is the right pick if you want a no-iron farmhouse runner that layers well alongside other table elements.
 <script type="application/ld+json">
 {
  "@context": "https://schema.org",
@@ -210,10 +210,10 @@ Not in the strict clan-pattern sense. The Country Estate collection draws on a p
  },
  {
  "@type": "Question",
- "name": "Is the Juliska Country Estate runner a true Scottish tartan?",
+ "name": "Is the faux-linen table runner a true Scottish tartan?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "Not in the strict clan-pattern sense. The Country Estate collection draws on a pastoral English-countryside aesthetic , the pattern is plaid in structure but isn't derived from a documented Scottish clan sett. If authenticity to Scottish tartan tradition matters for your occasion, the Waterford Stewart Plaid Tartan Tablecloth is the more historically grounded choice. The Juliska runner is the right pick if you're building around the Country Estate aesthetic and want coordinated pieces from a single collection."
+ "text": "No. The faux-linen runner has a relaxed farmhouse aesthetic with no connection to clan tartans or Scottish heritage. If authenticity to Scottish tartan tradition matters for your occasion, the Waterford Stewart Plaid Tartan Tablecloth is the correct choice. The faux-linen runner is the right pick if you want a no-iron farmhouse runner that layers well alongside other table elements."
  }
  }
  ]

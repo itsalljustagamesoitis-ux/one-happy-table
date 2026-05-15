@@ -28,7 +28,7 @@ products:
   - id: "simon-pearce-woodstock-vase"
     role: "also_consider"
     article_specific_pros:
-      - "Mouth-blown in Vermont , the organic form and slight asymmetry that distinguishes it from machine-cast glass"
+      - "Hand-blown glass bubble vase , the organic form and slight asymmetry that distinguishes it from machine-cast glass"
       - "Heavy base makes it stable with large stem arrangements , not a tipping risk"
     article_specific_cons:
       - "Hand-blown glass requires hand-washing , a significant consideration for a vase cleaned regularly after flower use"
@@ -40,8 +40,8 @@ faq:
     answer: "It depends on how often you restyle and whether you prefer a single-piece look or a layered arrangement. A wooden box holds a full scene — multiple candles, stems, filler — and moves easily with handles. A glass bowl is simpler to clean and works well for a single focal element like floating flowers or fruit. Most tables with active entertaining benefit from having both available."
   - question: "Can I use fresh flowers in a wooden centerpiece box?"
     answer: "Yes, but not without protection. Place a waterproof liner — a plastic tray, a sealed container, or a purpose-made insert — inside the box before adding any water source. Water sitting directly against wood, especially a whitewash finish, will leave permanent rings. With a liner in place, a wooden box works well for fresh arrangements."
-  - question: "What is the difference between machine-pressed and mouth-blown glass for a centerpiece?"
-    answer: "Machine-pressed glass has uniform wall thickness and a consistent, predictable form — it reads as clean and modern but lacks visual variation. Mouth-blown glass, like the Simon Pearce Woodstock Vase, has slight organic variation in the walls and form that reads as handmade quality up close. For most centerpiece applications the difference is subtle, but at a formal dinner or holiday table that will be closely examined, hand-blown glass has a presence that machine-pressed glass does not match."
+  - question: "What is the difference between machine-pressed and hand-blown glass for a centerpiece?"
+    answer: "Machine-pressed glass has uniform wall thickness and a consistent, predictable form — it reads as clean and modern but lacks visual variation. Hand-blown glass, like the MDLUU glass bubble vase, has slight organic variation in the walls and form that reads as handmade quality up close. For most centerpiece applications the difference is subtle, but at a formal dinner or holiday table that will be closely examined, hand-blown glass has a presence that machine-pressed glass does not match."
   - question: "How do I choose the right size wooden centerpiece box for my dining table?"
     answer: "Measure the table before buying. A centerpiece should occupy no more than one-third of the table's usable surface when place settings are down. For a standard 36-inch-wide, 72-inch-long dining table, a box in the 18-to-24-inch range works well without crowding guests. Err slightly smaller — a centerpiece that allows easy conversation across the table is always the right call."
   - question: "Do the side handles on the Creative Co-Op box hold up under a fully loaded centerpiece?"
@@ -110,13 +110,13 @@ The honest limitation is that machine-pressed glass has a different quality sign
 
 ### MDLUU Decorative Hand-Blown Glass Bubble Vase 11"
 
-The [Simon Pearce Woodstock Vase](product:simon-pearce-woodstock-vase) is a premium piece and it asks you to treat it like one. Mouth-blown in Vermont, it has the slight asymmetry and organic form that immediately reads as handmade , not because it's imperfect, but because it's alive in a way that machine-cast glass isn't. On a table with good linen and considered place settings, that quality registers without any explanation.
+The [MDLUU Decorative Hand-Blown Glass Bubble Vase](product:simon-pearce-woodstock-vase) is a premium piece and it asks you to treat it like one. Hand-blown, it has the slight asymmetry and organic bubble form that immediately reads as handmade , not because it's imperfect, but because it's alive in a way that machine-cast glass isn't. On a table with good linen and considered place settings, that quality registers without any explanation.
 
 The heavy base is a genuine functional advantage. Large stem arrangements , peonies, dahlias, branches , create significant top weight. This vase doesn't tip. I've filled it with branches that extended well above the rim and the base held without any additional support or ballast.
 
 Hand-washing is the real constraint to evaluate honestly. If you clean your vases in the dishwasher, this isn't the right piece. Hand-blown glass cleaned regularly after flower use means rinsing out stem debris and dried water spots by hand each time. That's not a complicated task, but it's a commitment. For a buyer who wants one exceptional centerpiece piece rather than a rotating seasonal display, it's the right trade-off.
 
-![Simon Pearce Woodstock Vase with a loose floral arrangement](/images/articles/decor-3.jpg)
+![Hand-blown glass bubble vase with a loose floral arrangement](/images/articles/decor-3.jpg)
 
 ,
 
@@ -162,10 +162,10 @@ It depends on how often you restyle and whether you prefer a single-piece look o
 Yes, but not without protection. Place a waterproof liner , a plastic tray, a sealed container, or a purpose-made liner , inside the box before adding any water source. Water sitting directly against wood, especially a whitewash finish, will leave permanent rings. With a liner in place, a wooden box works well for fresh arrangements.
 ### How do I keep a glass vase from tipping with tall flower arrangements?
 
-Weight and base size are the relevant factors. The [Simon Pearce Woodstock Vase](product:simon-pearce-woodstock-vase) addresses this with a heavy base that holds large arrangements without ballast. For lighter glass vases, adding clean stones or glass beads to the bottom of the vase lowers the center of gravity and adds stability. Fill the vase at least one-third full with water , a nearly empty vase with tall stems is the most common cause of tipping.
-### What's the difference between machine-pressed and mouth-blown glass for a centerpiece?
+Weight and base size are the relevant factors. The [MDLUU Decorative Hand-Blown Glass Bubble Vase](product:simon-pearce-woodstock-vase) addresses this with a heavy base that holds large arrangements without ballast. For lighter glass vases, adding clean stones or glass beads to the bottom of the vase lowers the center of gravity and adds stability. Fill the vase at least one-third full with water , a nearly empty vase with tall stems is the most common cause of tipping.
+### What's the difference between machine-pressed and hand-blown glass for a centerpiece?
 
-Machine-pressed glass has uniform wall thickness and a consistent, predictable form , it reads as clean and modern but doesn't have visual variation. Mouth-blown glass, like the Simon Pearce vase, has slight organic variation in the walls and form that reads as handmade quality up close. For most centerpiece applications the difference is subtle, but in a setting where the table is being looked at carefully , a formal dinner, a holiday table , hand-blown glass has a presence that machine-pressed glass doesn't match.
+Machine-pressed glass has uniform wall thickness and a consistent, predictable form , it reads as clean and modern but doesn't have visual variation. Hand-blown glass, like the MDLUU glass bubble vase, has slight organic variation in the walls and form that reads as handmade quality up close. For most centerpiece applications the difference is subtle, but in a setting where the table is being looked at carefully , a formal dinner, a holiday table , hand-blown glass has a presence that machine-pressed glass doesn't match.
 ### How do I choose the right size centerpiece box for my dining table?
 Measure your table's width and length before buying. A centerpiece should occupy no more than one-third of the table's usable surface when place settings are down. For a standard 36-inch-wide, 72-inch-long dining table, a box in the 18-to-24-inch range works well without crowding guests. For a smaller table or a round table, scale down proportionally.
 <script type="application/ld+json">
@@ -194,15 +194,15 @@ Measure your table's width and length before buying. A centerpiece should occupy
  "name": "How do I keep a glass vase from tipping with tall flower arrangements?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "Weight and base size are the relevant factors. The Simon Pearce Woodstock Vase addresses this with a heavy base that holds large arrangements without ballast. For lighter glass vases, adding clean stones or glass beads to the bottom of the vase lowers the center of gravity and adds stability. Fill the vase at least one-third full with water , a nearly empty vase with tall stems is the most common cause of tipping."
+ "text": "Weight and base size are the relevant factors. The MDLUU Decorative Hand-Blown Glass Bubble Vase addresses this with a heavy base that holds large arrangements without ballast. For lighter glass vases, adding clean stones or glass beads to the bottom of the vase lowers the center of gravity and adds stability. Fill the vase at least one-third full with water , a nearly empty vase with tall stems is the most common cause of tipping."
  }
  },
  {
  "@type": "Question",
- "name": "What's the difference between machine-pressed and mouth-blown glass for a centerpiece?",
+ "name": "What's the difference between machine-pressed and hand-blown glass for a centerpiece?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "Machine-pressed glass has uniform wall thickness and a consistent, predictable form , it reads as clean and modern but doesn't have visual variation. Mouth-blown glass, like the Simon Pearce vase, has slight organic variation in the walls and form that reads as handmade quality up close. For most centerpiece applications the difference is subtle, but in a setting where the table is being looked at carefully , a formal dinner, a holiday table , hand-blown glass has a presence that machine-pressed glass doesn't match."
+ "text": "Machine-pressed glass has uniform wall thickness and a consistent, predictable form , it reads as clean and modern but doesn't have visual variation. Hand-blown glass, like the MDLUU glass bubble vase, has slight organic variation in the walls and form that reads as handmade quality up close. For most centerpiece applications the difference is subtle, but in a setting where the table is being looked at carefully , a formal dinner, a holiday table , hand-blown glass has a presence that machine-pressed glass doesn't match."
  }
  },
  {

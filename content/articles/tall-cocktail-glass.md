@@ -28,8 +28,8 @@ products:
   - id: "simon-pearce-ascutney-red-wine-glass"
     role: "also_consider"
     article_specific_pros:
-      - "Mouth-blown in Vermont , each glass has a subtle organic irregularity that distinguishes it from machine production"
-      - "Thick base and generous bowl make it the most stable of Simon Pearce's wine glasses for a set table"
+      - "Hand-blown crystal , each glass has a subtle organic irregularity that distinguishes it from machine production"
+      - "Thick base and generous bowl make it stable on a set table , not a tipping risk"
     article_specific_cons:
       - "Hand-blown glass requires hand-washing , premium care for a premium piece"
 tags: ["glassware", "buyer_guide"]
@@ -44,8 +44,8 @@ faq:
     answer: "For most buyers in the mid-range, yes. Titanium-reinforced crystal offers noticeably better clarity and improved resistance to chipping and thermal stress compared to standard soda-lime glass. Drinks simply look better in crystal — the refractive index is higher, which makes cocktail color and carbonation more visually compelling. The durability improvement means the set holds up over years of actual use, which narrows the real cost difference between crystal and budget glass."
   - question: "How many tall cocktail glasses should I buy for a home bar that seats eight?"
     answer: "Buy at least eight of whatever glass you plan to use as your primary cocktail vessel — one per guest, with no margin for breakage mid-party. A set of twelve makes more sense if breakage is a realistic factor, if you host frequently enough that glasses accumulate wear between replacements, or if you want the flexibility of losing a few without the set looking depleted. For occasional entertaining with careful handling, eight is the practical minimum."
-  - question: "Simon Pearce Ascutney glass — can it go in the dishwasher?"
-    answer: "No, without exception. The Simon Pearce Ascutney is mouth-blown in Vermont, and the same qualities that make it visually distinctive — the subtle organic irregularities in the rim and bowl — also make it more vulnerable to the thermal and mechanical stress of a dishwasher cycle. Heat and detergent chemistry will dull the surface and increase the risk of cracking over time. Hand-washing with warm water and a soft cloth is the correct approach; treat it as part of owning a piece that will last decades."
+  - question: "Can hand-blown wine glasses go in the dishwasher?"
+    answer: "No, without exception. Hand-blown crystal carries subtle organic irregularities in the rim and bowl that make it more vulnerable to the thermal and mechanical stress of a dishwasher cycle. Heat and detergent chemistry will dull the surface and increase the risk of cracking over time. Hand-washing with warm water and a soft cloth is the correct approach; treat it as part of owning a piece that will last decades."
 ---
 
 Choosing the right tall cocktail glass matters more than most people expect , the shape affects dilution rate, ice capacity, and how a drink presents at the table. I've spent enough time setting bars for dinner parties in Charleston to know that the wrong glass undercuts even a well-made drink. If you're building out a home bar or replacing what attrition has taken, the [Glassware & Crystal](/glassware/) options worth considering run from everyday workhorses to pieces meant to last decades.
@@ -116,13 +116,13 @@ The real trade-off is thermal. Your hand wraps around the glass, and that contac
 
 ### BACLIFE Hand Blown Red Wine Glasses Set of 4
 
-The [Simon Pearce Ascutney Red Wine Glass](product:simon-pearce-ascutney-red-wine-glass) is a different kind of purchase. It's mouth-blown in Vermont, and each piece carries a subtle organic variation that machine-made glass can't replicate , the slight irregularities in the rim, the way the base catches light differently than a perfect mold allows. If you're buying for a table where the glassware is meant to make an impression, that quality is immediately visible to anyone paying attention.
+The [BACLIFE Hand Blown Red Wine Glasses](product:simon-pearce-ascutney-red-wine-glass) are a different kind of purchase. Each piece is hand-blown crystal and carries a subtle organic variation that machine-made glass can't replicate , the slight irregularities in the rim, the way the base catches light differently than a perfect mold allows. If you're buying for a table where the glassware is meant to make an impression, that quality is immediately visible to anyone paying attention.
 
-The generous bowl and thick base make this the most stable of Simon Pearce's wine glass offerings, which matters given the premium care it requires. Hand-washing is non-negotiable here. The same character that makes mouth-blown glass beautiful , the thermal history of hand-forming , also makes it more vulnerable to the mechanical and thermal stress of a dishwasher cycle.
+The generous bowl and thick base make these stable on a set table, which matters given the premium care they require. Hand-washing is non-negotiable here. The same character that makes hand-blown glass beautiful also makes it more vulnerable to the mechanical and thermal stress of a dishwasher cycle.
 
 This is a premium product for a specific buyer: someone who sets an intentional table, treats their glassware as part of the aesthetic rather than a utility item, and is willing to spend the extra minutes at the sink to maintain what they've bought. It is not the right answer for a casual home bar where glasses come and go. For a considered set of four or six that will last decades with proper care, it's an exceptional piece.
 
-![Mouth-blown wine glass on a set dinner table](/images/articles/glassware-3.jpg)
+![Hand-blown crystal wine glass with organic form on a set dinner table](/images/articles/glassware-3.jpg)
 
 ,
 
@@ -144,7 +144,7 @@ For everyday households where cocktails are an occasional rather than nightly ri
 
 ### Weigh the Care Requirements Honestly
 
-A premium mouth-blown glass that requires hand-washing is a genuine commitment. If your household routine is to load everything into the dishwasher after dinner, buying hand-wash-only glassware is a friction point that compounds over time. That doesn't make premium glass the wrong choice , it makes the care requirement a genuine factor rather than fine print to skip.
+A premium hand-blown glass that requires hand-washing is a genuine commitment. If your household routine is to load everything into the dishwasher after dinner, buying hand-wash-only glassware is a friction point that compounds over time. That doesn't make premium glass the wrong choice , it makes the care requirement a genuine factor rather than fine print to skip.
 
 Titanium-reinforced crystal in the mid-range occupies a useful middle ground: meaningfully better clarity and durability than basic soda-lime glass, and generally dishwasher-tolerant at lower heat settings. For most buyers, that combination resolves the care trade-off without sacrificing visual quality. Browse the full range of [bar and cocktail glassware](/glassware/) to compare care requirements across specific sets before deciding.
 
@@ -152,7 +152,7 @@ Titanium-reinforced crystal in the mid-range occupies a useful middle ground: me
 
 A tall glass on a crowded table is a tipping risk. The narrower and taller the glass, the more the base-to-height ratio works against you. If you regularly entertain at a full table with lots of movement, glasses with a wider base are a meaningful practical consideration , not just a preference.
 
-Table context also informs the aesthetic decision. A casual outdoor gathering calls for something different than a formal dinner table. The mouth-blown character of a Simon Pearce piece earns its place at a considered table setting; the Libbey Midtown earns its place at a backyard party where the goal is volume and survival.
+Table context also informs the aesthetic decision. A casual outdoor gathering calls for something different than a formal dinner table. The hand-blown character of a piece like the BACLIFE set earns its place at a considered table setting; the Libbey Midtown earns its place at a backyard party where the goal is volume and survival.
 
 ### Budget Realistically Across the Set
 
@@ -169,9 +169,9 @@ For households where glasses see daily use and regular dishwasher cycles, stemle
 ### Is titanium-reinforced crystal worth the step up from standard glass?
 
 Yes, for most buyers in the mid-range. Titanium-reinforced crystal offers noticeably better clarity and improved resistance to chipping and thermal stress compared to standard soda-lime glass. The [Luigi Bormioli Optica Cocktail Glasses Set of 6](product:luigi-bormioli-optica-cocktail-set6) demonstrates the difference well , drinks simply look better in crystal, and the durability improvement means the set holds up over years of actual use.
-### Can I put mouth-blown glasses like Simon Pearce in the dishwasher?
+### Can I put hand-blown crystal glasses in the dishwasher?
 
-No. The [Simon Pearce Ascutney Red Wine Glass](product:simon-pearce-ascutney-red-wine-glass) requires hand-washing without exception. The thermal and mechanical stress of a dishwasher cycle degrades mouth-blown glass over time, dulling the surface and increasing the risk of cracking. Hand-washing with warm water and a soft cloth takes thirty seconds per glass , treat it as part of owning a piece that will outlast most things in your kitchen.
+No. Hand-blown crystal like the [BACLIFE Hand Blown Red Wine Glasses](product:simon-pearce-ascutney-red-wine-glass) requires hand-washing without exception. The thermal and mechanical stress of a dishwasher cycle degrades hand-blown glass over time, dulling the surface and increasing the risk of cracking. Hand-washing with warm water and a soft cloth takes thirty seconds per glass , treat it as part of owning a piece that will outlast most things in your kitchen.
 ### How many glasses should I buy for a home bar that seats eight?
 
 Buy at least eight of any glass you plan to use as your primary cocktail glass , one per guest, with no margin for breakage mid-party. A set of twelve makes more sense if breakage is a realistic factor or if you entertain frequently enough that glasses accumulate wear between replacements. For occasional entertaining with careful handling, eight is the practical minimum.
@@ -206,10 +206,10 @@ Buy at least eight of any glass you plan to use as your primary cocktail glass ,
  },
  {
  "@type": "Question",
- "name": "Can I put mouth-blown glasses like Simon Pearce in the dishwasher?",
+ "name": "Can I put hand-blown crystal glasses in the dishwasher?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "No. The Simon Pearce Ascutney Red Wine Glass requires hand-washing without exception. The thermal and mechanical stress of a dishwasher cycle degrades mouth-blown glass over time, dulling the surface and increasing the risk of cracking. Hand-washing with warm water and a soft cloth takes thirty seconds per glass , treat it as part of owning a piece that will outlast most things in your kitchen."
+ "text": "No. Hand-blown crystal requires hand-washing without exception. The thermal and mechanical stress of a dishwasher cycle degrades hand-blown glass over time, dulling the surface and increasing the risk of cracking. Hand-washing with warm water and a soft cloth takes thirty seconds per glass , treat it as part of owning a piece that will outlast most things in your kitchen."
  }
  },
  {

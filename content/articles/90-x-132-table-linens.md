@@ -28,10 +28,10 @@ products:
   - id: "juliska-country-estate-table-runner"
     role: "also_consider"
     article_specific_pros:
-      - "Country Estate linen runner coordinates with the full Juliska ceramic and linen table collection"
+      - "Faux-linen table runner with relaxed farmhouse texture , reversible double-layer construction"
       - "Stonewashed finish means it does not require ironing , intentionally relaxed for a farmhouse aesthetic"
     article_specific_cons:
-      - "Premium pricing for a runner that explicitly does not press flat , a judgement call on the value of the brand's aesthetic"
+      - "Faux-linen texture is slightly stiffer than natural linen , worth feeling before committing to a full table set"
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
@@ -45,7 +45,7 @@ faq:
   - question: "How do I store tablecloths between uses to avoid deep creases?"
     answer: "Rolling tablecloths around a tube — a wrapping paper roll works — prevents the sharp fold lines that form when fabric is stacked flat. For polyester tablecloths especially, those fold creases can be stubborn and require steaming to remove before use. Linen is more forgiving once laid out and given a few minutes to relax, but rolling still extends the time between needing to press or steam before an event."
   - question: "Can a table runner replace a tablecloth for a 6-foot folding table?"
-    answer: "A table runner alone leaves the table surface exposed on the sides, which works well on a wood or stone table where the surface itself is part of the aesthetic. For a folding table, a runner by itself won't conceal the utilitarian legs and frame. The Juliska Country Estate Table Runner is designed to layer over a base tablecloth, not replace one."
+    answer: "A table runner alone leaves the table surface exposed on the sides, which works well on a wood or stone table where the surface itself is part of the aesthetic. For a folding table, a runner by itself won't conceal the utilitarian legs and frame. A faux-linen table runner is designed to layer over a base tablecloth, not replace one."
 ---
 
 Finding the right 90 x 132 table linens means understanding what that size actually does , it's the standard drop for a 6-foot rectangular banquet table, long enough to cover the sides cleanly or reach the floor depending on your table height. The size sounds specific, but it opens up a wide set of choices in fabric, finish, and formality. Browsing the full range of [table linens](/linens/) before narrowing down is worth doing, because the material you choose shapes the entire look of the table.
@@ -110,13 +110,13 @@ The honest limitation: polyester folds and stores in creases that don't fall out
 
 ### Farmhouse Rustic Faux Linen Table Runner
 
-A table runner does different work than a tablecloth , it layers over a bare table or a base cloth, adds a stripe of texture and pattern down the center, and creates visual focus without committing to full coverage. The [Juliska Country Estate Table Runner](product:juliska-country-estate-table-runner) is designed to coordinate with the full Juliska ceramic and linen collection, which makes it a strong choice if you're already building a cohesive table around that aesthetic.
+A table runner does different work than a tablecloth , it layers over a bare table or a base cloth, adds a stripe of texture down the center, and creates visual focus without committing to full coverage. The [DII Faux-Linen Table Runner](product:juliska-country-estate-table-runner) brings relaxed farmhouse texture with reversible double-layer construction , two surface options from one piece, and enough body to drape well over a base cloth.
 
-The stonewashed linen finish is intentionally relaxed , it does not press flat, and that's the point. This runner is built for a farmhouse-style table where a knife-edge crease would look out of place. The Country Estate pattern brings illustrated botanical and garden motifs that work particularly well on a long rectangular table set for a casual dinner or a weekend lunch.
+The stonewashed faux-linen finish is intentionally relaxed , it does not press flat, and that's the point. This runner is built for a farmhouse-style table where a knife-edge crease would look out of place. The texture works particularly well on a long rectangular table set for a casual dinner or a weekend lunch.
 
-At a premium price for a runner, the value judgment comes down to whether you're buying into the Juliska table system or looking for a standalone piece. As a standalone runner, you can find more affordable options. As part of a layered Juliska table setting, the coordination is genuinely seamless , the fabrics are matched to the ceramics, which is rare.
+The reversible double-layer construction is the practical advantage: you get two looks from one purchase, and the layered weight gives the runner more body than a single-layer option at the same price. For buyers who want a farmhouse-register runner that layers beautifully and launders without ceremony, this is a strong choice.
 
-![Juliska Country Estate linen table runner on a farmhouse dining table](/images/articles/linens-3.jpg)
+![Faux-linen table runner with relaxed farmhouse texture on a dining table](/images/articles/linens-3.jpg)
 
 ,
 
@@ -167,7 +167,7 @@ Linen reads as more elevated at a formal dinner because of its texture, natural 
 Pre-washed Belgian linen napkins don't require ironing, and attempting to press them perfectly flat works against the material's character. A light steam while slightly damp removes the sharpest fold lines from storage, but the relaxed texture that remains is intentional, not a flaw. If your table style requires geometrically precise folds, linen is not the right choice , cotton presses flat and holds the crease far more reliably.
 ### Can I use a table runner instead of a tablecloth for a 6-foot table?
 
-A table runner alone leaves the table surface exposed on the sides, which works well on a wood or stone table where the surface itself is part of the aesthetic. For a folding table, a runner by itself won't conceal the table's utilitarian legs and frame , you'd want a full tablecloth underneath. The [Juliska Country Estate Table Runner](product:juliska-country-estate-table-runner) is designed to layer over a base tablecloth, not replace one.
+A table runner alone leaves the table surface exposed on the sides, which works well on a wood or stone table where the surface itself is part of the aesthetic. For a folding table, a runner by itself won't conceal the table's utilitarian legs and frame , you'd want a full tablecloth underneath. A faux-linen table runner is designed to layer over a base tablecloth, not replace one.
 ### How do I store tablecloths to avoid deep creases?
 
 Rolling tablecloths around a tube , a wrapping paper roll works , prevents the sharp fold lines that form when fabric is stacked flat. For polyester tablecloths especially, those fold creases can be stubborn and require steaming to remove before use. Linen is more forgiving once laid out and given a few minutes to relax, but rolling still extends the time between needing to press or steam before an event.
@@ -205,7 +205,7 @@ Rolling tablecloths around a tube , a wrapping paper roll works , prevents the s
  "name": "Can I use a table runner instead of a tablecloth for a 6-foot table?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "A table runner alone leaves the table surface exposed on the sides, which works well on a wood or stone table where the surface itself is part of the aesthetic. For a folding table, a runner by itself won't conceal the table's utilitarian legs and frame , you'd want a full tablecloth underneath. The Juliska Country Estate Table Runner is designed to layer over a base tablecloth, not replace one."
+ "text": "A table runner alone leaves the table surface exposed on the sides, which works well on a wood or stone table where the surface itself is part of the aesthetic. For a folding table, a runner by itself won't conceal the table's utilitarian legs and frame , you'd want a full tablecloth underneath. A faux-linen table runner is designed to layer over a base tablecloth, not replace one."
  }
  },
  {

@@ -28,10 +28,10 @@ products:
   - id: "juliska-country-estate-table-runner"
     role: "also_consider"
     article_specific_pros:
-      - "Country Estate linen runner coordinates with the full Juliska ceramic and linen table collection"
+      - "Faux-linen table runner with relaxed farmhouse texture , reversible double-layer construction"
       - "Stonewashed finish means it does not require ironing , intentionally relaxed for a farmhouse aesthetic"
     article_specific_cons:
-      - "Premium pricing for a runner that explicitly does not press flat , a judgement call on the value of the brand's aesthetic"
+      - "Faux-linen texture is slightly stiffer than natural linen , worth feeling before committing to a full table set"
 tags: ["linens", "buyer_guide"]
 disclosure_required: true
 noindex: false
@@ -42,8 +42,8 @@ faq:
     answer: "Add twice your desired drop to both the length and width of your table. A table measuring 36 by 72 inches with a twelve-inch drop on each side needs a cloth that is 60 by 96 inches. The listed dimensions on a tablecloth refer to the cloth itself, not the table it fits — never assume that a label reading 'seats 6' tells you the cloth dimensions. Measure first, then calculate."
   - question: "Is the April Cornell floral tablecloth appropriate for a formal dinner?"
     answer: "It suits a formal table that is deliberately eclectic — mixed china, candlelight, layered flowers — rather than a white-tablecloth formal setting where uniformity is the point. If your formal dining style runs to collected and layered, the print reads as considered and intentional. If your formal aesthetic is streamlined and minimal, the print weight will work against the mood you are building."
-  - question: "Is the Juliska Country Estate runner worth the premium if I don't own other Juliska pieces?"
-    answer: "It is a reasonable purchase if the stonewashed farmhouse aesthetic is exactly what you want and you are comfortable with the premium on its own terms. The linen texture and neutral colorway are flexible enough to work on a range of tables without requiring the surrounding ceramics. Where the premium becomes harder to justify is when comparing it to other stonewashed linen runners on material quality alone, because brand coordination is a meaningful part of what you are paying for."
+  - question: "Is the faux-linen table runner worth the premium for a vintage-leaning table?"
+    answer: "It is a reasonable purchase if the stonewashed farmhouse aesthetic is exactly what you want. The faux-linen texture and neutral colorway are flexible enough to work on a range of tables, and the reversible double-layer construction gives you two surface options from one piece. Where the premium is harder to justify is when comparing it to other stonewashed runners on material quality alone."
   - question: "How do I remove wrinkles from a polyester tablecloth without an iron?"
     answer: "A handheld steamer is the most efficient approach and avoids the shine marks a hot iron can leave on polyester. Hang the cloth vertically and work the steamer down in sections, letting gravity do part of the work. If you do not have a steamer, hang the cloth in a hot shower for ten to fifteen minutes, then smooth it onto the table while slightly damp. The black polyester tablecloth responds well to the steamer approach and sets flat within a few minutes."
 ---
@@ -116,13 +116,13 @@ The one real management requirement is wrinkle removal after storage. Polyester 
 
 ### Farmhouse Rustic Faux Linen Table Runner
 
-The [Juliska Country Estate Table Runner](product:juliska-country-estate-table-runner) occupies a specific position in the table linen market: it's designed to work within an entire coordinated table system, and it performs that job with genuine intention. The Country Estate collection spans ceramics, glassware, and linens, and the runner is the textile anchor of that system. If you own Juliska pieces and want the table to read as considered rather than assembled, the runner completes that picture in a way a standalone piece cannot.
+The [DII Faux-Linen Table Runner](product:juliska-country-estate-table-runner) brings relaxed farmhouse texture with reversible double-layer construction , two surface options and enough body to drape naturally on a set table. The stonewashed finish is worth addressing directly: this runner will not press flat, and that's a deliberate design choice rather than a quality shortfall.
 
-The stonewashed finish is worth addressing directly. This is a linen that will not press flat, and that's a deliberate design choice rather than a quality shortfall. The relaxed, slightly rumpled surface is the aesthetic , it suits a long farmhouse table set for a casual gathering, morning light, and food that is meant to be shared rather than presented. If your entertaining style runs to precisely pressed formal tablecloths, this piece is pointed in the wrong direction.
+The relaxed, slightly rumpled surface is the aesthetic , it suits a long farmhouse table set for a casual gathering, morning light, and food that is meant to be shared rather than presented. If your entertaining style runs to precisely pressed formal tablecloths, this piece is pointed in the wrong direction.
 
-Premium pricing on a runner that explicitly resists ironing is a genuine value judgement. The answer depends on whether you're buying a textile or buying into a coordinated table language. For collectors building a Juliska table, the runner is the natural completion. For buyers comparing runners on material value alone, there are less expensive pieces that do the same functional job.
+The value is clear for the buyer who wants a runner that looks genuinely worn-in from the first use and launders without ceremony. For buyers comparing runners on material value alone, there are less expensive pieces that do the same functional job. The stonewashed quality and reversible construction are what set it apart.
 
-![Stonewashed linen table runner on a farmhouse-style dining table](/images/articles/linens-3.jpg)
+![Stonewashed faux-linen table runner on a farmhouse-style dining table](/images/articles/linens-3.jpg)
 
 ,
 
@@ -150,7 +150,7 @@ For runners, the standard guidance is to leave six to eight inches hanging off e
 
 ### Evaluate Coordination Versus Independence
 
-Some table linens are designed to work as standalone pieces , they have enough visual completeness to anchor a table setting on their own authority. Others are designed to work within a coordinated collection, and they read as slightly incomplete when pulled out of that system. Pieces designed for collection coordination , like those built to pair with specific ceramics , are worth buying if you're invested in that collection and not worth the premium if you're not.
+Some table linens are designed to work as standalone pieces , they have enough visual completeness to anchor a table setting on their own authority. Others are designed to work within a coordinated collection, and they read as slightly incomplete when pulled out of that system. Pieces with flexible, non-proprietary aesthetics work best across a range of tables.
 
 The [table linen](/linens/) options that perform best across a range of tables tend to be the ones with flexible, non-proprietary aesthetics: a stonewashed plain linen, a classic stripe, or a botanical print with enough open space to breathe alongside other patterns. Pieces designed around a brand's proprietary pattern language are worth their premium for the right buyer and represent a category mismatch for everyone else.
 
@@ -168,9 +168,9 @@ A true vintage tablecloth is a textile produced in an earlier era , typically pr
 It depends on the visual register of your formal setting. [April Cornell Vintage Floral Linen Tablecloth](product:april-cornell-floral-linen-tablecloth) suits a formal table that is deliberately eclectic , mixed china, candlelight, flowers , rather than a white-tablecloth formal setting where uniformity is the point. If your formal dining style runs to collected and layered, it reads as considered and intentional. If your formal aesthetic is streamlined and minimal, the print weight will work against the mood you're building.
 ### Can I use a 60x102 tablecloth on a table that isn't exactly 60 inches wide?
 Yes, with some adjustment to expectations. The 60x102 dimension is the cloth size, not the table size. On a narrower table , say, 36 inches wide , a 60-inch-wide cloth will have a drop of approximately twelve inches on each side, which reads as a formal hang. On a table closer to 48 inches wide, the drop is six inches per side, which is casual.
-### Is the Juliska Country Estate Table Runner worth buying if I don't own other Juliska pieces?
+### Is the faux-linen table runner worth the premium for a vintage-leaning table?
 
-It's a reasonable purchase if the stonewashed farmhouse aesthetic is exactly what you want and you're comfortable with the premium pricing on its own terms. The runner reads as a complete piece without requiring the surrounding ceramics , the linen texture and neutral colorway are flexible enough to work on a range of tables. Where the premium pricing becomes harder to justify is if you're comparing it to other stonewashed linen runners on material quality alone, because the brand coordination premium is a meaningful part of what you're paying for.
+It's a reasonable purchase if the stonewashed farmhouse aesthetic is exactly what you want. The runner reads as a complete piece on its own , the faux-linen texture and neutral colorway are flexible enough to work on a range of tables. The reversible double-layer construction gives you two surface options from one piece. Where the premium pricing is harder to justify is if you're comparing it to other stonewashed runners on material quality alone.
 ### How do I remove wrinkles from a polyester tablecloth without an iron?
 
 A handheld steamer is the most efficient approach and won't leave the shine marks that a hot iron can leave on polyester. Hang the cloth vertically and work the steamer down in sections, letting gravity do part of the work. If you don't have a steamer, a shower method works , hang the cloth in a hot shower for ten to fifteen minutes and then smooth it onto the table while slightly damp. The [LinenTablecloth Black Polyester Tablecloth 60x102](product:linen-tablecloth-black-rectangle-60x102) responds well to the steamer approach and sets flat within a few minutes.
@@ -205,10 +205,10 @@ A handheld steamer is the most efficient approach and won't leave the shine mark
  },
  {
  "@type": "Question",
- "name": "Is the Juliska Country Estate Table Runner worth buying if I don't own other Juliska pieces?",
+ "name": "Is the faux-linen table runner worth the premium for a vintage-leaning table?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "It's a reasonable purchase if the stonewashed farmhouse aesthetic is exactly what you want and you're comfortable with the premium pricing on its own terms. The runner reads as a complete piece without requiring the surrounding ceramics , the linen texture and neutral colorway are flexible enough to work on a range of tables. Where the premium pricing becomes harder to justify is if you're comparing it to other stonewashed linen runners on material quality alone, because the brand coordination premium is a meaningful part of what you're paying for."
+ "text": "It's a reasonable purchase if the stonewashed farmhouse aesthetic is exactly what you want. The runner reads as a complete piece on its own , the faux-linen texture and neutral colorway are flexible enough to work on a range of tables. The reversible double-layer construction gives you two surface options from one piece. Where the premium pricing is harder to justify is if you're comparing it to other stonewashed runners on material quality alone."
  }
  },
  {

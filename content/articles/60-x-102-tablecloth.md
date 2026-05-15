@@ -14,10 +14,10 @@ products:
   - id: "juliska-country-estate-tablecloth"
     role: "best_overall"
     article_specific_pros:
-      - "Country Estate pattern coordinates directly with Juliska's ceramic dinnerware line , a unified table for collectors"
-      - "Stonewashed linen has a relaxed, lived-in drape that suits the Country Estate farmhouse aesthetic"
+      - "Faux-linen table runner with relaxed farmhouse texture , reversible double-layer construction"
+      - "Stonewashed finish has a relaxed, lived-in drape that suits a farmhouse aesthetic without demanding ironing"
     article_specific_cons:
-      - "Linen wrinkles are part of the design intent , not suitable for guests who expect a pressed formal cloth"
+      - "Faux-linen wrinkles are part of the design intent , not suitable for guests who expect a pressed formal cloth"
   - id: "tablecloth-white-round-120in"
     role: "also_consider"
     article_specific_pros:
@@ -40,8 +40,8 @@ faq:
     answer: "A 60 x 102 tablecloth fits a standard 36 x 72 rectangular dining table with a 12-inch drop on all sides, which is the conventional home dining drop. If your table is longer — 84 or 96 inches — you'll need to move up to a 60 x 120 or 60 x 144 to maintain that same drop proportion. Always measure your actual table surface before ordering."
   - question: "Linen vs cotton for a formal dinner tablecloth — which reads better?"
     answer: "Both are appropriate for formal dinners but they read differently. Hemstitched cotton holds a crisper press and photographs more formally; linen has a softer, more relaxed elegance that works beautifully for dinners where the mood is warm rather than stiff. If pressed formality is the goal, cotton is the more reliable choice. If you want elegance without rigidity, stonewashed linen earns its place at even a dressed table."
-  - question: "Juliska Country Estate Tablecloth vs Peacock Alley Hemstitch — which is better for a dinner party?"
-    answer: "They serve different tables almost entirely. The Juliska is designed for buyers inside the Country Estate ceramic ecosystem — it coordinates with the dinnerware pattern and creates a unified table that's hard to achieve otherwise. The Peacock Alley suits a buyer who wants understated formality in a specific color, with a hemstitch detail that elevates a plainer table. If you don't own Juliska ceramics, the Peacock Alley is the stronger general-purpose choice."
+  - question: "Faux-linen table runner vs Peacock Alley Hemstitch — which is better for a dinner party?"
+    answer: "They serve different tables almost entirely. The faux-linen runner is designed for a relaxed farmhouse aesthetic — reversible double-layer construction with a stonewashed texture that works without ironing. The Peacock Alley suits a buyer who wants understated formality in a specific color, with a hemstitch detail that elevates a plainer table. For a casual or warm-register dinner, the faux-linen is the easier choice; for a dressed formal table, the Peacock Alley is stronger."
   - question: "What drop length should I use for a home dining table?"
     answer: "A 12-inch drop on all sides is the standard for home entertaining — it covers the table legs without pooling on the floor and reads as deliberate and polished. An 8-inch drop reads more casual and is practical for everyday use where guests are moving in and out of chairs frequently. Anything over 15 inches approaches floor-length, which is a formal or event aesthetic that can feel excessive in a home dining room."
   - question: "Can a polyester tablecloth work for home entertaining, or does it only read well at events?"
@@ -80,13 +80,13 @@ Exploring the full range of [table linens](/linens/) before settling on one fabr
 
 ## Top Picks
 
-### Juliska Country Estate Tablecloth
+### DII Faux-Linen Table Runner
 
-For anyone who already collects Juliska's Country Estate ceramic line, this tablecloth is less of a purchase and more of a conclusion. The pattern coordinates directly with the dinnerware , same illustrated motifs, same palette , so the table reads as a composed whole rather than a collection of well-intentioned pieces. That's genuinely rare in the tabletop category, and it's worth naming plainly.
+The [DII Faux-Linen Table Runner](product:juliska-country-estate-tablecloth) is the answer for a buyer who wants the relaxed farmhouse look without the ironing requirement of natural linen. The reversible double-layer construction gives you two surface options from one piece, and the stonewashed faux-linen finish reads as deliberately casual rather than imprecisely pressed.
 
-The stonewashed linen has a relaxed, lived-in drape that suits the Country Estate farmhouse aesthetic. It doesn't want to be pressed into sharp creases, and it shouldn't be , that's not what the fabric or the pattern are for. If you set a casual Sunday lunch or a dinner party where the mood is warm and unpretentious, the wrinkle is part of the texture, not a flaw in your hosting.
+The lived-in drape is the feature that earns this piece its place. It doesn't want to be pressed into sharp creases, and it shouldn't be , that's not what the fabric is for. If you set a casual Sunday lunch or a dinner party where the mood is warm and unpretentious, the wrinkle is part of the texture, not a flaw in your hosting.
 
-The honest caveat is that this cloth is designed for a specific visual world. Guests who expect a crisp, white formal cloth will find it too relaxed. And if you're not already in the Juliska ecosystem, the pattern coordinates only with itself. For the buyer it's made for , someone building a table around Country Estate pieces , it earns its place without qualification.
+The honest constraint is that this cloth is designed for a specific visual register. Guests who expect a crisp, white formal cloth will find it too relaxed. For a farmhouse table, a harvest dinner, or a setting that leans into warmth over formality, it earns its place without qualification.
 
 ![A linen tablecloth with a country estate print pattern laid over a farmhouse dining table](/images/articles/linens-1.jpg)
 
@@ -138,7 +138,7 @@ If your table is narrower than 36 inches, the end drop on a 60 x 102 will be pro
 
 ### Consider the Rest of the Setting
 
-A tablecloth doesn't exist in isolation. It sits under your dinnerware, next to your napkins, and across from your centerpiece , and all of those elements either reinforce each other or fight for attention. A white cloth defers to everything else and gives you maximum flexibility. A strongly patterned cloth, like the Juliska Country Estate, anchors the table visually but requires the rest of the setting to follow its lead.
+A tablecloth doesn't exist in isolation. It sits under your dinnerware, next to your napkins, and across from your centerpiece , and all of those elements either reinforce each other or fight for attention. A white cloth defers to everything else and gives you maximum flexibility. A strongly textured cloth, like the faux-linen runner, anchors the table warmth visually but works best when the rest of the setting follows the casual register.
 
 For buyers who like to mix and vary their table from season to season, a solid or subtly textured cloth in a neutral or muted tone is the most versatile foundation. For buyers committed to a specific aesthetic, leaning into a coordinated pattern pays off in ways a safe neutral never will.
 
@@ -160,9 +160,9 @@ A 60 x 102 tablecloth fits a standard 36 x 72 rectangular dining table with a 12
 ### Is linen or cotton better for a formal dinner tablecloth?
 
 Both are appropriate for formal dinners, but they read differently. Hemstitched cotton, like the Peacock Alley, holds a crisper press and photographs more formally; linen has a softer, more relaxed elegance that works beautifully for dinners where the mood is warm rather than stiff. If pressed formality is the goal, cotton is the more reliable choice. If you want elegance without rigidity, stonewashed linen earns its place at even a dressed table.
-### How does the Juliska Country Estate Tablecloth compare to the Peacock Alley Hemstitch for a dinner party?
+### How does the faux-linen table runner compare to the Peacock Alley Hemstitch for a dinner party?
 
-They serve different tables almost entirely. The Juliska is designed for buyers inside the Country Estate ceramic ecosystem , it coordinates with the dinnerware pattern and creates a unified table that's hard to achieve otherwise. The Peacock Alley suits a buyer who wants understated formality in a specific color, with a hemstitch detail that elevates a plainer table. If you don't own Juliska ceramics, the Peacock Alley is the stronger general-purpose choice.
+They serve different tables almost entirely. The faux-linen runner is designed for a relaxed farmhouse aesthetic , reversible double-layer construction with a stonewashed texture that works without ironing. The Peacock Alley suits a buyer who wants understated formality in a specific color, with a hemstitch detail that elevates a plainer table. For a casual or warm-register dinner, the faux-linen is the easier choice; for a dressed formal table, the Peacock Alley is stronger.
 ### Can a polyester tablecloth work for home entertaining, or does it only read well at events?
 
 A polyester cloth like the white round option can work at home if practicality is the priority and the setting is casual , a large family gathering, a buffet, or a kids' table where the cloth is functional rather than decorative. Under candles at a dinner party, the synthetic sheen becomes visible in ways that matter. For those occasions, natural fiber is worth the extra laundry effort.
@@ -192,10 +192,10 @@ A 12-inch drop on all sides is the standard for home entertaining , it covers th
  },
  {
  "@type": "Question",
- "name": "How does the Juliska Country Estate Tablecloth compare to the Peacock Alley Hemstitch for a dinner party?",
+ "name": "How does the faux-linen table runner compare to the Peacock Alley Hemstitch for a dinner party?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "They serve different tables almost entirely. The Juliska is designed for buyers inside the Country Estate ceramic ecosystem , it coordinates with the dinnerware pattern and creates a unified table that's hard to achieve otherwise. The Peacock Alley suits a buyer who wants understated formality in a specific color, with a hemstitch detail that elevates a plainer table. If you don't own Juliska ceramics, the Peacock Alley is the stronger general-purpose choice."
+ "text": "They serve different tables almost entirely. The faux-linen runner is designed for a relaxed farmhouse aesthetic , reversible double-layer construction with a stonewashed texture that works without ironing. The Peacock Alley suits a buyer who wants understated formality in a specific color, with a hemstitch detail that elevates a plainer table. For a casual or warm-register dinner, the faux-linen is the easier choice; for a dressed formal table, the Peacock Alley is stronger."
  }
  },
  {
