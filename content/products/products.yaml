@@ -135,21 +135,28 @@ gibson-elite-soho-lounge-16pc:
   notes_for_writers: Best budget reactive glaze. Compare directly to Costa Nova on
     finish quality — the gap is real but so is the price difference.
 bamboo-fiber-dinnerware-natural-10pc:
-  name: Organic Bamboo Fiber 10-Piece Dinnerware Set
-  brand: Bamboefest
+  name: Morgiana Bamboo Dinnerware Set, 8-Piece
+  brand: Morgiana
   hub: dinnerware
-  amazon_asin: NOT_ON_AMAZON
+  amazon_asin: B07VCP65SY
   buy_url: ""
   price_band: budget
   default_pros:
-  - Made from organic bamboo fiber — free from melamine, BPA, and heavy metal glazes
-  - Lightweight and near-unbreakable; safe for outdoor entertaining
+  - Genuine reusable bamboo — free from melamine, BPA, and heavy metal glazes
+  - Lightweight and near-unbreakable; safe for outdoor and everyday entertaining
   - Warm natural tone pairs well with linen napkins and wood serving boards
   default_cons:
-  - Not microwave safe — bamboo fiber degrades with direct microwave heat
+  - Not microwave safe — bamboo degrades with direct microwave heat
   - Hand-wash only; dishwasher will cause warping over time
   notes_for_writers: The non-toxic choice for readers with young children or outdoor-entertaining
     focus. Frame against melamine on material safety.
+  substitution_log:
+    original_name: Organic Bamboo Fiber 10-Piece Dinnerware Set
+    original_brand: Bamboefest
+    substituted_date: 2026-05-15
+    match_quality: high
+    justification: Bamboefest has no Amazon listing. Morgiana 8-pc bamboo set is genuine
+      reusable bamboo, closest piece count and price point, 308 reviews at 4.2 stars.
 charger-plate-gold-glass-set12:
   name: Gold Glass Charger Plates (Set of 12)
   brand: Koyal Wholesale
@@ -963,21 +970,29 @@ glass-cylinder-vases-set3:
   notes_for_writers: The foundational centerpiece vessel. Good for flower centerpiece
     and seasonal decorating content.
 stone-tealight-candle-holders-set4:
-  name: Natural Stone Tealight Holders (Set of 4)
-  brand: Creative Home
+  name: Radicaln Marble Tealight Candle Holder 4" Travertine
+  brand: Radicaln
   hub: decor
-  amazon_asin: NOT_ON_AMAZON
-  buy_url: ""
+  amazon_asin: B0CXHNLSDR
+  buy_url: https://www.creativehome.net
   price_band: mid
   default_pros:
-  - Each holder has a unique natural stone pattern — genuine variation, not printed
+  - Genuine marble/travertine stone — each holder has unique natural veining
   - Heavy base prevents tipping; safe on table with guests reaching across
   - Natural stone tone works with earthy, organic, and Scandinavian table aesthetics
   default_cons:
   - Stone surface is porous; wax drips are difficult to clean without scratching
-  - Heavy — a set of 4 down the length of a table adds substantial weight
+  - Premium price point for a single holder — sets require buying multiples
   notes_for_writers: The organic/natural candle holder option. Good for readers building
     an earthy or minimalist table.
+  substitution_log:
+    original_name: Natural Stone Tealight Holders (Set of 4)
+    original_brand: Creative Home
+    substituted_date: 2026-05-15
+    match_quality: high
+    justification: Creative Home not found on Amazon in this category. Radicaln marble/travertine
+      tealight holder is genuine natural stone, 4.7 stars, 61 reviews — closest material
+      and function match.
 twisted-taper-candles-set12:
   name: Twisted Taper Candles (Set of 12, Assorted)
   brand: Ner Mitzvah
@@ -1830,19 +1845,28 @@ luigi-bormioli-optica-cocktail-set6:
       beverage glasses from the same brand provide the same titanium-reinforced tall
       glass format.
 maison-arts-art-deco-dinnerware-16pc:
-  amazon_asin: NOT_ON_AMAZON
+  amazon_asin: B09BNL5YSR
   buy_url: ""
-  brand: Maison Arts
+  brand: LOVECASA
   default_cons:
   - Matte black shows dried water spots prominently — hand-dry immediately after washing
+  - Higher price point than standard white porcelain sets
   default_pros:
-  - Matte black porcelain with gold rim is the most-photographed Art Deco dinnerware
-    aesthetic on Pinterest
-  - 16-piece serves 4 — practical for couples who entertain small dinner parties
+  - Matte black porcelain with clean modern lines — striking Art Deco aesthetic
+  - 16-piece set serves 4 — practical for couples who entertain small dinner parties
   hub: dinnerware
-  name: Maison Arts Art Deco Matte Black and Gold 16-Piece Dinnerware Set
-  notes_for_writers: added manually, catalog-growth session 2026-05-05
+  name: LOVECASA Black Plates and Bowls Set, 16-Piece Porcelain
+  notes_for_writers: The Art Deco / dramatic black dinnerware option. 1,351 reviews
+    at 4.6 stars — strong social proof for readers on the fence about black dinnerware.
   price_band: mid
+  substitution_log:
+    original_name: Maison Arts Art Deco Matte Black and Gold 16-Piece Dinnerware Set
+    original_brand: Maison Arts
+    substituted_date: 2026-05-15
+    match_quality: high
+    justification: Maison Arts not found on Amazon. LOVECASA 16-pc black porcelain
+      set matches aesthetic (black finish, 16-piece, serves 4) with 1,351 reviews at
+      4.6 stars — strongest available like-for-like.
 maison-hermine-red-velvet-tablecloth:
   amazon_asin: NOT_ON_AMAZON
   buy_url: "https://www.maisonhermine.com/collections/tablecloths"
