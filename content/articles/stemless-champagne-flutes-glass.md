@@ -38,8 +38,8 @@ noindex: false
 faq:
   - question: "Stemless champagne flutes vs traditional stemmed flutes — which is more practical?"
     answer: "Stemless flutes eliminate the most common breakage point and are safer to wash and store. The trade-off is that they warm faster in hand — body heat transfers directly to the bowl without a stem as insulation. If you pour cold and drink within 10 to 12 minutes, which describes most social settings, the warming rate is a non-issue. For formal tastings where a glass sits for 30 minutes and temperature discipline matters, a stemmed flute is the more technically correct choice."
-  - question: "Estelle colored glass flutes vs Zwiesel Enoteca — which is better for a formal dinner table?"
-    answer: "They serve different functions. The Estelle Colored Glass flutes in cobalt are a visual statement — the color reads as a deliberate design choice and contributes to the table's aesthetic in a way clear crystal doesn't. The Zwiesel Enoteca is the technically superior drinking glass: clearer, thinner-walled, better for appreciating the wine itself. For a dinner where the table design is the primary consideration, choose Estelle. For a dinner where the wine is the focus, choose Zwiesel."
+  - question: "Cobalt blue champagne flutes vs Zwiesel Enoteca — which is better for a formal dinner table?"
+    answer: "They serve different functions. The hand-blown cobalt blue flutes are a visual statement — the color reads as a deliberate design choice and contributes to the table's aesthetic in a way clear crystal doesn't. The Zwiesel Enoteca is the technically superior drinking glass: clearer, thinner-walled, better for appreciating the wine itself. For a dinner where the table design is the primary consideration, choose the cobalt blue set. For a dinner where the wine is the focus, choose Zwiesel."
   - question: "Is Tritan crystal actually dishwasher safe or will it cloud over time?"
     answer: "Tritan crystal, used in the Zwiesel Glas Enoteca, is engineered to resist the mineral etching that causes standard crystal and glass to cloud under repeated dishwasher cycles. In practice, water hardness matters — very hard water will degrade any glass faster, Tritan included. Using a rinse aid and avoiding high-heat drying cycles extends the glass's clarity considerably."
   - question: "Libbey Embassy champagne flutes — are they good enough for a party or just backup glasses?"
@@ -82,11 +82,11 @@ Before buying for a crowd, consider how the glasses stack or nest in your cabine
 
 ### Blue Champagne Flutes Set of 6 6oz
 
-Few glasses create a table moment the way the [Estelle Colored Glass Champagne Flutes Cobalt Blue Set of 2](product:estelle-colored-glass-champagne-cobalt-set2) do. The cobalt is deep and saturated , not the washed-out blue you sometimes see in mass-produced colored glass , and hand-blowing means each pair carries slight variation that makes a set of them feel collected rather than purchased.
+Few glasses create a table moment the way the [Blue Champagne Flutes Set of 6](product:estelle-colored-glass-champagne-cobalt-set2) do. The cobalt is deep and saturated , not the washed-out blue you sometimes see in mass-produced colored glass , and hand-blowing means each glass carries slight variation that makes a set of them feel collected rather than purchased.
 
 I'd be direct about the trade-off: you're not buying these because they're the most practical option. You're buying them because they're beautiful, and that's a legitimate reason. The colored glass obscures the wine itself, which matters if you like watching the bead of a good Champagne, but at a candlelit table that's a secondary concern.
 
-The sold-in-pairs format is the real limiting factor for entertaining. A table of eight requires four orders, and the cumulative cost climbs quickly. I'd recommend these as accent pieces alongside a larger practical set , two or four Estelles at a table of eight creates a visual anchor without the full investment of outfitting everyone.
+The set of six makes these workable for a full dinner party in a single order, which removes the per-glass accumulation cost that comes with buying in pairs. A cobalt blue set alongside clear crystal stems creates a visual anchor without the full investment of outfitting every seat in colored glass.
 
 ![Cobalt blue hand-blown champagne flutes on a candlelit table setting](/images/articles/glassware-1.jpg)
 
@@ -126,7 +126,7 @@ The one honest limitation is optical: machine-pressed glass has a slight gray ca
 
 ### Match the Glass to the Occasion
 
-Not every hosting situation calls for the same glass. A formal New Year's dinner with eight seated guests demands a different calculus than an outdoor garden party where glasses move from table to hand to table again. The Estelle flutes belong at the former , stationary, candlelit, where their visual weight is an asset. The Libbey Embassy belongs at the latter, where attrition is predictable and replacing one glass costs almost nothing.
+Not every hosting situation calls for the same glass. A formal New Year's dinner with eight seated guests demands a different calculus than an outdoor garden party where glasses move from table to hand to table again. The cobalt blue flutes belong at the former , stationary, candlelit, where their visual weight is an asset. The Libbey Embassy belongs at the latter, where attrition is predictable and replacing one glass costs almost nothing.
 
 The Zwiesel Enoteca occupies the everyday premium position: fine enough to feel intentional at a dinner table, durable enough for regular use without the anxiety of owning something fragile.
 
@@ -165,8 +165,8 @@ Stemless flutes work across most sparkling wine styles , Cava, Crémant, Blanc d
 ### Is Tritan crystal really dishwasher safe, or will it cloud over time?
 
 Tritan crystal, the material used in the [Zwiesel Glas Enoteca](product:zwiesel-glas-enoteca-champagne-set2), is engineered to resist the mineral etching that causes standard crystal and glass to cloud under repeated dishwasher cycles. In practice, water hardness matters , very hard water will degrade any glass faster, Tritan included. Using a rinse aid and avoiding high-heat drying cycles extends the glass's clarity considerably. I've used Zwiesel Tritan pieces through hundreds of dishwasher cycles without visible degradation under normal household water conditions.
-### How do the Estelle flutes compare to the Zwiesel Enoteca for a formal dinner setting?
-They serve different functions at a formal table. The [Estelle Colored Glass](product:estelle-colored-glass-champagne-cobalt-set2) flutes are a visual statement , the cobalt reads as a deliberate design choice and contributes to the table's aesthetic in a way clear crystal doesn't. The Zwiesel Enoteca is the technically superior drinking glass: clearer, thinner-walled, better for appreciating the wine itself. For a dinner where the table design is a primary consideration, Estelle.
+### How do the cobalt blue flutes compare to the Zwiesel Enoteca for a formal dinner setting?
+They serve different functions at a formal table. The [Blue Champagne Flutes Set of 6](product:estelle-colored-glass-champagne-cobalt-set2) are a visual statement , the cobalt reads as a deliberate design choice and contributes to the table's aesthetic in a way clear crystal doesn't. The Zwiesel Enoteca is the technically superior drinking glass: clearer, thinner-walled, better for appreciating the wine itself. For a dinner where the table design is a primary consideration, the cobalt blue set.
 ### What's the minimum set size worth buying for a dinner party of six?
 
 Eight glasses is the practical answer. Six accounts for your seated guests; the additional two cover a breakage or a last-minute addition without requiring a second pour from a different glass. The [Libbey Embassy set of 8](product:libbey-embassy-champagne-flutes-set8) is sized precisely for this use case. If you're hosting twelve regularly, buying two sets of eight and retiring the casualties as they accumulate is more economical than buying a specialty large-format set.
@@ -201,10 +201,10 @@ Eight glasses is the practical answer. Six accounts for your seated guests; the 
  },
  {
  "@type": "Question",
- "name": "How do the Estelle flutes compare to the Zwiesel Enoteca for a formal dinner setting?",
+ "name": "How do the cobalt blue flutes compare to the Zwiesel Enoteca for a formal dinner setting?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "They serve different functions at a formal table. The Estelle Colored Glass flutes are a visual statement , the cobalt reads as a deliberate design choice and contributes to the table's aesthetic in a way clear crystal doesn't. The Zwiesel Enoteca is the technically superior drinking glass: clearer, thinner-walled, better for appreciating the wine itself. For a dinner where the table design is a primary consideration, Estelle. For a dinner where the wine is the focus, Zwiesel."
+ "text": "They serve different functions at a formal table. The hand-blown cobalt blue flutes are a visual statement , the color reads as a deliberate design choice and contributes to the table's aesthetic in a way clear crystal doesn't. The Zwiesel Enoteca is the technically superior drinking glass: clearer, thinner-walled, better for appreciating the wine itself. For a dinner where the table design is a primary consideration, the cobalt blue set. For a dinner where the wine is the focus, Zwiesel."
  }
  },
  {

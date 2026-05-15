@@ -42,8 +42,8 @@ faq:
     answer: "A thin non-slip pad cut to the runner's dimensions and placed underneath solves this completely — most fabric and kitchen stores carry them by the yard. The DII Sarape has a lighter cotton weave that shifts on polished wood or glass without a pad. A heavier weave or a linen-cotton blend will sit more stably on its own if you prefer not to use a grip pad."
   - question: "Can a sarape table runner be used year-round or only for Mexican-themed occasions?"
     answer: "The sarape stripe works well on any table where warmth and color are the goal. It reads naturally alongside terracotta ceramics, hand-thrown pottery, and natural wood tables regardless of occasion. Pair it with solid or simply textured napkins so the stripe carries the visual without competing with everything else on the table. The article notes the key is matching the runner's visual energy to the occasion."
-  - question: "Chilewich vinyl-yarn runner vs cotton sarape runner — which holds up better long-term?"
-    answer: "The Chilewich vinyl-yarn weave is heat-resistant, water-resistant, and machine washable in a way that cotton runners are not. For a table that sees heavy regular use — dinner parties, outdoor entertaining, a holiday table set and cleared multiple times — the Chilewich handles real-world conditions without the color-fade and bleed concerns that come with deeply saturated cotton. Cotton sarape runners reward careful laundering in cold water and air-drying to maintain their color over time."
+  - question: "Woven linen runner vs cotton sarape runner — which holds up better long-term?"
+    answer: "A quality linen runner and a cotton sarape runner each have different strengths. Linen runners are generally heavier and more stable on the table surface, coordinate easily with formal settings, and launder reliably when cared for correctly. Cotton sarape runners are lighter, more casual in register, and require cold-water washing to maintain their saturated color over time. For a table that sees heavy regular use, a linen runner tends to hold its structure longer; for festive or seasonal use, the sarape pattern carries visual weight that a solid linen cannot."
   - question: "How do I prevent a bright-colored Mexican table runner from bleeding color in the wash?"
     answer: "Wash the runner separately in cold water before the first use to check for bleeding. A runner that holds its color through repeated cold washes is worth keeping. Use cold water consistently, avoid high-heat machine drying, and air-dry rather than tumble-dry to extend the life of a cotton sarape runner significantly. Runners with deeply saturated reds and oranges are the most prone to bleeding — the article identifies colorfastness as a non-negotiable in this category."
 ---
@@ -96,13 +96,13 @@ For most buyers setting a festive table on a budget, this is the pick. The patte
 
 ### Classic Linen by D'Moksha Navy Blue Table Runner 84"
 
-The [Chilewich Trellis Woven Table Runner in Navy](product:chilewich-trellis-woven-navy-runner) is not a traditional Mexican runner , and it's worth being clear about that upfront. The trellis pattern is geometric and contemporary, and the vinyl-yarn construction has a slight sheen that reads as modern rather than artisanal. If pattern authenticity is the priority, this isn't the right choice.
+The [Classic Linen by D'Moksha Navy Blue Table Runner 84"](product:chilewich-trellis-woven-navy-runner) is not a traditional Mexican runner , and it's worth being clear about that upfront. The solid navy colourway is clean and versatile rather than festive or pattern-driven. If pattern authenticity is the priority, this isn't the right choice.
 
-What it offers instead is genuinely exceptional durability. Chilewich's vinyl-yarn weave is heat-resistant, water-resistant, and machine washable in a way that cotton runners simply aren't. For a table that sees heavy use , regular dinner parties, outdoor entertaining, a holiday table that gets set and cleared multiple times , the practical argument for this runner is hard to dismiss. The Navy Trellis colourway is neutral enough to pair with almost any table setting, and it photographs well against both warm and cool ceramic tones.
+What it offers instead is a neutral, well-constructed linen runner that coordinates with almost any table setting. The navy colourway is calm and formal, which pairs cleanly with white or cream china and warm-toned flatware. The 84-inch length suits most standard dining tables with a proper overhang on each end.
 
-Think of this as a runner for the buyer who entertains constantly and wants something that handles real-world conditions without worry, rather than the buyer who wants to honor a specific visual tradition.
+Think of this as a runner for the buyer who wants a neutral, everyday-formal foundation that works alongside patterned elements elsewhere on the table , rather than the buyer who wants the visual energy of the sarape tradition.
 
-![Navy trellis woven vinyl-yarn runner on a contemporary dining table](/images/articles/linens-2.jpg)
+![Navy linen table runner on a contemporary dining table](/images/articles/linens-2.jpg)
 
 ,
 
@@ -126,7 +126,7 @@ The no-iron stonewashed finish is a genuine practical advantage for anyone who h
 
 ### Decide Whether Pattern Matters or Practicality Does
 
-The first question isn't about budget , it's about what the runner needs to do. If you're setting a table for a specific occasion where the Mexican aesthetic is the point, pattern authenticity should drive the decision. The DII Sarape is the clear answer in that scenario. If you entertain year-round and need a runner that handles heat, spills, and frequent washing without degrading, the Chilewich earns serious consideration regardless of whether it fits a traditional Mexican visual.
+The first question isn't about budget , it's about what the runner needs to do. If you're setting a table for a specific occasion where the Mexican aesthetic is the point, pattern authenticity should drive the decision. The DII Sarape is the clear answer in that scenario. If you entertain year-round and want a neutral, reliable linen runner that coordinates broadly, the navy linen runner earns serious consideration regardless of whether it fits a traditional Mexican visual.
 
 These two requirements can pull in opposite directions, and it's worth naming which one matters more before you look at anything else.
 
@@ -134,11 +134,11 @@ These two requirements can pull in opposite directions, and it's worth naming wh
 
 A lighter cotton runner on a glass or high-gloss lacquered table will shift with every reach across the table. That's not a flaw in the runner , it's a fit problem. If your table surface is smooth and you entertain actively, either add a non-slip pad under a cotton runner or choose a construction with enough weight and texture to grip naturally.
 
-The Chilewich vinyl-yarn weave grips most surfaces better than cotton does. Heavier linen runners like the Juliska also tend to sit more stably. If your table is a smooth surface and you'd rather not think about grip pads, that's a practical constraint worth factoring into the decision early.
+Heavier linen runners and the D'Moksha navy runner tend to sit more stably on smooth surfaces than lightweight cotton does. If your table is a smooth surface and you'd rather not think about grip pads, that's a practical constraint worth factoring into the decision early.
 
 ### Consider the Rest of Your Linen Collection
 
-A table runner doesn't exist in isolation. If you're adding it to an existing set of napkins, placemats, and a tablecloth, the runner needs to hold its own against that context , not compete with it. Busy sarape stripes pair better with solid or subtly textured napkins than with patterned ones. The Navy Chilewich reads quietly enough to sit alongside almost anything.
+A table runner doesn't exist in isolation. If you're adding it to an existing set of napkins, placemats, and a tablecloth, the runner needs to hold its own against that context , not compete with it. Busy sarape stripes pair better with solid or subtly textured napkins than with patterned ones. The navy linen runner reads quietly enough to sit alongside almost anything.
 
 Thinking through the full linen context before ordering saves the frustration of a runner that looks right in isolation but wrong on your actual table. A good starting point is reviewing the full range of [linen options](/linens/) to understand what coordinates well within your existing collection.
 
@@ -158,9 +158,9 @@ Yes , the sarape stripe works well on any table where warmth and color are the g
 ### How do I keep a cotton Mexican table runner from sliding on my table?
 
 A thin non-slip pad cut to the runner's dimensions and placed underneath it solves this completely. Most fabric and kitchen shops carry them by the yard. Alternatively, a runner with a heavier weave or a linen-cotton blend will sit more stably on its own. The DII Sarape is lighter-weight, so a grip pad is genuinely worth using with it on smooth surfaces.
-### Can the Chilewich runner replace a Mexican table runner at a festive table?
+### Can a solid navy linen runner replace a Mexican table runner at a festive table?
 
-Not directly , the Trellis pattern is contemporary and geometric rather than traditionally Mexican. But it layers well alongside Mexican ceramic pieces, colored glassware, or embroidered napkins that carry the festive visual. If you want a durable foundation piece and plan to build the Mexican aesthetic through your tableware rather than through the runner itself, it works.
+Not directly , a solid navy colourway is calm and classic rather than festive or pattern-driven. But it layers well alongside Mexican ceramic pieces, colored glassware, or embroidered napkins that carry the festive visual. If you want a neutral foundation piece and plan to build the Mexican aesthetic through your tableware rather than through the runner itself, it works as a grounded base.
 ### Does the faux-linen table runner coordinate with Mexican-style table settings?
 
 It can, with the right supporting pieces. The stonewashed faux-linen texture and muted palette skew farmhouse rather than Mexican, so it doesn't signal the aesthetic on its own. Paired with painted Talavera-style ceramics, bold colored napkins, or hand-thrown pottery, the neutral quality of the faux-linen runner acts as a calm backdrop that lets those other elements lead.
@@ -190,10 +190,10 @@ A 90-inch runner gives you a comfortable 9-inch overhang on each end, which is t
  },
  {
  "@type": "Question",
- "name": "Can the Chilewich runner replace a Mexican table runner at a festive table?",
+ "name": "Can a solid navy linen runner replace a Mexican table runner at a festive table?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "Not directly , the Trellis pattern is contemporary and geometric rather than traditionally Mexican. But it layers well alongside Mexican ceramic pieces, colored glassware, or embroidered napkins that carry the festive visual. If you want a durable foundation piece and plan to build the Mexican aesthetic through your tableware rather than through the runner itself, it works."
+ "text": "Not directly , a solid navy colourway is calm and classic rather than festive or pattern-driven. But it layers well alongside Mexican ceramic pieces, colored glassware, or embroidered napkins that carry the festive visual. If you want a neutral foundation piece and plan to build the Mexican aesthetic through your tableware rather than through the runner itself, it works as a grounded base."
  }
  },
  {

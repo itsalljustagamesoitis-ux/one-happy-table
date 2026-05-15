@@ -39,9 +39,9 @@ faq:
   - question: "How tall should a centerpiece be so it doesn't block conversation at a dinner table?"
     answer: "Stay either clearly below chin height when seated — under about twelve inches — or clearly above eye level at over twenty-four inches, so guests are not straining around the arrangement. Pieces in the middle range tend to feel ambiguous and awkward. The Torre and Tagus tall pillar vase works on longer tables where vertical presence is the point; for a table seating four, use a stem or arrangement that keeps the height well below twelve inches."
   - question: "Matte white ceramic vs. white enamel — which is easier to maintain over time?"
-    answer: "Matte ceramic is more forgiving day-to-day — surface marks wipe away easily and the finish does not show minor handling wear the way enamel does. White enamel with sculptural detail, like the Michael Aram orchid holders, is more vulnerable at the raised edges and requires careful storage and individual wrapping to stay pristine. For pieces used frequently rather than for special occasions, matte ceramic holds up better with less attention."
+    answer: "Matte ceramic is more forgiving day-to-day — surface marks wipe away easily and the finish does not show minor handling wear the way metal does. Sculptural taper holders with cut metal floral detail are more vulnerable at the raised edges and require careful storage and individual wrapping to stay pristine. For pieces used frequently rather than for special occasions, matte ceramic holds up better with less attention."
   - question: "How many bud vases do I need for a centerpiece on a standard dining table?"
-    answer: "A standard six- to eight-seat rectangular table reads well with four to six vases clustered together in the center. The Creative Co-Op set of six provides exactly that count in varying heights, which creates natural visual rhythm without additional styling effort. For a table seating four, three vases grouped together is sufficient and leaves the remaining pieces available for a sideboard or buffet."
+    answer: "A standard six- to eight-seat rectangular table reads well with four to six vases clustered together in the center. A set of six white ceramic bud vases in varying heights creates natural visual rhythm without additional styling effort. For a table seating four, three vases grouped together is sufficient and leaves the remaining pieces available for a sideboard or buffet."
   - question: "How do I keep taper candles from wobbling in candlestick holders?"
     answer: "The socket diameter needs to match your candle's base diameter closely. Most standard tapers are seven-eighths of an inch at the base, but brands vary slightly. If there is slight play, a thin wrap of floral tape or a small ring of soft wax around the base of the candle creates friction without damaging either piece. Check the socket size of any holder against the candles you already use before buying — getting this right once means you never have to think about it again."
   - question: "Can a single tall vase work as a centerpiece without any flowers?"
@@ -96,13 +96,13 @@ The one honest caveat is table length. The height that gives this vase its prese
 
 ### Creative Co-Op Cut Metal Flower Taper Candle Holder
 
-Sculptural candlesticks either earn their place or they don't. The [White Orchid Taper Candle Holders (Pair)](product:michael-aram-white-orchid-candlesticks-pair) from Michael Aram earn it , the orchid in full bloom cast around each taper socket is specific enough to feel considered without being so literal that it overwhelms everything else on the table.
+Sculptural candlesticks either earn their place or they don't. The [Creative Co-Op Cut Metal Flower Taper Candle Holder](product:michael-aram-white-orchid-candlesticks-pair) earns it , the cut metal flower form wrapping each taper socket is specific enough to feel considered without being so literal that it overwhelms everything else on the table.
 
-The white enamel and gold finish is doing real work here. It reads formal and fresh at the same time, which is a harder balance to strike than it sounds. Most gold-accented pieces tip toward one or the other , either they feel stiff and occasion-only, or the gold is so restrained it might as well not be there. These land in the right place.
+The neutral metal finish does real work here. It reads both decorative and functional, coordinates with warm and cool table palettes, and serves as a standalone decorative object even when no candle is in use. That versatility is harder to find than it sounds at this price point.
 
-Two things to know before buying. First, the enamel can chip at the protruding petal edges if the holders are handled roughly or stored without padding , treat them as the fine objects they are. Second, the white-and-gold palette is most dramatic on a plain white or cream table. Against a patterned tablecloth or heavily colored linens, the effect gets muddier. If your table tends toward maximalist, the botanical detail here will fight the competition.
+Two things to know before buying. First, the cut metal openwork requires careful cleaning with a soft brush , wax and dust settle into the floral detail after each use. Second, this holder works best on a table that has some breathing room in the centerpiece zone. Against a heavily patterned tablecloth or very busy place settings, the botanical detail can get lost. If your table runs spare and deliberate, it reads clearly.
 
-![Michael Aram white orchid taper candle holders on a formal table setting](/images/articles/decor-2.jpg)
+![Cut metal flower taper candle holder on a formal table setting](/images/articles/decor-2.jpg)
 
 ,
 
@@ -110,7 +110,7 @@ Two things to know before buying. First, the enamel can chip at the protruding p
 
 ### Carrot's Den Set of 6 White Mini Ceramic Bud Vases
 
-Six vases in varying heights, all in matte white ceramic , the [Creative Co-Op White Ceramic Bud Vases Set of 6](product:creative-co-op-bud-vases-set6) is the most flexible entry here because the set does the styling work for you. Cluster all six down the center of a long table and you have a runner-style centerpiece. Pull three together for a smaller table and store the rest. The varying heights mean the grouping has rhythm without any additional effort.
+Six vases in varying heights, all in matte white ceramic , the [Carrot's Den Set of 6 White Mini Ceramic Bud Vases](product:creative-co-op-bud-vases-set6) is the most flexible entry here because the set does the styling work for you. Cluster all six down the center of a long table and you have a runner-style centerpiece. Pull three together for a smaller table and store the rest. The varying heights mean the grouping has rhythm without any additional effort.
 
 White ceramic at a budget price point sometimes looks it , thin walls, slightly off finishes, uneven bases. These are solid enough that they don't announce their price. The matte finish is consistent piece to piece, which matters when you're grouping them and the eye moves across all six at once.
 
@@ -152,22 +152,22 @@ A single bold vase works best when the rest of the table is quiet. If your china
 
 Ceramic is durable, but it's not indestructible. Avoid abrasive sponges on matte finishes , they scuff the surface and make the piece look worn faster than it should. For narrow-necked bud vases, a bottle brush is worth owning; standing water in ceramic encourages odor and eventually staining.
 
-Enamel with raised sculptural detail needs careful storage. Pieces like the Michael Aram candlesticks should be wrapped individually , the protruding petal edges are the most vulnerable point, and a chip on white enamel is visible in a way that a chip on a plain surface isn't.
+Cut metal holders with openwork floral detail need careful storage. The raised edges of the metal flower form are the most vulnerable point, and bending can occur if pieces are stored without padding between them. Wrapping individually between uses is the right habit.
 
 ## Frequently Asked Questions
 
 ### Can I use white pillar candles in bud vases, or are bud vases only for flowers?
 
-Bud vases are designed for stems, but small taper candles or even battery-powered LED tapers fit some wider-necked bud vases well. The [Creative Co-Op White Ceramic Bud Vases Set of 6](product:creative-co-op-bud-vases-set6) have narrow necks suited to single stems, not candles. For mixing candles and vases in the same centerpiece, use purpose-built candlestick holders alongside the vases rather than trying to convert one to the other.
+Bud vases are designed for stems, but small taper candles or even battery-powered LED tapers fit some wider-necked bud vases well. The [Carrot's Den Set of 6 White Mini Ceramic Bud Vases](product:creative-co-op-bud-vases-set6) have narrow necks suited to single stems, not candles. For mixing candles and vases in the same centerpiece, use purpose-built candlestick holders alongside the vases rather than trying to convert one to the other.
 ### How do I keep taper candles from wobbling in candlestick holders?
 
-The socket diameter needs to match your candle's base diameter closely. If there's slight play, a thin wrap of floral tape or a small ring of soft wax around the base of the candle creates friction without damaging either piece. Check the socket size of any holder , including the [White Orchid Taper Candle Holders (Pair)](product:michael-aram-white-orchid-candlesticks-pair) , against the candles you already use before buying.
-### Is matte white ceramic or white enamel easier to maintain over time?
+The socket diameter needs to match your candle's base diameter closely. If there's slight play, a thin wrap of floral tape or a small ring of soft wax around the base of the candle creates friction without damaging either piece. Check the socket size of any holder , including the [Creative Co-Op Cut Metal Flower Taper Candle Holder](product:michael-aram-white-orchid-candlesticks-pair) , against the candles you already use before buying.
+### Is matte white ceramic or cut metal easier to maintain over time?
 
-Matte ceramic is more forgiving day-to-day , surface marks wipe away easily and the finish doesn't show minor handling wear the way enamel does. White enamel with sculptural detail, like the Michael Aram orchid holders, is more vulnerable at the raised edges and requires careful storage and handling to stay pristine. For pieces used frequently rather than for special occasions, matte ceramic holds up better with less attention.
+Matte ceramic is more forgiving day-to-day , surface marks wipe away easily and the finish doesn't show minor handling wear the way metal does. Sculptural cut metal holders with open floral detail are more vulnerable at the raised edges and require careful storage and handling to stay pristine. For pieces used frequently rather than for special occasions, matte ceramic holds up better with less attention.
 ### How many bud vases do I need for a centerpiece on a standard dining table?
 
-A standard six- to eight-seat rectangular table reads well with four to six vases clustered together in the center. The [Creative Co-Op White Ceramic Bud Vases Set of 6](product:creative-co-op-bud-vases-set6) provides exactly that count and in varying heights, which creates natural visual rhythm without additional styling. For a table seating four, three vases grouped together is sufficient and leaves the remaining three available for a sideboard or buffet.
+A standard six- to eight-seat rectangular table reads well with four to six vases clustered together in the center. The [Carrot's Den Set of 6 White Mini Ceramic Bud Vases](product:creative-co-op-bud-vases-set6) provides exactly that count and in varying heights, which creates natural visual rhythm without additional styling. For a table seating four, three vases grouped together is sufficient and leaves the remaining three available for a sideboard or buffet.
 ### Can a single tall vase work as a centerpiece without flowers?
 
 Yes , a tall architectural vase like the [Torre & Tagus Pillar Ceramic Vase White](product:torre-tagus-pillar-ceramic-vase-white) holds its own empty if the table is otherwise well-dressed. Bare white ceramic reads sculptural rather than unfinished when the piece has a strong enough form. Tall dried grasses, bare branches, or a few stems of eucalyptus are also low-maintenance alternatives to fresh flowers that look intentional without daily attention.
@@ -181,7 +181,7 @@ Yes , a tall architectural vase like the [Torre & Tagus Pillar Ceramic Vase Whit
  "name": "Can I use white pillar candles in bud vases, or are bud vases only for flowers?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "Bud vases are designed for stems, but small taper candles or even battery-powered LED tapers fit some wider-necked bud vases well. The Creative Co-Op White Ceramic Bud Vases Set of 6 have narrow necks suited to single stems, not candles. For mixing candles and vases in the same centerpiece, use purpose-built candlestick holders alongside the vases rather than trying to convert one to the other."
+ "text": "Bud vases are designed for stems, but small taper candles or even battery-powered LED tapers fit some wider-necked bud vases well. The white ceramic bud vase set has narrow necks suited to single stems, not candles. For mixing candles and vases in the same centerpiece, use purpose-built candlestick holders alongside the vases rather than trying to convert one to the other."
  }
  },
  {
@@ -189,15 +189,15 @@ Yes , a tall architectural vase like the [Torre & Tagus Pillar Ceramic Vase Whit
  "name": "How do I keep taper candles from wobbling in candlestick holders?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "The socket diameter needs to match your candle's base diameter closely. If there's slight play, a thin wrap of floral tape or a small ring of soft wax around the base of the candle creates friction without damaging either piece. Check the socket size of any holder , including the White Orchid Taper Candle Holders (Pair) , against the candles you already use before buying."
+ "text": "The socket diameter needs to match your candle's base diameter closely. If there's slight play, a thin wrap of floral tape or a small ring of soft wax around the base of the candle creates friction without damaging either piece. Check the socket size of any holder , including the Creative Co-Op Cut Metal Flower Taper Candle Holder , against the candles you already use before buying."
  }
  },
  {
  "@type": "Question",
- "name": "Is matte white ceramic or white enamel easier to maintain over time?",
+ "name": "Is matte white ceramic or cut metal easier to maintain over time?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "Matte ceramic is more forgiving day-to-day , surface marks wipe away easily and the finish doesn't show minor handling wear the way enamel does. White enamel with sculptural detail, like the Michael Aram orchid holders, is more vulnerable at the raised edges and requires careful storage and handling to stay pristine. For pieces used frequently rather than for special occasions, matte ceramic holds up better with less attention."
+ "text": "Matte ceramic is more forgiving day-to-day , surface marks wipe away easily and the finish doesn't show minor handling wear the way metal does. Sculptural cut metal holders with open floral detail are more vulnerable at the raised edges and require careful storage and handling to stay pristine. For pieces used frequently rather than for special occasions, matte ceramic holds up better with less attention."
  }
  },
  {
@@ -205,7 +205,7 @@ Yes , a tall architectural vase like the [Torre & Tagus Pillar Ceramic Vase Whit
  "name": "How many bud vases do I need for a centerpiece on a standard dining table?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "A standard six- to eight-seat rectangular table reads well with four to six vases clustered together in the center. The Creative Co-Op White Ceramic Bud Vases Set of 6 provides exactly that count and in varying heights, which creates natural visual rhythm without additional styling. For a table seating four, three vases grouped together is sufficient and leaves the remaining three available for a sideboard or buffet."
+ "text": "A standard six- to eight-seat rectangular table reads well with four to six vases clustered together in the center. The white ceramic bud vase set provides exactly that count and in varying heights, which creates natural visual rhythm without additional styling. For a table seating four, three vases grouped together is sufficient and leaves the remaining three available for a sideboard or buffet."
  }
  },
  {

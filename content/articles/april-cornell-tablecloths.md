@@ -42,8 +42,8 @@ faq:
     answer: "Remove it from the dryer while still slightly damp and lay it flat or hang it immediately — this significantly reduces set-in creases. Iron on a medium-heat setting before placing it on the table, working in the direction of the grain rather than in circles, which can stretch the fabric. The April Cornell Christmas Rose specifically needs this step to look right."
   - question: "Tartan table runner vs. full tablecloth — which is better for holiday hosting?"
     answer: "For November through January entertaining, the Tartan Plaid Table Runner is a practical middle ground. It is wrinkle-resistant, machine washable, and offers seasonal atmosphere without the laundering overhead of a full cloth. A full tablecloth works better for formal seated holiday dinners where the cloth is part of the overall impression — the runner suits casual and buffet-style occasions more naturally."
-  - question: "What makes the Peacock Alley hemstitched tablecloth different from imported alternatives?"
-    answer: "It is American-made using Egyptian cotton yarns, which produces long-staple fibers that resist pilling and maintain surface smoothness through years of laundering. The hemstitching is properly executed with even spacing and mitered corners that lie flat — qualities that distinguish it from lower-cost machine-mimicked hemstitching. The color range, including dusty blue and other muted tones, is also difficult to find in hemstitched cotton at any price."
+  - question: "What makes a 100% linen hemstitched tablecloth different from imported alternatives?"
+    answer: "A quality 100% linen hemstitch tablecloth uses natural linen yarns that develop a relaxed elegance with each wash and resist pilling through years of laundering. The hemstitching is properly executed with even spacing and mitered corners that lie flat — qualities that distinguish it from lower-cost machine-mimicked hemstitching. The color range, including dusty blue and other muted tones, is also difficult to find in hemstitched linen at any price."
   - question: "How do I calculate the right tablecloth size for my table?"
     answer: "Measure your table in both dimensions, decide on your preferred drop, and add twice the drop amount to each measurement. Standard rectangular tables run 36 inches wide and 60, 72, or 84 inches long. Most tablecloths list the table size they fit assuming a six-to-eight-inch drop — if you want more coverage, size up by one step. Never estimate for round or oval tables; compare your measurements directly against the manufacturer's stated finished dimensions."
 ---
@@ -58,7 +58,7 @@ The three picks below cover the main decisions most buyers face: a signature Apr
 
 Cotton tablecloths drape differently from polyester blends, and that difference is visible from across the room. Cotton voile , the construction April Cornell uses , falls softly and creates gentle folds at the table edge. It reads as intentional rather than stiff. The trade-off is care: cotton wrinkles. If you're not willing to iron or steam before a dinner party, a wrinkle-resistant blend will serve you better on a weeknight than a fine cotton will.
 
-Linen and linen-cotton blends occupy a middle ground. They soften over time, wrinkle less aggressively than pure cotton voile, and hold up well to repeated washing. Egyptian cotton , used by manufacturers like Peacock Alley , brings long staple fibers that resist pilling and maintain surface smoothness through years of laundering.
+Linen and linen-cotton blends occupy a middle ground. They soften over time, wrinkle less aggressively than pure cotton voile, and hold up well to repeated washing. Premium 100% linen brings long fibers that resist pilling and develop a natural drape and surface quality through years of laundering.
 
 ### Pattern Scale and Table Composition
 
@@ -110,11 +110,11 @@ The limitation is real, though. Tartan is seasonally narrow , it works in winter
 
 ### Simple & Opulence Premium 100% Linen Hemstitch Tablecloth
 
-For a buyer who wants something without pattern , something that will still look genuinely fine rather than just blank , the [Peacock Alley Hemstitch Tablecloth](product:peacock-alley-hemstitch-tablecloth) is the answer. American-made using Egyptian cotton yarns, it's the kind of cloth that improves slightly with age and washing rather than degrading. The hemstitching is properly done: even spacing, clean draw lines, mitered corners that lie flat.
+For a buyer who wants something without pattern , something that will still look genuinely fine rather than just blank , the [Simple & Opulence Premium 100% Linen Hemstitch Tablecloth](product:peacock-alley-hemstitch-tablecloth) is the answer. 100% linen, it's the kind of cloth that develops a relaxed elegance with age and washing rather than degrading. The hemstitching is properly done: even spacing, clean draw lines, mitered corners that lie flat.
 
-The color range includes dusty blue and other muted tones that are genuinely difficult to find in hemstitched cotton at any price. Most manufacturers in this category default to white and ivory. Peacock Alley's willingness to offer something different makes it useful for buyers who want a tablecloth that sets a mood without relying on pattern.
+The color range includes dusty blue and other muted tones that are genuinely difficult to find in hemstitched linen at any price. Most manufacturers in this category default to white and ivory. A muted tone in hemstitched linen construction is useful for buyers who want a tablecloth that sets a mood without relying on pattern.
 
-Premium pricing reflects the materials and domestic manufacturing. Limited retail availability means that replacing individual pieces , if you own multiple cloths from the same color run , can be difficult if a colorway sells out. Buy what you need now rather than planning to add to the set later. For anyone who's been disappointed by the surface quality of imported hemstitched linens, this is where the difference becomes obvious.
+Premium pricing reflects the materials and construction quality. Linen requires ironing or steaming before use for a crisp formal presentation , that's the honest trade-off for fabric that reads this well on a set table. Buy what you need now rather than planning to add to the set later. For anyone who's been disappointed by the surface quality of lesser hemstitched linens, this is where the difference becomes obvious.
 
 ![Hemstitched tablecloth in muted blue on a simply set table](/images/articles/linens-3.jpg)
 
@@ -132,7 +132,7 @@ The runner is its own category: it layers pattern over an existing cloth or bare
 
 ### Occasion and Frequency
 
-A premium cloth like the Peacock Alley invites careful handling , laundering it less frequently and treating it as the good linen you bring out for formal occasions. That's appropriate for some households and impractical for others.
+A premium hemstitch linen cloth invites careful handling , laundering it less frequently and treating it as the good linen you bring out for formal occasions. That's appropriate for some households and impractical for others.
 
 If you host frequently and want to put the tablecloth in the wash after every dinner without worrying about it, a wrinkle-resistant runner or a cotton blend rated for regular machine washing is more suitable. Match the cloth to the way you actually host, not to an idealized version of it.
 
@@ -146,7 +146,7 @@ Round and oval tables require separate sizing charts. Don't estimate , measure t
 
 ### Fiber and Care Reality
 
-Cotton voile and Egyptian cotton are genuinely beautiful fabrics. They're also more demanding in care than polyester blends. If ironing before a dinner party sounds like a reasonable step in your routine, either of those will reward the effort. If it doesn't, buy accordingly and don't buy a fabric that will frustrate you every time you use it.
+Cotton voile and 100% linen are genuinely beautiful fabrics. They're also more demanding in care than polyester blends. If ironing before a dinner party sounds like a reasonable step in your routine, either of those will reward the effort. If it doesn't, buy accordingly and don't buy a fabric that will frustrate you every time you use it.
 
 Wrinkle-resistant blends have improved significantly. They won't feel or drape exactly like fine cotton, but they photograph reasonably well, launder easily, and don't require preparation time. For weeknight entertaining, that's often the better answer. The full range of [table linen](/linens/) options , from casual to formal , is worth reviewing before settling on one cloth for every occasion.
 
@@ -167,9 +167,9 @@ Remove the tablecloth from the dryer while it's still slightly damp and lay it f
 ### Can a table runner replace a full tablecloth?
 
 A runner works well over a bare wood or stone table for casual and seasonal settings, or layered over a plain tablecloth for a more composed look. It won't provide the full coverage or formality of a tablecloth, but for everyday holiday hosting the [Tartan Plaid Table Runner 14 x 72](product:table-runner-tartan-plaid-14x72) offers a practical middle ground , pattern and seasonal atmosphere without the laundering overhead of a full cloth.
-### What's the difference between the April Cornell tablecloth and the Peacock Alley hemstitch?
+### What's the difference between the April Cornell tablecloth and the hemstitch linen tablecloth?
 
-They serve different table aesthetics. The April Cornell Christmas Rose is all about pattern , a bold botanical print in holiday red that becomes the focal point of the table. The [Peacock Alley Hemstitch Tablecloth](product:peacock-alley-hemstitch-tablecloth) is a quiet, formally finished cloth that lets the dinnerware and centerpiece lead. Choose April Cornell if you want the cloth to make the statement; choose Peacock Alley if you want the cloth to support the rest of the table without competing.
+They serve different table aesthetics. The April Cornell Christmas Rose is all about pattern , a bold botanical print in holiday red that becomes the focal point of the table. The [Simple & Opulence Premium 100% Linen Hemstitch Tablecloth](product:peacock-alley-hemstitch-tablecloth) is a quiet, formally finished cloth that lets the dinnerware and centerpiece lead. Choose April Cornell if you want the cloth to make the statement; choose the hemstitch linen if you want the cloth to support the rest of the table without competing.
 ### How much drop should a tablecloth have?
 
 For a formal dinner setting, aim for twelve to fourteen inches of drop on each side , enough fabric to drape naturally without pooling on the floor. For casual family meals, six to eight inches is practical and still looks intentional. Measure your table before buying rather than relying on a general size description, since manufacturers vary in what "fits a 60x84 table" actually means in terms of finished dimensions.
@@ -204,10 +204,10 @@ For a formal dinner setting, aim for twelve to fourteen inches of drop on each s
  },
  {
  "@type": "Question",
- "name": "What's the difference between the April Cornell tablecloth and the Peacock Alley hemstitch?",
+ "name": "What's the difference between the April Cornell tablecloth and the hemstitch linen tablecloth?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "They serve different table aesthetics. The April Cornell Christmas Rose is all about pattern , a bold botanical print in holiday red that becomes the focal point of the table. The Peacock Alley Hemstitch Tablecloth is a quiet, formally finished cloth that lets the dinnerware and centerpiece lead. Choose April Cornell if you want the cloth to make the statement; choose Peacock Alley if you want the cloth to support the rest of the table without competing."
+ "text": "They serve different table aesthetics. The April Cornell Christmas Rose is all about pattern , a bold botanical print in holiday red that becomes the focal point of the table. The Simple & Opulence Premium 100% Linen Hemstitch Tablecloth is a quiet, formally finished cloth that lets the dinnerware and centerpiece lead. Choose April Cornell if you want the cloth to make the statement; choose the hemstitch linen if you want the cloth to support the rest of the table without competing."
  }
  },
  {

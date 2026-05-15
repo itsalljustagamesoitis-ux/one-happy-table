@@ -110,13 +110,13 @@ The one practical note: the beeswax blend is firmer than paraffin, and a tight c
 
 ### Creative Co-Op Cut Metal Flower Taper Candle Holder
 
-A taper candle recommendation that ignores the holder is only telling half the story. The [White Orchid Taper Candle Holders (Pair)](product:michael-aram-white-orchid-candlesticks-pair) by Michael Aram are worth including here for readers who are making the candle and holder decision simultaneously. The orchid-in-bloom sculpture wrapped around the taper socket is the kind of detail that reads completely differently in person than in a photograph , dimensional, tactile, and genuinely botanical rather than representational.
+A taper candle recommendation that ignores the holder is only telling half the story. The [Creative Co-Op Cut Metal Flower Taper Candle Holder](product:michael-aram-white-orchid-candlesticks-pair) is worth including here for readers who are making the candle and holder decision simultaneously. The cut metal flower form wrapping the taper socket is the kind of detail that reads completely differently in person than in a photograph , dimensional, tactile, and genuinely botanical without being representational to a single flower type.
 
-The white enamel and gold finish is a combination that works with burgundy tapers particularly well. Deep wine-colored candles against white and gold holders have a clarity that silver or brass candlesticks can muddy. The tall socket height also gives the taper more visual reach , a pairing of these holders with full-length tapers creates real presence at the center of a longer table.
+The neutral metal finish pairs with burgundy tapers in a way that neither competes nor disappears. Deep wine-colored candles in a botanical metal holder read with quiet formality. The vertical presence of the taper socket gives the candle real reach , a pairing of this holder with full-length tapers creates a composed centerpiece on a longer table.
 
-These are a premium holder, and they reward careful handling. The enamel at the petal edges can chip if the holders are stored loose or knocked together. They're also most effective on a restrained table , plain white or cream linens, minimal florals , where the sculptural holder reads as the focal point rather than one element competing with several others. Pair them with straight burgundy tapers from Root Candles and the combination is quiet, formal, and precise.
+This holder rewards careful handling. The open metalwork requires cleaning with a soft brush after each use to remove wax from the floral detail. It's also most effective on a spare table , plain white or neutral linens, minimal surrounding elements , where the botanical form reads clearly as the focal point. Pair it with straight burgundy tapers and the combination is controlled, formal, and precise.
 
-![Michael Aram White Orchid taper candle holders with burgundy taper candles on a formal dinner table](/images/articles/decor-3.jpg)
+![Creative Co-Op cut metal flower taper candle holder with burgundy taper candles on a formal dinner table](/images/articles/decor-3.jpg)
 
 ,
 
@@ -162,9 +162,9 @@ Warm the base of the candle between your palms for fifteen to twenty seconds. Th
 ### Can I mix burgundy tapers with other colors in the same candlestick arrangement?
 
 Yes, and done well it reads as intentional rather than mismatched. Burgundy pairs particularly well with ivory, deep green, rust, and gold. The [Twisted Taper Candles (Set of 12, Assorted)](product:twisted-taper-candles-set12) is practical for this approach since the set includes multiple colors. Keep the number of colors in an arrangement to two or three , more than that tends to read as accidental variety rather than a considered palette.
-### Are the Michael Aram White Orchid holders suitable for everyday use or only for special occasions?
+### Are the Creative Co-Op cut metal flower holders suitable for everyday use or only for special occasions?
 
-The enamel finish and sculpted detail make them most appropriate for occasions where the table is being set with care , dinner parties, holiday meals, celebrations. The protruding petal edges are vulnerable to chipping with the kind of handling that everyday use involves, and the white-and-gold finish reads as formal enough that it would feel out of place on a casual weeknight table. They're an investment in a specific kind of table moment, not a daily utility item.
+The open metalwork and botanical detail make them most appropriate for occasions where the table is being set with care , dinner parties, holiday meals, celebrations. The cut metal floral form requires cleaning after each use to keep wax from building up in the detail, and the holder reads formal enough that it would feel overdressed on a casual weeknight table. It's an investment in a specific kind of table moment, not a daily utility item.
 <script type="application/ld+json">
 {
  "@context": "https://schema.org",
@@ -204,10 +204,10 @@ The enamel finish and sculpted detail make them most appropriate for occasions w
  },
  {
  "@type": "Question",
- "name": "Are the Michael Aram White Orchid holders suitable for everyday use or only for special occasions?",
+ "name": "Are the Creative Co-Op cut metal flower holders suitable for everyday use or only for special occasions?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "The enamel finish and sculpted detail make them most appropriate for occasions where the table is being set with care , dinner parties, holiday meals, celebrations. The protruding petal edges are vulnerable to chipping with the kind of handling that everyday use involves, and the white-and-gold finish reads as formal enough that it would feel out of place on a casual weeknight table. They're an investment in a specific kind of table moment, not a daily utility item."
+ "text": "The open metalwork and botanical detail make them most appropriate for occasions where the table is being set with care , dinner parties, holiday meals, celebrations. The cut metal floral form requires cleaning after each use to keep wax from building up in the detail, and the holder reads formal enough that it would feel overdressed on a casual weeknight table. It's an investment in a specific kind of table moment, not a daily utility item."
  }
  }
  ]

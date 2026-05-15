@@ -44,8 +44,8 @@ faq:
     answer: "Layering a runner over a tablecloth is a standard technique, not an error. The key is contrast — the runner should differ from the tablecloth in texture or pattern rather than repeat it. A stonewashed faux-linen runner over a smooth white tablecloth works precisely because the textures are different. Keep the overhang proportionate and the color temperatures consistent and the result reads as intentional."
   - question: "Are gold table linens appropriate outside of holiday and formal settings?"
     answer: "Completely. Gold in natural linen tones — warm flax, antique gold, wheat — reads casual and organic rather than ceremonial. The formality comes from the table setup, not the color. Natural-toned gold napkins folded simply on a weeknight table with plain dinnerware look relaxed and warm. Reserve brighter or more saturated gold for occasions where you want the table to feel intentionally festive."
-  - question: "How do I keep Belgian linen napkins from shrinking in the wash?"
-    answer: "Linen shrinks primarily from heat. Wash in cold or warm water and remove from the dryer before fully dry, or line dry. Pre-washed linen like the Belgian Linen Napkins has already been through initial shrinkage at the factory, so the size you receive is the size you keep. Avoid high heat consistently and ongoing shrinkage becomes negligible."
+  - question: "How do I keep linen-flax blend napkins from shrinking in the wash?"
+    answer: "Linen-flax blends are more dimensionally stable than pure linen but still benefit from cold or warm water washing and removal from the dryer before fully dry, or line drying. Avoid high heat consistently and the blend will hold its dimensions reliably through regular laundering — the linen-flax construction has an advantage over pure linen here precisely because the flax-cotton component reduces shrinkage."
 ---
 
 Gold table linens sit in an interesting middle ground , formal enough to feel intentional, warm enough to work at a relaxed dinner party. Whether you're layering a runner over a neutral tablecloth or setting a full table for a holiday gathering, the fabric and finish you choose will determine whether the whole thing reads as effortless or overdone. I've tested enough [table linens](/linens/) to have strong opinions about what actually holds up, and this guide cuts straight to the picks that earn a place on a well-set table.
@@ -82,9 +82,9 @@ Cotton-poly blends are generally more forgiving in the dryer and easier to iron 
 
 ### Bedding Craft Linen Flax Cotton Dinner Napkins Set of 12
 
-The best napkin on this list for anyone who sets a table regularly and wants something that improves with use. The [Belgian Linen Napkins (Set of 6)](product:sur-la-table-linen-napkins-set6) are washed Belgian linen , heavy enough to drape properly across a lap, textural enough to look intentional even when folded simply. The natural flax color sits firmly in warm neutral territory, which means it works alongside cream dinnerware, white dinnerware, warm wood tones, and most gold or brass accents without requiring the rest of the table to coordinate around it.
+The best napkin on this list for anyone who sets a table regularly and wants something that improves with use. The [Bedding Craft Linen Flax Cotton Dinner Napkins Set of 12](product:sur-la-table-linen-napkins-set6) is a linen-flax blend , heavy enough to drape properly across a lap, textural enough to look intentional even when folded simply. The natural flax color sits firmly in warm neutral territory, which means it works alongside cream dinnerware, white dinnerware, warm wood tones, and most gold or brass accents without requiring the rest of the table to coordinate around it. The set of 12 covers a full dinner party table without requiring a second order.
 
-Pre-washing is the practical detail that matters most here. The shrinkage has already happened, so the size you receive is the size you keep. Linen napkins that haven't been pre-washed can lose meaningful dimension in the first few laundering cycles, which affects fold consistency across a set.
+A linen-flax blend has better machine-wash durability than pure linen and settles into consistent dimensions quickly after the first wash. Pure linen napkins can lose meaningful dimension in the first few laundering cycles; the blend is more stable and more forgiving for regular use.
 
 The trade-off is honest: linen wrinkles. That's not a manufacturing defect , it's the material's character. If your table aesthetic requires sharp, crisp folds with no visible texture, linen is the wrong material regardless of quality. But if you're after a table that looks relaxed and considered rather than formally pressed, these earn their place in the regular rotation.
 
@@ -165,9 +165,9 @@ Layering a runner over a tablecloth is a standard table-setting technique, not a
 ### Does a woven gingham pattern really hold up better than a printed one?
 
 Yes, significantly. A woven check means the color is in the yarn itself , washing doesn't affect the pattern because there's no surface dye to fade. A printed check sits on top of the fabric and will fade with repeated laundering, often unevenly, so the pattern loses definition over time. For any tablecloth used regularly, woven construction is worth prioritizing.
-### How do I prevent linen napkins from shrinking in the wash?
+### How do I prevent linen-flax blend napkins from shrinking in the wash?
 
-Linen shrinks primarily from heat. Wash in cold or warm water and remove from the dryer before fully dry , or line dry. Pre-washed linen has already been through its initial shrinkage at the factory, so the Belgian Linen Napkins (Set of 6) will hold their size better than untreated linen through regular laundering. Avoid high heat consistently and shrinkage becomes negligible.
+Linen-flax blends are more dimensionally stable than pure linen but still benefit from cold or warm water washing and removal from the dryer before fully dry , or line drying. The Bedding Craft linen-flax napkins hold their size reliably through regular laundering because the blend construction reduces shrinkage compared to pure linen. Avoid high heat consistently and shrinkage becomes negligible.
 ### Are gold table linens appropriate outside of formal or holiday settings?
 Completely. Gold in natural linen tones , warm flax, antique gold, wheat , reads casual and organic rather than ceremonial. The formality comes from the table setup, not the color. Natural-toned gold napkins on a weeknight table with simple dinnerware look relaxed and warm.
 <script type="application/ld+json">
@@ -201,10 +201,10 @@ Completely. Gold in natural linen tones , warm flax, antique gold, wheat , reads
  },
  {
  "@type": "Question",
- "name": "How do I prevent linen napkins from shrinking in the wash?",
+ "name": "How do I prevent linen-flax blend napkins from shrinking in the wash?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "Linen shrinks primarily from heat. Wash in cold or warm water and remove from the dryer before fully dry , or line dry. Pre-washed linen has already been through its initial shrinkage at the factory, so the Belgian Linen Napkins (Set of 6) will hold their size better than untreated linen through regular laundering. Avoid high heat consistently and shrinkage becomes negligible."
+ "text": "Linen-flax blends are more dimensionally stable than pure linen but still benefit from cold or warm water washing and removal from the dryer before fully dry , or line drying. The Bedding Craft linen-flax napkins hold their size reliably through regular laundering because the blend construction reduces shrinkage compared to pure linen. Avoid high heat consistently and shrinkage becomes negligible."
  }
  },
  {

@@ -42,8 +42,8 @@ faq:
     answer: "Yes, provided the base of the twisted candle is sized to a standard 7/8-inch socket, which most twisted tapers including the assorted set reviewed here use. The challenge is visual, not mechanical — a twisted taper in a heavily ornate holder creates too much competing detail. Simpler holders, a plain cylinder, a ring, or a minimal metal spike, let the form read clearly."
   - question: "Twisted tapers vs. straight beeswax tapers — which is right for a formal dinner?"
     answer: "For a long formal dinner where burn quality matters and you want the candles to look pristine at dessert, the Root Candles Timberline straight taper is the right choice. The beeswax blend burns cleaner, longer, and more evenly than a twist candle, which burns unevenly as wax pools on whichever side of the twist faces the flame first. Twisted tapers are a styling choice first and a burn-quality choice second — save them for occasions where the visual effect matters more than a four-hour burn."
-  - question: "Are the Michael Aram White Orchid holders practical for everyday use?"
-    answer: "They are functional for everyday use, but the enamel finish at the protruding petal edges is vulnerable to chipping if the holders knock against hard surfaces in storage. They hold up beautifully if stored carefully — individually wrapped or kept with space between them. For a table set and cleared frequently without deliberate handling, a holder with a more durable finish would be more practical for daily rotation."
+  - question: "Are the Creative Co-Op Cut Metal Flower Taper Candle Holders practical for everyday use?"
+    answer: "They are functional for everyday use, but the cut metal openwork requires cleaning with a soft brush after each use to remove wax and dust from the floral detail. They hold up well if stored carefully — individually wrapped or kept with space between them. For a table set and cleared frequently without deliberate handling, a plain holder with a simpler surface would require less maintenance for daily rotation."
   - question: "How should taper candles be stored to prevent warping?"
     answer: "Store tapers flat, away from heat sources, and away from direct sunlight, which fades color over time. Beeswax-blend tapers like the Root Candles Timberline are slightly more resistant to warping than paraffin, but no taper is immune to ambient heat from a cabinet near an oven or a car trunk in summer. A cool interior shelf or a drawer works better than a garage storage bin if you are buying ahead for a season."
 ---
@@ -110,13 +110,13 @@ The one practical note: the beeswax blend is firmer than standard paraffin. If y
 
 ### Creative Co-Op Cut Metal Flower Taper Candle Holder
 
-For the reader who wants a holder that does as much visual work as the candle itself, the [White Orchid Taper Candle Holders](product:michael-aram-white-orchid-candlesticks-pair) from Michael Aram are the answer. A full orchid bloom is sculpted around the taper socket , white enamel petals, gold-finished stem , and the result is something that reads as both formal and surprisingly fresh. It doesn't look like a standard candlestick, which is precisely the point.
+For the reader who wants a holder that does as much visual work as the candle itself, the [Creative Co-Op Cut Metal Flower Taper Candle Holder](product:michael-aram-white-orchid-candlesticks-pair) is the answer. A cut metal flower form wraps the taper socket in botanical detail, and the result is something that reads as both decorative and functional. It doesn't look like a standard candlestick, which is precisely the point.
 
-Proportion works in their favor. The tall taper height built into the design creates genuine presence at the center of a longer table , the kind of visual anchor that a low, squat holder can't achieve. On a plain white or cream tablecloth, the white-and-gold finish sharpens into something quite striking. On a busy or patterned table, the holder disappears into the noise.
+The neutral metal finish coordinates with warm and cool table palettes alike, which gives it more flexibility than a piece locked to a specific color story. It also works as a standalone decorative object between uses , the cut metal detail reads clearly even without a candle. On a sparse or minimal table, the botanical form becomes the visual anchor.
 
-Handle these with some care. The enamel can chip at the protruding petal edges if they knock together in a cabinet or get stacked carelessly. They're not fragile in an ordinary sense, but they reward the kind of storage that decorative pieces deserve.
+Handle these with some care. The cut metal openwork requires cleaning with a soft brush after each use to remove wax and dust from the floral detail. They're not fragile in an ordinary sense, but the open metalwork rewards the kind of attention that a good decorative piece deserves.
 
-![Michael Aram White Orchid taper candle holders on a formal dining table](/images/articles/decor-3.jpg)
+![Creative Co-Op cut metal flower taper candle holder on a formal dining table](/images/articles/decor-3.jpg)
 
 ,
 
@@ -132,7 +132,7 @@ For a holiday table where the candles will be lit for four hours and guests will
 
 ### Match the Candle to the Holder Before You Buy Both
 
-This sounds obvious, and most people skip it anyway. The visual relationship between candle form and holder form determines whether the result looks intentional or accidental. A sculptural holder like the Michael Aram White Orchid pair needs a plain candle , the holder is doing the design work, and a twisted or heavily colored taper fights it. A simple ring or spike holder, by contrast, needs the candle to carry the visual weight.
+This sounds obvious, and most people skip it anyway. The visual relationship between candle form and holder form determines whether the result looks intentional or accidental. A sculptural holder like the Creative Co-Op cut metal flower holder needs a plain candle , the holder is doing the design work, and a twisted or heavily colored taper fights it. A simple ring or spike holder, by contrast, needs the candle to carry the visual weight.
 
 Write down the style of whatever holder you already own , or whatever holder you're planning to buy , before selecting the candle. Ornate plus ornate is noise. Simple plus simple can read as minimal or understated, which is either elegant or unremarkable depending on the rest of the table.
 
@@ -163,9 +163,9 @@ Yes, provided the base of the twisted candle is sized to the standard 7/8-inch s
 ### How do I keep taper candles from wobbling in the holder?
 
 A small amount of floral putty or candle adhesive around the base before seating the candle is the most reliable fix. Alternatively, if the socket is slightly oversized, a thin strip of aluminum foil wrapped around the base of the candle adds enough width to eliminate the wobble. Beeswax-blend candles seat a little more snugly than paraffin in most holders, which can help.
-### Are the Michael Aram White Orchid holders suitable for everyday use?
+### Are the Creative Co-Op Cut Metal Flower holders suitable for everyday use?
 
-They're functional for everyday use, but the enamel finish at the petal edges is vulnerable to chipping if the holders knock against hard surfaces in storage. They'll hold up beautifully if you store them carefully , individually wrapped or kept with space between them. For a table that gets set and cleared frequently, a holder with a less delicate finish might be more practical for daily use.
+They're functional for everyday use, but the cut metal openwork requires cleaning with a soft brush after each use to remove wax and dust from the floral detail. They'll hold up well if you store them carefully , individually wrapped or kept with space between them. For a table that gets set and cleared frequently, a holder with a simpler surface might be more practical for daily use.
 ### What's the difference between a Collenette taper and a standard taper candle?
 
 Collenette refers to Root Candles' specific beeswax-blend formulation, which burns more cleanly and slowly than standard paraffin tapers. The practical difference is a longer, cleaner burn with less soot and a steadier flame. The trade-off is that the firmer wax requires brief hand-warming before seating in tight holders. For most dinner-table applications, the burn quality improvement is worth that minor extra step.
@@ -200,10 +200,10 @@ Collenette refers to Root Candles' specific beeswax-blend formulation, which bur
  },
  {
  "@type": "Question",
- "name": "Are the Michael Aram White Orchid holders suitable for everyday use?",
+ "name": "Are the Creative Co-Op Cut Metal Flower holders suitable for everyday use?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "They're functional for everyday use, but the enamel finish at the petal edges is vulnerable to chipping if the holders knock against hard surfaces in storage. They'll hold up beautifully if you store them carefully , individually wrapped or kept with space between them. For a table that gets set and cleared frequently, a holder with a less delicate finish might be more practical for daily use."
+ "text": "They're functional for everyday use, but the cut metal openwork requires cleaning with a soft brush after each use to remove wax and dust from the floral detail. They'll hold up well if you store them carefully , individually wrapped or kept with space between them. For a table that gets set and cleared frequently, a holder with a simpler surface might be more practical for daily use."
  }
  },
  {

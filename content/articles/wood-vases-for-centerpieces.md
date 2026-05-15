@@ -110,7 +110,7 @@ The hand-wash requirement is the honest trade-off. A vase you're cleaning regula
 
 ### Carrot's Den Set of 6 White Mini Ceramic Bud Vases
 
-Six vases in varying heights with no matching constraint , the [Creative Co-Op White Ceramic Bud Vases Set of 6](product:creative-co-op-bud-vases-set6) is the budget option that earns its place by being genuinely versatile. White ceramic coordinates with every china and linen combination I've set alongside it. There's no texture to clash, no warm wood tone to fight a cool-gray table, no finish that reads as seasonal. It's as close to a neutral vessel as a centerpiece can be.
+Six vases in varying heights with no matching constraint , the [Carrot's Den Set of 6 White Mini Ceramic Bud Vases](product:creative-co-op-bud-vases-set6) is the budget option that earns its place by being genuinely versatile. White ceramic coordinates with every china and linen combination I've set alongside it. There's no texture to clash, no warm wood tone to fight a cool-gray table, no finish that reads as seasonal. It's as close to a neutral vessel as a centerpiece can be.
 
 The narrow necks are a real constraint. Single-stem flowers , anemones, sweet peas, small dahlias , are what this set is optimized for. Trying to fit a wide-stemmed flower or a multi-stem arrangement through the opening is a frustration I'd spare you. Work with what the form is designed for and the limitation disappears.
 

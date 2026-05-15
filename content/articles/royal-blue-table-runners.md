@@ -41,9 +41,9 @@ faq:
   - question: "Can a table runner be used without a tablecloth underneath?"
     answer: "Yes, and the article says it looks better without one for most casual to transitional tables. A runner directly on the table surface shows the wood grain alongside the fabric, giving the setting a more modern and intentional quality. The practical caveat is that without a tablecloth, the table itself is more exposed to spills and heat — on a surface with a finish worth protecting, a tablecloth or placemats alongside the runner adds a useful layer."
   - question: "How do I keep a table runner from sliding on a smooth table?"
-    answer: "A non-slip runner pad placed beneath it is the most reliable and least expensive solution. Alternatively, choosing a heavier fabric runner makes a meaningful difference — the Chilewich Trellis stays put more reliably than lightweight cotton options because of its weight and woven vinyl-yarn texture. The DII Sarape Striped Runner is the most likely to shift on a smooth surface and benefits most from a pad."
-  - question: "Chilewich woven runner vs. stonewashed faux-linen — which is more durable?"
-    answer: "The Chilewich vinyl-yarn construction is more durable by a significant margin. It resists heat from serving dishes, sheds water rather than absorbing it, and machine washes without colourfast anxiety. The faux-linen runner requires more care, though the stonewashed finish eliminates the need for ironing. For hosts who entertain frequently and want a runner that simply holds up, the Chilewich is the more practical choice."
+    answer: "A non-slip runner pad placed beneath it is the most reliable and least expensive solution. Alternatively, choosing a heavier fabric runner makes a meaningful difference — a quality linen runner stays put more reliably than lightweight cotton options because of its weight and textile density. The DII Sarape Striped Runner is the most likely to shift on a smooth surface and benefits most from a pad."
+  - question: "Classic linen navy runner vs. stonewashed faux-linen — which is more durable?"
+    answer: "A well-constructed linen runner holds up reliably through regular use when cared for correctly — cold-water washing and air-drying extend the life considerably. The faux-linen runner requires less care in the sense that the stonewashed finish eliminates the need for ironing, and the intentionally relaxed drape means it never looks like it needs pressing. For hosts who want zero-maintenance linens, the stonewashed finish is a genuine advantage; for hosts who prefer classic drape and don't mind proper laundering, linen is the stronger long-term choice."
   - question: "How do I choose the right length runner for my dining table?"
     answer: "Measure the full length of your dining table and add at least eight inches for overhang — four inches per end is the minimum that looks intentional. For a formal setting, six inches of drop on each end reads better. The article warns that a standard 72-inch runner will look short on all but the smallest tables — a six-seat table typically runs 72 to 84 inches, and an eight-seat table should get the 90-inch or 108-inch option."
 ---
@@ -96,13 +96,13 @@ This one is for the host who wants visual impact at a budget entry point. It is 
 
 ### Classic Linen by D'Moksha Navy Blue Table Runner 84"
 
-The [Chilewich Trellis Woven Table Runner in Navy](product:chilewich-trellis-woven-navy-runner) sits in mid-range territory and earns every bit of that positioning through construction. Chilewich's vinyl-yarn weave is categorically more durable than cotton or linen , it resists heat from serving dishes, sheds water rather than absorbing it, and machine washes without any of the colourfast anxiety that follows a cotton runner into the laundry.
+The [Classic Linen by D'Moksha Navy Blue Table Runner 84"](product:chilewich-trellis-woven-navy-runner) sits in mid-range territory and earns its position through both the quality of its linen construction and the versatility of the navy colourway. Linen at this price band provides the drape and textile weight that cotton runners at the same price cannot match.
 
-The navy Trellis colourway reads as deep and slightly formal, which makes it one of the more versatile options in this category. It photographs well in editorial settings precisely because the woven geometry gives the table visual structure without competing with the dishes.
+The navy colourway reads as deep and slightly formal, which makes it one of the more versatile options in this category. It photographs well in editorial settings precisely because the solid, neutral colour gives the table visual grounding without competing with the dishes.
 
-The trade-off is texture and register. The vinyl-yarn construction has a slight sheen that reads as contemporary and clean rather than warm and relaxed. If your table setting leans traditional , white china, silver candlesticks, linen napkins , this runner will look slightly out of place. For a modern or transitional setting, it is a genuinely strong choice that will outlast most of the competition.
+The linen construction does require some care , cold-water washing and air-drying to maintain the colour depth and prevent the fabric from aging prematurely. If your table setting leans traditional , white china, silver candlesticks, pressed napkins , this runner reads naturally at that register. For a very modern or minimalist setting, the classic linen texture may feel slightly more formal than the table calls for.
 
-![Navy woven runner on a modern table setting with ceramic dishes](/images/articles/linens-3.jpg)
+![Navy linen runner on a modern table setting with ceramic dishes](/images/articles/linens-3.jpg)
 
 ,
 
@@ -134,13 +134,13 @@ Rough or matte-finished wood tables grip lighter fabrics naturally and are forgi
 
 Royal blue reads as a statement color regardless of fabric. The question is whether that statement lands as festive, modern, or elegant , and that depends almost entirely on the runner's texture and the pieces surrounding it.
 
-For a formal dinner, the Chilewich Trellis in navy offers enough structure and quiet authority to sit alongside fine china without looking casual. For a farmhouse or transitional table, the faux-linen runner brings warmth and softness that a vinyl-yarn product cannot replicate. For an explicitly festive or casual table , celebrations, outdoor dining, relaxed entertaining , the DII Sarape makes more sense than either of the others.
+For a formal dinner, the classic linen navy runner offers enough structure and quiet authority to sit alongside fine china without looking casual. For a farmhouse or transitional table, the faux-linen runner brings warmth and softness that a more formal linen cannot replicate. For an explicitly festive or casual table , celebrations, outdoor dining, relaxed entertaining , the DII Sarape makes more sense than either of the others.
 
 ### Think Past the First Use
 
 A runner that photographs beautifully on arrival but fades, wrinkles permanently, or requires dry cleaning after every dinner party is a runner you will stop using. Care requirements are a practical filter, not a secondary consideration.
 
-All three options here are machine washable, which is the baseline I'd argue every buyer should require. Beyond that, the Chilewich vinyl-yarn construction is the most durable by a significant margin , it will not absorb wine, will not fade in the same way woven fabric does, and does not require any particular handling. If you entertain frequently and want a runner that simply holds up, that durability is worth the mid-range price.
+All three options here are machine washable, which is the baseline I'd argue every buyer should require. Beyond that, the classic linen runner holds up reliably through regular use when cared for correctly , cold washing and air-drying extend its life considerably. If you entertain frequently and want a runner that drapes well and looks considered on a formal table, the linen construction is worth the mid-range price.
 
 ### Consider Your Existing Linen Collection
 
@@ -164,7 +164,7 @@ Navy sits considerably darker , it reads as deep, near-formal, and close to neut
 Yes, and for most casual to transitional tables it looks better without one. A runner directly on the table surface shows the wood grain alongside the linen, which gives the setting a more modern and intentional quality. The main practical consideration is that without a tablecloth, the table itself is more exposed to spills and heat. On a table with a finish you want to protect, a tablecloth or placemats alongside the runner is worth the extra layer.
 ### How do I keep a table runner from sliding on a smooth table?
 
-A non-slip runner pad placed beneath it is the most reliable solution and costs very little. Alternatively, choosing a heavier fabric runner , the [Chilewich Trellis Woven Table Runner in Navy](product:chilewich-trellis-woven-navy-runner) stays put more reliably than lightweight cotton options because of its weight and texture. The [DII Sarape Striped Table Runner](product:dii-sarape-striped-table-runner) is the most likely to shift on a smooth surface and benefits most from a pad.
+A non-slip runner pad placed beneath it is the most reliable solution and costs very little. Alternatively, choosing a heavier fabric runner , the [Classic Linen by D'Moksha Navy Blue Table Runner 84"](product:chilewich-trellis-woven-navy-runner) stays put more reliably than lightweight cotton options because of its textile weight and linen density. The [DII Sarape Striped Table Runner](product:dii-sarape-striped-table-runner) is the most likely to shift on a smooth surface and benefits most from a pad.
 ### Is the faux-linen table runner worth the price?
 
 For buyers building a farmhouse table who want a runner with genuine relaxed texture and no-iron convenience, yes. The reversible double-layer construction and stonewashed finish deliver what they promise. For buyers who want a crisp, pressed runner, mid-range options perform better on that specific requirement. The stonewashed no-iron finish is the runner's strongest practical argument.
@@ -197,7 +197,7 @@ Measure the full length of your dining table and add at least eight inches for o
  "name": "How do I keep a table runner from sliding on a smooth table?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "A non-slip runner pad placed beneath it is the most reliable solution and costs very little. Alternatively, choosing a heavier fabric runner , the Chilewich Trellis Woven Table Runner in Navy stays put more reliably than lightweight cotton options because of its weight and texture. The DII Sarape Striped Table Runner is the most likely to shift on a smooth surface and benefits most from a pad."
+ "text": "A non-slip runner pad placed beneath it is the most reliable solution and costs very little. Alternatively, choosing a heavier fabric runner , the Classic Linen by D'Moksha Navy Blue Table Runner stays put more reliably than lightweight cotton options because of its textile weight and linen density. The DII Sarape Striped Table Runner is the most likely to shift on a smooth surface and benefits most from a pad."
  }
  },
  {

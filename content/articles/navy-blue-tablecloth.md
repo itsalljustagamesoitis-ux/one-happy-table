@@ -45,7 +45,7 @@ faq:
   - question: "Does the Sferra Classico tablecloth need dry cleaning or can I machine wash it?"
     answer: "The Sferra Classico requires hand-wash or gentle machine wash on a cool cycle, and professional pressing if you want it to look as it should. The Italian linen body is not fragile, but heat and rough machine cycles will compromise both the fabric and the hand-drawn hemstitch border over time. If your post-dinner routine involves bundling the tablecloth into a regular cycle, this is the wrong tablecloth for that use pattern."
   - question: "Can a navy table runner substitute for a full tablecloth for a formal look?"
-    answer: "A runner works well layered over a neutral tablecloth — white or ivory linen underneath a navy runner creates a more considered presentation than either piece alone. Used as a standalone piece on a bare wood table, a runner reads as casual. Layered intentionally over a base cloth, it reads as styled and adds dimension that a single fabric does not. The Chilewich Trellis runner in navy handles heat and moisture that fabric runners cannot, making it practical for frequent formal use."
+    answer: "A runner works well layered over a neutral tablecloth — white or ivory linen underneath a navy runner creates a more considered presentation than either piece alone. Used as a standalone piece on a bare wood table, a runner reads as casual. Layered intentionally over a base cloth, it reads as styled and adds dimension that a single fabric does not. A quality linen navy runner in a neutral colourway coordinates easily across formal and semi-formal table settings."
 ---
 
 Navy blue is one of those colors that works across almost every setting , a backyard graduation party, a holiday dinner, a wedding reception , which is exactly why it's the most-searched tablecloth color for formal tables. If you're shopping for [table linens](/linens/) and feel overwhelmed by the range of fabrics, sizes, and constructions on the market, this guide cuts through the noise with three honest picks across different price bands and use cases.
@@ -64,7 +64,7 @@ For a standard 6-foot folding table (30×72 inches), a 60×120 works. For an 8-f
 
 Cotton, polyester, and linen each behave differently under the conditions of actual use. Cotton feels soft and presses flat easily but wrinkles aggressively after washing and tends to absorb spills before you can blot them. Polyester is crease-resistant and washes cleanly, but the cheaper constructions have a plasticky sheen that reads as disposable under candlelight.
 
-Linen sits in a different category entirely. It has a natural crisp drape, a slight sheen from the fiber itself, and it improves with age , older linen pressed well is more beautiful than new linen. The trade-off is care: linen requires attentive washing and pressing to look its best. Vinyl-yarn constructions occupy a niche of their own , purpose-built for durability and heat resistance, not traditional presentation.
+Linen sits in a different category entirely. It has a natural crisp drape, a slight sheen from the fiber itself, and it improves with age , older linen pressed well is more beautiful than new linen. The trade-off is care: linen requires attentive washing and pressing to look its best. Linen constructions occupy a different tier , they drape beautifully, age well, and have the natural sheen that polyester cannot replicate.
 
 ### color Depth and Consistency
 
@@ -96,13 +96,13 @@ The honest caveat: deep navy polyester shows lint and pet hair with unforgiving 
 
 ### Classic Linen by D'Moksha Navy Blue Table Runner 84"
 
-The Chilewich Trellis runner occupies a completely different role from a full tablecloth , it's a layering piece, not a replacement , but it earns its place in this roundup because it solves a specific problem that fabric runners do not. The vinyl-yarn construction is genuinely heat-resistant, water-resistant, and machine washable. You can set a hot pan directly on it, blot a wine spill with a damp cloth, and run it through the wash afterward without a second thought.
+The [Classic Linen by D'Moksha Navy Blue Table Runner 84"](product:chilewich-trellis-woven-navy-runner) occupies a completely different role from a full tablecloth , it's a layering piece, not a replacement , but it earns its place in this roundup because it provides a neutral, well-constructed linen option that layers beautifully over a base tablecloth.
 
-The Navy Trellis colourway is the most frequently reproduced in formal dining editorial for a reason. The woven geometric pattern reads as considered rather than decorative, and the navy depth is consistent across the surface in a way that dyed-fabric runners often aren't. Under candlelight, the vinyl-yarn weave catches light differently from linen , there's a slight sheen and texture that signals contemporary rather than traditional, which is worth knowing before you place it on a heavily antique-styled table.
+The navy colourway is deep and slightly formal, which makes it one of the more versatile options in this category. Laid over a white or ivory tablecloth, the navy runner adds colour and dimension without requiring any restyling of the place settings. The linen construction has the textile weight and natural drape that coordinates naturally with formal china and silver flatware.
 
-This is the pick for buyers who entertain frequently enough that fabric runners have become a laundry problem. It's also the pick for outdoor tables or buffet setups where heat and moisture are realistic concerns. The Chilewich Trellis runner is not available on Amazon , purchase directly through the Chilewich website or through specialty home goods retailers.
+This is the pick for buyers who want a layered table presentation that looks intentional and styled. Linen runners do require proper care , cold-water washing and air-drying , but they hold up well through regular use when treated correctly.
 
-![Chilewich Trellis woven runner in navy on a modern dining table](/images/articles/linens-2.jpg)
+![Navy linen table runner on a modern dining table](/images/articles/linens-2.jpg)
 
 ,
 
@@ -167,7 +167,7 @@ Polyester is more practical for frequent use , it's machine washable, wrinkle-re
 A lint roller is the most effective tool, and for deep navy it's non-negotiable , the color shows hair from light-colored pets with particular clarity. Work in sections from one end to the other rather than randomly to avoid redistributing hair you've already lifted. Storing the tablecloth in a sealed bag or linen press between uses significantly reduces the amount of lint and hair that accumulates on the surface before you've even set the table.
 ### Can I use a table runner instead of a full tablecloth for a formal navy look?
 
-A runner works well layered over a neutral tablecloth , white or ivory linen underneath a navy runner creates a more considered presentation than either piece alone. The Chilewich Trellis runner in Navy is durable enough for frequent formal use and handles heat and moisture that fabric runners don't. Used as a standalone piece on a bare wood table, a runner reads as casual; layered intentionally, it reads as styled. It depends on the look you're building and the occasion.
+A runner works well layered over a neutral tablecloth , white or ivory linen underneath a navy runner creates a more considered presentation than either piece alone. The Classic Linen by D'Moksha Navy Blue Table Runner 84" coordinates cleanly with formal navy table settings and holds its drape and colour reliably with cold-water washing. Used as a standalone piece on a bare wood table, a runner reads as casual; layered intentionally, it reads as styled. It depends on the look you're building and the occasion.
 ### How do I keep a linen tablecloth looking pressed through a long dinner party?
 
 Start with a properly pressed cloth and a table pad underneath , the padding prevents the linen from shifting and developing creases from contact with the table surface. Avoid placing heavy centerpieces directly on the linen; use chargers or trivets to distribute weight. If creases develop during service, a light misting with water and smoothing by hand handles minor wrinkles. The Sferra Classico's Italian linen construction holds a press well through a seated dinner without needing intervention.
@@ -205,7 +205,7 @@ Start with a properly pressed cloth and a table pad underneath , the padding pre
  "name": "Can I use a table runner instead of a full tablecloth for a formal navy look?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "A runner works well layered over a neutral tablecloth , white or ivory linen underneath a navy runner creates a more considered presentation than either piece alone. The Chilewich Trellis runner in Navy is durable enough for frequent formal use and handles heat and moisture that fabric runners don't. Used as a standalone piece on a bare wood table, a runner reads as casual; layered intentionally, it reads as styled. It depends on the look you're building and the occasion."
+ "text": "A runner works well layered over a neutral tablecloth , white or ivory linen underneath a navy runner creates a more considered presentation than either piece alone. The Classic Linen by D'Moksha Navy Blue Table Runner 84" coordinates cleanly with formal navy table settings and holds its drape and colour reliably with cold-water washing. Used as a standalone piece on a bare wood table, a runner reads as casual; layered intentionally, it reads as styled. It depends on the look you're building and the occasion."
  }
  },
  {

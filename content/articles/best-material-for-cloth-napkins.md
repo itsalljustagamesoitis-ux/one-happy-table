@@ -62,11 +62,11 @@ faq:
   - question: "How many cloth napkins do I actually need to buy?"
     answer: "A practical baseline is one napkin per seat plus two or three extras to allow for a wash cycle mid-week. For a table of eight, that means a minimum of ten napkins — practically speaking, twelve. Budget sets in twelve-packs address this directly. Premium sets sold in fours require more planning to reach full table coverage, and buying an extra set at the time of the initial purchase is easier than tracking down a matching set a year later."
   - question: "Do cloth napkins shrink in the wash?"
-    answer: "Cotton and linen both shrink somewhat on the first wash, with linen shrinking more. Pre-washed options like the Belgian Linen Napkins from Sur La Table have already accounted for shrinkage, so the dimensions you buy are the dimensions you keep. For napkins that have not been pre-washed, expect a small reduction — enough to notice if you are matching napkins to a specific fold or ring size, but not significant enough to affect everyday use."
+    answer: "Cotton and linen both shrink somewhat on the first wash, with linen shrinking more. A linen-flax blend like the Bedding Craft set is more dimensionally stable than pure linen and settles quickly after the first wash. For napkins that have not been pre-washed, expect a small reduction — enough to notice if you are matching napkins to a specific fold or ring size, but not significant enough to affect everyday use."
   - question: "Can sculptural metal napkin rings snag fine linen napkins?"
     answer: "Yes, with certain designs. Three-dimensional metal rings like the Michael Aram Anemone can catch on linen fibers if the ring is slid on quickly. Sliding the ring on slowly and smoothly, rather than pulling it through, avoids snagging. Cotton napkins are more forgiving with textured rings because the fiber is less prone to catching. If you regularly use fine linen napkins, a smoother ring profile — ceramic, plain metal, or wood — is a lower-maintenance pairing."
-  - question: "Are the Sferra hemstitched napkins worth the premium over Belgian linen?"
-    answer: "They serve slightly different purposes. The Sferra napkins are hand-hemstitched on Italian linen — the border detail is visible from across the table and signals formal intention in a way machine-finished edges do not. The Sur La Table Belgian linen is pre-washed, heavier, and more suited to everyday premium use without ceremony. If you are building a formal set for dinner parties, the Sferra hemstitching earns its price. For frequent everyday use, the Belgian linen is the more practical investment."
+  - question: "Are the Sferra hemstitched napkins worth the premium over the linen-flax blend?"
+    answer: "They serve slightly different purposes. The Sferra napkins are hand-hemstitched on Italian linen — the border detail is visible from across the table and signals formal intention in a way machine-finished edges do not. The Bedding Craft linen-flax napkins are heavier and more suited to everyday premium use without ceremony, and the set of 12 means full table coverage in a single purchase. If you are building a formal set for dinner parties, the Sferra hemstitching earns its price. For frequent everyday use, the linen-flax blend is the more practical investment."
 ---
 
 Choosing a napkin material sounds like a small decision until you're standing at a table you've spent an hour setting, and the napkins just don't feel right , too stiff, too sheer, or so clearly disposable that they undercut everything else. The material determines how a napkin drapes, absorbs, launders, and ages, and those differences matter more in practice than most buying guides admit.
@@ -105,11 +105,11 @@ The one practical note: sold in sets of four, a table of eight requires two orde
 
 ### Bedding Craft Linen Flax Cotton Dinner Napkins Set of 12
 
-The everyday premium napkin exists, and it looks like this. The [Belgian Linen Napkins (Set of 6)](product:sur-la-table-linen-napkins-set6) from Sur La Table are washed Belgian linen , heavy, textural, and pre-washed so shrinkage is already accounted for. You don't have to babysit the first few laundering cycles, which is more valuable than it sounds.
+The everyday premium napkin exists, and it looks like this. The [Bedding Craft Linen Flax Cotton Dinner Napkins Set of 12](product:sur-la-table-linen-napkins-set6) is a linen-flax blend , heavy, textural, and the set of 12 means you can cover a full dinner party table in one purchase. That matters more than most buyers expect until they're counting napkins before guests arrive.
 
-Linen as a material rewards patience. It starts with a slight stiffness and breaks in over months of use into something that drapes beautifully and feels genuinely considered on the table. The natural flax color is one of those neutrals that reads differently against warm terracotta, cool gray, and white glazed ceramics without fighting any of them.
+Linen-flax blends reward patience. The natural texture develops drape and softness with washing, and the natural flax color is one of those neutrals that reads differently against warm terracotta, cool gray, and white glazed ceramics without fighting any of them. Machine-wash durability is better than pure linen, which is a genuine practical advantage for napkins that get regular use.
 
-The trade-off with linen is honest and irreducible: it wrinkles. Not in a careless way , linen's casual rumple reads as texture rather than neglect when the rest of the table is composed , but if you need crisp precision for a formal setting, you'll be ironing. For everything else, these are my most-reached-for napkins.
+The trade-off with a linen-flax blend is honest and irreducible: it wrinkles. Not in a careless way , linen's casual rumple reads as texture rather than neglect when the rest of the table is composed , but if you need crisp precision for a formal setting, you'll be ironing. For everything else, these are a strong everyday choice.
 
 ![Natural linen napkins arranged beside ceramic tableware](/images/articles/linens-3.jpg)
 
@@ -123,7 +123,7 @@ Most napkins are finished by machine. The [Sferra Hemstitched Linen Napkins Set 
 
 Italian linen starts slightly firmer than washed Belgian varieties and softens progressively with washing. The fiber gains drape over time, which means these napkins are an investment that improves rather than deteriorates. I've had a set long enough to say that without hedging.
 
-The maintenance requirement is real. Pressed linen at a formal table requires ironing after each wash, and there's no shortcut that produces the same result. If you're committed to the look, the effort becomes routine. If the ironing step sounds like something you'll skip half the time, the Belgian linen option above will serve you better.
+The maintenance requirement is real. Pressed linen at a formal table requires ironing after each wash, and there's no shortcut that produces the same result. If you're committed to the look, the effort becomes routine. If the ironing step sounds like something you'll skip half the time, the linen-flax blend option above will serve you better.
 
 ![Hemstitched linen napkins pressed and stacked on a formal table](/images/articles/linens-4.jpg)
 
@@ -171,7 +171,7 @@ The blend category , cotton-poly , sits outside this comparison and serves a dif
 
 Fiber type is only part of the equation. A tightly woven cotton napkin absorbs more efficiently than a loosely woven one because the fiber has more surface contact. Linen's natural texture creates the same effect through a different mechanism , the irregular fiber surface wicks moisture well even at lower thread counts.
 
-Weight is a separate variable. A heavier napkin folds more crisply and holds a ring placement better on the table. Lighter napkins are easier to launder and dry faster, which matters if you're running them through the wash multiple times a week. The washed Belgian linen option in this list is heavy enough to hold a fold without stiffness , a combination that's harder to find than it should be.
+Weight is a separate variable. A heavier napkin folds more crisply and holds a ring placement better on the table. Lighter napkins are easier to launder and dry faster, which matters if you're running them through the wash multiple times a week. The linen-flax blend option in this list is heavy enough to hold a fold without stiffness , a combination that's harder to find than it should be.
 
 ### Sets and Quantities: Buying for Your Actual Table
 
@@ -204,7 +204,7 @@ Linen outperforms cotton on texture, drape, and longevity once it has been washe
 A baseline is one napkin per seat plus two or three extras to allow for a wash cycle mid-week. For a table of eight, that means a minimum of ten napkins , practically speaking, twelve. Budget sets in 12-packs address this directly; premium sets sold in fours require more planning and budget to reach full table coverage. If you host occasionally with a larger extended table, buying an extra set of four at the time of your initial purchase is easier than tracking down a matching set a year later.
 ### Do cloth napkins shrink in the wash?
 
-Cotton and linen both shrink somewhat on the first wash, with linen shrinking more. Pre-washed options like the Belgian Linen Napkins from Sur La Table have already accounted for shrinkage, so the dimensions you buy are the dimensions you keep. For napkins that haven't been pre-washed, expect a small reduction , typically enough to notice if you're matching napkins to a very specific fold or ring size, but not significant enough to affect everyday use.
+Cotton and linen both shrink somewhat on the first wash, with linen shrinking more. A linen-flax blend like the Bedding Craft Linen Flax Cotton Dinner Napkins Set of 12 is more dimensionally stable than pure linen and settles quickly after the first wash. For napkins that haven't been pre-washed, expect a small reduction , typically enough to notice if you're matching napkins to a very specific fold or ring size, but not significant enough to affect everyday use.
 ### Can I use sculptural napkin rings with linen napkins?
 Yes, with care. Three-dimensional metal rings like the [Michael Aram Anemone Napkin Ring Set of 4](product:michael-aram-anemone-napkin-ring-set4) can catch on linen fibers if the ring is slid on quickly. Sliding the ring on slowly and smoothly, rather than pulling it through, avoids snagging. Cotton napkins are more forgiving with textured rings because the fiber is less prone to catching.
 <script type="application/ld+json">
@@ -241,7 +241,7 @@ Yes, with care. Three-dimensional metal rings like the [Michael Aram Anemone Nap
  "name": "Do cloth napkins shrink in the wash?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "Cotton and linen both shrink somewhat on the first wash, with linen shrinking more. Pre-washed options like the Belgian Linen Napkins from Sur La Table have already accounted for shrinkage, so the dimensions you buy are the dimensions you keep. For napkins that haven't been pre-washed, expect a small reduction , typically enough to notice if you're matching napkins to a very specific fold or ring size, but not significant enough to affect everyday use."
+ "text": "Cotton and linen both shrink somewhat on the first wash, with linen shrinking more. A linen-flax blend like the Bedding Craft Linen Flax Cotton Dinner Napkins Set of 12 is more dimensionally stable than pure linen and settles quickly after the first wash. For napkins that haven't been pre-washed, expect a small reduction , typically enough to notice if you're matching napkins to a very specific fold or ring size, but not significant enough to affect everyday use."
  }
  },
  {

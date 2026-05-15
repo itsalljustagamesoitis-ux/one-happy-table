@@ -37,9 +37,9 @@ disclosure_required: true
 noindex: false
 faq:
   - question: "Sarape table runner on a glass or marble table — will it stay in place?"
-    answer: "Lightweight cotton runners, including the DII Sarape Striped Table Runner, will shift on smooth surfaces like glass, lacquered wood, or marble without a non-slip pad underneath. A runner pad is an inexpensive fix and worth buying alongside the runner if your table is smooth. The Chilewich's heavier vinyl-yarn construction stays in place more reliably on most surfaces without an additional pad."
-  - question: "DII sarape runner vs Chilewich for a table that gets daily use — which holds up better?"
-    answer: "The Chilewich Trellis Woven Runner in Navy is fundamentally more durable. Its vinyl-yarn construction is heat-resistant, water-resistant, and machine washable in a way that natural cotton fibers cannot match. The DII delivers authentic sarape pattern and color at a budget price point but requires more care under heavy use. If your table sees daily meals and spills, the Chilewich is the more practical investment even at a higher price."
+    answer: "Lightweight cotton runners, including the DII Sarape Striped Table Runner, will shift on smooth surfaces like glass, lacquered wood, or marble without a non-slip pad underneath. A runner pad is an inexpensive fix and worth buying alongside the runner if your table is smooth. A heavier linen runner stays in place more reliably on most surfaces because of its textile weight and density."
+  - question: "DII sarape runner vs a navy linen runner for a table that gets daily use — which holds up better?"
+    answer: "A quality linen navy runner is generally more durable than a budget cotton sarape over time when cared for correctly. Linen resists wear and holds its structure through regular use with cold-water washing and air-drying. The DII delivers authentic sarape pattern and color at a budget price point but requires more attention under heavy use to preserve its saturated colors. If your table sees daily meals and spills, a well-constructed linen runner tends to be the more practical long-term investment."
   - question: "Does the faux-linen table runner need to be ironed?"
     answer: "No, and that's intentional. The stonewashed faux-linen finish is designed to have a relaxed, lived-in drape. It will not press completely flat and isn't meant to. For farmhouse or casual-formal tables where that relaxed texture reads well, this is an asset. If your table setting calls for crisp, structured linens, this runner is not the right match."
   - question: "How long should a sarape table runner be for a six-person dining table?"
@@ -90,13 +90,13 @@ For Cinco de Mayo tables, taco night, summer outdoor settings, or any table wher
 
 ### Classic Linen by D'Moksha Navy Blue Table Runner 84"
 
-Most table runners ask you to work around them. The [Chilewich Trellis Woven Table Runner in Navy](product:chilewich-trellis-woven-navy-runner) is built to take what a table actually throws at it , heat, moisture, spills , and come out looking exactly as it did before.
+The [Classic Linen by D'Moksha Navy Blue Table Runner 84"](product:chilewich-trellis-woven-navy-runner) is a neutral, well-constructed linen runner in a colourway that coordinates easily with most table settings. The navy reads as calm and slightly formal , the right foundation for a table that has other visual energy coming from the ceramics, glassware, or centrepiece.
 
-The vinyl-yarn weave is the thing to understand here. It's not linen or cotton that happens to be durable; it's an engineered material that is fundamentally more resistant than woven natural fibers. Heat-resistant, water-resistant, and machine washable. For households where the dining table gets real use , kids, frequent hosting, everyday meals , this construction solves problems that fabric runners require management around.
+Linen at this price band provides textile weight and a natural drape that budget cotton runners cannot match. The 84-inch length suits most standard dining tables with a proper overhang, and the navy is a deep enough tone that it reads as a considered colour choice rather than a default.
 
-The trade-off is aesthetic register. The slight sheen and texture read as modern and minimal rather than warm and traditional. Navy Trellis is their most-photographed colorway for formal dining editorial, and it earns that status , it's clean, confident, and coordinates well across a range of tableware. But if your table setting leans rustic, farmhouse, or warm-toned, the visual language of this runner may work against the rest of what you've set. Know what aesthetic you're building before buying for durability alone.
+The trade-off is care. Linen runners benefit from cold-water washing and air-drying to maintain their drape and colour over time. That is straightforward maintenance for anyone already accustomed to caring for linen, but it is worth knowing going in. For a rustic or farmhouse table where a more relaxed texture is the goal, the faux-linen runner may be a better fit , but for most tables where a neutral, quality runner is the ask, this linen delivers it.
 
-![Chilewich woven runner on a modern set table with navy and white dinnerware](/images/articles/linens-2.jpg)
+![Navy linen table runner on a modern set table with navy and white dinnerware](/images/articles/linens-2.jpg)
 
 ,
 
@@ -108,7 +108,7 @@ The [DII Faux-Linen Table Runner](product:juliska-country-estate-table-runner) b
 
 For a farmhouse table where pressed linens would read as too formal, this works beautifully. For a table that calls for clean, flat lines, it won't press flat and isn't meant to. The reversible construction and muted stonewashed tone sit naturally with wooden tables and handmade ceramics.
 
-I'd recommend it to buyers building a relaxed farmhouse table , and steer everyone else toward the DII Sarape or Chilewich depending on their priorities.
+I'd recommend it to buyers building a relaxed farmhouse table , and steer everyone else toward the DII Sarape or the navy linen runner depending on their priorities.
 
 ![Faux-linen runner with farmhouse ceramics and linen napkins on a wooden table](/images/articles/linens-3.jpg)
 
@@ -128,7 +128,7 @@ If you're buying for a single occasion and then storage, the budget end of the m
 
 For everyday use , or for tables where children or frequent guests are the norm , machine washability is a practical necessity, not a preference. Most runners in this category are machine washable, but the care specifics vary. Low-heat washing preserves color and construction; high-heat cycles can accelerate fading and fiber breakdown in cotton runners.
 
-Engineered textiles like the Chilewich vinyl-yarn weave handle heat and moisture differently than natural fibers. If you want to wash without thinking carefully about temperature settings, that construction removes the guesswork. For buyers who are already careful with their linens and prefer natural materials, the cotton options are entirely manageable.
+A linen runner and a cotton sarape runner both machine wash reliably at cold temperatures. Linen holds its structure and colour better over many washes when cared for correctly. For buyers who prefer natural materials and don't mind proper laundering, both options are entirely manageable.
 
 ### Consider Your Table Surface
 
@@ -150,13 +150,13 @@ A runner doesn't work in isolation , it's part of a composed table. The ceramics
 
 ### Is a sarape table runner appropriate for everyday use, or is it more of an occasional piece?
 
-It depends on the runner's construction and your table's aesthetic. A traditional cotton sarape runner like the DII holds its own for everyday use if you wash it at low heat and use a non-slip pad on smooth surfaces. The Chilewich, with its vinyl-yarn weave, handles daily use more robustly than any natural-fiber runner in this category. The faux-linen runner is styled for entertaining rather than every weeknight , its relaxed drape and premium positioning suit occasional use better.
-### What's the difference between the DII and the Chilewich runner for a dining table that gets heavy use?
+It depends on the runner's construction and your table's aesthetic. A traditional cotton sarape runner like the DII holds its own for everyday use if you wash it at low heat and use a non-slip pad on smooth surfaces. The faux-linen runner is styled for entertaining rather than every weeknight , its relaxed drape and premium positioning suit occasional use better. A linen navy runner handles daily use reliably when cared for with cold-water washing.
+### What's the difference between the DII and the navy linen runner for a dining table that gets heavy use?
 
-The DII delivers authentic sarape pattern and color at a budget price point , excellent for the aesthetic, but the cotton construction requires more care under heavy use. The Chilewich Trellis Woven Runner in Navy is heat-resistant, water-resistant, and fundamentally more durable than any woven natural-fiber runner. If your table sees daily meals, spills, and regular washing, the Chilewich's engineered construction is the more practical investment even at a higher price band.
+The DII delivers authentic sarape pattern and color at a budget price point , excellent for the aesthetic, but the cotton construction requires more care under heavy use to preserve its saturated colors. A quality linen runner is generally more durable than a budget cotton runner over time and holds its structure through regular use. If your table sees daily meals and regular washing, a well-constructed linen runner tends to be the more practical long-term investment.
 ### Will a sarape runner work on a glass or marble table without slipping?
 
-Lightweight cotton runners , including the DII Sarape Striped Table Runner , will shift on smooth surfaces like glass, lacquered wood, or marble without a non-slip pad underneath. A runner pad is an inexpensive fix and worth buying alongside the runner if your table is smooth. The Chilewich's heavier vinyl-yarn construction stays in place more reliably on most surfaces without an additional pad.
+Lightweight cotton runners , including the DII Sarape Striped Table Runner , will shift on smooth surfaces like glass, lacquered wood, or marble without a non-slip pad underneath. A runner pad is an inexpensive fix and worth buying alongside the runner if your table is smooth. A heavier linen runner stays in place more reliably on most surfaces because of its textile weight and density.
 ### Does the faux-linen table runner need to be ironed?
 No , and that's intentional. The stonewashed faux-linen finish is designed to have a relaxed, lived-in drape. It will not press completely flat, and ironing it flat would undermine the look it's designed to create. For farmhouse or casual-formal tables where that relaxed texture reads well, this is an asset.
 ### How long should a sarape table runner be for a standard six-person dining table?
@@ -172,15 +172,15 @@ A standard six-person dining table runs between sixty and seventy-two inches in 
  "name": "Is a sarape table runner appropriate for everyday use, or is it more of an occasional piece?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "It depends on the runner's construction and your table's aesthetic. A traditional cotton sarape runner like the DII holds its own for everyday use if you wash it at low heat and use a non-slip pad on smooth surfaces. The Chilewich, with its vinyl-yarn weave, handles daily use more robustly than any natural-fiber runner in this category. The faux-linen runner is styled for entertaining rather than every weeknight , its relaxed drape and premium positioning suit occasional use better."
+ "text": "It depends on the runner's construction and your table's aesthetic. A traditional cotton sarape runner like the DII holds its own for everyday use if you wash it at low heat and use a non-slip pad on smooth surfaces. A linen navy runner handles daily use reliably when cared for with cold-water washing. The faux-linen runner is styled for entertaining rather than every weeknight , its relaxed drape and premium positioning suit occasional use better."
  }
  },
  {
  "@type": "Question",
- "name": "What's the difference between the DII and the Chilewich runner for a dining table that gets heavy use?",
+ "name": "What's the difference between the DII and the navy linen runner for a dining table that gets heavy use?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "The DII delivers authentic sarape pattern and color at a budget price point , excellent for the aesthetic, but the cotton construction requires more care under heavy use. The Chilewich Trellis Woven Runner in Navy is heat-resistant, water-resistant, and fundamentally more durable than any woven natural-fiber runner. If your table sees daily meals, spills, and regular washing, the Chilewich's engineered construction is the more practical investment even at a higher price band."
+ "text": "The DII delivers authentic sarape pattern and color at a budget price point , excellent for the aesthetic, but the cotton construction requires more care under heavy use to preserve its saturated colors. A quality linen runner is generally more durable than a budget cotton runner over time and holds its structure through regular use. If your table sees daily meals and regular washing, a well-constructed linen runner tends to be the more practical long-term investment."
  }
  },
  {
@@ -188,7 +188,7 @@ A standard six-person dining table runs between sixty and seventy-two inches in 
  "name": "Will a sarape runner work on a glass or marble table without slipping?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "Lightweight cotton runners , including the DII Sarape Striped Table Runner , will shift on smooth surfaces like glass, lacquered wood, or marble without a non-slip pad underneath. A runner pad is an inexpensive fix and worth buying alongside the runner if your table is smooth. The Chilewich's heavier vinyl-yarn construction stays in place more reliably on most surfaces without an additional pad."
+ "text": "Lightweight cotton runners , including the DII Sarape Striped Table Runner , will shift on smooth surfaces like glass, lacquered wood, or marble without a non-slip pad underneath. A runner pad is an inexpensive fix and worth buying alongside the runner if your table is smooth. A heavier linen runner stays in place more reliably on most surfaces because of its textile weight and density."
  }
  },
  {

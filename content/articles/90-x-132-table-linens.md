@@ -40,8 +40,8 @@ faq:
     answer: "A standard 6-foot folding table measures 72 inches long by 30 inches wide, with a standard height of 30 inches. A 90 x 132 tablecloth gives you a 9-inch drop on each long side and a floor-length drop on the short ends. If you want the tablecloth to reach the floor on all four sides, confirm your specific table's dimensions against the drop math before ordering."
   - question: "Polyester vs linen for a formal dinner table — which is the better choice?"
     answer: "Linen reads as more elevated at a formal dinner because of its texture, natural variation, and the way it drapes — polyester has a synthetic sheen that registers as less formal under dining room lighting. That said, linen requires more prep and accepts wrinkles as part of its character. For a formal dinner where you want precision and a crisp look, a well-pressed polyester tablecloth can perform respectably, particularly in a solid dark color like black."
-  - question: "Do Belgian linen napkins need to be ironed?"
-    answer: "Pre-washed Belgian linen napkins don't require ironing, and attempting to press them perfectly flat works against the material's character. A light steam while slightly damp removes the sharpest fold lines from storage, but the relaxed texture that remains is intentional, not a flaw. If your table style requires geometrically precise folds, linen is not the right choice — cotton presses flat and holds the crease far more reliably."
+  - question: "Do linen-flax blend napkins need to be ironed?"
+    answer: "Linen-flax blend napkins don't require ironing, and attempting to press them perfectly flat works against the material's character. A light steam while slightly damp removes the sharpest fold lines from storage, but the relaxed texture that remains is intentional, not a flaw. If your table style requires geometrically precise folds, linen is not the right choice — cotton presses flat and holds the crease far more reliably."
   - question: "How do I store tablecloths between uses to avoid deep creases?"
     answer: "Rolling tablecloths around a tube — a wrapping paper roll works — prevents the sharp fold lines that form when fabric is stacked flat. For polyester tablecloths especially, those fold creases can be stubborn and require steaming to remove before use. Linen is more forgiving once laid out and given a few minutes to relax, but rolling still extends the time between needing to press or steam before an event."
   - question: "Can a table runner replace a tablecloth for a 6-foot folding table?"
@@ -82,13 +82,13 @@ Pre-washing matters for natural fibers. Linen and cotton shrink, and a tableclot
 
 ### Bedding Craft Linen Flax Cotton Dinner Napkins Set of 12
 
-For the table that wants texture and a little character, washed Belgian linen is hard to argue against. The [Belgian Linen Napkins (Set of 6)](product:sur-la-table-linen-napkins-set6) from Sur La Table are pre-washed, which means the sizing you see is the sizing you get , no unwelcome surprises after the first laundry cycle. The weight is substantial without being stiff, and the natural flax color works across a wide range of table palettes, from all-white dinnerware to darker stoneware.
+For the table that wants texture and a little character, a linen-flax blend is hard to argue against. The [Bedding Craft Linen Flax Cotton Dinner Napkins Set of 12](product:sur-la-table-linen-napkins-set6) comes in a set of 12 that covers a full dinner party table in one purchase , no second-order math required. The weight is substantial without being stiff, and the natural flax color works across a wide range of table palettes, from all-white dinnerware to darker stoneware.
 
-Linen wrinkles. That's not a flaw in this set , it's a characteristic of the material, and these napkins lean into it. The stonewashed finish softens that further over time, so the napkins you use ten times will feel and look better than the napkins you pull out of the box. If your entertaining style trends toward a relaxed, layered table rather than a pressed-and-precise one, this is the right material.
+Linen-flax blends wrinkle. That's not a flaw in this set , it's a characteristic of the material, and these napkins lean into it. The texture softens over time, so the napkins you use ten times will feel and look better than the napkins you pull out of the box. If your entertaining style trends toward a relaxed, layered table rather than a pressed-and-precise one, this is the right material.
 
-The tradeoff worth naming plainly: the price per napkin is higher than cotton, and building toward a set of twelve is a real investment. For everyday hosting this is the premium choice, not the practical-budget choice.
+The tradeoff worth naming plainly: the price per napkin is higher than cotton. But the set of twelve means this is a one-purchase solution rather than a scaled investment , and the linen-flax blend has better machine-wash durability than pure linen.
 
-![Belgian linen napkins folded on a wooden table](/images/articles/linens-1.jpg)
+![Linen-flax napkins folded on a wooden table](/images/articles/linens-1.jpg)
 
 ,
 
@@ -162,9 +162,9 @@ A standard 6-foot folding table measures 72 inches long by 30 inches wide, with 
 ### Is polyester or linen better for a formal dinner table?
 
 Linen reads as more elevated at a formal dinner because of its texture, natural variation, and the way it drapes , polyester has a different sheen that registers as less formal under dining room lighting. That said, linen requires more prep and accepts wrinkles as part of its character. For a formal dinner where you want precision and a crisp look, a well-pressed polyester tablecloth can perform respectably, particularly in a solid dark color like black.
-### Do I need to iron Belgian linen napkins?
+### Do I need to iron linen-flax blend napkins?
 
-Pre-washed Belgian linen napkins don't require ironing, and attempting to press them perfectly flat works against the material's character. A light steam while slightly damp removes the sharpest fold lines from storage, but the relaxed texture that remains is intentional, not a flaw. If your table style requires geometrically precise folds, linen is not the right choice , cotton presses flat and holds the crease far more reliably.
+Linen-flax blend napkins don't require ironing, and attempting to press them perfectly flat works against the material's character. A light steam while slightly damp removes the sharpest fold lines from storage, but the relaxed texture that remains is intentional, not a flaw. If your table style requires geometrically precise folds, linen is not the right choice , cotton presses flat and holds the crease far more reliably.
 ### Can I use a table runner instead of a tablecloth for a 6-foot table?
 
 A table runner alone leaves the table surface exposed on the sides, which works well on a wood or stone table where the surface itself is part of the aesthetic. For a folding table, a runner by itself won't conceal the table's utilitarian legs and frame , you'd want a full tablecloth underneath. A faux-linen table runner is designed to layer over a base tablecloth, not replace one.
@@ -194,10 +194,10 @@ Rolling tablecloths around a tube , a wrapping paper roll works , prevents the s
  },
  {
  "@type": "Question",
- "name": "Do I need to iron Belgian linen napkins?",
+ "name": "Do I need to iron linen-flax blend napkins?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "Pre-washed Belgian linen napkins don't require ironing, and attempting to press them perfectly flat works against the material's character. A light steam while slightly damp removes the sharpest fold lines from storage, but the relaxed texture that remains is intentional, not a flaw. If your table style requires geometrically precise folds, linen is not the right choice , cotton presses flat and holds the crease far more reliably."
+ "text": "Linen-flax blend napkins don't require ironing, and attempting to press them perfectly flat works against the material's character. A light steam while slightly damp removes the sharpest fold lines from storage, but the relaxed texture that remains is intentional, not a flaw. If your table style requires geometrically precise folds, linen is not the right choice , cotton presses flat and holds the crease far more reliably."
  }
  },
  {

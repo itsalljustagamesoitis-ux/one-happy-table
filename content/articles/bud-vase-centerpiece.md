@@ -82,7 +82,7 @@ Exploring the full range of [table decor options](/decor/) before settling on a 
 
 ### Carrot's Den Set of 6 White Mini Ceramic Bud Vases
 
-Six vases is the right number for a full table centerpiece, and this set from [Creative Co-Op White Ceramic Bud Vases Set of 6](product:creative-co-op-bud-vases-set6) gets the proportions right. The staggered heights create the clustered look without any extra sourcing , you open the box, fill the vases, and you have a centerpiece. White ceramic coordinates with everything already on the table: cream linens, bright white china, colored napkins, patterned runners.
+Six vases is the right number for a full table centerpiece, and this [Carrot's Den Set of 6 White Mini Ceramic Bud Vases](product:creative-co-op-bud-vases-set6) gets the proportions right. The staggered heights create the clustered look without any extra sourcing , you open the box, fill the vases, and you have a centerpiece. White ceramic coordinates with everything already on the table: cream linens, bright white china, colored napkins, patterned runners.
 
 The narrow necks are a real constraint. Single stems work beautifully here , one tulip, one ranunculus, one branch of eucalyptus per vase. Trying to fit a rose or a gerbera daisy through the opening is a frustration not worth having. If your preferred flowers are fine-stemmed, this is a genuine workhorse set. If you routinely work with wider stems, you'll be fighting the format every time.
 

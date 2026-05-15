@@ -37,13 +37,13 @@ disclosure_required: true
 noindex: false
 faq:
   - question: "Are hand-blown wine glasses safe to put in the dishwasher?"
-    answer: "It depends on the construction and crystal type. Standard soda-lime blown glass, including most colored glassware, can be dishwashed on a gentle cycle but may show etching over time. Engineered crystal formulations like Tritan — used in the Zwiesel Glas Enoteca Champagne Flutes — are specifically designed to resist dishwasher etching. Hand-blown colored pieces like the Estelle emerald set are best washed gently and dried by hand to preserve the color's vibrancy over years of use."
+    answer: "It depends on the construction and crystal type. Standard soda-lime blown glass, including most colored glassware, can be dishwashed on a gentle cycle but may show etching over time. Engineered crystal formulations like Tritan — used in the Zwiesel Glas Enoteca Champagne Flutes — are specifically designed to resist dishwasher etching. Hand-blown colored glass pieces are best washed gently and dried by hand to preserve the color's vibrancy over years of use."
   - question: "What is the difference between color in the glass versus color on the glass?"
     answer: "Color fired into the molten glass or achieved through mineral pigments blended into the batch is structural — it does not sit on top of anything and cannot wash off. Painted decoration sits on the surface and can chip, fade, or wash away over time. When evaluating a colored glass piece, this distinction matters more than any styling detail. Structural color is the durable choice for anything used regularly."
   - question: "What is the difference between a decanter and a carafe?"
     answer: "A decanter aerates wine through a wide, oxygen-exposed surface area — the broad flat bottom allows tannic reds to breathe and mellow. A carafe is a service vessel that holds and pours but does not aerate meaningfully. The Sheffield 34-Ounce Glass Decanter with Lid is functionally a carafe despite its name — its straight-sided form does not provide the surface area a tannic red needs. For everyday water and casual wine service, that distinction is irrelevant."
   - question: "Can I mix colored and clear glassware at the same table setting?"
-    answer: "Yes, and intentional mixing is often more interesting than a fully matched set. The practical rule is to anchor one visual element — keep water glasses clear if wine glasses are colored, or vice versa. Mixing the Sheffield carafe in clear glass with the Estelle emerald wine glasses works precisely because the carafe recedes and lets the colored glasses carry the table's visual register. The contrast between utilitarian and decorative reads as considered rather than mismatched when the clear piece is genuinely simple."
+    answer: "Yes, and intentional mixing is often more interesting than a fully matched set. The practical rule is to anchor one visual element — keep water glasses clear if wine glasses are colored, or vice versa. Mixing a clear carafe with colored wine glasses works precisely because the carafe recedes and lets the colored glasses carry the table's visual register. The contrast between utilitarian and decorative reads as considered rather than mismatched when the clear piece is genuinely simple."
   - question: "Is a set of two champagne flutes enough, or should I buy more?"
     answer: "A set of two is sized for specific deliberate use — a celebratory pour for two people or a specialty glass brought out for a single occasion. For a dinner party where more guests will be toasting, the math requires additional sets. The Zwiesel Glas Enoteca as a set of two reflects its intended use as an occasion piece rather than an everyday glass, which is appropriate given its long fine stem and premium construction."
 ---
@@ -96,13 +96,13 @@ What it does offer at the budget price band is dishwasher safety and genuine dur
 
 ### comfit Hand Blown Emerald Green Wine Glasses Set of 6
 
-There is a moment in the meal when someone at the table reaches for their glass and the candlelight catches the stem at an angle , that is when these earn their reputation. The [Estelle Colored Glass Wine Glasses Emerald Green Set of 6](product:estelle-colored-glass-wine-emerald-set6) has become the reference product in interior design editorial for colored wine glasses because the emerald tone hits a register that reads simultaneously rich and grounded, not garish. It photographs at every lighting temperature and lives even better in person.
+There is a moment in the meal when someone at the table reaches for their glass and the candlelight catches the stem at an angle , that is when these earn their reputation. The [comfit Hand Blown Emerald Green Wine Glasses Set of 6](product:estelle-colored-glass-wine-emerald-set6) has become the reference point in interior design editorial for colored wine glasses because the emerald tone hits a register that reads simultaneously rich and grounded, not garish. It photographs at every lighting temperature and lives even better in person.
 
 Hand-blown construction means each glass carries minor variation in color intensity and wall thickness. Viewed individually, this is invisible. Lined up side by side on a shelf or arranged on a table, the slight differences are perceptible. Whether that reads as flaw or character depends entirely on what you value. My view is that it is character , the uniformity of machine-pressed glass is what makes these feel different from commodity glassware in the first place.
 
 Sold as a set of six, this is a practical choice for a full dinner party table without ordering multiple sets and hoping for consistent dye lots. That matters more than it sounds: with hand-blown colored glass, batches can shift. A set of six from a single purchase gives you the best chance of cohesion across the table.
 
-![Estelle emerald green hand-blown wine glasses arranged for a dinner party](/images/articles/glassware-2.jpg)
+![Hand-blown emerald green wine glasses arranged for a dinner party](/images/articles/glassware-2.jpg)
 
 ,
 
@@ -138,7 +138,7 @@ If you're stocking a table from scratch, the practical starting point is a set o
 
 ### Color and Visual Register: Match Your Table, Not the Trend
 
-Colored glassware reads differently across table settings. The emerald tone of the Estelle set is warm and deeply saturated , it works on a white linen table, on dark wood, and in low candlelight. It does not recede. If your existing table aesthetic is pale, minimalist, or heavily Nordic in influence, a deeply saturated colored glass will dominate rather than complement.
+Colored glassware reads differently across table settings. A deeply saturated emerald tone is warm and rich , it works on a white linen table, on dark wood, and in low candlelight. It does not recede. If your existing table aesthetic is pale, minimalist, or heavily Nordic in influence, a deeply saturated colored glass will dominate rather than complement.
 
 Before committing to a colored glass set, lay out your usual table , your plates, your linens, your candlesticks , and consider what a saturated color presence would do to that composition. Colored glass is a design choice as much as a tableware choice. Own that decision with intention. A reference point for how different glass colors read across table styles is available in the [Glassware & Crystal](/glassware/) collection, which spans everything from clear crystal to deeply pigmented blown pieces.
 
@@ -152,17 +152,17 @@ The calculus shifts depending on how many pieces you're buying and how long you 
 
 ### Are hand-blown wine glasses safe to put in the dishwasher?
 
-It depends on the construction and crystal type. Standard soda-lime blown glass, including most colored glassware, can be dishwashed on a gentle cycle but may show etching over time. Engineered crystal formulations like Tritan , used in the [Zwiesel Glas Enoteca Champagne Flutes](product:zwiesel-glas-enoteca-champagne-set2) , are specifically designed to resist dishwasher etching. Hand-blown colored pieces like the Estelle set are best washed gently and dried by hand to preserve the color's vibrancy over years of use.
+It depends on the construction and crystal type. Standard soda-lime blown glass, including most colored glassware, can be dishwashed on a gentle cycle but may show etching over time. Engineered crystal formulations like Tritan , used in the [Zwiesel Glas Enoteca Champagne Flutes](product:zwiesel-glas-enoteca-champagne-set2) , are specifically designed to resist dishwasher etching. Hand-blown colored glass pieces are best washed gently and dried by hand to preserve the color's vibrancy over years of use.
 ### How does color intensity vary in hand-blown glassware, and is it a problem?
 
-Color variation is inherent to the hand-blown process because the molten glass cools unevenly and the mineral pigments distribute with slight irregularity across each piece. The [Estelle Colored Glass Wine Glasses](product:estelle-colored-glass-wine-emerald-set6) will show minor variation between individual glasses when lined up side by side. For most buyers, this reads as part of the handmade character rather than a quality defect. If absolute visual uniformity matters , for a formal, highly styled table , machine-pressed colored glass will deliver it more consistently.
+Color variation is inherent to the hand-blown process because the molten glass cools unevenly and the mineral pigments distribute with slight irregularity across each piece. The [comfit Hand Blown Emerald Green Wine Glasses](product:estelle-colored-glass-wine-emerald-set6) will show minor variation between individual glasses when lined up side by side. For most buyers, this reads as part of the handmade character rather than a quality defect. If absolute visual uniformity matters , for a formal, highly styled table , machine-pressed colored glass will deliver it more consistently.
 ### What is the difference between a decanter and a carafe?
 A decanter is designed to aerate wine through a wide, oxygen-exposed surface area , the broad flat bottom allows tannic reds to breathe and mellow. A carafe is a service vessel: it holds and pours but does not aerate meaningfully. The [Sheffield 34-Ounce Glass Decanter with Lid](product:anchor-hocking-sheffield-decanter) is, functionally, a carafe despite its name , its straight-sided form does not provide the surface area a tannic red needs. For everyday water and casual wine service, that distinction is irrelevant.
 ### How do I choose between a set of two and a set of six when buying glassware?
 Sets of two are sized for specific, deliberate use , a champagne pour for two people, a specialty glass brought out for a single occasion. Sets of six cover a full dinner party table without supplemental orders. If the glass is one you'll use at every gathering, buy the six-piece set. If it's a specialty item for infrequent occasion use, a two-piece set makes more sense and reduces storage demand.
 ### Can I mix colored and clear glassware at the same table setting?
 
-Yes, and intentional mixing is often more interesting than a fully matched set. The practical rule is to anchor one visual element , keep your water glasses clear if your wine glasses are colored, or vice versa. Mixing the Sheffield carafe in clear glass with the Estelle emerald wine glasses works precisely because the carafe recedes and lets the colored glasses carry the table's visual register. The contrast between utilitarian and decorative reads as considered rather than mismatched when the clear piece is genuinely simple.
+Yes, and intentional mixing is often more interesting than a fully matched set. The practical rule is to anchor one visual element , keep your water glasses clear if your wine glasses are colored, or vice versa. Mixing a clear carafe with emerald wine glasses works precisely because the carafe recedes and lets the colored glasses carry the table's visual register. The contrast between utilitarian and decorative reads as considered rather than mismatched when the clear piece is genuinely simple.
 <script type="application/ld+json">
 {
  "@context": "https://schema.org",
@@ -173,7 +173,7 @@ Yes, and intentional mixing is often more interesting than a fully matched set. 
  "name": "Are hand-blown wine glasses safe to put in the dishwasher?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "It depends on the construction and crystal type. Standard soda-lime blown glass, including most colored glassware, can be dishwashed on a gentle cycle but may show etching over time. Engineered crystal formulations like Tritan , used in the Zwiesel Glas Enoteca Champagne Flutes , are specifically designed to resist dishwasher etching. Hand-blown colored pieces like the Estelle set are best washed gently and dried by hand to preserve the color's vibrancy over years of use."
+ "text": "It depends on the construction and crystal type. Standard soda-lime blown glass, including most colored glassware, can be dishwashed on a gentle cycle but may show etching over time. Engineered crystal formulations like Tritan , used in the Zwiesel Glas Enoteca Champagne Flutes , are specifically designed to resist dishwasher etching. Hand-blown colored glass pieces are best washed gently and dried by hand to preserve the color's vibrancy over years of use."
  }
  },
  {
@@ -181,7 +181,7 @@ Yes, and intentional mixing is often more interesting than a fully matched set. 
  "name": "How does color intensity vary in hand-blown glassware, and is it a problem?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "Color variation is inherent to the hand-blown process because the molten glass cools unevenly and the mineral pigments distribute with slight irregularity across each piece. The Estelle Colored Glass Wine Glasses will show minor variation between individual glasses when lined up side by side. For most buyers, this reads as part of the handmade character rather than a quality defect. If absolute visual uniformity matters , for a formal, highly styled table , machine-pressed colored glass will deliver it more consistently."
+ "text": "Color variation is inherent to the hand-blown process because the molten glass cools unevenly and the mineral pigments distribute with slight irregularity across each piece. Hand-blown emerald wine glasses will show minor variation between individual glasses when lined up side by side. For most buyers, this reads as part of the handmade character rather than a quality defect. If absolute visual uniformity matters , for a formal, highly styled table , machine-pressed colored glass will deliver it more consistently."
  }
  },
  {
@@ -197,7 +197,7 @@ Yes, and intentional mixing is often more interesting than a fully matched set. 
  "name": "How do I choose between a set of two and a set of six when buying glassware?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "Sets of two are sized for specific, deliberate use , a champagne pour for two people, a specialty glass brought out for a single occasion. Sets of six cover a full dinner party table without supplemental orders. If the glass is one you'll use at every gathering, buy the six-piece set. If it's a specialty item for infrequent occasion use, a two-piece set makes more sense and reduces storage demand. The Enoteca flutes as a set of two and the Estelle glasses as a set of six reflect exactly this logic."
+ "text": "Sets of two are sized for specific, deliberate use , a champagne pour for two people, a specialty glass brought out for a single occasion. Sets of six cover a full dinner party table without supplemental orders. If the glass is one you'll use at every gathering, buy the six-piece set. If it's a specialty item for infrequent occasion use, a two-piece set makes more sense and reduces storage demand. The Enoteca flutes as a set of two and the hand-blown emerald wine glasses as a set of six reflect exactly this logic."
  }
  },
  {
@@ -205,7 +205,7 @@ Yes, and intentional mixing is often more interesting than a fully matched set. 
  "name": "Can I mix colored and clear glassware at the same table setting?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "Yes, and intentional mixing is often more interesting than a fully matched set. The practical rule is to anchor one visual element , keep your water glasses clear if your wine glasses are colored, or vice versa. Mixing the Sheffield carafe in clear glass with the Estelle emerald wine glasses works precisely because the carafe recedes and lets the colored glasses carry the table's visual register. The contrast between utilitarian and decorative reads as considered rather than mismatched when the clear piece is genuinely simple."
+ "text": "Yes, and intentional mixing is often more interesting than a fully matched set. The practical rule is to anchor one visual element , keep your water glasses clear if your wine glasses are colored, or vice versa. Mixing a clear carafe with emerald wine glasses works precisely because the carafe recedes and lets the colored glasses carry the table's visual register. The contrast between utilitarian and decorative reads as considered rather than mismatched when the clear piece is genuinely simple."
  }
  }
  ]

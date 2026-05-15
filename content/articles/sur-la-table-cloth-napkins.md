@@ -38,8 +38,8 @@ noindex: false
 faq:
   - question: "Linen napkins vs. cotton napkins — which is better for regular home use?"
     answer: "Linen develops in a way cotton does not — the fiber softens and gains drape with each wash cycle, so a linen napkin you have had for three years feels better than one you have had for three weeks. Cotton is more immediately soft and easier to press flat, which makes it the practical choice for high-frequency use without ironing. For a table you care about, linen is worth the care requirement. For everyday family dinners at volume, cotton or a blend is the more manageable answer."
-  - question: "Belgian linen napkins — do they shrink after washing?"
-    answer: "Pre-washed Belgian linen, like the Sur La Table set featured here, has already been through the shrinkage process before it ships. The dimensions listed are the finished dimensions you will keep. Linen that has not been pre-washed can shrink meaningfully in the first few wash cycles, so checking whether a set is pre-washed is a worthwhile step before ordering — particularly for linen, which shrinks more aggressively than cotton."
+  - question: "Linen-flax blend napkins — do they shrink after washing?"
+    answer: "A linen-flax blend like the Bedding Craft set is more dimensionally stable than pure linen and settles quickly after the first wash. Pure linen that has not been pre-washed can shrink meaningfully in the first few wash cycles, so checking whether a set is pre-washed is a worthwhile step before ordering — particularly for linen, which shrinks more aggressively than cotton."
   - question: "How many cloth napkins do I need for a household that entertains regularly?"
     answer: "The math starts with your most common use case. A household that sets a table for four every night needs a minimum of twelve napkins — enough for three full meals between wash cycles. A household that hosts dinner parties for eight needs at least sixteen, and twenty-four gives comfortable rotation. Sets of four and six look appealing at purchase and create a stocking problem quickly. If you are buying for regular use, buy for your realistic frequency, not your aspirational one."
   - question: "Sferra hemstitched linen napkins — are they practical or just for show?"
@@ -86,7 +86,7 @@ For casual use, a clean serged or double-folded hem is entirely adequate. For a 
 
 ### Bedding Craft Linen Flax Cotton Dinner Napkins Set of 12
 
-Washed Belgian linen is a specific thing , it has weight, a slight texture, and a relaxed drape that pressed cotton doesn't replicate. This set from Sur La Table arrives already pre-washed, which means the shrinkage question is answered before you open the package. What you see is what you'll keep wearing.
+A linen-flax blend is a specific thing , it has weight, a slight texture, and a relaxed drape that pressed cotton doesn't replicate. The [Bedding Craft Linen Flax Cotton Dinner Napkins Set of 12](product:sur-la-table-linen-napkins-set6) covers a full dinner party table in one purchase, and the linen-flax blend has better machine-wash durability than pure linen while keeping the texture and drape qualities that make linen napkins worth choosing.
 
 The natural flax color sits in a neutral register that works across almost any table palette , warm or cool, formal or relaxed. It doesn't compete with dinnerware or florals; it grounds them. That's harder to achieve with bright white or dyed napkins, which can pull focus or read as mismatched under certain light.
 
@@ -118,7 +118,7 @@ The detail that separates these from every other napkin in this comparison is vi
 
 [Sferra Hemstitched Linen Napkins Set of 4](product:sferra-hemstitched-linen-napkins-set4) are a commitment to the formal table. Italian linen at this weight needs ironing after each wash to achieve the pressed finish these are meant to display , that's not a flaw, it's the maintenance contract for premium linen. If you're the kind of host who irons napkins before a dinner party anyway, these reward the effort with a result that looks correct in a way that laundered-and-folded simply doesn't.
 
-A set of four is the practical note here. This is a napkin for the table you're setting with intention , a dinner for two, a formal four-top, a table where every element has been considered. Buying enough for a table of eight means buying multiple sets, and that's a real investment. For hosts who entertain at scale regularly, the Belgian linen set above is the more workable answer. For the table you care about most, these are the napkins that match the ambition.
+A set of four is the practical note here. This is a napkin for the table you're setting with intention , a dinner for two, a formal four-top, a table where every element has been considered. Buying enough for a table of eight means buying multiple sets, and that's a real investment. For hosts who entertain at scale regularly, the linen-flax set above is the more workable answer. For the table you care about most, these are the napkins that match the ambition.
 
 ![Sferra hemstitched linen napkin with detail stitching visible](/images/articles/linens-4.jpg)
 
@@ -166,8 +166,8 @@ Linen napkins develop in a way cotton doesn't , the fiber softens and gains drap
 ### How do I keep cloth napkins from looking wrinkled at the table?
 
 The honest answer depends on the fabric. Cotton and poly blends release wrinkles more readily from the dryer if you pull them out promptly and fold them while still warm. Linen requires ironing to achieve a pressed finish , there's no shortcut. If you want linen without ironing every set, choose a pre-washed linen in a natural color, where the relaxed texture reads as intentional rather than neglected.
-### What's the difference between the Utopia Kitchen set and the Belgian linen napkins?
-These are built for different tables. The [Utopia Kitchen Cloth Dinner Napkins Green Set of 12](product:utopia-kitchen-cloth-napkins-green-set12) are a cotton-poly blend , practical, easy-care, and priced for daily use across a large household or frequent hosting. The Belgian linen napkins are a heavier, more textural fabric that improves with washing but requires more laundering attention. Buy Utopia Kitchen if you need volume and low maintenance.
+### What's the difference between the Utopia Kitchen set and the linen-flax napkins?
+These are built for different tables. The [Utopia Kitchen Cloth Dinner Napkins Green Set of 12](product:utopia-kitchen-cloth-napkins-green-set12) are a cotton-poly blend , practical, easy-care, and priced for daily use across a large household or frequent hosting. The linen-flax napkins are a heavier, more textural fabric that improves with washing but requires more laundering attention. Buy Utopia Kitchen if you need volume and low maintenance.
 ### How many napkins do I need for a dinner party of eight?
 
 You need at least eight. In practice, buying ten to twelve means you have spares if a napkin goes out of service mid-event and aren't racing the wash cycle to set the table for a second seating. If you entertain regularly at that scale, two sets of six or a single set of twelve is a more workable baseline than a set of four you have to supplement each time.
@@ -197,10 +197,10 @@ They're practical if ironing is already part of your table prep. The [Sferra Hem
  },
  {
  "@type": "Question",
- "name": "What's the difference between the Utopia Kitchen set and the Belgian linen napkins?",
+ "name": "What's the difference between the Utopia Kitchen set and the linen-flax napkins?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "These are built for different tables. The Utopia Kitchen Cloth Dinner Napkins Green Set of 12 are a cotton-poly blend , practical, easy-care, and priced for daily use across a large household or frequent hosting. The Belgian linen napkins are a heavier, more textural fabric that improves with washing but requires more laundering attention. Buy Utopia Kitchen if you need volume and low maintenance. Buy the Belgian linen if you want a napkin that feels like something."
+ "text": "These are built for different tables. The Utopia Kitchen Cloth Dinner Napkins Green Set of 12 are a cotton-poly blend , practical, easy-care, and priced for daily use across a large household or frequent hosting. The linen-flax napkins are a heavier, more textural fabric that improves with washing but requires more laundering attention. Buy Utopia Kitchen if you need volume and low maintenance. Buy the linen-flax napkins if you want a napkin that feels like something."
  }
  },
  {

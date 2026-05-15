@@ -38,8 +38,8 @@ noindex: false
 faq:
   - question: "Can a glass bowl work as a centerpiece without flowers?"
     answer: "A glass bowl functions as a container, not a vase, and the range of what works inside one is wider than most people use. Loose citrus, ornaments, smooth river stones, pillar candles set in sand, floating tea lights, or a simple collection of seasonal produce all read as intentional centerpieces. The bowl's transparency means the contents carry the visual interest — flowers are just one option among many."
-  - question: "Libbey glass bowl set vs Creative Co-Op whitewash box — which is the better primary centerpiece?"
-    answer: "The core distinction is configuration style. The Libbey set works best when you want a single focal vessel that holds a filler — it's centered, contained, and low-profile. The Creative Co-Op box works best when you want to arrange multiple objects together in a defined horizontal space — candles, a small vase, botanicals, and loose objects all framed together. If your table style tends toward single composed arrangements, the bowl wins; if you like layering several elements, the box gives you the frame."
+  - question: "Libbey glass bowl set vs this whitewash wood bin — which is the better primary centerpiece?"
+    answer: "The core distinction is configuration style. The Libbey set works best when you want a single focal vessel that holds a filler — it's centered, contained, and low-profile. The whitewash wood bin works best when you want to arrange multiple objects together in a defined horizontal space — candles, a small vase, botanicals, and loose objects all framed together. If your table style tends toward single composed arrangements, the bowl wins; if you like layering several elements, the bin gives you the frame."
   - question: "How tall should a glass bowl centerpiece be for a seated dinner table?"
     answer: "Keep the arrangement at or below seated eye level — roughly twelve inches tall or under — so guests can see across the table. A centerpiece that sits at eye level splits the table in half visually and interrupts conversation. Wide, shallow bowls are the most practical choice for seated dinners; taller elements belong at the ends of a long table rather than the center."
   - question: "Is the Nambe Braid Candlestick worth buying as a single piece, or do you need a pair?"
@@ -90,9 +90,9 @@ Where this set earns its position is in the transition between formal and inform
 
 ### MyGift Vintage White Wood Decorative Bin with Rope Handles
 
-The [Creative Co-Op Whitewash Wood Centerpiece Box with Handles](product:creative-co-op-whitewash-centerpiece-box) solves a specific problem that bowls and candlesticks don't: it gives you a contained horizontal footprint that can hold multiple objects at once. A vase, two pillar candles, and a handful of loose botanicals can all live inside the box without looking scattered. The box provides the visual frame; the contents do the decorating.
+The [MyGift Vintage White Wood Decorative Bin with Rope Handles](product:creative-co-op-whitewash-centerpiece-box) solves a specific problem that bowls and candlesticks don't: it gives you a contained horizontal footprint that can hold multiple objects at once. A vase, two pillar candles, and a handful of loose botanicals can all live inside the box without looking scattered. The bin provides the visual frame; the contents do the decorating.
 
-The whitewash finish lands in a genuinely versatile register. It's lighter and more contemporary than raw wood, warmer than painted white, and it doesn't compete with most linen or table runner colors. The side handles are not decorative , they're functional, and that matters more than it sounds. A centerpiece you can lift intact and move to a sideboard when dinner is served gets used consistently. One that requires you to dismantle and reconstruct the arrangement gets left in place and eventually ignored.
+The whitewash finish lands in a genuinely versatile register. It's lighter and more contemporary than raw wood, warmer than painted white, and it doesn't compete with most linen or table runner colors. The rope handles are not decorative , they're functional, and that matters more than it sounds. A centerpiece you can lift intact and move to a sideboard when dinner is served gets used consistently. One that requires you to dismantle and reconstruct the arrangement gets left in place and eventually ignored.
 
 The one practical limitation worth knowing before you buy: the whitewash surface shows water rings if a condensation-wet vase sits directly on it. A simple liner , a small piece of felt, a thin tile, or a rubber mat , solves it entirely. Factor that in if you plan to use fresh flowers regularly.
 
@@ -156,11 +156,11 @@ Absolutely. A glass bowl functions as a container, not a vase, and the range of 
 ### Is the Nambe Braid Candlestick worth buying as a single piece, or do I need a pair?
 
 One Nambe Braid candlestick is a complete, usable piece , it doesn't look incomplete on its own. Pairing works well when you want to frame a central element like a bowl, but a single candlestick at varying height used alongside two or three pillar candles achieves a similar effect at lower investment. If you buy two, order them together from the same seller when possible to reduce the chance of finish variation between production batches.
-### How do I keep the whitewash finish on the Creative Co-Op box from showing water marks?
+### How do I keep the whitewash finish on the wood bin from showing water marks?
 
 The whitewash surface is porous and will show condensation rings if a wet vase or water-holding vessel sits directly on it. A simple liner handles this completely , a small rubber mat, a thin tile, a folded piece of felt, or even a ceramic coaster under the vase. You don't need to avoid fresh flowers; you just need a barrier between the wet container and the wood surface.
-### How do I choose between the Libbey bowl set and the Creative Co-Op box as a primary centerpiece?
-The core distinction is configuration style. The Libbey set works best when you want a single focal vessel that holds a filler , it's centered, contained, and low-profile. The Creative Co-Op box works best when you want to arrange multiple objects together in a defined horizontal space. If your table style tends toward single composed arrangements, the bowl wins.
+### How do I choose between the Libbey bowl set and this whitewash wood bin as a primary centerpiece?
+The core distinction is configuration style. The Libbey set works best when you want a single focal vessel that holds a filler , it's centered, contained, and low-profile. The whitewash wood bin works best when you want to arrange multiple objects together in a defined horizontal space. If your table style tends toward single composed arrangements, the bowl wins.
 ### What's the best way to style a glass bowl centerpiece for a formal dinner table?
 
 Keep the arrangement at or below seated eye level , roughly twelve inches tall or under , so guests can see across the table. Use odd numbers of elements: three floating candles, five stems, one cluster of fruit. Pair the bowl with flanking candlesticks for vertical balance. For a polished result, use a single color family for fillers rather than mixing several, and add one textural element , a leaf, a linen ribbon, a stone , to keep it from reading as too uniform.
@@ -187,7 +187,7 @@ Keep the arrangement at or below seated eye level , roughly twelve inches tall o
  },
  {
  "@type": "Question",
- "name": "How do I keep the whitewash finish on the Creative Co-Op box from showing water marks?",
+ "name": "How do I keep the whitewash finish on the wood bin from showing water marks?",
  "acceptedAnswer": {
  "@type": "Answer",
  "text": "The whitewash surface is porous and will show condensation rings if a wet vase or water-holding vessel sits directly on it. A simple liner handles this completely , a small rubber mat, a thin tile, a folded piece of felt, or even a ceramic coaster under the vase. You don't need to avoid fresh flowers; you just need a barrier between the wet container and the wood surface."
@@ -195,10 +195,10 @@ Keep the arrangement at or below seated eye level , roughly twelve inches tall o
  },
  {
  "@type": "Question",
- "name": "How do I choose between the Libbey bowl set and the Creative Co-Op box as a primary centerpiece?",
+ "name": "How do I choose between the Libbey bowl set and this whitewash wood bin as a primary centerpiece?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "The core distinction is configuration style. The Libbey set works best when you want a single focal vessel that holds a filler , it's centered, contained, and low-profile. The Creative Co-Op box works best when you want to arrange multiple objects together in a defined horizontal space. If your table style tends toward single composed arrangements, the bowl wins. If you like layering several elements , candles, a small vase, botanicals, objects , the box gives you a frame that holds it all together."
+ "text": "The core distinction is configuration style. The Libbey set works best when you want a single focal vessel that holds a filler , it's centered, contained, and low-profile. The whitewash wood bin works best when you want to arrange multiple objects together in a defined horizontal space. If your table style tends toward single composed arrangements, the bowl wins. If you like layering several elements , candles, a small vase, botanicals, objects , the bin gives you a frame that holds it all together."
  }
  },
  {

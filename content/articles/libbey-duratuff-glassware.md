@@ -100,7 +100,7 @@ The one honest trade-off is aesthetics. The slight greenish tint in the glass bo
 
 ### comfit Hand Blown Emerald Green Wine Glasses Set of 6
 
-There's a particular kind of dinner table moment that only colored glassware creates , the way light passes through emerald glass onto a white linen cloth, or the way a deep green stem photograph against autumn florals. The [Estelle Colored Glass Wine Glasses Emerald Green Set of 6](product:estelle-colored-glass-wine-emerald-set6) has become the reference point for that aesthetic in current interior design editorial, and the reason is straightforward: the color is genuinely beautiful.
+There's a particular kind of dinner table moment that only colored glassware creates , the way light passes through emerald glass onto a white linen cloth, or the way a deep green stem photographs against autumn florals. The [comfit Hand Blown Emerald Green Wine Glasses Set of 6](product:estelle-colored-glass-wine-emerald-set6) has become the reference point for that aesthetic in current interior design editorial, and the reason is straightforward: the color is genuinely beautiful.
 
 These are hand-blown, and that carries both a benefit and a caveat. Hand-blown glass has an organic quality that machine-made glass cannot replicate , slight variations in wall thickness, subtle differences in how the color catches light. Placed side by side, two glasses from the same set will not be identical. For most buyers, that's part of the appeal. If you want mathematical consistency, machine-made crystal is the correct choice.
 
@@ -132,7 +132,7 @@ The one structural vulnerability worth naming is the stem itself. The base-to-st
 
 The most common mistake buyers make is treating all glassware as interchangeable, then being disappointed when budget glasses look wrong at a formal dinner or crystal stems get broken at a casual backyard gathering. Decide what role each glass will play before you buy. Everyday glasses , tumblers, rocks glasses, casual wine stems , should prioritize durability and replaceability. Special-occasion glasses can prioritize aesthetics and clarity, because they're handled carefully and stored properly between uses.
 
-The Libbey Duratuff range fits cleanly in the first category. Estelle and Zwiesel Glas fit in the second. Buying a product from the wrong category for your actual hosting habits is the source of most glassware frustration.
+The Libbey Duratuff range fits cleanly in the first category. Hand-blown colored glass and Zwiesel Glas fit in the second. Buying a product from the wrong category for your actual hosting habits is the source of most glassware frustration.
 
 ### Understand the Tempered Glass Trade-Off
 
@@ -154,7 +154,7 @@ If you have a household where stems are routinely grabbed mid-shaft rather than 
 
 ### Colored Glass as a Style Commitment
 
-Colored glassware like the Estelle emerald set is a stronger style statement than clear glass. That's its value. But it also means the glasses need to work with your existing table linen, dinnerware, and overall aesthetic , emerald green reads beautifully against white, cream, and warm neutrals, and it can clash with competing strong colors.
+Colored glassware is a stronger style statement than clear glass. That's its value. But it also means the glasses need to work with your existing table linen, dinnerware, and overall aesthetic , emerald green reads beautifully against white, cream, and warm neutrals, and it can clash with competing strong colors.
 
 Think of colored stems the way you'd think of a statement piece in any table setting. One dominant element reads as intentional. Two competing elements read as unresolved. If you're building a table around colored glassware, let it lead.
 
@@ -169,9 +169,9 @@ They're made from fundamentally different materials. Libbey Duratuff glasses are
 ### Can I put Zwiesel Glas Enoteca champagne flutes in the dishwasher?
 
 The Tritan crystal construction is designed for dishwasher use and specifically resists the cloudiness that degrades standard lead-free crystal over repeated cycles. That said, the long stem creates a mechanical stress risk if the glass is loaded upright and catches on the rack. Laying them on the top rack or hand-washing them is safer in practice. The material can handle machine washing; the stem geometry introduces a separate risk worth managing.
-### Should I buy Libbey Duratuff rocks glasses or the Estelle wine glasses for a dinner party?
+### Should I buy Libbey Duratuff rocks glasses or hand-blown emerald wine glasses for a dinner party?
 
-They serve completely different functions, so the comparison depends on what you're serving. The [Libbey Duratuff Rocks Glasses Set of 6](product:libbey-duratuff-rocks-glasses-set6) are tumblers suited to spirits, cocktails, and casual water service. The [Estelle Colored Glass Wine Glasses Emerald Green Set of 6](product:estelle-colored-glass-wine-emerald-set6) are wine stems for a table where you want color and craft to be visible. Most hosts building a complete entertaining setup would want both types serving different roles on the same table.
+They serve completely different functions, so the comparison depends on what you're serving. The [Libbey Duratuff Rocks Glasses Set of 6](product:libbey-duratuff-rocks-glasses-set6) are tumblers suited to spirits, cocktails, and casual water service. The [comfit Hand Blown Emerald Green Wine Glasses Set of 6](product:estelle-colored-glass-wine-emerald-set6) are wine stems for a table where you want color and craft to be visible. Most hosts building a complete entertaining setup would want both types serving different roles on the same table.
 ### Does the green tint in Libbey Duratuff glasses affect how wine looks in the glass?
 It can, particularly in natural or cool light. The iron content in standard tempered glass introduces a slight green cast that is most visible in the thicker base section of a rocks glass. For a tumbler used for water or spirits, this has no practical impact. If you're using a Duratuff-style glass for white wine or sparkling water where color clarity matters, the tint may be noticeable.
 <script type="application/ld+json">
@@ -205,10 +205,10 @@ It can, particularly in natural or cool light. The iron content in standard temp
  },
  {
  "@type": "Question",
- "name": "Should I buy Libbey Duratuff rocks glasses or the Estelle wine glasses for a dinner party?",
+ "name": "Should I buy Libbey Duratuff rocks glasses or hand-blown emerald wine glasses for a dinner party?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "They serve completely different functions, so the comparison depends on what you're serving. The Libbey Duratuff Rocks Glasses Set of 6 are tumblers suited to spirits, cocktails, and casual water service. The Estelle Colored Glass Wine Glasses Emerald Green Set of 6 are wine stems for a table where you want color and craft to be visible. Most hosts building a complete entertaining setup would want both types serving different roles on the same table."
+ "text": "They serve completely different functions, so the comparison depends on what you're serving. The Libbey Duratuff Rocks Glasses Set of 6 are tumblers suited to spirits, cocktails, and casual water service. The comfit Hand Blown Emerald Green Wine Glasses Set of 6 are wine stems for a table where you want color and craft to be visible. Most hosts building a complete entertaining setup would want both types serving different roles on the same table."
  }
  },
  {

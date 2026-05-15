@@ -84,7 +84,7 @@ Modular candle systems allow you to adjust the composition after the fact, which
 
 The centerpiece box earns its place as the structural anchor of a cherry blossom arrangement. Its low, horizontal profile provides the grounded base that tall floral branches need , the form does the opposite of competing with the flowers. The whitewash finish sits in that useful middle range between raw wood and painted, textural enough to read as intentional but neutral enough to disappear once the arrangement is complete.
 
-The side handles are a practical detail that most decorative boxes skip. Moving an assembled centerpiece , vase, water, branches , without disturbing the arrangement is genuinely difficult, and having structural handles changes how you interact with the piece throughout a dinner or event.
+The rope handles are a practical detail that most decorative boxes skip. Moving an assembled centerpiece , vase, water, branches , without disturbing the arrangement is genuinely difficult, and having structural handles changes how you interact with the piece throughout a dinner or event.
 
 One limitation to know before buying: whitewash wood and standing water are not compatible. Use a glass liner or a separate vessel for any fresh flowers, and the box will hold up season to season without watermarks. Skip the liner and you'll see rings within one use.
 

@@ -37,13 +37,13 @@ disclosure_required: true
 noindex: false
 faq:
   - question: "Are green wine glasses dishwasher safe?"
-    answer: "It depends on the glass. Machine-made options like the Libbey Signature Paneled set are generally dishwasher safe — the manufacturer's Safedge guarantee backs that up. Hand-blown glasses from Estelle and the BACLIFE set are hand-wash only without exception, because the heat and agitation of a dishwasher can cause color degradation and stress fractures in hand-blown work. Check the care instructions before assuming, and err toward hand-washing for any hand-blown piece."
-  - question: "Estelle emerald glasses vs. BACLIFE hand-blown — which works better for a dinner party?"
-    answer: "For a dinner party where logistics matter, the Estelle set of six is the more practical choice — it seats six without a second order and the color is consistent enough to look intentional across the table. The BACLIFE hand-blown glasses are beautiful as individual objects but the pronounced piece-to-piece variation and hand-wash requirement make them better suited to small, unhurried gatherings than a full dinner party table."
+    answer: "It depends on the glass. Machine-made options like the Libbey Signature Paneled set are generally dishwasher safe — the manufacturer's Safedge guarantee backs that up. Hand-blown colored glass sets are hand-wash only without exception, because the heat and agitation of a dishwasher can cause color degradation and stress fractures in hand-blown work. Check the care instructions before assuming, and err toward hand-washing for any hand-blown piece."
+  - question: "Hand-blown emerald green glasses vs. BACLIFE hand-blown — which works better for a dinner party?"
+    answer: "For a dinner party where logistics matter, the hand-blown emerald green set of six is the more practical choice — it seats six without a second order and the color is consistent enough to look intentional across the table. The BACLIFE hand-blown glasses are beautiful as individual objects but the pronounced piece-to-piece variation and hand-wash requirement make them better suited to small, unhurried gatherings than a full dinner party table."
   - question: "Can you actually taste the wine through a colored glass?"
     answer: "Yes. The color is in the glass itself, not on the surface, so there is no coating interfering with the wine's contact with your palate. The trade-off is visual — you cannot assess the wine's color the way you can in clear crystal, which matters more if you are tasting critically than if you are enjoying a glass with dinner. For most table use, it is a non-issue."
   - question: "How does wall thickness affect the appearance of green wine glasses?"
-    answer: "Thicker walls deepen and intensify the color, creating a rich jewel-tone effect. Thinner walls give a lighter, more translucent appearance. Neither is preferable in the abstract — it depends on whether you want a glass that commands the table or one that adds a wash of color without dominating it. Hand-blown glasses like the Estelle or BACLIFE also diffract light in a way that flat machine-pressed glass does not, giving the color visible depth."
+    answer: "Thicker walls deepen and intensify the color, creating a rich jewel-tone effect. Thinner walls give a lighter, more translucent appearance. Neither is preferable in the abstract — it depends on whether you want a glass that commands the table or one that adds a wash of color without dominating it. Hand-blown glasses also diffract light in a way that flat machine-pressed glass does not, giving the color visible depth."
   - question: "What is the best way to remove hard-water spots from colored wine glasses?"
     answer: "A white vinegar soak handles calcium deposits reliably — fill the glass with a 50/50 water-and-white-vinegar solution, let it sit for fifteen to twenty minutes, then rinse thoroughly and dry by hand. This is especially important for the ribbed Libbey glasses, where deposits collect in the ridges and are visible against the colored glass. For flat-sided glasses, a vinegar rinse after dishwashing is usually sufficient to keep them clear."
 ---
@@ -82,11 +82,11 @@ Durability is also a function of rim construction. A rolled or reinforced rim wi
 
 ### comfit Hand Blown Emerald Green Wine Glasses Set of 6
 
-The [Estelle Colored Glass Wine Glasses Emerald Green Set of 6](product:estelle-colored-glass-wine-emerald-set6) is the glass that set the current conversation about colored wine glasses in motion, and it deserves that reputation. The emerald tone sits in a register that photographs well and reads well in person , deep enough to have presence, clear enough that it doesn't look opaque or heavy on the table. If you've seen green wine glasses in interior design editorial over the past two years, you've almost certainly seen these.
+The [comfit Hand Blown Emerald Green Wine Glasses Set of 6](product:estelle-colored-glass-wine-emerald-set6) delivers the hand-blown emerald color that has driven green wine glass editorial for the past several years. The emerald tone sits in a register that photographs well and reads well in person , deep enough to have presence, clear enough that it doesn't look opaque or heavy on the table. If you've seen green wine glasses in interior design coverage over the past two years, this shade of emerald is the reference point.
 
 They're hand-blown, which means there's color variation between pieces within a set. The honest version of that reality is that it's visible when you line all six up and look at them directly , some will run a touch more olive, some a touch more jewel-toned. Whether that reads as character or inconsistency depends on the buyer. For tables that lean into an imperfect, organic aesthetic, the variation is genuinely appealing. For tables where precision and uniformity matter, it will bother you.
 
-The practical argument for this set is the count: six glasses is actually useful. Most sets in this category come in fours, which means either buying multiple sets or managing odd numbers at a dinner party. Estelle solves that before you even open the box.
+The practical argument for this set is the count: six glasses is actually useful. Most sets in this category come in fours, which means either buying multiple sets or managing odd numbers at a dinner party. Six covers a dinner party table before you even open the second box.
 
 ![Green wine glasses on a dinner table setting](/images/articles/glassware-1.jpg)
 
@@ -112,7 +112,7 @@ The one maintenance note worth taking seriously: the ribbing collects calcium de
 
 The [BACLIFE Hand Blown Red Wine Glasses (Set of 4)](product:simon-pearce-barre-wine-glasses-set4) are hand-blown crystal, and the weight tells you that immediately. These are substantial glasses , they sit in the hand the way serious crystal does, with a heft that communicates quality without requiring a logo or a brand story to back it up. The color is integrated fully into the glass body, which gives them a depth that's different from painted or surface-tinted options.
 
-The variation between pieces in a set is more pronounced here than with the Estelle glasses, and it's worth being honest about what that means: you will not have four identical glasses. Minor differences in height and bowl shape are part of what it means to own hand-blown artisan work. For the buyer who understands and values that, these are exceptional. For someone who wants a matched set for a formal table, they're the wrong choice.
+The variation between pieces in a set is more pronounced here than with the comfit emerald set, and it's worth being honest about what that means: you will not have four identical glasses. Minor differences in height and bowl shape are part of what it means to own hand-blown artisan work. For the buyer who understands and values that, these are exceptional. For someone who wants a matched set for a formal table, they're the wrong choice.
 
 Hand-wash only, and the premium price reflects the craft provenance. These are not for quantity entertaining , they're for tables where one or two guests will pick up the glass, notice the weight, and ask about it.
 
@@ -138,7 +138,7 @@ The practical difference beyond aesthetics: hand-blown glass is always hand-wash
 
 ### Everyday Use Versus Occasion Use
 
-A glass you use twice a year can be more fragile, more precious, and more demanding to care for than a glass you put on the table every week. That framing helps settle a lot of purchasing decisions. The BACLIFE hand-blown glasses are outstanding, but they're occasion glasses for most buyers. The Libbey set is built for regular rotation. The Estelle glasses land in the middle , hand-blown and hand-wash only, but a practical set count that makes them workable for regular entertaining.
+A glass you use twice a year can be more fragile, more precious, and more demanding to care for than a glass you put on the table every week. That framing helps settle a lot of purchasing decisions. The BACLIFE hand-blown glasses are outstanding, but they're occasion glasses for most buyers. The Libbey set is built for regular rotation. The hand-blown emerald green set lands in the middle , hand-blown and hand-wash only, but a practical set count that makes them workable for regular entertaining.
 
 Be honest with yourself about how often you actually set a proper table versus how often you intend to. Buying occasion glasses for a table you set twice a year is a fine decision. Buying them for a table you set weekly and then hand-washing twelve glasses every Saturday night is a different calculation.
 
@@ -156,13 +156,13 @@ Most premium colored wine glasses are stemmed, and the stem does real work beyon
 
 ### Are green wine glasses dishwasher safe?
 
-It depends entirely on the glass. Machine-made options like the Libbey Signature Paneled set are generally dishwasher safe , the manufacturer's Safedge guarantee backs that up. Hand-blown glasses from Estelle and comparable hand-blown sets are hand-wash only without exception, because the heat and agitation of a dishwasher can cause color degradation and stress fractures in hand-blown work. Check the care instructions before assuming, and err toward hand-washing for any hand-blown piece.
+It depends entirely on the glass. Machine-made options like the Libbey Signature Paneled set are generally dishwasher safe , the manufacturer's Safedge guarantee backs that up. Hand-blown colored glass sets are hand-wash only without exception, because the heat and agitation of a dishwasher can cause color degradation and stress fractures in hand-blown work. Check the care instructions before assuming, and err toward hand-washing for any hand-blown piece.
 ### Can you actually taste the wine from a colored glass?
 
 Yes. The color is in the glass itself, not on the surface, so there's no coating or tint interfering with the wine's contact with your palate. The trade-off is visual , you can't assess the wine's color the way you can in clear crystal, which matters more if you're tasting critically than if you're enjoying a glass with dinner. For most table use, it's a non-issue.
-### How do the Estelle and BACLIFE hand-blown glasses compare for a dinner party host?
+### How do the hand-blown emerald green glasses and BACLIFE hand-blown glasses compare for a dinner party host?
 
-For a dinner party where logistics matter, the [Estelle Colored Glass Wine Glasses Emerald Green Set of 6](product:estelle-colored-glass-wine-emerald-set6) is the more practical choice , it seats six without a second order, and the color is consistent enough to look intentional across the table. The BACLIFE hand-blown glasses are beautiful as individual objects, but the hand-wash-only requirement and the pronounced piece-to-piece variation make them better suited to small, unhurried gatherings than to a full dinner party table.
+For a dinner party where logistics matter, the [comfit Hand Blown Emerald Green Wine Glasses Set of 6](product:estelle-colored-glass-wine-emerald-set6) is the more practical choice , it seats six without a second order, and the color is consistent enough to look intentional across the table. The BACLIFE hand-blown glasses are beautiful as individual objects, but the hand-wash-only requirement and the pronounced piece-to-piece variation make them better suited to small, unhurried gatherings than to a full dinner party table.
 ### Do green wine glasses work with all wine types or only certain ones?
 
 The glass shape governs how the wine drinks, and most green wine glasses are shaped as standard white or all-purpose wine bowls, which work well across varieties. The color makes it harder to observe the wine's appearance, so you'd want clear glasses if visual assessment is part of the experience , for a tasting, say. For serving wine with dinner, the color is irrelevant to how the wine performs.
@@ -179,7 +179,7 @@ A white vinegar soak handles calcium deposits reliably , fill the glass with a 5
  "name": "Are green wine glasses dishwasher safe?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "It depends entirely on the glass. Machine-made options like the Libbey Signature Paneled set are generally dishwasher safe , the manufacturer's Safedge guarantee backs that up. Hand-blown glasses from Estelle and comparable hand-blown sets are hand-wash only without exception, because the heat and agitation of a dishwasher can cause color degradation and stress fractures in hand-blown work. Check the care instructions before assuming, and err toward hand-washing for any hand-blown piece."
+ "text": "It depends entirely on the glass. Machine-made options like the Libbey Signature Paneled set are generally dishwasher safe , the manufacturer's Safedge guarantee backs that up. Hand-blown colored glass sets are hand-wash only without exception, because the heat and agitation of a dishwasher can cause color degradation and stress fractures in hand-blown work. Check the care instructions before assuming, and err toward hand-washing for any hand-blown piece."
  }
  },
  {
@@ -192,10 +192,10 @@ A white vinegar soak handles calcium deposits reliably , fill the glass with a 5
  },
  {
  "@type": "Question",
- "name": "How do the Estelle and BACLIFE hand-blown glasses compare for a dinner party host?",
+ "name": "How do the hand-blown emerald green glasses and BACLIFE hand-blown glasses compare for a dinner party host?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "For a dinner party where logistics matter, the Estelle Colored Glass Wine Glasses Emerald Green Set of 6 is the more practical choice , it seats six without a second order, and the color is consistent enough to look intentional across the table. The BACLIFE hand-blown glasses are beautiful as individual objects, but the hand-wash-only requirement and the pronounced piece-to-piece variation make them better suited to small, unhurried gatherings than to a full dinner party table."
+ "text": "For a dinner party where logistics matter, the comfit Hand Blown Emerald Green Wine Glasses Set of 6 is the more practical choice , it seats six without a second order, and the color is consistent enough to look intentional across the table. The BACLIFE hand-blown glasses are beautiful as individual objects, but the hand-wash-only requirement and the pronounced piece-to-piece variation make them better suited to small, unhurried gatherings than to a full dinner party table."
  }
  },
  {

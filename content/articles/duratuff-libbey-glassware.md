@@ -38,10 +38,10 @@ noindex: false
 faq:
   - question: "Are Duratuff glasses actually more break-resistant than regular glass?"
     answer: "Yes, meaningfully so. Libbey's Duratuff tempering process creates surface compression that makes the glass significantly more resistant to impact than standard annealed barware. They handle the routine knocks — against a faucet, off a countertop edge, stacked in a cabinet — that would chip or shatter ordinary glass. For daily use, the difference is noticeable over the life of a set."
-  - question: "Can I put the Estelle or BACLIFE hand-blown glasses in the dishwasher?"
-    answer: "Neither should go in the dishwasher. Both are hand-blown glass, and machine washing introduces thermal stress and abrasion that gradually clouds the surface and weakens the rim. Hand-blown glass of this type should always be hand-washed. If dishwasher compatibility is essential to your routine, the Duratuff rocks glass is designed and rated for repeated machine washing."
+  - question: "Can I put hand-blown glasses in the dishwasher?"
+    answer: "Hand-blown glass should not go in the dishwasher. Machine washing introduces thermal stress and abrasion that gradually clouds the surface and weakens the rim. Hand-blown glass of this type should always be hand-washed. If dishwasher compatibility is essential to your routine, the Duratuff rocks glass is designed and rated for repeated machine washing."
   - question: "Colored wine glasses vs. clear glass for a dinner party — how do I choose?"
-    answer: "It comes down to your table's overall visual character and how prominent you want the glassware to be. Colored glass like the Estelle emerald set makes the glasses an active design element that needs to be coordinated with linens, flowers, and other tableware. Clear glass lets the rest of the table breathe. Neither is more sophisticated; they serve different aesthetic intentions."
+    answer: "It comes down to your table's overall visual character and how prominent you want the glassware to be. Colored glass makes the glasses an active design element that needs to be coordinated with linens, flowers, and other tableware. Clear glass lets the rest of the table breathe. Neither is more sophisticated; they serve different aesthetic intentions."
   - question: "Is a hand-blown wine glass worth the premium?"
     answer: "For buyers who treat a dinner table as a composed setting and care about the character of each object on it, yes. Hand-blown construction produces a weight, balance, and organic quality that machine-made glass does not replicate. The generous bowl size and thick base also make it notably stable for a formal place setting. If glassware is purely functional to you, the premium is not justified."
   - question: "What rocks glass should I buy if I host frequently but do not want to be careful about breakage?"
@@ -100,7 +100,7 @@ The set-of-six format matters practically. These are glasses you can replace one
 
 ### comfit Hand Blown Emerald Green Wine Glasses Set of 6
 
-The [Estelle Colored Glass Wine Glasses Emerald Green Set of 6](product:estelle-colored-glass-wine-emerald-set6) occupies a specific and increasingly sought-after position in current table design: the colored wine glass that functions as a genuine decorative object, not just a vessel. The emerald tone has appeared in more interior design editorial over the past two years than any other colored glass, and Estelle's version earns that placement.
+The [comfit Hand Blown Emerald Green Wine Glasses Set of 6](product:estelle-colored-glass-wine-emerald-set6) occupies a specific and increasingly sought-after position in current table design: the colored wine glass that functions as a genuine decorative object, not just a vessel. The emerald tone has appeared in more interior design editorial over the past two years than any other colored glass, and this hand-blown set earns that placement.
 
 These are hand-blown, which means each glass in the set carries minor variation in color intensity and wall thickness. Side by side, two glasses from the same set may read slightly differently in certain lighting , deeper in one, more translucent in another. That's the nature of the craft, and for buyers who understand it, the variation is part of the appeal. For buyers expecting machine-made uniformity, it can read as inconsistency.
 
@@ -161,11 +161,11 @@ Building a glass collection in layers is a more practical approach than searchin
 ### Are Duratuff glasses actually more break-resistant than regular glass?
 
 Yes, meaningfully so. Libbey's Duratuff tempering process creates surface compression that makes the glass significantly more resistant to impact than standard annealed barware. They will not survive a hard drop onto a stone floor, but they handle the routine knocks , against a faucet, off a countertop edge, stacked in a cabinet , that would chip or shatter ordinary glass. For daily use, the difference is noticeable over the life of a set.
-### Can I put the Estelle or BACLIFE hand-blown glasses in the dishwasher?
+### Can I put hand-blown wine glasses in the dishwasher?
 
-Neither should go in the dishwasher. Both are hand-blown glass, and machine washing introduces thermal stress and abrasion that gradually clouds the surface and weakens the rim. Hand-blown glass of this type should always be hand-washed. If dishwasher compatibility is essential to your routine, the Duratuff rocks glass is the appropriate choice , it's designed and rated for repeated machine washing.
+Hand-blown glass should not go in the dishwasher. Machine washing introduces thermal stress and abrasion that gradually clouds the surface and weakens the rim. Hand-blown glass of this type should always be hand-washed. If dishwasher compatibility is essential to your routine, the Duratuff rocks glass is the appropriate choice , it's designed and rated for repeated machine washing.
 ### How do I choose between colored wine glasses and clear glass for a dinner party?
-It comes down to your table's overall visual character and how prominent you want the glassware to be. Colored glass like the Estelle emerald set makes the glasses an active design element , they draw the eye and need to be coordinated with linens, flowers, and other tableware. Clear glass lets the rest of the table breathe. Neither approach is more sophisticated; they serve different aesthetic intentions.
+It comes down to your table's overall visual character and how prominent you want the glassware to be. Colored glass makes the glasses an active design element , they draw the eye and need to be coordinated with linens, flowers, and other tableware. Clear glass lets the rest of the table breathe. Neither approach is more sophisticated; they serve different aesthetic intentions.
 ### Is a hand-blown wine glass worth the premium over a mid-range wine glass?
 For buyers who treat a dinner table as a composed setting and care about the character of each object on it, yes. Hand-blown construction produces a weight, balance, and organic quality that machine-made glass doesn't replicate. The generous bowl size and thick base also make it notably stable for a formal place setting. If you treat glassware as purely functional, the premium isn't justified.
 ### What's the right rocks glass for someone who hosts frequently but doesn't want to baby their glassware?
@@ -186,10 +186,10 @@ The Duratuff Rocks Glasses (Set of 6) is the honest answer. The tempered constru
  },
  {
  "@type": "Question",
- "name": "Can I put the Estelle or BACLIFE hand-blown glasses in the dishwasher?",
+ "name": "Can I put hand-blown wine glasses in the dishwasher?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "Neither should go in the dishwasher. Both are hand-blown glass, and machine washing introduces thermal stress and abrasion that gradually clouds the surface and weakens the rim. Hand-blown glass of this type should always be hand-washed. If dishwasher compatibility is essential to your routine, the Duratuff rocks glass is the appropriate choice , it's designed and rated for repeated machine washing."
+ "text": "Hand-blown glass should not go in the dishwasher. Machine washing introduces thermal stress and abrasion that gradually clouds the surface and weakens the rim. Hand-blown glass of this type should always be hand-washed. If dishwasher compatibility is essential to your routine, the Duratuff rocks glass is the appropriate choice , it's designed and rated for repeated machine washing."
  }
  },
  {
@@ -197,7 +197,7 @@ The Duratuff Rocks Glasses (Set of 6) is the honest answer. The tempered constru
  "name": "How do I choose between colored wine glasses and clear glass for a dinner party?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "It comes down to your table's overall visual character and how prominent you want the glassware to be. Colored glass like the Estelle emerald set makes the glasses an active design element , they draw the eye and need to be coordinated with linens, flowers, and other tableware. Clear glass lets the rest of the table breathe. Neither approach is more sophisticated; they serve different aesthetic intentions. Most hosts find that owning both gives them useful flexibility across different occasions."
+ "text": "It comes down to your table's overall visual character and how prominent you want the glassware to be. Colored glass makes the glasses an active design element , they draw the eye and need to be coordinated with linens, flowers, and other tableware. Clear glass lets the rest of the table breathe. Neither approach is more sophisticated; they serve different aesthetic intentions. Most hosts find that owning both gives them useful flexibility across different occasions."
  }
  },
  {

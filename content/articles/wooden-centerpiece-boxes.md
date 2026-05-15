@@ -80,7 +80,7 @@ Mixing tealight holders with a single taper or pillar creates the kind of varied
 
 ### MyGift Vintage White Wood Decorative Bin with Rope Handles
 
-The [Creative Co-Op Whitewash Wood Centerpiece Box with Handles](product:creative-co-op-whitewash-centerpiece-box) is the box I recommend first, and the reason is specific: the side handles. Almost every wooden centerpiece box at this price level is a static object , it sits where you put it. This one can be lifted and moved fully dressed, which changes how useful it actually is across an entertaining season.
+The [MyGift Vintage White Wood Decorative Bin with Rope Handles](product:creative-co-op-whitewash-centerpiece-box) is the box I recommend first, and the reason is specific: the rope handles. Almost every wooden centerpiece box at this price level is a static object , it sits where you put it. This one can be lifted and moved fully dressed, which changes how useful it actually is across an entertaining season.
 
 The whitewash finish is well-executed. It has the right balance of wood grain showing through the wash, which keeps it from reading as painted rather than finished. It sits naturally alongside linen, cotton runners, and natural fiber placemats, and it doesn't compete with what's inside.
 

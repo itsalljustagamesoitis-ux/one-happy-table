@@ -40,8 +40,8 @@ faq:
     answer: "An eight-foot banquet table is typically 96 inches long and 30 inches wide. A 90x132-inch tablecloth gives you full floor-length drop on the ends and a standard drop along the sides — the correct coverage for formal events and seated dinners. Measure your table before ordering since folding tables vary slightly in dimension by manufacturer."
   - question: "Will navy blue tablecloths fade after washing?"
     answer: "Deep-dyed colors including navy are more vulnerable to wash fading than lighter shades because there is more pigment to lose. Cold water washing and line drying or low-heat tumble drying significantly slow that process. Pre-washed fabrics tend to hold color better because the dye instability is reduced before you first launder them."
-  - question: "Is Belgian linen worth the price compared to cotton napkins?"
-    answer: "Belgian linen costs more per napkin than comparable cotton and requires more considered laundering. What it offers in return is a texture, drape, and hand feel that cotton does not replicate — and it improves with use rather than degrading. For households that entertain regularly, the investment pays out over time. For occasional use, a high-quality cotton napkin is more practical and nearly as presentable."
+  - question: "Is a linen-flax blend worth the price compared to cotton napkins?"
+    answer: "A linen-flax blend costs more per napkin than comparable cotton and requires more considered laundering. What it offers in return is a texture, drape, and hand feel that cotton does not replicate — and it improves with use rather than degrading. For households that entertain regularly, the investment pays out over time. For occasional use, a high-quality cotton napkin is more practical and nearly as presentable."
   - question: "Can I layer a runner over a tablecloth, or does that look overdone?"
     answer: "Layering a runner over a tablecloth is a standard approach in formal and event table setting, not an overreach. It adds visual texture and an additional color layer without requiring you to swap out the full tablecloth. A faux-linen table runner with a relaxed stonewashed finish layers well over a solid tablecloth because the texture contrast reads as intentional rather than accidental."
   - question: "How do I keep navy blue table linens looking sharp before guests arrive?"
@@ -76,7 +76,7 @@ Banquet tables and eight-foot folding tables require a specific size range that 
 
 ### Laundering Reality
 
-Be honest about your laundering habits before you buy. Belgian linen looks exceptional and performs beautifully, but it requires a different level of care than a polyester-cotton blend. Linen wrinkles. It needs a gentle cycle and either line drying or a low-heat tumble. If your household runs on quick machine washes and high-heat dryers, a premium linen may not survive the first season.
+Be honest about your laundering habits before you buy. A linen-flax blend looks exceptional and performs beautifully, and it has better machine-wash durability than pure linen , but it still wrinkles and benefits from a gentle cycle and either line drying or a low-heat tumble. If your household runs on quick machine washes and high-heat dryers, a cotton blend is a more forgiving choice.
 
 This isn't an argument against linen , it's an argument for matching the product to the household. An easy-care tablecloth used consistently beats a premium linen that gets avoided because the care routine is too demanding.
 
@@ -98,9 +98,9 @@ At the budget price band, this cloth punches well above what you'd expect. The f
 
 ### Bedding Craft Linen Flax Cotton Dinner Napkins Set of 12
 
-The best everyday napkin upgrade most tables don't have yet is a set of proper linen. The [Belgian Linen Napkins (Set of 6)](product:sur-la-table-linen-napkins-set6) from Sur La Table are pre-washed, which solves the shrinkage problem immediately , the size you receive is the size they stay.
+The best everyday napkin upgrade most tables don't have yet is a set of proper linen. The [Bedding Craft Linen Flax Cotton Dinner Napkins Set of 12](product:sur-la-table-linen-napkins-set6) is a linen-flax blend with the texture and drape of pure linen and improved machine-wash durability , and the set of 12 covers a full dinner party table in one purchase.
 
-Belgian linen specifically has a weave density and hand feel that cotton can't replicate at any price. These napkins start with substance and get better with repeated washing , the fibers soften and the drape becomes more relaxed without any loss of structure. Folded flat or loosely gathered in a glass, they hold their form in a way that cotton napkins stop doing after six months.
+A linen-flax blend has a weave density and hand feel that cotton can't replicate at any price. These napkins start with substance and get better with repeated washing , the fibers soften and the drape becomes more relaxed without any loss of structure. Folded flat or loosely gathered in a glass, they hold their form in a way that cotton napkins stop doing after six months.
 
 The honest case against them: linen wrinkles are structural, not a laundering failure. If your table aesthetic requires razor-sharp napkin folds, this isn't the material. And at a mid-range price per napkin, scaling to a full dinner party set of twelve is a real commitment. For a household that entertains regularly, it's worth it. For occasional use, a good cotton alternative is more forgiving.
 
@@ -161,9 +161,9 @@ If you're buying for a table you don't own yet, or an event table you haven't me
 ### What size tablecloth do I need for an eight-foot banquet table?
 
 An eight-foot banquet table is typically 96 inches long and 30 inches wide. A 90x132 inch tablecloth gives you full floor-length drop on the ends and a standard drop along the sides , which is the correct coverage for formal events and seated dinners. The [LinenTablecloth Navy Blue Tablecloth 90x132](product:linen-tablecloth-navy-blue-90x132) is sized specifically for this application. Measure your table before ordering, since folding tables vary slightly in dimension by manufacturer.
-### Is Belgian linen worth the price compared to cotton napkins?
+### Is a linen-flax blend worth the price compared to cotton napkins?
 
-Belgian linen costs more per napkin than comparable cotton, and it requires more considered laundering. What it offers in return is a texture, drape, and hand feel that cotton doesn't replicate , and it improves with use rather than degrading. For households that entertain regularly, the investment pays out over time. For occasional use, a high-quality cotton napkin is more practical and nearly as presentable on a well-set table.
+A linen-flax blend costs more per napkin than comparable cotton, and it requires more considered laundering. What it offers in return is a texture, drape, and hand feel that cotton doesn't replicate , and it improves with use rather than degrading. For households that entertain regularly, the investment pays out over time. For occasional use, a high-quality cotton napkin is more practical and nearly as presentable on a well-set table.
 ### Will navy blue tablecloths fade after washing?
 
 Deep-dyed colors including navy are more vulnerable to wash fading than lighter shades because there's more pigment to lose. Cold water washing and line drying or low-heat tumble drying significantly slow that process. Pre-washed fabrics tend to hold color better because the dye instability is reduced before you first launder them. Check manufacturer care instructions before the first wash , they're there specifically to protect color integrity.
@@ -188,10 +188,10 @@ Navy and deep blue fabrics show lint, pet hair, and loose fibers more readily th
  },
  {
  "@type": "Question",
- "name": "Is Belgian linen worth the price compared to cotton napkins?",
+ "name": "Is a linen-flax blend worth the price compared to cotton napkins?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "Belgian linen costs more per napkin than comparable cotton, and it requires more considered laundering. What it offers in return is a texture, drape, and hand feel that cotton doesn't replicate , and it improves with use rather than degrading. For households that entertain regularly, the investment pays out over time. For occasional use, a high-quality cotton napkin is more practical and nearly as presentable on a well-set table."
+ "text": "A linen-flax blend costs more per napkin than comparable cotton, and it requires more considered laundering. What it offers in return is a texture, drape, and hand feel that cotton doesn't replicate , and it improves with use rather than degrading. For households that entertain regularly, the investment pays out over time. For occasional use, a high-quality cotton napkin is more practical and nearly as presentable on a well-set table."
  }
  },
  {

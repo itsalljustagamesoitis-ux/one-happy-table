@@ -40,8 +40,8 @@ faq:
     answer: "Yes. Cobalt blue glassware from reputable manufacturers like Libbey is food-safe — the color is in the glass itself, not a surface coating, so there is no leaching concern with normal use. The coloring process for glassware sold for food use in the US is subject to FDA compliance standards. If you are buying from a lesser-known source, look for explicit food-safe certification before using the piece for serving."
   - question: "Can you use cobalt blue wine glasses to actually evaluate wine?"
     answer: "Not well. Cobalt glass makes it impossible to assess wine color, clarity, or the color shifts associated with aging — all of which require clear or very lightly tinted glass. For casual entertaining where visual assessment is not a priority, cobalt works fine as a serving vessel. For anyone who hosts wine tastings or cares about evaluating what is in the glass, clear stemware is the appropriate choice."
-  - question: "Libbey cobalt wine glasses vs Estelle hand-blown flutes — what is the actual difference?"
-    answer: "The Libbey set is machine-made, dishwasher-safe, sold as a set of four, and designed for regular use. The Estelle flutes are hand-blown, sold in pairs, and function as much as decorative objects as drinking vessels — the colored stem catches candlelight in a way machine-made glass does not replicate. Scaling Estelle to a table of eight means four separate orders at significant cumulative cost. One is a working set; the other is a considered purchase for specific occasions."
+  - question: "Libbey cobalt wine glasses vs hand-blown cobalt flutes — what is the actual difference?"
+    answer: "The Libbey set is machine-made, dishwasher-safe, sold as a set of four, and designed for regular use. Hand-blown cobalt flutes function as much as decorative objects as drinking vessels — the colored glass catches candlelight in a way machine-made glass does not replicate. A set of six hand-blown flutes covers a full dinner table in one order at a reasonable cumulative cost. One is a working set; the other is a considered purchase for specific occasions."
   - question: "How do I style cobalt blue glassware so it looks intentional at the table?"
     answer: "White or natural linen tablecloths give cobalt the most room to read as intentional. Both silver and gold flatware work — silver reads crisp and formal, gold warmer and slightly eclectic. Avoid competing strong colors in the centerpiece or chargers; cobalt works best as the dominant color statement. Simple greenery, white florals, and natural textures like raw linen and wood complement cobalt without competing with it."
   - question: "Is hand-blown cobalt glass more fragile than machine-made?"
@@ -96,13 +96,13 @@ One honest caveat: the color makes it impossible to assess wine appearance in th
 
 ### Blue Champagne Flutes Set of 6 6oz
 
-Hand-blown cobalt champagne flutes occupy a specific and increasingly prominent space in interior design editorial, and the [Estelle Colored Glass Champagne Flutes Cobalt Blue Set of 2](product:estelle-colored-glass-champagne-cobalt-set2) are the piece that keeps appearing in that context. The colored stem catches candlelight in a way that machine-made glass doesn't replicate , there's a warmth and variation to the color that comes from the hand-blowing process, and it reads as decorative even when the glass is empty.
+Hand-blown cobalt champagne flutes occupy a specific and increasingly prominent space in interior design editorial, and the [Blue Champagne Flutes Set of 6](product:estelle-colored-glass-champagne-cobalt-set2) are a practical entry point into that aesthetic. The colored glass catches candlelight in a way that machine-made glass doesn't replicate , there's a warmth and variation to the color that comes from the hand-blowing process, and the glass reads as decorative even when empty.
 
 These are as much an object as a piece of stemware. Set them on a table before guests arrive and they do the work of a centerpiece detail. That's a specific kind of value that doesn't show up in a spec sheet.
 
-The practical limitation is the pair-sold format. Scaling to a table of eight means four separate orders, and the cumulative cost climbs accordingly. For a pair of hosts who entertain at small tables , four guests, six at most , this is a manageable consideration. For anyone who routinely sets a larger table, the math is worth thinking through before committing.
+The set of six resolves the count problem that plagues pair-sold hand-blown flutes. A full dinner table covered in one order, without accumulating cost across multiple pairs or worrying about matching batches from separate purchases.
 
-![Estelle hand-blown cobalt champagne flutes by candlelight](/images/articles/glassware-2.jpg)
+![Hand-blown cobalt champagne flutes by candlelight](/images/articles/glassware-2.jpg)
 
 ,
 
@@ -132,15 +132,15 @@ If glassware tends to live in your dishwasher overnight after a dinner party, ha
 
 ### Table Size and Set Counts
 
-Selling format matters more in colored glassware than in clear, because mismatched sets read as intentional in clear glass and accidental in colored. The Estelle flutes sell in pairs. The Libbey wine glasses sell in a set of four. The BACLIFE hand-blown glasses are typically sold in a set of four.
+Selling format matters more in colored glassware than in clear, because mismatched sets read as intentional in clear glass and accidental in colored. The hand-blown cobalt flutes are sold as a set of six. The Libbey wine glasses sell in a set of four. The BACLIFE hand-blown glasses are typically sold in a set of four.
 
-A table of eight needs eight matching glasses, and building to that count from a pair-sold product has real cumulative implications. Plan your table size before you settle on a product. If you routinely set tables for more than four, a set-of-four or set-of-six product simplifies the math considerably.
+A table of eight needs eight matching glasses. Plan your table size before you settle on a product. If you routinely set tables for more than four, a set-of-six product simplifies the math considerably.
 
 ### The Role the Glass Is Playing at Your Table
 
 Some glassware is primarily functional. Some is primarily decorative. Most sits somewhere in between, but cobalt blue tips toward the decorative end by nature of the color. Before buying, decide whether you're acquiring a working set of wine glasses that happen to be cobalt, or a statement piece that will anchor a specific aesthetic.
 
-The Libbey set is a working set with strong color. The Estelle flutes lean decorative , they're objects you own and display, not just glasses you reach for. The BACLIFE hand-blown set is both: functional enough for regular use by someone willing to hand-wash, decorative enough to justify the investment as an object.
+The Libbey set is a working set with strong color. The hand-blown cobalt flutes lean decorative , they're objects you own and display, not just glasses you reach for. The BACLIFE hand-blown set is both: functional enough for regular use by someone willing to hand-wash, decorative enough to justify the investment as an object.
 
 Understanding which of those you're buying shapes everything else , how many you need, how you'll store them, and whether the care requirements will actually fit your life. The broader context of [glassware collecting and entertaining](/glassware/) is worth reviewing if you're building a set from scratch rather than adding a single statement piece.
 
@@ -161,9 +161,9 @@ Not well. Cobalt glass makes it impossible to evaluate wine by appearance , colo
 ### How do I style cobalt blue glassware at a dinner table?
 
 White or natural linen tablecloths give cobalt the most room to read as intentional. Silver or gold flatware both work , silver reads crisp and formal, gold reads warmer and slightly eclectic. Avoid competing strong colors in the centerpiece or chargers; cobalt works best as the dominant color statement at the table. Simple greenery, white florals, or natural textures like raw linen and wood complement cobalt without competing with it.
-### What is the difference between the Libbey cobalt set and the Estelle flutes?
+### What is the difference between the Libbey cobalt set and the hand-blown cobalt flutes?
 
-The [Libbey Cobalt Blue Wine Glasses (Set of 4)](product:libbey-cobalt-blue-wine-glasses-set4) are machine-made, dishwasher-safe wine glasses in a standard stem format , practical, durable, and designed for regular use. The [Estelle Colored Glass Champagne Flutes Cobalt Blue Set of 2](product:estelle-colored-glass-champagne-cobalt-set2) are hand-blown, sold in pairs, and function as much as decorative objects as drinking vessels. The difference is craft, care requirements, and intended use frequency. One is a working set; the other is a considered purchase for specific occasions.
+The [Libbey Cobalt Blue Wine Glasses (Set of 4)](product:libbey-cobalt-blue-wine-glasses-set4) are machine-made, dishwasher-safe wine glasses in a standard stem format , practical, durable, and designed for regular use. The [Blue Champagne Flutes Set of 6](product:estelle-colored-glass-champagne-cobalt-set2) are hand-blown and function as much as decorative objects as drinking vessels. The difference is craft, care requirements, and intended use frequency. One is a working set; the other is a considered purchase for specific occasions.
 ### Is hand-blown cobalt glass more fragile than machine-made?
 Hand-blown glass varies by maker and form. Thicker-walled hand-blown pieces with a thick base and generous wall thickness are often quite durable despite their craft origins , that base and wall thickness provide real chip resistance. Delicate hand-blown flutes with thin walls and narrow stems are more vulnerable, particularly at the rim and stem junction. The fragility concern is less about hand-blown versus machine-made and more about wall thickness and stem diameter.
 <script type="application/ld+json">
@@ -197,10 +197,10 @@ Hand-blown glass varies by maker and form. Thicker-walled hand-blown pieces with
  },
  {
  "@type": "Question",
- "name": "What is the difference between the Libbey cobalt set and the Estelle flutes?",
+ "name": "What is the difference between the Libbey cobalt set and the hand-blown cobalt flutes?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "The Libbey Cobalt Blue Wine Glasses (Set of 4) are machine-made, dishwasher-safe wine glasses in a standard stem format , practical, durable, and designed for regular use. The Estelle Colored Glass Champagne Flutes Cobalt Blue Set of 2 are hand-blown, sold in pairs, and function as much as decorative objects as drinking vessels. The difference is craft, care requirements, and intended use frequency. One is a working set; the other is a considered purchase for specific occasions."
+ "text": "The Libbey Cobalt Blue Wine Glasses (Set of 4) are machine-made, dishwasher-safe wine glasses in a standard stem format , practical, durable, and designed for regular use. The hand-blown cobalt blue champagne flutes function as much as decorative objects as drinking vessels — the colored glass catches candlelight in a way machine-made glass does not replicate. The difference is craft, care requirements, and intended use frequency. One is a working set; the other is a considered purchase for specific occasions."
  }
  },
  {

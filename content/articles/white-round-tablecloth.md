@@ -44,8 +44,8 @@ faq:
     answer: "Polyester is the practical choice for large-scale entertaining: it resists wrinkles, washes easily, and holds its bright white color reliably over many cycles. Cotton has a more refined drape and a matte hand that looks more intentional at an intimate dinner table, but it requires more careful laundering, particularly if it has textured weaves like pintuck or hemstitch. Match the fabric to how many people you are hosting and how often the cloth will be washed."
   - question: "Do pintuck tablecloths require special care after a dinner party?"
     answer: "Yes. Pintuck weaves trap food and residue in their folds more than flat-weave cloths do, so they need thorough laundering after use — not just a quick rinse cycle. The Antique White Pintuck Tablecloth is machine washable, but it benefits from a full wash cycle rather than a short program after a dinner party. Running a second rinse helps ensure residue does not set in the texture during drying."
-  - question: "How does the Peacock Alley Hemstitch Tablecloth differ from standard cotton tablecloths?"
-    answer: "The distinction is in construction quality and fiber. The Peacock Alley uses Egyptian-cotton yarns, which are longer-staple than the standard cotton in most tablecloths — the result is a softer, more uniform hand and a surface that holds up better over repeated washing. The hemstitch border is also a structural detail requiring skilled production, not a printed finish, which is part of why the price reflects a genuinely different category than mid-range cotton."
+  - question: "How does the Simple &amp; Opulence hemstitch tablecloth differ from standard cotton tablecloths?"
+    answer: "The distinction is in construction quality and fiber. This 100% linen hemstitch tablecloth uses natural linen yarns that develop a relaxed elegance with each wash — the result is a weighted drape and surface that holds up better over repeated washing than most cotton tablecloths. The hemstitch border is also a structural detail requiring skilled production, not a printed finish, which is part of why the price reflects a genuinely different category than mid-range cotton."
 ---
 
 A round table sets the tone for the whole room , the cloth you put on it does more work than any centerpiece. Whether you're dressing a folding rental table for a backyard party or setting something intentional for a dinner you've planned for weeks, the tablecloth is where [table linens](/linens/) earn their place. Getting the size wrong, or choosing the wrong fabric for the occasion, undermines everything else you've done right.
@@ -110,11 +110,11 @@ The practical notes are worth knowing upfront. Pintucks trap food residue in the
 
 ### Simple & Opulence Premium 100% Linen Hemstitch Tablecloth
 
-The [Peacock Alley Hemstitch Tablecloth](product:peacock-alley-hemstitch-tablecloth) is for buyers who have thought past the basics and know what they want. American-made from Egyptian-cotton yarns, it occupies a specific position in the market: the premium domestic alternative to Italian linen for anyone who wants hemstitched construction without an import premium or the opacity of European brand pricing.
+The [Simple & Opulence Premium 100% Linen Hemstitch Tablecloth](product:peacock-alley-hemstitch-tablecloth) is for buyers who have thought past the basics and know what they want. 100% linen with a hemstitch border, it occupies a specific position in the market: the premium formal tablecloth for anyone who wants hemstitched construction with natural fiber drape and texture.
 
-The hemstitch border is the defining visual element , a row of drawn threads creates a decorative edge that frames the cloth without adding color. On a set table, it reads as tailored. The fabric has the matte, weighted hand of proper cotton that polyester doesn't approximate and even mid-range cotton blends rarely achieve at the same level. This is the cloth that holds up under scrutiny at a formal dinner, not just at a distance.
+The hemstitch border is the defining visual element , a row of drawn threads creates a decorative edge that frames the cloth without adding color. On a set table, it reads as tailored. Linen's natural weight and texture reads well under candlelight in a way that polyester doesn't approximate and mid-range cotton blends rarely achieve. This is the cloth that holds up under scrutiny at a formal dinner, not just at a distance.
 
-The practical limitation is real: premium price and limited retail distribution make replacing individual pieces difficult if something is damaged. For buyers who are building a permanent entertaining wardrobe rather than stocking up for a single event, that's a manageable trade-off. For buyers who need multiples, the economics require consideration.
+The practical limitation is real: linen requires ironing or steaming before use for a crisp formal presentation, and this is a meaningful investment at the premium price band. For buyers who are building a permanent entertaining wardrobe rather than stocking up for a single event, that's a manageable trade-off. For buyers who need multiples, the economics require consideration.
 
 ![Hemstitch tablecloth edge detail on a formally set round table](/images/articles/linens-3.jpg)
 
@@ -150,9 +150,9 @@ Mixing color temperatures creates dissonance that's hard to name but easy to fee
 
 ### Fabric Hand and Long-Term Performance
 
-The way a cloth feels when you set it and handle it across a full evening of hosting matters more than buyers expect. Polyester is lighter and moves more easily , serviceable, practical, efficient. Cotton has a weighted drape that looks settled on a table and feels different in your hands when you're folding and storing it. Egyptian-cotton constructions add softness and a surface quality that reads differently in candlelight.
+The way a cloth feels when you set it and handle it across a full evening of hosting matters more than buyers expect. Polyester is lighter and moves more easily , serviceable, practical, efficient. Cotton has a weighted drape that looks settled on a table and feels different in your hands when you're folding and storing it. Linen constructions add a natural texture and drape quality that reads differently in candlelight.
 
-Long-term performance follows fabric honestly. Polyester holds its shape and color over many wash cycles without significant degradation. Cotton softens and improves with washing up to a point, then eventually thins. Premium cotton and Egyptian-cotton cloths, maintained properly, age well and can last years of regular use.
+Long-term performance follows fabric honestly. Polyester holds its shape and color over many wash cycles without significant degradation. Cotton softens and improves with washing up to a point, then eventually thins. Premium linen cloths, maintained properly with cold-water washing and air-drying, age well and can last years of regular use.
 
 ## Frequently Asked Questions
 
@@ -168,9 +168,9 @@ Polyester is the practical choice for large-scale entertaining: it resists wrink
 ### Do pintuck tablecloths require special care?
 
 Pintuck weaves trap food and residue in their folds more than flat-weave cloths do, so they need thorough laundering after use , not just a quick rinse cycle. The [Antique White Pintuck Tablecloth](product:april-cornell-antique-white-tablecloth) is machine washable, but it benefits from a full wash cycle rather than a short or delicate program after a dinner party. Running a second rinse helps ensure residue doesn't set in the texture during drying.
-### How does the Peacock Alley Hemstitch Tablecloth compare to standard cotton tablecloths?
+### How does the Simple & Opulence hemstitch linen tablecloth compare to standard cotton tablecloths?
 
-The distinction is construction quality and fiber. The [Peacock Alley Hemstitch Tablecloth](product:peacock-alley-hemstitch-tablecloth) uses Egyptian-cotton yarns, which are longer-staple than the standard cotton used in most tablecloths , the result is a softer, more uniform hand and a surface that holds up better over repeated washing. The hemstitch border is also a structural detail requiring skilled production, not just a printed finish, which is part of why the price reflects a different category than mid-range cotton entirely.
+The distinction is construction quality and fiber. The [Simple & Opulence Premium 100% Linen Hemstitch Tablecloth](product:peacock-alley-hemstitch-tablecloth) uses 100% linen, which provides a natural weighted drape and texture that standard cotton tablecloths cannot match , the result is a cloth that develops a relaxed elegance with each wash and reads with genuine authority on a formally set table. The hemstitch border is also a structural detail requiring skilled production, not just a printed finish, which is part of why the price reflects a different category than mid-range cotton entirely.
 <script type="application/ld+json">
 {
  "@context": "https://schema.org",
@@ -210,10 +210,10 @@ The distinction is construction quality and fiber. The [Peacock Alley Hemstitch 
  },
  {
  "@type": "Question",
- "name": "How does the Peacock Alley Hemstitch Tablecloth compare to standard cotton tablecloths?",
+ "name": "How does the Simple & Opulence hemstitch linen tablecloth compare to standard cotton tablecloths?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "The distinction is construction quality and fiber. The Peacock Alley Hemstitch Tablecloth uses Egyptian-cotton yarns, which are longer-staple than the standard cotton used in most tablecloths , the result is a softer, more uniform hand and a surface that holds up better over repeated washing. The hemstitch border is also a structural detail requiring skilled production, not just a printed finish, which is part of why the price reflects a different category than mid-range cotton entirely."
+ "text": "The distinction is construction quality and fiber. The Simple & Opulence Premium 100% Linen Hemstitch Tablecloth uses 100% linen, which provides a natural weighted drape and texture that standard cotton tablecloths cannot match , the result is a cloth that develops a relaxed elegance with each wash and reads with genuine authority on a formally set table. The hemstitch border is also a structural detail requiring skilled production, not just a printed finish, which is part of why the price reflects a different category than mid-range cotton entirely."
  }
  }
  ]

@@ -40,8 +40,8 @@ faq:
     answer: "A 60 x 102 tablecloth fits a standard 36 x 72 rectangular dining table with a 12-inch drop on all sides, which is the conventional home dining drop. If your table is longer — 84 or 96 inches — you'll need to move up to a 60 x 120 or 60 x 144 to maintain that same drop proportion. Always measure your actual table surface before ordering."
   - question: "Linen vs cotton for a formal dinner tablecloth — which reads better?"
     answer: "Both are appropriate for formal dinners but they read differently. Hemstitched cotton holds a crisper press and photographs more formally; linen has a softer, more relaxed elegance that works beautifully for dinners where the mood is warm rather than stiff. If pressed formality is the goal, cotton is the more reliable choice. If you want elegance without rigidity, stonewashed linen earns its place at even a dressed table."
-  - question: "Faux-linen table runner vs Peacock Alley Hemstitch — which is better for a dinner party?"
-    answer: "They serve different tables almost entirely. The faux-linen runner is designed for a relaxed farmhouse aesthetic — reversible double-layer construction with a stonewashed texture that works without ironing. The Peacock Alley suits a buyer who wants understated formality in a specific color, with a hemstitch detail that elevates a plainer table. For a casual or warm-register dinner, the faux-linen is the easier choice; for a dressed formal table, the Peacock Alley is stronger."
+  - question: "Faux-linen table runner vs hemstitch linen tablecloth — which is better for a dinner party?"
+    answer: "They serve different tables almost entirely. The faux-linen runner is designed for a relaxed farmhouse aesthetic — reversible double-layer construction with a stonewashed texture that works without ironing. The hemstitch linen tablecloth suits a buyer who wants understated formality in a specific color, with a hemstitch detail that elevates a plainer table. For a casual or warm-register dinner, the faux-linen is the easier choice; for a dressed formal table, the hemstitch linen is stronger."
   - question: "What drop length should I use for a home dining table?"
     answer: "A 12-inch drop on all sides is the standard for home entertaining — it covers the table legs without pooling on the floor and reads as deliberate and polished. An 8-inch drop reads more casual and is practical for everyday use where guests are moving in and out of chairs frequently. Anything over 15 inches approaches floor-length, which is a formal or event aesthetic that can feel excessive in a home dining room."
   - question: "Can a polyester tablecloth work for home entertaining, or does it only read well at events?"
@@ -110,13 +110,13 @@ Where it falls short is exactly where you'd expect. The synthetic sheen reads as
 
 ### Simple & Opulence Premium 100% Linen Hemstitch Tablecloth
 
-The [Peacock Alley Hemstitch Tablecloth](product:peacock-alley-hemstitch-tablecloth) is what you buy when you want the quality of Italian linen without leaving the domestic market. Made in America with Egyptian-cotton yarns, it has the hand-feel and finish that justify a premium price point , and that's before you get to the hemstitch detail, which adds a formal elegance that very few cloths at any price achieve with this much restraint.
+The [Simple & Opulence Premium 100% Linen Hemstitch Tablecloth](product:peacock-alley-hemstitch-tablecloth) is what you buy when you want a formal hemstitched cloth with real textile quality. 100% linen with a hemstitch border, it drapes naturally and develops a relaxed elegance with each wash , and the hemstitch detail adds a formal refinement that very few cloths at any price achieve with this much restraint.
 
 The color options include dusty blue and other muted tones that are genuinely difficult to find in hemstitched linen. That matters if you're building a table around a specific palette , soft blue and white for a coastal summer dinner, for example , and you need the cloth to carry the color without a printed pattern. The solid hemstitched cloth does that work quietly.
 
-The practical limitation is real: premium price and limited retail availability mean that replacing a single cloth if it's damaged or stained is not simple. If you're buying one cloth for one table you care about, that's a reasonable trade-off. If you need multiples for a large table or want to rotate pieces seasonally, the cost accumulates fast. Buy this one when you're certain about the table and the occasion.
+The practical limitation worth naming: linen requires ironing or steaming before use for a crisp formal presentation, and a premium hemstitch tablecloth at this price band is a meaningful investment. If you're buying one cloth for one table you care about, that's a reasonable trade-off. If you need multiples for a large table or want to rotate pieces seasonally, the cost accumulates fast. Buy this one when you're certain about the table and the occasion.
 
-![A hemstitched cotton tablecloth in dusty blue laid on a formal dining table with candles](/images/articles/linens-3.jpg)
+![A hemstitched linen tablecloth in dusty blue laid on a formal dining table with candles](/images/articles/linens-3.jpg)
 
 ,
 
@@ -128,7 +128,7 @@ The practical limitation is real: premium price and limited retail availability 
 
 The single most useful question to ask before ordering is: what kind of entertaining do I actually do most often? A buyer who hosts formal holiday dinners and a buyer who sets a casual Sunday table every week have genuinely different needs, and the right cloth for one is the wrong cloth for the other.
 
-For frequent casual use, a linen or cotton cloth that improves with washing is the better long-term investment. For infrequent formal occasions, a hemstitched Egyptian cotton like the Peacock Alley is worth the premium. For high-volume event hosting where practicality outweighs aesthetics, the polyester option earns its place honestly.
+For frequent casual use, a linen or cotton cloth that improves with washing is the better long-term investment. For infrequent formal occasions, a hemstitched linen tablecloth is worth the premium. For high-volume event hosting where practicality outweighs aesthetics, the polyester option earns its place honestly.
 
 ### Understand What Your Table Actually Measures
 
@@ -159,10 +159,10 @@ For a tablecloth you plan to use regularly, consider how easy it will be to repl
 A 60 x 102 tablecloth fits a standard 36 x 72 rectangular dining table with a 12-inch drop on all sides, which is the conventional home dining drop. If your table is longer , 84 or 96 inches , you'll need to move up to a 60 x 120 or 60 x 144 to maintain that same drop proportion. Always measure your actual table surface before ordering, because manufacturers vary slightly in their listed dimensions.
 ### Is linen or cotton better for a formal dinner tablecloth?
 
-Both are appropriate for formal dinners, but they read differently. Hemstitched cotton, like the Peacock Alley, holds a crisper press and photographs more formally; linen has a softer, more relaxed elegance that works beautifully for dinners where the mood is warm rather than stiff. If pressed formality is the goal, cotton is the more reliable choice. If you want elegance without rigidity, stonewashed linen earns its place at even a dressed table.
-### How does the faux-linen table runner compare to the Peacock Alley Hemstitch for a dinner party?
+Both are appropriate for formal dinners, but they read differently. A hemstitched linen tablecloth holds its shape through a full evening and photographs with genuine weight; stonewashed faux-linen has a softer, more relaxed elegance that works beautifully for dinners where the mood is warm rather than stiff. If pressed formality is the goal, the hemstitch linen is the more reliable choice. If you want elegance without rigidity, stonewashed linen earns its place at even a dressed table.
+### How does the faux-linen table runner compare to the hemstitch linen tablecloth for a dinner party?
 
-They serve different tables almost entirely. The faux-linen runner is designed for a relaxed farmhouse aesthetic , reversible double-layer construction with a stonewashed texture that works without ironing. The Peacock Alley suits a buyer who wants understated formality in a specific color, with a hemstitch detail that elevates a plainer table. For a casual or warm-register dinner, the faux-linen is the easier choice; for a dressed formal table, the Peacock Alley is stronger.
+They serve different tables almost entirely. The faux-linen runner is designed for a relaxed farmhouse aesthetic , reversible double-layer construction with a stonewashed texture that works without ironing. The hemstitch linen tablecloth suits a buyer who wants understated formality in a specific color, with a hemstitch detail that elevates a plainer table. For a casual or warm-register dinner, the faux-linen is the easier choice; for a dressed formal table, the hemstitch linen is stronger.
 ### Can a polyester tablecloth work for home entertaining, or does it only read well at events?
 
 A polyester cloth like the white round option can work at home if practicality is the priority and the setting is casual , a large family gathering, a buffet, or a kids' table where the cloth is functional rather than decorative. Under candles at a dinner party, the synthetic sheen becomes visible in ways that matter. For those occasions, natural fiber is worth the extra laundry effort.
@@ -187,15 +187,15 @@ A 12-inch drop on all sides is the standard for home entertaining , it covers th
  "name": "Is linen or cotton better for a formal dinner tablecloth?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "Both are appropriate for formal dinners, but they read differently. Hemstitched cotton, like the Peacock Alley, holds a crisper press and photographs more formally; linen has a softer, more relaxed elegance that works beautifully for dinners where the mood is warm rather than stiff. If pressed formality is the goal, cotton is the more reliable choice. If you want elegance without rigidity, stonewashed linen earns its place at even a dressed table."
+ "text": "Both are appropriate for formal dinners, but they read differently. A hemstitched linen tablecloth holds its shape through a full evening and photographs with genuine weight; stonewashed faux-linen has a softer, more relaxed elegance that works beautifully for dinners where the mood is warm rather than stiff. If pressed formality is the goal, the hemstitch linen is the more reliable choice. If you want elegance without rigidity, stonewashed linen earns its place at even a dressed table."
  }
  },
  {
  "@type": "Question",
- "name": "How does the faux-linen table runner compare to the Peacock Alley Hemstitch for a dinner party?",
+ "name": "How does the faux-linen table runner compare to the hemstitch linen tablecloth for a dinner party?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "They serve different tables almost entirely. The faux-linen runner is designed for a relaxed farmhouse aesthetic , reversible double-layer construction with a stonewashed texture that works without ironing. The Peacock Alley suits a buyer who wants understated formality in a specific color, with a hemstitch detail that elevates a plainer table. For a casual or warm-register dinner, the faux-linen is the easier choice; for a dressed formal table, the Peacock Alley is stronger."
+ "text": "They serve different tables almost entirely. The faux-linen runner is designed for a relaxed farmhouse aesthetic , reversible double-layer construction with a stonewashed texture that works without ironing. The hemstitch linen tablecloth suits a buyer who wants understated formality in a specific color, with a hemstitch detail that elevates a plainer table. For a casual or warm-register dinner, the faux-linen is the easier choice; for a dressed formal table, the hemstitch linen is stronger."
  }
  },
  {

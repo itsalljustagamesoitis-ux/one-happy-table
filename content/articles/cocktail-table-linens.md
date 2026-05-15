@@ -41,7 +41,7 @@ faq:
   - question: "Linen or cotton napkins for a cocktail party — which holds up better?"
     answer: "Linen holds up better over time and develops a more characterful texture with use, but it wrinkles readily and costs more per piece. Cotton is easier to press, more affordable, and still looks considered on a cocktail table. If touch and longevity matter most, linen is the clear answer. If you need a larger set on a budget or want crisp, wrinkle-free folds, cotton is a practical and entirely respectable choice."
   - question: "How many napkins do I actually need for a cocktail party?"
-    answer: "Plan for at least one and a half to two napkins per guest — cocktail parties involve more informal movement, guests often grab a second napkin, and you want a buffer for spills without running short mid-party. For a group of twelve, that means eighteen to twenty-four napkins is practical. Buying two sets of six Belgian linen napkins gets you there, or supplement a premium set with a less expensive cotton backup that coordinates in color."
+    answer: "Plan for at least one and a half to two napkins per guest — cocktail parties involve more informal movement, guests often grab a second napkin, and you want a buffer for spills without running short mid-party. For a group of twelve, that means eighteen to twenty-four napkins is practical. The Bedding Craft set of 12 linen-flax napkins gets you most of the way there in one purchase, or supplement with a less expensive cotton backup that coordinates in color."
   - question: "Is the faux-linen table runner worth it compared to a budget option?"
     answer: "It depends on whether a relaxed, no-iron farmhouse aesthetic is what you want. The reversible double-layer construction gives you two surface options from one piece, and the stonewashed finish means the worn-in look is immediate. As a standalone runner evaluated on material and finish, it delivers what it promises. If you are mixing and matching freely and want a crisp result, a less expensive option in a complementary colorway will serve you just as well."
   - question: "What causes a woven check runner to look skewed after washing and how do I fix it?"
@@ -82,15 +82,15 @@ That said, a strong graphic can be the point. If your cocktail aesthetic runs to
 
 ### Bedding Craft Linen Flax Cotton Dinner Napkins Set of 12
 
-The napkins that do the most quiet, consistent work at a cocktail table are ones that feel good in the hand and look intentional without demanding attention. These [Belgian Linen Napkins](product:sur-la-table-linen-napkins-set6) are the right answer for most hosts who want a premium napkin they can reach for without overthinking the occasion.
+The napkins that do the most quiet, consistent work at a cocktail table are ones that feel good in the hand and look intentional without demanding attention. The [Bedding Craft Linen Flax Cotton Dinner Napkins Set of 12](product:sur-la-table-linen-napkins-set6) is the right answer for most hosts who want a premium napkin they can reach for without overthinking the occasion , and the set of 12 means you have enough for a full party without running out.
 
-Washed Belgian linen has a specific quality that cotton doesn't replicate , a slight weight and drape that reads as considered even when folded casually on a drink tray. The natural flax color sits in that useful neutral zone where it works against white tablecloths, bare wood, dark marble, and almost anything else without fighting the palette. The pre-washed construction means the dimensions hold after laundering, which matters if you're building a full set over time and need pieces to match.
+A linen-flax blend has a specific quality that cotton doesn't replicate , a slight weight and drape that reads as considered even when folded casually on a drink tray. The natural flax color sits in that useful neutral zone where it works against white tablecloths, bare wood, dark marble, and almost anything else without fighting the palette. The improved machine-wash durability over pure linen means these hold up through repeated cocktail party use.
 
 The honest trade-off is that linen wrinkles, and these will wrinkle. If your cocktail table needs to look crisp and pressed , the kind of precise setup that demands sharp folds , these aren't that napkin. They're for the host who finds a soft, slightly rumpled elegance appropriate, which, at a cocktail party, is most of us.
 
 [Check current price on Amazon.](product:sur-la-table-linen-napkins-set6)
 
-![Belgian linen napkins on a cocktail table](/images/articles/linens-1.jpg)
+![Linen-flax napkins on a cocktail table](/images/articles/linens-1.jpg)
 
 ,
 
@@ -134,7 +134,7 @@ A runner or napkin set that fights your other table objects creates low-level vi
 
 For hosts who set a cocktail table weekly or biweekly, durability and ease of care should rank as high as aesthetics. A machine-washable, mid-range piece that looks good after thirty washes beats a premium piece that requires careful handling and gets used twice a year. The budget-tier black-and-white check runner earns its place precisely here , it's the option you reach for without calculating the risk.
 
-For occasional hosting, the calculus shifts. A set of Belgian linen napkins that requires a bit more laundering attention is reasonable if the table is set four times a year for meaningful occasions. Frequency of use is the variable that should drive the care-requirement trade-off, and it's one most buyers don't think about explicitly until they've made the wrong call once.
+For occasional hosting, the calculus shifts. A set of linen-flax napkins that requires a bit more laundering attention is reasonable if the table is set four times a year for meaningful occasions. Frequency of use is the variable that should drive the care-requirement trade-off, and it's one most buyers don't think about explicitly until they've made the wrong call once.
 
 ### Napkins and Runners Serve Different Functions
 
@@ -150,7 +150,7 @@ Napkins for cocktail use can be slightly smaller than dinner napkins , a cocktai
 
 ### When to Invest and When to Save
 
-The honest answer on where to spend: napkins. They're handled, they telegraph quality directly, and a set of six good Belgian linen napkins will outlast several rounds of cheaper cotton. The runner is the place to make a graphic or aesthetic statement, and budget-tier options can absolutely carry that role if the pattern is strong.
+The honest answer on where to spend: napkins. They're handled, they telegraph quality directly, and a set of good linen-flax napkins will outlast several rounds of cheaper cotton. The runner is the place to make a graphic or aesthetic statement, and budget-tier options can absolutely carry that role if the pattern is strong.
 
 Investing in both at the premium tier simultaneously only makes sense when you're building a very deliberate table aesthetic where the runner, napkins, and ceramics all speak the same visual language. Otherwise, mix tiers deliberately and let quality sit where it's felt most directly.
 
@@ -168,7 +168,7 @@ A woven check , like the one on the LinenTablecloth Black and White Check Table 
 It depends on whether a relaxed, no-iron farmhouse aesthetic is what you want. The reversible double-layer construction gives you two surface options from one piece, and the stonewashed finish means the worn-in look is immediate. As a standalone runner, it delivers what it promises. If you want a crisp result and are mixing and matching freely, a less expensive option in a complementary colorway will serve just as well.
 ### How many napkins do I need for a cocktail party?
 
-Plan for at least one and a half to two napkins per guest , cocktail parties involve more informal movement, guests often grab a second napkin, and you want a buffer for spills without running short mid-party. For a group of twelve, that means a set of eighteen to twenty-four napkins is practical. Buying two sets of six Belgian linen napkins gets you there, or supplement a premium set with a less expensive cotton backup set that coordinates in color.
+Plan for at least one and a half to two napkins per guest , cocktail parties involve more informal movement, guests often grab a second napkin, and you want a buffer for spills without running short mid-party. For a group of twelve, that means a set of eighteen to twenty-four napkins is practical. The Bedding Craft set of 12 linen-flax napkins gets you most of the way there in one purchase, or supplement with a less expensive cotton backup set that coordinates in color.
 <script type="application/ld+json">
 {
  "@context": "https://schema.org",
@@ -211,7 +211,7 @@ Plan for at least one and a half to two napkins per guest , cocktail parties inv
  "name": "How many napkins do I need for a cocktail party?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "Plan for at least one and a half to two napkins per guest , cocktail parties involve more informal movement, guests often grab a second napkin, and you want a buffer for spills without running short mid-party. For a group of twelve, that means a set of eighteen to twenty-four napkins is practical. Buying two sets of six Belgian linen napkins gets you there, or supplement a premium set with a less expensive cotton backup set that coordinates in color."
+ "text": "Plan for at least one and a half to two napkins per guest , cocktail parties involve more informal movement, guests often grab a second napkin, and you want a buffer for spills without running short mid-party. For a group of twelve, that means a set of eighteen to twenty-four napkins is practical. The Bedding Craft set of 12 linen-flax napkins gets you most of the way there in one purchase, or supplement with a less expensive cotton backup set that coordinates in color."
  }
  }
  ]

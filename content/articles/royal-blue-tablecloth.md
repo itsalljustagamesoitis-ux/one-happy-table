@@ -40,12 +40,12 @@ faq:
     answer: "Navy blue reads as the more formal of the two. It sits darker on the spectrum and pairs naturally with silver flatware and crisp white dinnerware. Royal blue is brighter and more saturated, which makes it feel celebratory rather than restrained — better suited to weddings, holiday parties, and festive occasions. The choice should be driven by the occasion and the china you're working with."
   - question: "What size tablecloth fits an 8-foot banquet table?"
     answer: "A 90x132-inch tablecloth is the standard fit. It covers the full length of an 8-foot banquet table and delivers a drop of approximately 15 inches on each long side — enough for a formal presentation without reaching the floor. If you want a full floor-length drop, you'll need a wider cloth or a table skirt to supplement."
-  - question: "Is Egyptian cotton worth it over polyester for a formal tablecloth?"
-    answer: "For a table you're setting a few times a year, yes. Egyptian cotton drapes with a weight and finish that polyester blends cannot replicate, and it holds a pressed crease through an entire evening. The trade-off is real: it requires careful ironing and low-heat laundering. For high-frequency event use where tablecloths go through repeated wash cycles, a well-made polyester blend is a practical alternative."
+  - question: "Is linen worth it over polyester for a formal tablecloth?"
+    answer: "For a table you're setting a few times a year, yes. Linen drapes with a natural weight and elegance that polyester blends cannot replicate, and it improves with washing over time. The trade-off is real: it requires ironing or steaming before use and careful laundering. For high-frequency event use where tablecloths go through repeated wash cycles, a well-made polyester blend is a practical alternative."
   - question: "How do I stop a dark tablecloth from showing lint before guests arrive?"
     answer: "Use a lint roller after the cloth is on the table, working in long strokes in the direction of the weave. Navy and deep blue tablecloths show lint, pet hair, and dust immediately against the dark ground, so the lint roller should be part of your setup routine rather than an afterthought. Setting the table as close to arrival time as possible also limits what settles on the cloth."
   - question: "What does hemstitching add to a tablecloth, and is it worth the premium?"
-    answer: "Hemstitching is a traditional drawn-thread finishing technique that adds a formal decorative border without introducing pattern. The Peacock Alley hemstitch tablecloth demonstrates how that detail reads as understated and elegant when the table is fully set. It's worth the premium if you want a cloth with a finishing detail that reads as hand-crafted — not if you're primarily buying for event use where the cloth's construction won't be examined closely."
+    answer: "Hemstitching is a traditional drawn-thread finishing technique that adds a formal decorative border without introducing pattern. A quality hemstitch linen tablecloth demonstrates how that detail reads as understated and elegant when the table is fully set. It's worth the premium if you want a cloth with a finishing detail that reads as hand-crafted — not if you're primarily buying for event use where the cloth's construction won't be examined closely."
 ---
 
 Royal blue has a way of making a table feel considered , the kind of color choice that reads as intentional rather than incidental. Whether you're dressing a long banquet table for a wedding reception or setting something formal for a holiday dinner, the tablecloth carries more visual weight than most people expect until they get it wrong. The full range of [table linens](/linens/) covers every style and fabric type, but this guide focuses on three tablecloths I'd actually put on my own table.
@@ -116,13 +116,13 @@ The honest trade-off is maintenance. Egyptian cotton rewards careful ironing, an
 
 ### Simple & Opulence Premium 100% Linen Hemstitch Tablecloth
 
-The [Peacock Alley Hemstitch Tablecloth](product:peacock-alley-hemstitch-tablecloth) sits at the premium end of the category, and the hemstitched border is the detail that earns that position. The drawn-thread work along the hem is a traditional finishing technique that adds a formal decorative element without introducing pattern , it's an embellishment that reads as understated when the table is full.
+The [Simple & Opulence Premium 100% Linen Hemstitch Tablecloth](product:peacock-alley-hemstitch-tablecloth) sits at the premium end of the category, and the hemstitched border is the detail that earns that position. The drawn-thread work along the hem is a traditional finishing technique that adds a formal decorative element without introducing pattern , it's an embellishment that reads as understated when the table is full.
 
-What makes this tablecloth genuinely hard to find an equivalent for is the dusty blue colorway. Muted, slightly grayed blue is difficult to source in hemstitched cotton at any price, and Peacock Alley offers it without requiring you to commission something custom. That particular color sits between navy and royal blue on the spectrum , formal enough for a dinner party, soft enough not to overwhelm a mixed centerpiece.
+What makes this tablecloth genuinely hard to find an equivalent for is the dusty blue colorway available in a hemstitched linen construction. Muted, slightly grayed blue is difficult to source in hemstitched format at any price. That particular color sits between navy and royal blue on the spectrum , formal enough for a dinner party, soft enough not to overwhelm a mixed centerpiece.
 
-American-made with Egyptian-cotton yarns, the construction reflects the kind of quality standard that shows in the drape and the weight. The limitation worth naming honestly is availability: if you need to replace a single cloth in a set, sourcing a match later can be frustrating. Buy the quantity you need from the same production run when you can.
+100% linen with a natural drape that develops a relaxed elegance with each wash, the construction reflects real quality in the weight and hand. Linen requires ironing or steaming before use for a crisp formal presentation , that's the honest trade-off for fabric that reads this well on a set table.
 
-![Dusty blue hemstitch tablecloth with drawn-thread border and formal place setting](/images/articles/linens-3.jpg)
+![Dusty blue hemstitch linen tablecloth with drawn-thread border and formal place setting](/images/articles/linens-3.jpg)
 
 ,
 
@@ -144,15 +144,15 @@ Royal and navy blue work particularly well with white or gold-rimmed china. They
 
 ### Fabric for the Way You Actually Entertain
 
-If you're hosting once or twice a year for occasions where the table needs to look polished, Egyptian cotton is worth the care it requires. The drape and finish justify the ironing. If you're setting tables regularly , hosting monthly or using tablecloths for recurring events , consider whether your laundering setup can realistically support a cotton care routine.
+If you're hosting once or twice a year for occasions where the table needs to look polished, 100% linen is worth the care it requires. The drape and finish justify the ironing. If you're setting tables regularly , hosting monthly or using tablecloths for recurring events , consider whether your laundering setup can realistically support a linen care routine.
 
-For high-frequency event use, a well-made polyester-blend tablecloth in the right size is a legitimate choice. For the formal table you're setting four times a year for people who will notice the difference, cotton and fine linen are the right investment.
+For high-frequency event use, a well-made polyester-blend tablecloth in the right size is a legitimate choice. For the formal table you're setting four times a year for people who will notice the difference, fine linen is the right investment.
 
 ### Buying for a Set Versus a Single Cloth
 
 If you're building a set , multiple matching tablecloths for a long table arrangement, or cloths that will be used together regularly , buy everything from the same production run. Color consistency in textiles is never guaranteed across different production batches, and a set of tablecloths that don't quite match is more visible than a deliberate mix.
 
-This matters most for premium textiles like the Peacock Alley hemstitch. Buy the quantity you need in a single order, and store any extras carefully.
+This matters most for premium linen tablecloths where colorway consistency is part of the appeal. Buy the quantity you need in a single order, and store any extras carefully.
 
 ### Care Instructions Are Part of the Product Evaluation
 
@@ -168,15 +168,15 @@ Royal blue is a brighter, more saturated color , it reads as festive and works w
 ### What size tablecloth fits an 8-foot banquet table?
 
 A 90x132-inch tablecloth is the standard fit for an 8-foot banquet table, delivering a drop of approximately 15 inches on each long side , enough for a formal presentation without reaching the floor. The [LinenTablecloth Navy Blue Tablecloth 90x132](product:linen-tablecloth-navy-blue-90x132) is sized precisely for this application. If you want a full floor-length drop for an event, you'll need a wider cloth or a table skirt to supplement.
-### Is Egyptian cotton worth the extra effort over a polyester tablecloth?
+### Is linen worth the extra effort over a polyester tablecloth?
 
-For a formal dinner table that you're setting a few times a year, yes. Egyptian cotton drapes with a weight and finish that polyester blends genuinely cannot replicate, and it holds a pressed crease through an entire evening. The trade-off is real: it requires careful ironing and attention to laundering. For high-frequency event use or situations where you're washing tablecloths after every event, a well-made polyester blend is a practical alternative.
+For a formal dinner table that you're setting a few times a year, yes. Linen drapes with a natural weight and elegance that polyester blends genuinely cannot replicate, and it develops a relaxed beauty with each wash. The trade-off is real: it requires ironing or steaming before use and careful cold-water laundering. For high-frequency event use or situations where you're washing tablecloths after every event, a well-made polyester blend is a practical alternative.
 ### How do I keep a dark tablecloth lint-free before guests arrive?
 
 A lint roller is the most effective tool , go over the cloth after it's on the table, working in long strokes in the direction of the weave. Dark tablecloths like navy blue show lint, pet hair, and even dust much more than lighter colors, so make the lint roller part of your setup routine rather than an afterthought. Setting the table as close to the arrival time as possible also helps minimize what settles on the cloth.
-### Can I use the Peacock Alley Hemstitch Tablecloth for an outdoor event?
+### Can I use the hemstitch linen tablecloth for an outdoor event?
 
-Peacock Alley's hemstitch construction is designed for indoor formal dining , the Egyptian-cotton fabric and drawn-thread hemstitch detail are not suited to outdoor conditions involving wind, moisture, or direct sun exposure. For outdoor events, look for purpose-built outdoor tablecloths with weighted corners or clips to prevent movement. The hemstitch tablecloth belongs on a properly set indoor table where the construction detail is visible and the fabric is protected from the elements.
+The hemstitch linen construction is designed for indoor formal dining , the 100% linen fabric and drawn-thread hemstitch detail are not suited to outdoor conditions involving wind, moisture, or direct sun exposure. For outdoor events, look for purpose-built outdoor tablecloths with weighted corners or clips to prevent movement. The hemstitch tablecloth belongs on a properly set indoor table where the construction detail is visible and the fabric is protected from the elements.
 <script type="application/ld+json">
 {
  "@context": "https://schema.org",
@@ -200,10 +200,10 @@ Peacock Alley's hemstitch construction is designed for indoor formal dining , th
  },
  {
  "@type": "Question",
- "name": "Is Egyptian cotton worth the extra effort over a polyester tablecloth?",
+ "name": "Is linen worth the extra effort over a polyester tablecloth?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "For a formal dinner table that you're setting a few times a year, yes. Egyptian cotton drapes with a weight and finish that polyester blends genuinely cannot replicate, and it holds a pressed crease through an entire evening. The trade-off is real: it requires careful ironing and attention to laundering. For high-frequency event use or situations where you're washing tablecloths after every event, a well-made polyester blend is a practical alternative."
+ "text": "For a formal dinner table that you're setting a few times a year, yes. Linen drapes with a natural weight and elegance that polyester blends genuinely cannot replicate, and it develops a relaxed beauty with each wash. The trade-off is real: it requires ironing or steaming before use and careful cold-water laundering. For high-frequency event use or situations where you're washing tablecloths after every event, a well-made polyester blend is a practical alternative."
  }
  },
  {
@@ -216,10 +216,10 @@ Peacock Alley's hemstitch construction is designed for indoor formal dining , th
  },
  {
  "@type": "Question",
- "name": "Can I use the Peacock Alley Hemstitch Tablecloth for an outdoor event?",
+ "name": "Can I use the hemstitch linen tablecloth for an outdoor event?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "Peacock Alley's hemstitch construction is designed for indoor formal dining , the Egyptian-cotton fabric and drawn-thread hemstitch detail are not suited to outdoor conditions involving wind, moisture, or direct sun exposure. For outdoor events, look for purpose-built outdoor tablecloths with weighted corners or clips to prevent movement. The hemstitch tablecloth belongs on a properly set indoor table where the construction detail is visible and the fabric is protected from the elements."
+ "text": "The hemstitch linen construction is designed for indoor formal dining , the 100% linen fabric and drawn-thread hemstitch detail are not suited to outdoor conditions involving wind, moisture, or direct sun exposure. For outdoor events, look for purpose-built outdoor tablecloths with weighted corners or clips to prevent movement. The hemstitch tablecloth belongs on a properly set indoor table where the construction detail is visible and the fabric is protected from the elements."
  }
  }
  ]

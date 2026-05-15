@@ -37,13 +37,13 @@ disclosure_required: true
 noindex: false
 faq:
   - question: "Colored champagne flutes versus clear crystal — which makes a better table statement?"
-    answer: "Colored glass makes the flute itself a visual element — a saturated cobalt like the Estelle hand-blown set reads immediately as a deliberate design choice and signals festivity before anyone takes a sip. Clear crystal like the Waterford Lismore makes everything else more visible: the champagne color, the bubbles, the candlelight reflecting off the cloth. Both approaches work; they signal different things. Color suits celebrations where the table's mood is the point. Crystal suits formal dinners where the food and occasion are the focus."
+    answer: "Colored glass makes the flute itself a visual element — a saturated cobalt in hand-blown glass reads immediately as a deliberate design choice and signals festivity before anyone takes a sip. Clear crystal like the Waterford Lismore makes everything else more visible: the champagne color, the bubbles, the candlelight reflecting off the cloth. Both approaches work; they signal different things. Color suits celebrations where the table's mood is the point. Crystal suits formal dinners where the food and occasion are the focus."
   - question: "Do colored champagne flutes affect the taste of the champagne?"
     answer: "The color of the glass does not affect flavor. The shape of the bowl does — a narrow flute preserves carbonation and keeps the champagne colder longer, while a wider tulip opening releases aroma. Most colored flutes use a classic narrow profile, so the drinking experience is comparable to a standard clear flute. The visual difference is significant; the flavor difference is not."
   - question: "How many flutes do I need when buying in pairs versus buying a set of eight?"
     answer: "A set of eight is nearly always more practical for party use. Buying four pairs from a brand that sells only in twos creates dye-lot matching uncertainty, costs more per glass, and means four separate transactions. The Libbey Embassy set of eight is the straightforward answer for party volume — one order, consistent manufacturing, and a reasonable replacement cost if one breaks. Buy pairs for intimate dinners or as a premium add-on alongside a larger budget set."
   - question: "Are hand-blown colored flutes dishwasher safe?"
-    answer: "Hand-blown pieces like the Estelle Cobalt Blue flutes require hand-washing. The combination of hand production and saturated color makes them vulnerable to the abrasion and heat of dishwasher cycles, which can dull both the glass surface and the color intensity over time. Machine-made options like the Libbey Embassy are dishwasher safe and designed for the practical reality of frequent large gatherings. Be honest about your post-party cleanup habits before committing to a set that requires hand-washing."
+    answer: "Hand-blown colored flutes require hand-washing. The combination of hand production and saturated color makes them vulnerable to the abrasion and heat of dishwasher cycles, which can dull both the glass surface and the color intensity over time. Machine-made options like the Libbey Embassy are dishwasher safe and designed for the practical reality of frequent large gatherings. Be honest about your post-party cleanup habits before committing to a set that requires hand-washing."
   - question: "How do I match a colored flute to the rest of my table setting?"
     answer: "Start with the dominant color in your dinnerware or table linens, then choose a flute that either complements or intentionally contrasts. Cobalt blue reads well against white and cream tableware, warm wood tones, and brass flatware. If your table is already heavily patterned, a single saturated color in the glass can anchor the setting without adding visual noise. A neutral or metallic-rimmed plate leaves the most room for a bold flute color to make its statement."
 ---
@@ -82,11 +82,11 @@ Replacement availability is a genuine concern with colored glassware more than w
 
 ### Blue Champagne Flutes Set of 6 6oz
 
-The [Estelle Colored Glass Champagne Flutes in Cobalt Blue](product:estelle-colored-glass-champagne-cobalt-set2) earn their position on every well-set table I've seen them on , not because they're understated, but because they're not trying to be. The cobalt is saturated and confident, and under candlelight the stem glows in a way that genuinely earns the word luminous without straining for it. These are hand-blown, and the slight variation in wall thickness is exactly what gives them that warmth machine glass can't replicate.
+The [Blue Champagne Flutes Set of 6](product:estelle-colored-glass-champagne-cobalt-set2) earn their position on every well-set table I've seen them on , not because they're understated, but because they're not trying to be. The cobalt is saturated and confident, and under candlelight the glass glows in a way that genuinely earns the word luminous without straining for it. These are hand-blown, and the slight variation in wall thickness is exactly what gives them that warmth machine glass can't replicate.
 
-Where Estelle sits in the broader colored glassware conversation is worth naming plainly: this is the reference piece. Interior design editorial keeps returning to it for a reason. The proportions are right, the color is consistent enough within a set to read as intentional, and they're comfortable to hold for a full evening. The bowl is a classic narrow flute profile , bubbles rise cleanly, the champagne stays cold.
+Hand-blown cobalt sits in a specific position in the colored glassware conversation. Interior design editorial keeps returning to this shade for a reason. The proportions are right, the color is consistent enough within a set to read as intentional, and they're comfortable to hold for a full evening. The bowl is a classic narrow flute profile , bubbles rise cleanly, the champagne stays cold.
 
-The honest limitation is the service math. Pairs are the only purchase unit, which means a table of eight requires four orders. That cumulative outlay is real, and you should go in knowing it. If you're building toward a full party service, buy them all at once rather than adding pairs over time , dye lot consistency matters with cobalt this saturated.
+The set of six is a genuine advantage: most colored flutes are sold in pairs, which means a table of eight requires four orders and accumulating cost. A six-piece set in one purchase resolves the math and keeps dye lot consistent across the table.
 
 ![Colored champagne flutes styled on a candlelit table](/images/articles/glassware-2.jpg)
 
@@ -100,7 +100,7 @@ Waterford's Lismore cut pattern is one of the handful of crystal designs that ha
 
 The case for Lismore over a colored artisan flute depends entirely on what you're building toward. If the goal is heirloom service , pieces you'll own for decades and eventually pass on , the Waterford construction quality is the right standard. These glasses reward care: hand-wash only, stored properly, handled without stacking. The cut will dull in a dishwasher, and once it's dull there's no restoring it.
 
-For buyers choosing between Waterford and a colored glass option like Estelle, the question is whether you want color as the primary visual statement or whether you want the table to feel formal and luminous in a more traditional register. These do the latter with authority.
+For buyers choosing between Waterford and a hand-blown colored glass option, the question is whether you want color as the primary visual statement or whether you want the table to feel formal and luminous in a more traditional register. These do the latter with authority.
 
 ![Crystal champagne flutes catching candlelight at a formal place setting](/images/articles/glassware-3.jpg)
 

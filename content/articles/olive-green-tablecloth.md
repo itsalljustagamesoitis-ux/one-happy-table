@@ -43,7 +43,7 @@ faq:
   - question: "Woven pattern vs. printed pattern — which holds up better on a tablecloth?"
     answer: "A woven pattern is built into the fabric structure itself — the check or stripe is formed by the weave. A printed pattern is applied to the surface of a woven base fabric. Woven patterns do not fade or peel with washing; printed patterns can soften over time. The LinenTablecloth Green Gingham Check uses a woven check, which is why the pattern stays consistent wash after wash and is the better long-term choice for a cloth laundered regularly."
   - question: "Does gingham work on a formal dinner table or is it always casual?"
-    answer: "Gingham reads casual in most settings — the pattern is strongly associated with outdoor eating and relaxed family tables. It is not impossible to formalize with careful coordination: linen napkins, simple glassware, and restrained centerpieces can lift it. For a formal dinner where you want the cloth to recede rather than announce itself, a solid or hemstitched cloth like the Peacock Alley Hemstitch will serve you better."
+    answer: "Gingham reads casual in most settings — the pattern is strongly associated with outdoor eating and relaxed family tables. It is not impossible to formalize with careful coordination: linen napkins, simple glassware, and restrained centerpieces can lift it. For a formal dinner where you want the cloth to recede rather than announce itself, a solid or hemstitched linen cloth will serve you better."
   - question: "What is the most important measurement to get right before buying a tablecloth online?"
     answer: "Measure your table with any leaves extended, calculate the drop on each side, and confirm the tablecloth's finished dimensions match — not the manufacturer's general size description, but the actual listed measurement. Size discrepancies are the most common complaint in tablecloth reviews, and they are almost always the result of buying by label rather than by dimension. Everything else is a matter of preference; the wrong size is simply wrong."
 ---
@@ -110,13 +110,13 @@ The limitation is real, though. A strong floral print is a visual commitment, an
 
 ### Simple & Opulence Premium 100% Linen Hemstitch Tablecloth
 
-Hemstitched tablecloths occupy a specific register , formal without being fussy, refined in a way that's structural rather than decorative. The [Peacock Alley Hemstitch Tablecloth](product:peacock-alley-hemstitch-tablecloth) sits at the premium end of this category, and it earns that position through material and origin rather than brand markup alone.
+Hemstitched tablecloths occupy a specific register , formal without being fussy, refined in a way that's structural rather than decorative. The [Simple & Opulence Premium 100% Linen Hemstitch Tablecloth](product:peacock-alley-hemstitch-tablecloth) sits at the premium end of this category, and it earns that position through construction and material rather than brand markup alone.
 
-American-made with Egyptian-cotton yarns, this cloth has a hand that most imported hemstitched linens can't match at any comparable price. Egyptian cotton's longer fiber staple means a smoother, denser weave with a luster that reads well under candlelight. The hemstitch detail , a ladder-stitch border along the hem , is the kind of finish that signals care without announcing itself. It's subtle enough that it works equally well at an anniversary dinner and a Sunday roast.
+100% linen with a hemstitch border, this cloth drapes naturally and develops a relaxed elegance with each wash. The hemstitch detail , a ladder-stitch border along the hem , is the kind of finish that signals care without announcing itself. It's subtle enough that it works equally well at an anniversary dinner and a Sunday roast. Linen's natural texture reads well under candlelight in a way that cotton-poly blends simply don't.
 
-The muted tones Peacock Alley produces in this cloth , dusty blues, soft grays, and the kind of muted olive that photographs accurately , are genuinely difficult to source in a hemstitched construction at any price. If you're building a table linen collection that will last years rather than seasons, the premium investment here reflects real differences in material and construction. The practical limitation: this is not a cloth you replace casually. Limited retail availability means that if you need a second tablecloth in the same colorway to extend a table, you may need to order ahead.
+The muted tones available in a hemstitched linen construction , dusty blues, soft grays, and muted olive , are genuinely difficult to source at any price. If you're building a table linen collection that will last years rather than seasons, this is the cloth that earns its place. Linen requires ironing or steaming before use for a crisp formal presentation, and a full table setup at this price band is a meaningful investment , but for a table you're deliberately setting, that investment reflects real quality.
 
-![Peacock Alley hemstitched tablecloth in muted tones on a formal dining table](/images/articles/linens-3.jpg)
+![Hemstitched linen tablecloth in muted tones on a formal dining table](/images/articles/linens-3.jpg)
 
 ,
 
@@ -138,7 +138,7 @@ Olive green specifically is most forgiving with warm neutrals: cream, terracotta
 
 ### Factor in Care Requirements
 
-Care requirements are not a minor consideration , they're a practical constraint that affects how often you'll actually use a cloth and how long it will last. Cotton-poly blends are the most forgiving: machine wash, tumble dry, iron if needed. 100% linen is machine washable but softens and relaxes with washing in a way that looks elegant or worn depending on your preference. Premium Egyptian cotton sits between those two , it washes well but benefits from a cool iron while slightly damp.
+Care requirements are not a minor consideration , they're a practical constraint that affects how often you'll actually use a cloth and how long it will last. Cotton-poly blends are the most forgiving: machine wash, tumble dry, iron if needed. 100% linen is machine washable but softens and relaxes with washing in a way that looks elegant or worn depending on your preference. Hemstitched linen benefits from a cool iron while slightly damp to maintain a crisp formal presentation.
 
 If you're buying a cloth you plan to launder regularly rather than dry-clean, confirm the care instructions before ordering. A cloth that requires dry cleaning is not an everyday cloth, regardless of how it's marketed.
 
@@ -161,7 +161,7 @@ For non-standard table sizes or extending tables, err toward the larger size if 
 Olive green in textiles shifts significantly depending on fiber content, dye process, and light source. What reads as yellow-green on a laptop screen often leans more brown or khaki in natural light. Request swatch samples if the retailer offers them, or read verified buyer reviews specifically for color accuracy. Most reputable linen brands photograph in controlled lighting that trends warmer than your dining room will be.
 ### Is gingham a good choice for a formal dinner table, or does it always read as casual?
 
-Gingham reads casual in most settings , the pattern is strongly associated with outdoor eating, checked tablecloths at bistros, and relaxed family tables. It's not impossible to formalize with the right accessories, but it requires careful coordination: linen napkins, simple glassware, restrained centerpieces. For a formal dinner where you want the cloth to recede rather than announce itself, a solid or hemstitched cloth like the Peacock Alley Hemstitch Tablecloth will serve you better.
+Gingham reads casual in most settings , the pattern is strongly associated with outdoor eating, checked tablecloths at bistros, and relaxed family tables. It's not impossible to formalize with the right accessories, but it requires careful coordination: linen napkins, simple glassware, restrained centerpieces. For a formal dinner where you want the cloth to recede rather than announce itself, a solid or hemstitched linen cloth will serve you better.
 ### How do I choose between a woven pattern and a printed pattern on a tablecloth?
 A woven pattern is built into the fabric structure , the check or stripe is formed by the weave itself. A printed pattern is applied to the surface of a woven base fabric. Woven patterns don't fade or peel with washing; printed patterns can soften over time. For a cloth you'll launder regularly, woven construction holds up better.
 ### Can I use an olive green tablecloth year-round, or is it seasonal?
@@ -188,7 +188,7 @@ Measure your table with any leaves extended, calculate the drop on each side, an
  "name": "Is gingham a good choice for a formal dinner table, or does it always read as casual?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "Gingham reads casual in most settings , the pattern is strongly associated with outdoor eating, checked tablecloths at bistros, and relaxed family tables. It's not impossible to formalize with the right accessories, but it requires careful coordination: linen napkins, simple glassware, restrained centerpieces. For a formal dinner where you want the cloth to recede rather than announce itself, a solid or hemstitched cloth like the Peacock Alley Hemstitch Tablecloth will serve you better."
+ "text": "Gingham reads casual in most settings , the pattern is strongly associated with outdoor eating, checked tablecloths at bistros, and relaxed family tables. It's not impossible to formalize with the right accessories, but it requires careful coordination: linen napkins, simple glassware, restrained centerpieces. For a formal dinner where you want the cloth to recede rather than announce itself, a solid or hemstitched linen cloth will serve you better."
  }
  },
  {

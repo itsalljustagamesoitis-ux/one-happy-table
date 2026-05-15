@@ -43,7 +43,7 @@ faq:
   - question: "Twisted taper assorted set vs. single color order — which gives better results at the table?"
     answer: "A single-color order almost always produces a more intentional-looking table. An assorted set gives flexibility across multiple settings and seasons, but using it means editing down to the candles that suit the current occasion and storing the rest. If you have a specific color story in mind — burgundy for a harvest dinner, ivory for a formal winter table — ordering a single color from a manufacturer like Root Candles gives you full palette control and visual cohesion that an assorted set cannot match."
   - question: "What candle holder works best with a twisted taper?"
-    answer: "Simple and architectural. The twist is already a visual event, and an ornate holder competes rather than complements. Plain brass column holders, minimal ceramic sticks, and clean metal designs give the candle room to read clearly from across the table. The Michael Aram White Orchid candlestick is an exception because the sculptural detail is confined to the base and the socket sits above it, giving the taper visual separation from the design."
+    answer: "Simple and architectural. The twist is already a visual event, and an ornate holder competes rather than complements. Plain brass column holders, minimal ceramic sticks, and clean metal designs give the candle room to read clearly from across the table. The Creative Co-Op cut metal flower candlestick is an exception because the sculptural detail is confined to the base and the socket sits above it, giving the taper visual separation from the design."
   - question: "How do I prevent twisted taper candles from dripping on a white tablecloth?"
     answer: "Trim the wick to a quarter-inch before lighting to reduce the size of the flame and slow the melt rate. Extinguish and reposition candles at the midpoint of a long dinner to even out the burn. Keep candles away from drafts and air vents, which increase flame movement and uneven melting. Using a candle snuffer rather than blowing the candle out also reduces the wax spray that commonly causes spots on linens."
 ---
@@ -110,13 +110,13 @@ The one practical note worth mentioning upfront: the beeswax blend is firmer tha
 
 ### Creative Co-Op Cut Metal Flower Taper Candle Holder
 
-The Michael Aram White Orchid candlesticks exist in a different category from most of what you'll find in a candle search , they're the kind of object you buy because they're worth owning permanently, not because you need something to hold a candle. The orchid-in-bloom form sculpted around the taper socket is detailed without being fussy, and the white enamel and gold finish reads both formal and light in a way that's genuinely difficult to pull off.
+The [Creative Co-Op Cut Metal Flower Taper Candle Holder](product:michael-aram-white-orchid-candlesticks-pair) exists in a different category from most of what you'll find in a candle search , it's the kind of object you buy because it's worth owning permanently, not merely because you need something to hold a candle. The cut metal flower form wrapping the taper socket is detailed without being fussy, and the neutral metal finish works across both formal and casual table registers.
 
-For a longer dining table where you want a real centerpiece , not a vase, not a runner, but something with verticality and sculptural presence , a pair of these in the center of the table does that work. They're best paired with a simple, monochromatic taper: a clean ivory or soft white candle that doesn't compete with the orchid detail. A twisted taper in a strong color would fight the form rather than complement it; a white or cream straight taper lets the candlestick carry the design.
+For a dining table where you want a real centerpiece , not a vase, not a runner, but something with sculptural botanical presence , this holder does that work. It's best paired with a simple, monochromatic taper: a clean ivory or soft white candle that doesn't compete with the floral detail. A twisted taper in a strong color fights the form rather than complementing it; a straight taper in white or cream lets the holder carry the design.
 
-The enamel chips if the protruding petal edges are knocked against other objects in storage or transport. Store them individually wrapped. The white-and-gold palette is specific , they're most effective on a cream or white table where the finish has room to breathe. On a heavily colored or maximalist table, the restraint of the design gets lost. These are not a buy-for-every-season piece; they're a buy-for-the-table-you're-building piece.
+The open metalwork requires cleaning with a soft brush after each use to remove wax from the floral detail. This holder works best on a spare table , solid neutral linens, simple dinnerware , where the botanical form has visual space to register clearly. On a heavily patterned or maximalist table, the detail gets lost. This is a buy-for-the-table-you're-building piece, not a buy-for-every-season piece.
 
-![Michael Aram White Orchid candlesticks holding ivory taper candles on a white linen tablecloth](/images/articles/decor-3.jpg)
+![Creative Co-Op cut metal flower taper candle holder with ivory taper candles on a white linen tablecloth](/images/articles/decor-3.jpg)
 
 ,
 
@@ -134,7 +134,7 @@ If you want the candles burning through dinner, the twist form imposes real cons
 
 Twisted tapers and decorative candlesticks require different pairing logic than straight tapers. With a straight taper, the holder can be as ornate as you like because the candle itself is visually neutral. With a twisted taper, the candle is already a design object, and the holder needs to support it rather than compete.
 
-Simple brass columns, plain ceramic sticks, and architectural metal holders all work well. The [White Orchid Taper Candle Holders](#) are an exception to this rule , they work because the sculptural detail is confined to the base, and the socket itself sits above the design, giving the taper visual separation. Most ornate holders don't offer that separation, and the result looks cluttered rather than composed.
+Simple brass columns, plain ceramic sticks, and architectural metal holders all work well. The Creative Co-Op cut metal flower holder is an exception to this rule , it works because the sculptural detail is confined to the base, and the socket itself sits above the design, giving the taper visual separation. Most ornate holders don't offer that separation, and the result looks cluttered rather than composed.
 
 ### Color Coordination Strategy
 
@@ -152,7 +152,7 @@ The strongest use of a twisted taper is on a restrained table , solid linens, si
 
 A twisted taper buyer is often making two purchases: the candles and the holders. It rarely makes sense to spend heavily on both at once. A premium beeswax taper in a mid-range holder performs better than a budget paraffin taper in a premium holder, because the candle is the part that burns and the quality of the burn is what you experience at the table.
 
-Invest in the candle quality first. Use a simple, well-proportioned holder that lets the candle do its work. If the holder is the statement piece , as with the Michael Aram orchid design , pair it with a quieter, high-quality candle that supports rather than competes.
+Invest in the candle quality first. Use a simple, well-proportioned holder that lets the candle do its work. If the holder is the statement piece , as with the Creative Co-Op cut metal flower design , pair it with a quieter, high-quality candle that supports rather than competes.
 
 ## Frequently Asked Questions
 
@@ -165,7 +165,7 @@ Most twisted tapers use a standard seven-eighths-inch base, so they fit the majo
 
 It depends on how you plan to use them. An assorted set gives you flexibility across multiple table settings, which is useful if you entertain throughout the year and change your palette seasonally. A single-color order gives you cohesion , every candle on the table matches, and the visual result tends to look more intentional. If you have a specific color story in mind for a particular occasion, ordering a single color is almost always the stronger choice.
 ### What kind of candle holder works best with a twisted taper?
-Simple and architectural. The twist is already a visual event, and an ornate holder competes rather than complements. Plain brass column holders, minimal ceramic sticks, and clean metal designs give the candle room to read clearly. The Michael Aram White Orchid candlesticks are an exception , the sculptural base is separated from the socket, so the candle has visual space above the design.
+Simple and architectural. The twist is already a visual event, and an ornate holder competes rather than complements. Plain brass column holders, minimal ceramic sticks, and clean metal designs give the candle room to read clearly. The Creative Co-Op cut metal flower candlestick is an exception , the sculptural base is separated from the socket, so the candle has visual space above the design.
 ### How do I prevent twisted taper candles from dripping on my tablecloth?
 A few practical steps help significantly. Trim the wick to a quarter-inch before lighting to reduce the size of the flame and slow the melt rate. Extinguish and reposition candles at the midpoint of a long dinner to even out the burn. Avoid placing candles near drafts or air vents, which increase flame movement and uneven melting.
 <script type="application/ld+json">
@@ -202,7 +202,7 @@ A few practical steps help significantly. Trim the wick to a quarter-inch before
  "name": "What kind of candle holder works best with a twisted taper?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "Simple and architectural. The twist is already a visual event, and an ornate holder competes rather than complements. Plain brass column holders, minimal ceramic sticks, and clean metal designs give the candle room to read clearly. The Michael Aram White Orchid candlesticks are an exception , the sculptural base is separated from the socket, so the candle has visual space above the design. Most heavily decorated holders don't offer that separation."
+ "text": "Simple and architectural. The twist is already a visual event, and an ornate holder competes rather than complements. Plain brass column holders, minimal ceramic sticks, and clean metal designs give the candle room to read clearly. The Creative Co-Op cut metal flower candlestick is an exception , the sculptural base is separated from the socket, so the candle has visual space above the design. Most heavily decorated holders don't offer that separation."
  }
  },
  {

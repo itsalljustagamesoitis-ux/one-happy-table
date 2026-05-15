@@ -45,7 +45,7 @@ faq:
   - question: "Can I layer a table runner over a round tablecloth?"
     answer: "Yes, and it is one of the more effective ways to add depth to a round table. The runner will extend past the edges rather than spanning the full width evenly, and that asymmetry is part of the look. A faux-linen runner with relaxed farmhouse texture over a black base cloth creates a strong contrast that anchors the table without requiring elaborate centerpieces."
   - question: "Is linen worth it over cotton for dinner napkins?"
-    answer: "Linen is worth it if texture and drape matter to you. Belgian linen in particular softens with each wash and develops a quality that cotton at the same price point does not replicate. Cotton is easier to care for and cheaper per napkin, which makes it the more practical choice for everyday use. For a table you are deliberately setting, linen napkins are a meaningful upgrade."
+    answer: "Linen is worth it if texture and drape matter to you. A linen-flax blend in particular softens with each wash and develops a quality that cotton at the same price point does not replicate. Cotton is easier to care for and cheaper per napkin, which makes it the more practical choice for everyday use. For a table you are deliberately setting, linen napkins are a meaningful upgrade."
 ---
 
 Black round tablecloths get searched constantly, but most of the articles ranking for that phrase send you toward rectangular polyester and hope you don't notice. I've spent years setting tables for everything from casual Sunday dinners to seated events for eighty guests, and the linen choices you make matter more than most people expect. If you're building a table that actually looks intentional, the [table linens](/linens/) you choose are the foundation , not an afterthought.
@@ -96,13 +96,13 @@ This is a budget-tier cloth, priced accordingly. Buy it when you need reliable c
 
 ### Bedding Craft Linen Flax Cotton Dinner Napkins Set of 12
 
-Napkins are where guests actually experience fabric , they pick them up, fold them, set them back down. The [Belgian Linen Napkins (Set of 6)](product:sur-la-table-linen-napkins-set6) by Sur La Table are washed Belgian linen, which means they arrive already soft and already at their final dimensions. Pre-washing matters here because linen can shrink meaningfully in the first few laundering cycles, and a set that arrives pre-shrunk stays the size you bought.
+Napkins are where guests actually experience fabric , they pick them up, fold them, set them back down. The [Bedding Craft Linen Flax Cotton Dinner Napkins Set of 12](product:sur-la-table-linen-napkins-set6) is a linen-flax blend with the texture and drape of pure linen and improved machine-wash durability. The set of 12 covers a full dinner party table in one purchase , that alone makes it more practical than sets of six that require a second order before you can seat twelve.
 
-The weight and texture are what separate these from cotton napkins at a similar price point. Belgian linen has a natural slub that gives each napkin subtle visual interest , no two look precisely identical, which reads as artisanal rather than off-putting. They soften further with every wash, so a set you've owned for two years feels better than one you just unpacked.
+The weight and texture are what separate these from cotton napkins at a similar price point. A linen-flax blend has a natural texture that gives each napkin subtle visual interest and softens with every wash, so a set you've owned for two years feels better than one you just unpacked.
 
-The natural flax color works with nearly any table palette, including a black base cloth, where the contrast is immediate and clean. These are not a budget purchase, and a full set of twelve for a larger dinner table is a meaningful investment. But for a table of six, this set handles the job without compromise.
+The natural flax color works with nearly any table palette, including a black base cloth, where the contrast is immediate and clean. These are not a budget purchase, but for a table of eight or more, this set handles the job without compromise , and the set of 12 means you're not counting napkins before guests arrive.
 
-![Belgian linen napkins folded on a set table with warm natural lighting](/images/articles/linens-2.jpg)
+![Linen-flax napkins folded on a set table with warm natural lighting](/images/articles/linens-2.jpg)
 
 ,
 
@@ -144,7 +144,7 @@ Think about your dinnerware and centerpiece before you commit to a cloth. A high
 
 ### Think About Laundering Before You Buy
 
-Every cloth on this list is washable, but they don't all launder the same way. Polyester tolerates a standard machine cycle with minimal care. Linen requires a gentle cycle, line drying or low heat, and some tolerance for the wrinkles that result , or a steamer, if you want a crisper result. Belgian linen napkins that have been pre-washed will stay close to their original dimensions through repeated laundering, which is part of what makes pre-washing a meaningful feature rather than a marketing note.
+Every cloth on this list is washable, but they don't all launder the same way. Polyester tolerates a standard machine cycle with minimal care. Linen requires a gentle cycle, line drying or low heat, and some tolerance for the wrinkles that result , or a steamer, if you want a crisper result. A linen-flax blend napkin is more dimensionally stable than pure linen through repeated laundering, which is part of what makes the blend a practical advantage over pure linen for regular use.
 
 Match the laundering reality to your actual habits. A cloth that requires more care than you'll reliably give it will look worse over time than a simpler option maintained consistently.
 
@@ -168,7 +168,7 @@ Polyester cloths need steaming or pressing after storage , folding creases are v
 Yes, and it's one of the more effective ways to add depth to a round table. The runner won't span the full width evenly the way it does on a rectangular table , it will extend past the edges , and that asymmetry is part of the look. A faux-linen runner over a black base cloth creates a strong contrast that anchors the table without requiring elaborate centerpieces. The [DII Faux-Linen Table Runner](product:juliska-country-estate-table-runner) is specifically designed for a relaxed, layered aesthetic and handles this combination well.
 ### How many napkins do I need, and is linen worth it over cotton?
 
-Plan for one napkin per guest, plus two or three spares if you're hosting a longer meal where a second napkin might be needed. Linen is worth it over cotton if texture and drape matter to you , Belgian linen in particular softens with each wash and develops a quality that cotton at the same price point doesn't replicate. Cotton is easier to care for and cheaper per napkin, which makes it the more practical choice for everyday use. For a table you're deliberately setting, the Sur La Table Belgian linen napkins are a meaningful upgrade.
+Plan for one napkin per guest, plus two or three spares if you're hosting a longer meal where a second napkin might be needed. Linen is worth it over cotton if texture and drape matter to you , a linen-flax blend in particular softens with each wash and develops a quality that cotton at the same price point doesn't replicate. Cotton is easier to care for and cheaper per napkin, which makes it the more practical choice for everyday use. For a table you're deliberately setting, the Bedding Craft linen-flax napkins are a meaningful upgrade.
 <script type="application/ld+json">
 {
  "@context": "https://schema.org",
@@ -211,7 +211,7 @@ Plan for one napkin per guest, plus two or three spares if you're hosting a long
  "name": "How many napkins do I need, and is linen worth it over cotton?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "Plan for one napkin per guest, plus two or three spares if you're hosting a longer meal where a second napkin might be needed. Linen is worth it over cotton if texture and drape matter to you , Belgian linen in particular softens with each wash and develops a quality that cotton at the same price point doesn't replicate. Cotton is easier to care for and cheaper per napkin, which makes it the more practical choice for everyday use. For a table you're deliberately setting, the Sur La Table Belgian linen napkins are a meaningful upgrade."
+ "text": "Plan for one napkin per guest, plus two or three spares if you're hosting a longer meal where a second napkin might be needed. Linen is worth it over cotton if texture and drape matter to you , a linen-flax blend in particular softens with each wash and develops a quality that cotton at the same price point doesn't replicate. Cotton is easier to care for and cheaper per napkin, which makes it the more practical choice for everyday use. For a table you're deliberately setting, the Bedding Craft linen-flax napkins are a meaningful upgrade."
  }
  }
  ]

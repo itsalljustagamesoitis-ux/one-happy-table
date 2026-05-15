@@ -40,8 +40,8 @@ faq:
     answer: "A six-person dining table is typically 60 to 72 inches long. A 72-inch runner fits that configuration with minimal overhang — closer to flush than draped. For a more traditional look with six inches of overhang on each end, an 84-inch runner works better. If your table is 96 inches or longer, two 72-inch runners staggered end-to-end create a layered effect and cover the full length cleanly without the gap that a single short runner creates."
   - question: "Tartan table runner — can I use it outside of the holiday season?"
     answer: "Traditional red-and-green tartan reads as Christmas-specific and is difficult to use outside of November through January without the table feeling seasonally mismatched. Navy, forest green, charcoal, and camel tartans have a heritage-plaid character that sits comfortably in autumn and winter without triggering holiday associations. If you want a runner with a longer usable window, the colorway is the variable to choose carefully — not the pattern itself."
-  - question: "Elrene tartan runner vs. Chilewich woven runner — which is more practical for frequent hosting?"
-    answer: "Both are machine washable, but they serve different tables. The Elrene tartan is a fabric runner with a wrinkle-resistant finish, best suited to hosts who want the seasonal holiday look and launder between every use. The Chilewich Trellis is vinyl-yarn weave — heat-resistant, water-resistant, and wipeable between meals — which makes it fundamentally more durable and easier to maintain for year-round use. The Chilewich reads as contemporary rather than traditional, so the aesthetic fit depends on the room it lives in."
+  - question: "Elrene tartan runner vs. classic linen navy runner — which is more practical for frequent hosting?"
+    answer: "Both are machine washable, but they serve different tables. The Elrene tartan is a fabric runner with a wrinkle-resistant finish, best suited to hosts who want the seasonal holiday look and launder between every use. The Classic Linen by D'Moksha Navy Blue Table Runner 84\" is a well-constructed linen runner that holds its drape and colour reliably through repeated cold-water washing , more versatile across the year and suited to formal or transitional tables. The linen runner reads as classic rather than festive, so the aesthetic fit depends on the table you're building."
   - question: "Does the faux-linen table runner require ironing before each use?"
     answer: "No, and that is intentional. The stonewashed faux-linen finish is designed to have a relaxed, slightly rumpled surface that does not press flat , the lived-in texture is the point, not a flaw. If you prefer a sharply dressed and crisply pressed table, this runner will look underdone. If you want relaxed farmhouse texture without a hot iron before every dinner party, the no-press quality is a genuine selling point."
   - question: "What dinnerware works best alongside a tartan table runner?"
@@ -96,13 +96,13 @@ The trade-offs are real and worth naming plainly. Red-and-green tartan is a seas
 
 ### Classic Linen by D'Moksha Navy Blue Table Runner 84"
 
-Durability-first buyers who want a runner that can genuinely live on the table full-time should look at the [Chilewich Trellis Woven Table Runner in Navy](product:chilewich-trellis-woven-navy-runner). Chilewich's vinyl-yarn weave is heat-resistant, water-resistant, and wipes clean between uses , which makes it a fundamentally different category of product from woven fabric runners, even if it sits in the same physical spot on your table.
+Buyers who want a runner with year-round versatility and formal range should look at the [Classic Linen by D'Moksha Navy Blue Table Runner 84"](product:chilewich-trellis-woven-navy-runner). The navy colourway is deep and quietly formal , it coordinates easily with white dinnerware, silver flatware, and deep green or burgundy napkins without competing with any of them.
 
-The Navy Trellis colorway is precise and contemporary. It photographs well against almost everything, which is likely why it appears so consistently in formal dining editorial. On an actual table, it pairs cleanly with white dinnerware, aged silver, and deep green or burgundy napkins. The pattern has a geometric character that shares some visual DNA with tartan , structured, grid-based , without reading as overtly plaid or holiday-specific. You can use this from September through April without it looking seasonally misplaced.
+The 84-inch length suits most standard dining tables with a proper overhang on each end. The linen construction gives it the drape and textile weight that keeps it looking composed on the table rather than shifting with every reach. Cold-water washing and air-drying maintain the colour depth and structure through repeated use , straightforward care for anyone accustomed to laundering linen.
 
-The honest caveat: the vinyl-yarn surface has a slight sheen and a texture that registers as modern rather than traditional. If you're building a table that should feel like a British country house dining room circa 1960, this runner is not the material that gets you there. It's designed for contemporary rooms and contemporary hosts. The durability premium is real, and it's worth it for frequent entertainers , but it's a different aesthetic commitment than linen or cotton.
+The navy reads as calm rather than festive, which extends its seasonal range from autumn through spring without it looking out of place. For a holiday table, it provides grounded formality; for a winter dinner party in January, it reads naturally without triggering Christmas associations. The aesthetic is classic rather than contemporary, which is exactly right for rooms that skew traditional.
 
-![Navy woven table runner on a set formal dining table](/images/articles/linens-2.jpg)
+![Navy linen table runner on a set formal dining table](/images/articles/linens-2.jpg)
 
 ,
 
@@ -134,13 +134,13 @@ Before buying any runner with a strong seasonal identity, count the weekends you
 
 Runner width and length are not afterthoughts. Measure your table before buying, not after. A 72-inch runner on a 96-inch table is short , it creates an awkward gap before the ends of the table rather than a clean visual anchor. Two runners staggered end-to-end solve the length problem, but double the cost and require that both runners coordinate in pattern weight and colorway.
 
-Width proportion matters equally. A narrow runner on a wide table reads as undersized. If your table is 42 inches wide or more, a 16-inch or 18-inch runner will carry better visual weight than a 14-inch standard width. Chilewich and some linen runners come in wider configurations , worth checking before defaulting to the most common size.
+Width proportion matters equally. A narrow runner on a wide table reads as undersized. If your table is 42 inches wide or more, a 16-inch or 18-inch runner will carry better visual weight than a 14-inch standard width. Some linen runners come in wider configurations , worth checking before defaulting to the most common size.
 
 ### Honest Assessment of Your Care Tolerance
 
 A beautiful runner you're afraid to use is a bad purchase. Linen wrinkles , that is a fact, not a complaint , and unless you're committed to pressing it before every dinner, or embracing the intentionally relaxed aesthetic of a stonewashed faux-linen runner, wrinkled linen on a holiday table can look like an oversight rather than a choice.
 
-Machine-washable, wrinkle-resistant runners eliminate that variable entirely. The Elrene tartan handles weekly use without special care. The Chilewich wipes clean between meals and goes in the machine when needed. Exploring the [full table linens](/linens/) category with care requirements as a filter is a practical starting point , sort by washability first, then aesthetics.
+Machine-washable, wrinkle-resistant runners eliminate that variable entirely. The Elrene tartan handles weekly use without special care. The D'Moksha navy linen runner launders reliably in cold water and air-dries without losing its drape. Exploring the [full table linens](/linens/) category with care requirements as a filter is a practical starting point , sort by washability first, then aesthetics.
 
 ### Coordinate With What You Already Own
 
@@ -162,9 +162,9 @@ A six-person dining table is typically 60 to 72 inches long. A 72-inch runner fi
 ### Can I use a tartan table runner outside of the holiday season?
 
 Traditional red-and-green tartan reads as Christmas-specific and is difficult to use outside of November through January without the table feeling seasonally mismatched. Navy, forest green, charcoal, and camel tartans have a heritage-plaid character that sits comfortably in autumn and winter without triggering holiday associations. If you want a runner with a longer usable window, choose a colorway that reads as classic British plaid rather than festive.
-### Is the Chilewich runner appropriate for a formal holiday table?
+### Is a classic linen navy runner appropriate for a formal holiday table?
 
-The [Chilewich Trellis Woven Table Runner in Navy](product:chilewich-trellis-woven-navy-runner) reads as contemporary rather than traditional, which makes it a good fit for modern or transitional dining rooms but less suited to formal settings that lean toward heritage or country house aesthetics. Its heat and water resistance are real advantages for meals with candles and multiple courses. For a strictly traditional holiday table, a woven fabric runner will feel more appropriate.
+The [Classic Linen by D'Moksha Navy Blue Table Runner 84"](product:chilewich-trellis-woven-navy-runner) reads as quietly formal and traditional, which makes it a good fit for heritage or country house aesthetics. The navy colourway coordinates with white china, silver, and the greens and reds of a holiday table without announcing itself. For a modern or transitional dining room where a more graphic aesthetic is the goal, the linen runner's classic register may feel understated , which for formal holiday tables is usually exactly right.
 ### Does the faux-linen table runner require ironing?
 No , and that's deliberate. The stonewashed faux-linen finish is designed to have a relaxed, slightly rumpled surface that does not press flat. The lived-in texture is the aesthetic point, not a flaw. If you prefer a sharply dressed, crisply pressed table, this runner will look underdone.
 ### What dinnerware works best with a tartan table runner?
@@ -193,10 +193,10 @@ Tartan's grid structure is visually assertive, so it pairs best with solid dinne
  },
  {
  "@type": "Question",
- "name": "Is the Chilewich runner appropriate for a formal holiday table?",
+ "name": "Is a classic linen navy runner appropriate for a formal holiday table?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "The Chilewich Trellis Woven Table Runner in Navy reads as contemporary rather than traditional, which makes it a good fit for modern or transitional dining rooms but less suited to formal settings that lean toward heritage or country house aesthetics. Its heat and water resistance are real advantages for meals with candles and multiple courses. For a strictly traditional holiday table, a woven fabric runner will feel more appropriate."
+ "text": "The Classic Linen by D'Moksha Navy Blue Table Runner 84\" reads as quietly formal and traditional, which makes it a good fit for heritage or country house aesthetics. The navy colourway coordinates with white china, silver, and the greens and reds of a holiday table without announcing itself. For a strictly modern or transitional dining room where a more graphic aesthetic is the goal, the linen runner's classic register may feel understated , which for formal holiday tables is usually exactly right."
  }
  },
  {

@@ -39,9 +39,9 @@ faq:
   - question: "Table runner vs. tablecloth for a formal dinner — which is more appropriate?"
     answer: "A tablecloth covers the entire table surface and drops to the sides, setting a more unified and traditionally formal look. A runner sits down the center, leaving the surface or an underlying tablecloth visible on either side, which reads as casual or semi-formal. For formal seated dinners, a tablecloth is the more traditional choice. A runner layered over a tablecloth adds texture and is a valid approach for long tables where a single fabric can look flat."
   - question: "Why does navy fabric show lint so badly and what can I do about it?"
-    answer: "Deep navy shows light-colored debris immediately — it is a property of the color, not a defect in the fabric. Keep a lint roller at the table before guests arrive, and consider that tightly woven polyester blends shed debris more easily than nubby linen textures. The Chilewich vinyl-yarn surface wipes clean with a damp cloth and does not hold pet hair the way woven fabrics do, making it the most practical choice for households with animals."
-  - question: "Is the Chilewich Trellis runner suitable for a traditional dining room?"
-    answer: "The Chilewich Trellis runner is best suited to contemporary and modern dining rooms. The vinyl-yarn weave has a slight sheen and a textural quality that reads as design-forward rather than classically formal. For a traditional dining room with dark wood furniture, candlesticks, and formal china, a woven linen or cotton tablecloth will feel more at home. The Chilewich runner is the right pick where durability and easy maintenance matter more than traditional aesthetics."
+    answer: "Deep navy shows light-colored debris immediately — it is a property of the color, not a defect in the fabric. Keep a lint roller at the table before guests arrive, and consider that tightly woven polyester blends shed debris more easily than nubby linen textures. A linen runner like the D'Moksha navy runner is best shaken out before guests arrive and laundered promptly after spills."
+  - question: "Is a classic linen navy runner suitable for a traditional dining room?"
+    answer: "A linen navy runner suits traditional and transitional dining rooms well. The natural textile drape and matte finish read as classic rather than contemporary, and linen coordinates naturally with formal china, silver flatware, and candlesticks. For a very modern or minimalist dining room, the classic linen quality may feel slightly formal , but for most traditional settings it is the natural choice."
   - question: "Does the faux-linen table runner need to be ironed?"
     answer: "No, and that is intentional. The stonewashed faux-linen finish is designed to look relaxed and slightly rumpled rather than pressed flat. If you are drawn to crisp, formal linens, this runner is not the right fit. The texture is a design choice, not a laundering failure, and it works in favor of farmhouse tables and harvest dinner settings that lean into lived-in warmth."
   - question: "What length table runner do I need for a 6-foot dining table?"
@@ -56,7 +56,7 @@ What separates a good navy table linen from one that disappointments after two w
 
 ### Fabric and Construction
 
-The fabric determines everything downstream: how the linen drapes, whether it needs ironing, how it handles a spill, and how long it keeps its color. Woven cotton and linen blends are the traditional choice , they drape well and photograph beautifully, but they wrinkle and require care. Vinyl-yarn weaves, like those used by Chilewich, trade that soft drape for real-world durability: heat resistance, water resistance, and a surface that wipes clean rather than stains.
+The fabric determines everything downstream: how the linen drapes, whether it needs ironing, how it handles a spill, and how long it keeps its color. Woven cotton and linen blends are the traditional choice , they drape well and photograph beautifully, but they wrinkle and require care. Vinyl-yarn weaves trade that soft drape for real-world durability: heat resistance, water resistance, and a surface that wipes clean rather than stains.
 
 Neither is objectively better. A runner used six times a year for holiday dinners has different demands than one that's on the table every weekend. Matching the fabric to your actual use pattern is the first decision to make, not the last.
 
@@ -96,13 +96,13 @@ The practical caveat is one worth taking seriously: deep navy shows lint and pet
 
 ### Classic Linen by D'Moksha Navy Blue Table Runner 84"
 
-This runner earns its place on a table for different reasons than the competition, and it's worth being specific about that. The [Chilewich Trellis Woven Table Runner in Navy](product:chilewich-trellis-woven-navy-runner) is built from Chilewich's vinyl-yarn weave , a material that is genuinely heat-resistant, water-resistant, and machine washable in a way that woven fabric runners simply aren't.
+This runner earns its place on a table for different reasons than the competition, and it's worth being specific about that. The [Classic Linen by D'Moksha Navy Blue Table Runner 84"](product:chilewich-trellis-woven-navy-runner) is a linen navy runner that brings genuine textile weight and a classic drape in a neutral colourway that pairs with almost any formal or semi-formal table setting.
 
-If you've ever watched a candle drip onto a linen runner or spent fifteen minutes blotting red wine out of a tablecloth, the appeal is immediate. The Trellis pattern in navy is their most recognizable colourway for formal dining settings, and it holds up through years of regular use without fading or pilling in the way fabric alternatives do.
+The navy is a rich, saturated tone that photographs well and coordinates naturally with white and cream china, gold flatware, and candlelight. The linen construction has the texture and body expected of a quality runner at this price band, and it sits on the table with enough weight that shifting is not a concern.
 
-The trade-off is aesthetic and legitimate. The vinyl-yarn construction has a slight sheen and a texture that reads as modern rather than traditional. On a table that leans farmhouse, rustic, or classically formal, it may feel slightly out of register. On a contemporary table or a dining room that skews clean and architectural, it's a very good answer. Know your table before committing.
+The trade-off worth knowing: a linen runner of this construction will benefit from proper laundering care , cold water, gentle cycle, and air-drying to maintain its colour and drape over time. On a contemporary table or a dining room that skews clean and architectural, it reads as a considered choice. On a more casual or rustic table, the formal drape may be more than the setting calls for.
 
-![Chilewich woven runner on a modern dining table](/images/articles/linens-2.jpg)
+![Navy linen table runner on a modern dining table](/images/articles/linens-2.jpg)
 
 ,
 
@@ -134,7 +134,7 @@ For holiday entertaining and seated banquets where the table is the focal point,
 
 A runner that requires careful hand-washing and ironing is manageable for a table set six times a year for special occasions. It becomes a real maintenance burden for a table used daily or weekly. Fabric type should follow use frequency , not the other way around.
 
-For high-frequency tables, the vinyl-yarn construction of the Chilewich runner is a practical fit. For occasional formal use, the investment in linen or stonewashed fabric pays off aesthetically. Browsing the full breadth of [table linen options](/linens/) by use case , not just by color , tends to surface better matches than searching by style alone.
+For high-frequency tables, the investment in a quality linen runner pays off aesthetically. For occasional formal use, the investment in linen or stonewashed fabric pays off aesthetically. Browsing the full breadth of [table linen options](/linens/) by use case , not just by color , tends to surface better matches than searching by style alone.
 
 ### Think About the Full Table Palette
 
@@ -161,10 +161,10 @@ For oval and round tables, runners work differently than on rectangular tables ,
 A tablecloth covers the entire table surface and drops to the sides, fully enclosing the table. A runner sits down the center, leaving the table surface or an underlying tablecloth visible on either side. For formal seated dinners, a tablecloth is the more traditional choice , it sets a cleaner, more unified look. A runner is better suited to casual or semi-formal settings, or layered over a tablecloth for added texture.
 ### How do I keep a navy table linen from showing lint and pet hair?
 
-Deep navy fabric shows light-colored debris immediately , it's a property of the color, not a defect in the fabric. Keep a lint roller at the table before guests arrive, and consider the fabric type: tightly woven polyester blends shed debris more easily than nubby linen textures. The Chilewich vinyl-yarn surface, specifically, wipes clean with a damp cloth and doesn't hold pet hair the way woven fabrics do.
-### Is the Chilewich runner appropriate for a traditional or formal dining room?
+Deep navy fabric shows light-colored debris immediately , it's a property of the color, not a defect in the fabric. Keep a lint roller at the table before guests arrive, and consider the fabric type: tightly woven polyester blends shed debris more easily than nubby linen textures. A linen runner should be shaken out before guests arrive and laundered promptly after spills to keep it looking its best.
+### Is a classic linen navy runner appropriate for a traditional or formal dining room?
 
-The Chilewich Trellis runner is best suited to contemporary and modern dining rooms. The vinyl-yarn weave has a slight sheen and a textural quality that reads as design-forward rather than classically formal. For a traditional dining room , dark wood furniture, candlesticks, formal china , a woven linen or cotton tablecloth like the LinenTablecloth Navy Blue 90x132 will be more at home. The Chilewich runner is a strong choice where durability and easy maintenance matter more than traditional aesthetics.
+A linen navy runner suits traditional and transitional dining rooms very well. The natural textile weight and matte finish read as classic rather than contemporary, and the navy colourway coordinates naturally with formal china, silver flatware, and candlesticks. For very modern or minimalist settings, the classic linen quality may feel more formal than the table requires , but for traditional settings it is the natural choice.
 ### Does the faux-linen table runner require ironing?
 No , and that's intentional. The stonewashed faux-linen finish is designed to look relaxed and slightly rumpled rather than pressed. If you're drawn to crisp, flat linens, this runner is not the right fit. If you want the warmth of a lived-in farmhouse table without the maintenance of ironing, the texture works in your favor.
 ### What size table runner do I need for a 6-foot dining table?
@@ -188,15 +188,15 @@ A 6-foot (72-inch) dining table takes a runner between 84 and 90 inches for a st
  "name": "How do I keep a navy table linen from showing lint and pet hair?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "Deep navy fabric shows light-colored debris immediately , it's a property of the color, not a defect in the fabric. Keep a lint roller at the table before guests arrive, and consider the fabric type: tightly woven polyester blends shed debris more easily than nubby linen textures. The Chilewich vinyl-yarn surface, specifically, wipes clean with a damp cloth and doesn't hold pet hair the way woven fabrics do."
+ "text": "Deep navy fabric shows light-colored debris immediately , it's a property of the color, not a defect in the fabric. Keep a lint roller at the table before guests arrive, and consider the fabric type: tightly woven polyester blends shed debris more easily than nubby linen textures. A linen runner should be shaken out before guests arrive and laundered promptly after spills to keep it looking its best."
  }
  },
  {
  "@type": "Question",
- "name": "Is the Chilewich runner appropriate for a traditional or formal dining room?",
+ "name": "Is a classic linen navy runner appropriate for a traditional or formal dining room?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "The Chilewich Trellis runner is best suited to contemporary and modern dining rooms. The vinyl-yarn weave has a slight sheen and a textural quality that reads as design-forward rather than classically formal. For a traditional dining room , dark wood furniture, candlesticks, formal china , a woven linen or cotton tablecloth like the LinenTablecloth Navy Blue 90x132 will be more at home. The Chilewich runner is a strong choice where durability and easy maintenance matter more than traditional aesthetics."
+ "text": "A linen navy runner suits traditional and transitional dining rooms very well. The natural textile weight and matte finish read as classic rather than contemporary, and the navy colourway coordinates naturally with formal china, silver flatware, and candlesticks. For very modern or minimalist settings, the classic linen quality may feel more formal than the table requires , but for traditional settings it is the natural choice."
  }
  },
  {
