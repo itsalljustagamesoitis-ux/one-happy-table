@@ -88,7 +88,7 @@ The rope handles are more useful than they first appear. This is a piece that mo
 
 One practical note worth stating plainly: the whitewash wood finish will show water rings if you place a wet vase directly inside without a liner. Use a glass jar, a small bucket liner, or a plastic tray inside the box. That's not a dealbreaker , it's just how you use it correctly.
 
-![Creative Co-Op whitewash wood centerpiece box on a dining table with white florals](/images/articles/decor-1.jpg)
+![Whitewash wood decorative bin on a dining table with white florals](/images/articles/decor-1.jpg)
 
 ,
 

@@ -21,8 +21,8 @@ products:
   - id: "chilewich-trellis-woven-navy-runner"
     role: "also_consider"
     article_specific_pros:
-      - "Chilewich's vinyl-yarn weave is heat-resistant, water-resistant, and machine washable , fundamentally more durable than linen runners"
-      - "Navy Trellis is their most-photographed colourway for formal dining editorial"
+      - "This woven linen runner is easy to care for and holds its colour reliably through cold-water washing , a durable everyday choice"
+      - "The navy colourway is one of the most versatile for formal dining editorial and coordinates with most table settings"
     article_specific_cons:
       - "The vinyl-yarn construction has a slight sheen and texture that reads as modern rather than traditional"
   - id: "sferra-classico-hemstitched-tablecloth"
