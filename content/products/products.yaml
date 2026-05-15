@@ -18,6 +18,7 @@ costa-nova-roda-reactive-glaze:
   brand: Costa Nova
   hub: dinnerware
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.costanova.com/collections/roda"
   price_band: mid
   default_pros:
   - Each piece has a unique reactive-glaze finish — no two are identical
@@ -138,6 +139,7 @@ bamboo-fiber-dinnerware-natural-10pc:
   brand: Bamboefest
   hub: dinnerware
   amazon_asin: NOT_ON_AMAZON
+  buy_url: ""
   price_band: budget
   default_pros:
   - Made from organic bamboo fiber — free from melamine, BPA, and heavy metal glazes
@@ -153,6 +155,7 @@ charger-plate-gold-glass-set12:
   brand: Koyal Wholesale
   hub: dinnerware
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.koyalwholesale.com/collections/charger-plates"
   price_band: budget
   default_pros:
   - Glass construction reads as more substantial than plastic chargers at this price
@@ -168,6 +171,7 @@ charger-plate-silver-beaded-set12:
   brand: Saro Lifestyle
   hub: dinnerware
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.sarodesign.com/collections/charger-plates"
   price_band: budget
   default_pros:
   - Beaded rim adds texture that photographs beautifully at holiday table settings
@@ -183,6 +187,7 @@ charger-plate-wicker-rattan-set4:
   brand: Nicunom
   hub: dinnerware
   amazon_asin: NOT_ON_AMAZON
+  buy_url: ""
   price_band: budget
   default_pros:
   - Natural wicker texture brings warmth to outdoor and harvest-theme table settings
@@ -230,6 +235,7 @@ schott-zwiesel-convention-red-wine-set6:
   brand: Schott Zwiesel
   hub: glassware
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.schott-zwiesel.com/en/glassware/wine"
   price_band: mid
   default_pros:
   - Tritan crystal formula is genuinely dishwasher-durable — tested for 10,000 cycles
@@ -369,6 +375,7 @@ anchor-hocking-ruby-red-glasses-set8:
   brand: Anchor Hocking
   hub: glassware
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.anchorhocking.com/collections/drinkware"
   price_band: budget
   default_pros:
   - Deep ruby red color adds drama to informal table settings
@@ -385,6 +392,7 @@ anchor-hocking-amber-glasses-set8:
   brand: Anchor Hocking
   hub: glassware
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.anchorhocking.com/collections/drinkware"
   price_band: budget
   default_pros:
   - Warm amber tone pairs naturally with fall and harvest table settings
@@ -430,6 +438,7 @@ rosenthal-studio-line-champagne-flutes-set4:
   brand: Rosenthal
   hub: glassware
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.rosenthal.de/en/tableware/glasses/champagne-glasses"
   price_band: premium
   default_pros:
   - German crystal with an exceptionally clean, modernist profile
@@ -446,6 +455,7 @@ mikasa-crystal-orson-champagne-flutes-set4:
   brand: Mikasa
   hub: glassware
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.mikasa.com/collections/crystal"
   price_band: mid
   default_pros:
   - Crystal clarity at mid-range pricing — the accessible Mikasa crystal line
@@ -477,6 +487,7 @@ april-cornell-antique-white-tablecloth:
   brand: April Cornell
   hub: linens
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.aprilcornell.com/collections/tablecloths"
   price_band: mid
   default_pros:
   - Pintuck texture adds interest to an otherwise neutral palette — formal without
@@ -611,6 +622,7 @@ tablecloth-white-round-120in:
   brand: LinenTablecloth
   hub: linens
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.linentablecloth.com/collections/round-tablecloths"
   price_band: budget
   default_pros:
   - 120-inch diameter gives full floor-length drop on a standard round table
@@ -626,6 +638,7 @@ table-runner-tartan-plaid-14x72:
   brand: Elrene Home Fashions
   hub: linens
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.elrene.com/collections/table-runners"
   price_band: budget
   default_pros:
   - Traditional tartan pattern in red/green or red/black for holiday and winter tables
@@ -723,6 +736,7 @@ place-card-holders-silver-set12:
   brand: Lilac Glassware
   hub: serveware
   amazon_asin: NOT_ON_AMAZON
+  buy_url: ""
   price_band: budget
   default_pros:
   - Simple silver clip design is neutral enough to work at any formal table setting
@@ -738,6 +752,7 @@ place-card-holders-wooden-set12:
   brand: Juvale
   hub: serveware
   amazon_asin: NOT_ON_AMAZON
+  buy_url: ""
   price_band: budget
   default_pros:
   - Natural wood finish works with organic, rustic, and farmhouse table aesthetics
@@ -753,6 +768,7 @@ michael-aram-butterfly-ginkgo-candlesticks-pair:
   brand: Michael Aram
   hub: decor
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.michaelaram.com/collections/butterfly-ginkgo"
   price_band: premium
   default_pros:
   - Signature sculptural metalwork with ginkgo leaf and butterfly detail — unmistakably
@@ -853,6 +869,7 @@ fitz-floyd-halcyon-candlestick-pair:
   brand: Fitz and Floyd
   hub: decor
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.fitzandfloyd.com/collections/candleholders"
   price_band: mid
   default_pros:
   - Classic turned-column form in white ceramic — pairs with almost any dinnerware
@@ -918,6 +935,7 @@ brass-pillar-candle-holders-set3:
   brand: Dwell Studio
   hub: decor
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.target.com/s?searchTerm=brass+pillar+candle+holders"
   price_band: mid
   default_pros:
   - Set of three heights allows tiered centerpiece arrangement out of the box
@@ -949,6 +967,7 @@ stone-tealight-candle-holders-set4:
   brand: Creative Home
   hub: decor
   amazon_asin: NOT_ON_AMAZON
+  buy_url: ""
   price_band: mid
   default_pros:
   - Each holder has a unique natural stone pattern — genuine variation, not printed
@@ -964,6 +983,7 @@ twisted-taper-candles-set12:
   brand: Ner Mitzvah
   hub: decor
   amazon_asin: NOT_ON_AMAZON
+  buy_url: ""
   price_band: budget
   default_pros:
   - Twisted column form adds visual interest that straight tapers lack
@@ -1016,6 +1036,7 @@ anchor-hocking-presence-glass-dinnerware:
   price_band: budget
 april-cornell-floral-cloth-napkins-set4:
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.aprilcornell.com/collections/napkins"
   brand: April Cornell
   default_cons:
   - Sold in sets of 4 — a table of 8 requires two orders
@@ -1029,6 +1050,7 @@ april-cornell-floral-cloth-napkins-set4:
   price_band: mid
 april-cornell-floral-linen-tablecloth:
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.aprilcornell.com/collections/tablecloths"
   brand: April Cornell
   default_cons:
   - Floral print is a strong visual commitment — works for a collected, layered table,
@@ -1043,6 +1065,7 @@ april-cornell-floral-linen-tablecloth:
   price_band: mid
 april-cornell-pomegranate-tablecloth:
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.aprilcornell.com/collections/tablecloths"
   brand: April Cornell
   default_cons:
   - Deep colours require cold-water washing to prevent running — not a tablecloth
@@ -1057,6 +1080,7 @@ april-cornell-pomegranate-tablecloth:
   price_band: mid
 bormioli-rocco-bistro-wine-glasses-set6:
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.bormiolirocco.com/en/collections/wine-glasses"
   brand: Bormioli Rocco
   default_cons:
   - Tempered glass is thicker than crystal — the rim diameter is slightly wider than
@@ -1143,6 +1167,7 @@ churchill-willow-blue-4pc-place-setting:
   price_band: budget
 circleware-clear-glass-votive-set12:
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.circleware.com/collections/candle-holders"
   brand: Circleware
   default_cons:
   - Thin glass walls scratch from metal tongs when removing spent candles
@@ -1170,6 +1195,7 @@ corelle-impressions-16pc-dinnerware:
   price_band: budget
 creative-co-op-bow-napkin-rings-set6:
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.creativecoop.com/collections/napkin-rings"
   brand: Creative Co-Op
   default_cons:
   - Fabric rings absorb spills and require hand-washing — not as practical as metal
@@ -1184,6 +1210,7 @@ creative-co-op-bow-napkin-rings-set6:
   price_band: budget
 creative-co-op-bubble-glass-tealight-set4:
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.creativecoop.com/collections/candle-holders"
   brand: Creative Co-Op
   default_cons:
   - Bubble texture makes them difficult to clean fully if wax spills into the base
@@ -1223,6 +1250,7 @@ creative-co-op-bud-vases-set6:
       provides an equivalent white ceramic bud vase set of 6 in the same format.
 creative-co-op-mango-wood-bud-vase-set3:
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.creativecoop.com/collections/vases"
   brand: Creative Co-Op
   default_cons:
   - Wood is not waterproof — requires a glass tube insert to hold water, which adds
@@ -1263,6 +1291,7 @@ creative-co-op-whitewash-centerpiece-box:
       form.
 danya-b-metal-bow-candle-holders-pair:
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.danyab.com/collections/candle-holders"
   brand: Danya B.
   default_cons:
   - Decorative form means the taper candle cup diameter may not accept all standard
@@ -1293,6 +1322,7 @@ denby-halo-4pc-place-setting:
   price_band: mid
 dii-sarape-striped-table-runner:
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.diibrand.com/collections/table-runners"
   brand: DII
   default_cons:
   - Cotton weave is lighter than premium table runners — may shift on a smooth table
@@ -1389,6 +1419,7 @@ gibson-elite-coastal-12pc-dinnerware:
   price_band: budget
 godinger-silver-charger-plates-set4:
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.godinger.com/collections/charger-plates"
   brand: Godinger
   default_cons:
   - Finish can tarnish over time with hand-washing; wipe dry immediately
@@ -1461,6 +1492,7 @@ juliska-berry-thread-charger-plate:
   price_band: premium
 juliska-country-estate-napkin-ring:
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.juliska.com/collections/country-estate-table-linens"
   brand: Juliska
   default_cons:
   - Ceramic is fragile; a dropped napkin ring chips at the edge — more fragile than
@@ -1518,6 +1550,7 @@ juliska-country-estate-table-runner:
     body_copy_needs_review: true
 juliska-country-estate-tablecloth:
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.juliska.com/collections/country-estate-table-linens"
   brand: Juliska
   default_cons:
   - Linen wrinkles are part of the design intent — not suitable for guests who expect
@@ -1533,6 +1566,7 @@ juliska-country-estate-tablecloth:
   price_band: mid
 kate-aspen-gold-foil-place-cards-set50:
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.kateaspen.com/collections/place-cards"
   brand: Kate Aspen
   default_cons:
   - Single-use disposable — not a reusable option for recurring dinner parties
@@ -1546,6 +1580,7 @@ kate-aspen-gold-foil-place-cards-set50:
   price_band: budget
 lenox-french-perle-blue-oval-platter:
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.lenox.com/collections/french-perle"
   brand: Lenox
   default_cons:
   - Sold as a single piece — an entertaining set requires collecting multiple items
@@ -1628,6 +1663,7 @@ libbey-embassy-champagne-flutes-set8:
   price_band: budget
 libbey-glass-serving-bowl-set3:
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.libbey.com/collections/serveware"
   brand: Libbey
   default_cons:
   - Machine-pressed glass is visibly thicker than mouth-blown crystal of the same
@@ -1670,6 +1706,7 @@ libbey-midtown-stemless-cocktail-set12:
     product_type: "stemless cocktail/martini glasses set of 12"
 libbey-paneled-ribbed-wine-glasses-set4:
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.libbey.com/collections/wine-glasses"
   brand: Libbey
   default_cons:
   - Ribbing collects calcium deposits in hard-water areas — requires a white vinegar
@@ -1794,6 +1831,7 @@ luigi-bormioli-optica-cocktail-set6:
       glass format.
 maison-arts-art-deco-dinnerware-16pc:
   amazon_asin: NOT_ON_AMAZON
+  buy_url: ""
   brand: Maison Arts
   default_cons:
   - Matte black shows dried water spots prominently — hand-dry immediately after washing
@@ -1807,6 +1845,7 @@ maison-arts-art-deco-dinnerware-16pc:
   price_band: mid
 maison-hermine-red-velvet-tablecloth:
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.maisonhermine.com/collections/tablecloths"
   brand: Maison d'Hermine
   default_cons:
   - Velvet pile is directional — brushing the wrong way leaves visible marks that
@@ -1821,6 +1860,7 @@ maison-hermine-red-velvet-tablecloth:
   price_band: budget
 michael-aram-anemone-napkin-ring-set4:
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.michaelaram.com/collections/napkin-rings"
   brand: Michael Aram
   default_cons:
   - Three-dimensional petal construction catches on linen napkin fibres when sliding
@@ -1837,6 +1877,7 @@ michael-aram-anemone-napkin-ring-set4:
 michael-aram-olive-branch-serving-platter:
   # NONE_FOUND 2026-05-15: no qualifying Amazon substitute at ≥50 reviews. buy_url fallback added in Commit 2.
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.michaelaram.com/collections/olive-branch"
   brand: Michael Aram
   hub: serveware
   name: Michael Aram Olive Branch Serving Platter
@@ -1854,6 +1895,7 @@ michael-aram-olive-branch-serving-platter:
     substitute found (NONE_FOUND 2026-05-15). buy_url set to michaelaram.com collection.
 michael-aram-twist-candle-holder:
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.michaelaram.com/collections/candle-holders"
   brand: Michael Aram
   default_cons:
   - Three-dimensional form requires careful packing for storage to prevent bending
@@ -1895,6 +1937,7 @@ mikasa-metropolitan-charger-plate:
       charger set provides comparable function in a set-of-6 format that improves value.
 mud-pie-porcelain-place-cards-set12:
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.mudpie.com/collections/entertaining"
   brand: Mud Pie
   default_cons:
   - Writing surfaces require a fine-tip china marker — standard pens do not adhere
@@ -1909,6 +1952,7 @@ mud-pie-porcelain-place-cards-set12:
   price_band: mid
 nambe-copper-karim-rashid-candleholder:
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.nambe.com/collections/candle-holders"
   brand: Nambe
   default_cons:
   - Copper finish requires occasional polishing to prevent patina accumulation
@@ -1923,6 +1967,7 @@ nambe-copper-karim-rashid-candleholder:
   price_band: mid
 noritake-colorwave-granite-4pc:
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.noritake.com/collections/colorwave"
   brand: Noritake
   default_cons:
   - Granite colourway is a committed aesthetic — does not mix cleanly with white or
@@ -1978,6 +2023,7 @@ portmeirion-botanic-garden-4pc-set:
   price_band: mid
 portmeirion-botanic-garden-mug:
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.portmeirion.com/collections/botanic-garden"
   brand: Portmeirion
   default_cons:
   - 10-ounce capacity is smaller than a standard American coffee mug — may feel insufficient
@@ -2079,6 +2125,7 @@ royal-doulton-gordon-ramsay-maze-mug:
   price_band: budget
 royal-worcester-evesham-gold-4pc:
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.royalworcester.co.uk/collections/evesham-gold"
   brand: Royal Worcester
   default_cons:
   - Gold rim is not dishwasher safe — a commitment to hand-washing for a daily-use
@@ -2094,6 +2141,7 @@ royal-worcester-evesham-gold-4pc:
   price_band: premium
 schott-zwiesel-pure-coupe-glasses-set6:
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.schott-zwiesel.com/en/glassware/cocktail-bar-glasses"
   brand: Schott Zwiesel
   default_cons:
   - Wide bowl means carbonation dissipates faster — not ideal for sparkling wine service
@@ -2109,6 +2157,7 @@ schott-zwiesel-pure-coupe-glasses-set6:
   price_band: mid
 sferra-classico-hemstitched-tablecloth:
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.sferra.com/collections/tablecloths"
   brand: Sferra
   default_cons:
   - Premium linen requires hand-wash or gentle machine wash and professional pressing
@@ -2124,6 +2173,7 @@ sferra-classico-hemstitched-tablecloth:
   price_band: premium
 sferra-festival-ivory-tablecloth:
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.sferra.com/collections/tablecloths"
   brand: Sferra
   default_cons:
   - Cotton requires careful ironing to achieve the formal pressed finish Sferra is
@@ -2219,6 +2269,7 @@ spode-blue-italian-5pc-place-setting:
   price_band: mid
 torre-tagus-pillar-ceramic-vase-white:
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.torre-tagus.com/collections/vases"
   brand: Torre & Tagus
   default_cons:
   - Tall form requires a table long enough not to obstruct sightlines across the dinner
@@ -2248,6 +2299,7 @@ utopia-kitchen-cloth-napkins-green-set12:
   price_band: budget
 wallace-silversmith-napkin-rings-set4:
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.wallacesilverware.com/collections/napkin-rings"
   brand: Wallace Silversmiths
   default_cons:
   - Silverplate tarnishes faster than solid sterling — requires periodic polishing
@@ -2276,6 +2328,7 @@ waterford-lismore-crystal-decanter:
   price_band: premium
 waterford-millennium-champagne-flutes-set2:
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.waterford.com/collections/millennium"
   brand: Waterford
   default_cons:
   - Hand-wash only to maintain the cut-crystal brilliance — dishwasher dulls the facets
@@ -2290,6 +2343,7 @@ waterford-millennium-champagne-flutes-set2:
   price_band: premium
 waterford-stewart-plaid-tartan-tablecloth:
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.waterford.com/collections/table-linens"
   brand: Waterford
   default_cons:
   - Dry-clean recommended to maintain the fabric weight and colour — limits spontaneous
@@ -2319,6 +2373,7 @@ wedgwood-vera-wang-lace-teacup-saucer:
   price_band: premium
 wedgwood-wild-strawberry-5pc:
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.wedgwood.com/collections/wild-strawberry"
   brand: Wedgwood
   default_cons:
   - Hand-wash only; the pink-and-green botanical colour palette fades in the dishwasher
@@ -2334,6 +2389,7 @@ wedgwood-wild-strawberry-5pc:
   price_band: premium
 white-porcelain-taper-candle-holders-set2:
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.creativecoop.com/collections/candle-holders"
   brand: Creative Co-Op
   default_cons:
   - Porcelain can crack if a taper burns down and the heat concentrates at the base
@@ -2347,6 +2403,7 @@ white-porcelain-taper-candle-holders-set2:
   price_band: mid
 yves-delorme-triomphe-tablecloth:
   amazon_asin: NOT_ON_AMAZON
+  buy_url: "https://www.yvesdelorme.com/collections/table-linens"
   brand: Yves Delorme
   default_cons:
   - Dry-clean only; at this price point that is an expected cost of ownership
