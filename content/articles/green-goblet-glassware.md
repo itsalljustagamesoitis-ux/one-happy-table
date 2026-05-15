@@ -80,7 +80,7 @@ Dishwasher-safe glassware trades some of the craft character for genuine practic
 
 ## Top Picks
 
-### Estelle Colored Glass Wine Glasses Emerald Green Set of 6
+### comfit Hand Blown Emerald Green Wine Glasses Set of 6
 
 [Estelle Colored Glass Wine Glasses Emerald Green Set of 6](product:estelle-colored-glass-wine-emerald-set6) is, without qualification, the reference product in this category right now. If you've seen green wine glasses in a shelter magazine or a well-styled tablescapes account in the last two years, there's a reasonable chance these were the glasses in the frame.
 
@@ -108,7 +108,7 @@ For a table where the green goblets are the visual statement, this carafe does e
 
 [Check current price on Amazon.](product:anchor-hocking-glass-carafe-1.5l)
 
-### Simon Pearce Ascutney Red Wine Glass
+### BACLIFE Hand Blown Red Wine Glasses Set of 4
 
 A different category of object entirely. The [Simon Pearce Ascutney Red Wine Glass](product:simon-pearce-ascutney-red-wine-glass) is mouth-blown in Vermont, and the production process is visible in every piece , a slight asymmetry in the rim, a faint irregularity in how the stem meets the base, a quality of light through the bowl that machine production simply can't manufacture. These are premium pieces in the truest sense: they cost more, they require more care, and they reward both.
 

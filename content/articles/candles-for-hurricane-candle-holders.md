@@ -114,7 +114,7 @@ Wax management requires care. Stone is porous, and a wax drip that sits and cool
 
 [Check current price on Amazon.](product:stone-tealight-candle-holders-set4)
 
-### Candle Holder System , Brass (Set of 3)
+### Brass Taper Candle Holders Set of 3
 
 There's a reason this Stoff Nagel design has been in continuous production for decades. The [Candle Holder System , Brass (Set of 3)](product:stoff-nagel-candle-holder-chrome-set3) is the kind of object that looks better in a real dining room than it does in a product photo , the warm brass catches candlelight and throws it back in a way that makes linen, wood, and neutral ceramics look more considered than they might otherwise. The modular connection system means three holders can become a single composed cluster or a linear arrangement, depending on the table and the occasion.
 

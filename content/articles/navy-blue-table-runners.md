@@ -94,7 +94,7 @@ The practical caveat is one worth taking seriously: deep navy shows lint and pet
 
 [Check current price on Amazon.](product:linen-tablecloth-navy-blue-90x132)
 
-### Chilewich Trellis Woven Table Runner in Navy
+### Classic Linen by D'Moksha Navy Blue Table Runner 84"
 
 This runner earns its place on a table for different reasons than the competition, and it's worth being specific about that. The [Chilewich Trellis Woven Table Runner in Navy](product:chilewich-trellis-woven-navy-runner) is built from Chilewich's vinyl-yarn weave , a material that is genuinely heat-resistant, water-resistant, and machine washable in a way that woven fabric runners simply aren't.
 
@@ -108,7 +108,7 @@ The trade-off is aesthetic and legitimate. The vinyl-yarn construction has a sli
 
 [Check current price on Amazon.](product:chilewich-trellis-woven-navy-runner)
 
-### Juliska Country Estate Table Runner
+### Farmhouse Rustic Faux Linen Table Runner
 
 The Juliska runner is a specific answer for a specific buyer, and it doesn't try to be anything else. [Juliska Country Estate Table Runner](product:juliska-country-estate-table-runner) is designed to coordinate with the full Juliska ceramic and linen table collection , the pattern language across their platters, dinnerware, and linens is deliberate and coherent in a way that's hard to replicate by mixing brands.
 

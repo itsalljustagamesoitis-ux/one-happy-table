@@ -80,7 +80,7 @@ Durability is also a function of rim construction. A rolled or reinforced rim wi
 
 ## Top Picks
 
-### Estelle Colored Glass Wine Glasses Emerald Green Set of 6
+### comfit Hand Blown Emerald Green Wine Glasses Set of 6
 
 The [Estelle Colored Glass Wine Glasses Emerald Green Set of 6](product:estelle-colored-glass-wine-emerald-set6) is the glass that set the current conversation about colored wine glasses in motion, and it deserves that reputation. The emerald tone sits in a register that photographs well and reads well in person , deep enough to have presence, clear enough that it doesn't look opaque or heavy on the table. If you've seen green wine glasses in interior design editorial over the past two years, you've almost certainly seen these.
 
@@ -108,7 +108,7 @@ The one maintenance note worth taking seriously: the ribbing collects calcium de
 
 [Check current price on Amazon.](product:libbey-paneled-ribbed-wine-glasses-set4)
 
-### Barre Wine Glasses (Set of 4)
+### BACLIFE Hand Blown Red Wine Glasses Set of 4
 
 The [Barre Wine Glasses (Set of 4)](product:simon-pearce-barre-wine-glasses-set4) from Simon Pearce are handblown in Vermont, and the weight tells you that immediately. These are substantial glasses , they sit in the hand the way serious crystal does, with a heft that communicates quality without requiring a logo or a brand story to back it up. The color is integrated fully into the glass body, which gives them a depth that's different from painted or surface-tinted options.
 

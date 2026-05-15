@@ -106,7 +106,7 @@ For buyers who have searched specifically for a Michael Aram candle holder, this
 
 Check current price on Amazon.
 
-### Candle Holder System , Brass (Set of 3)
+### Brass Taper Candle Holders Set of 3
 
 The Stoff Nagel system is a long-term investment in a table setting, not an impulse purchase. The brass finish photographs with a warmth that pairs naturally with linen, wood, and neutral earthenware , if you've built a table around those materials, this set slides into place as though it belongs there. The modular connection system means these three holders can be linked into a single sculptural cluster or spaced independently depending on what the table needs that night.
 

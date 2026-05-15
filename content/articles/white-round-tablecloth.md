@@ -108,7 +108,7 @@ The practical notes are worth knowing upfront. Pintucks trap food residue in the
 
 [Check current price on Amazon.](product:april-cornell-antique-white-tablecloth)
 
-### Peacock Alley Hemstitch Tablecloth
+### Simple & Opulence Premium 100% Linen Hemstitch Tablecloth
 
 The [Peacock Alley Hemstitch Tablecloth](product:peacock-alley-hemstitch-tablecloth) is for buyers who have thought past the basics and know what they want. American-made from Egyptian-cotton yarns, it occupies a specific position in the market: the premium domestic alternative to Italian linen for anyone who wants hemstitched construction without an import premium or the opacity of European brand pricing.
 

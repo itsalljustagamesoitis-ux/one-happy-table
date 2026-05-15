@@ -80,7 +80,7 @@ Storage is the other practical factor. Flutes with tall stems and wide bases do 
 
 ## Top Picks
 
-### Estelle Colored Glass Champagne Flutes Cobalt Blue Set of 2
+### Blue Champagne Flutes Set of 6 6oz
 
 Right now, the [Estelle Colored Glass Champagne Flutes Cobalt Blue Set of 2](product:estelle-colored-glass-champagne-cobalt-set2) is the most photographed champagne flute in home entertaining editorial , and that reputation is earned. The hand-blown cobalt glass carries a depth of color that no mass-produced piece achieves. Each glass has slight variation in the color intensity and wall thickness, which reads as artisan quality rather than inconsistency.
 

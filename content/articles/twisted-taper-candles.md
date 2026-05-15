@@ -108,7 +108,7 @@ The one practical note worth mentioning upfront: the beeswax blend is firmer tha
 
 [Check current price on Amazon.](product:root-candles-timberline-taper-set12)
 
-### White Orchid Taper Candle Holders (Pair)
+### Creative Co-Op Cut Metal Flower Taper Candle Holder
 
 The Michael Aram White Orchid candlesticks exist in a different category from most of what you'll find in a candle search , they're the kind of object you buy because they're worth owning permanently, not because you need something to hold a candle. The orchid-in-bloom form sculpted around the taper socket is detailed without being fussy, and the white enamel and gold finish reads both formal and light in a way that's genuinely difficult to pull off.
 

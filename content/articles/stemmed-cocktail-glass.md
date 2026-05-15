@@ -108,7 +108,7 @@ What Libbey does well is consistency and durability at a price band that makes b
 
 [Check current price on Amazon.](product:libbey-midtown-stemless-cocktail-set12)
 
-### Simon Pearce Ascutney Red Wine Glass
+### BACLIFE Hand Blown Red Wine Glasses Set of 4
 
 This one requires a frank note upfront: the [Simon Pearce Ascutney Red Wine Glass](product:simon-pearce-ascutney-red-wine-glass) is a red wine glass by design, not a cocktail glass. It appears here because buyers researching premium stemware for cocktail service frequently encounter Simon Pearce and want an honest assessment of where it fits. If your cocktail service involves wine-format pours , sangria, spritzes, wine-based aperitifs served in a wine bowl , this glass works. For a Martini or a Collins, it doesn't.
 

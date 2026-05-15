@@ -110,7 +110,7 @@ I'd be dishonest if I said the Kentfield delivers a crystal experience. It doesn
 
 [Check current price on Amazon.](product:libbey-signature-kentfield-red-wine-set4)
 
-### Simon Pearce Ascutney Red Wine Glass
+### BACLIFE Hand Blown Red Wine Glasses Set of 4
 
 Mouth-blown in Vermont, each [Simon Pearce Ascutney Red Wine Glass](product:simon-pearce-ascutney-red-wine-glass) carries a subtle organic irregularity that machine production can't replicate , a slight variation in the bowl wall, a gentle asymmetry in the stem. On a set table, that quality reads as handcraft rather than imperfection. It's the kind of detail that distinguishes a thoughtfully assembled table from a catalog one.
 

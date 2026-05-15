@@ -108,7 +108,7 @@ Where this set earns its place is on tables that already lean toward natural mat
 
 [Check current price on Amazon.](product:creative-co-op-mango-wood-bud-vase-set3)
 
-### Simon Pearce Woodstock Vase
+### MDLUU Decorative Hand-Blown Glass Bubble Vase 11"
 
 Hand-blown in Vermont, the [Simon Pearce Woodstock Vase](product:simon-pearce-woodstock-vase) is a different category of object from the other two picks. The slight asymmetry and organic form that come from mouth-blowing glass aren't defects , they're the reason you buy it. No two are exactly alike, and that visible handwork reads on a table in a way that machine-cast glass never does, regardless of how expensive the machine-cast piece is.
 

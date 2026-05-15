@@ -92,7 +92,7 @@ The one thing to watch: porcelain can crack if a taper burns all the way down an
 
 [Check current price on Amazon.](product:white-porcelain-taper-candle-holders-set2)
 
-### Candle Holder System , Brass (Set of 3)
+### Brass Taper Candle Holders Set of 3
 
 The [Candle Holder System , Brass (Set of 3)](product:stoff-nagel-candle-holder-chrome-set3) from Stoff Nagel occupies a different category than most candle holders , it is a modular system with ambitions beyond a single set. Each piece connects to the others through a proprietary coupling that lets you build a horizontal row, a staggered cluster, or a branching centerpiece depending on how many sets you own. That flexibility is the genuine appeal here.
 

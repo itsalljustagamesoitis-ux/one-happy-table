@@ -84,7 +84,7 @@ For casual use, a clean serged or double-folded hem is entirely adequate. For a 
 
 ## Top Picks
 
-### Belgian Linen Napkins (Set of 6)
+### Bedding Craft Linen Flax Cotton Dinner Napkins Set of 12
 
 Washed Belgian linen is a specific thing , it has weight, a slight texture, and a relaxed drape that pressed cotton doesn't replicate. This set from Sur La Table arrives already pre-washed, which means the shrinkage question is answered before you open the package. What you see is what you'll keep wearing.
 

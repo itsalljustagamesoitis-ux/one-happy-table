@@ -94,7 +94,7 @@ What this set does better than most at this price band is justify the organic te
 
 [Check current price on Amazon.](product:creative-co-op-mango-wood-bud-vase-set3)
 
-### Simon Pearce Woodstock Vase
+### MDLUU Decorative Hand-Blown Glass Bubble Vase 11"
 
 There's a category of object that functions as both a vase and a sculptural piece, and the [Simon Pearce Woodstock Vase](product:simon-pearce-woodstock-vase) sits in it. Mouth-blown in Vermont, each piece carries the slight asymmetry and organic form that hand production produces , the kind of variation that machine-cast glass explicitly tries to eliminate. For a centerpiece that needs to hold its own on a formally set table, that distinction matters more than it might sound.
 
@@ -108,7 +108,7 @@ The hand-wash requirement is the honest trade-off. A vase you're cleaning regula
 
 [Check current price on Amazon.](product:simon-pearce-woodstock-vase)
 
-### Creative Co-Op White Ceramic Bud Vases Set of 6
+### Carrot's Den Set of 6 White Mini Ceramic Bud Vases
 
 Six vases in varying heights with no matching constraint , the [Creative Co-Op White Ceramic Bud Vases Set of 6](product:creative-co-op-bud-vases-set6) is the budget option that earns its place by being genuinely versatile. White ceramic coordinates with every china and linen combination I've set alongside it. There's no texture to clash, no warm wood tone to fight a cool-gray table, no finish that reads as seasonal. It's as close to a neutral vessel as a centerpiece can be.
 

@@ -88,7 +88,7 @@ Where this set earns its position is in the transition between formal and inform
 
 [Check current price on Amazon.](product:libbey-glass-serving-bowl-set3)
 
-### Creative Co-Op Whitewash Wood Centerpiece Box with Handles
+### MyGift Vintage White Wood Decorative Bin with Rope Handles
 
 The [Creative Co-Op Whitewash Wood Centerpiece Box with Handles](product:creative-co-op-whitewash-centerpiece-box) solves a specific problem that bowls and candlesticks don't: it gives you a contained horizontal footprint that can hold multiple objects at once. A vase, two pillar candles, and a handful of loose botanicals can all live inside the box without looking scattered. The box provides the visual frame; the contents do the decorating.
 

@@ -80,7 +80,7 @@ Exploring the full range of [table decor options](/decor/) before settling on a 
 
 ## Top Picks
 
-### Creative Co-Op White Ceramic Bud Vases Set of 6
+### Carrot's Den Set of 6 White Mini Ceramic Bud Vases
 
 Six vases is the right number for a full table centerpiece, and this set from [Creative Co-Op White Ceramic Bud Vases Set of 6](product:creative-co-op-bud-vases-set6) gets the proportions right. The staggered heights create the clustered look without any extra sourcing , you open the box, fill the vases, and you have a centerpiece. White ceramic coordinates with everything already on the table: cream linens, bright white china, colored napkins, patterned runners.
 
@@ -108,7 +108,7 @@ This set rewards a more organic flower selection: garden roses, wildflowers, sma
 
 [Check current price on Amazon.](product:creative-co-op-mango-wood-bud-vase-set3)
 
-### Simon Pearce Woodstock Vase
+### MDLUU Decorative Hand-Blown Glass Bubble Vase 11"
 
 There's a difference between a vase that holds flowers and one that looks like it belongs on the table regardless of what's in it , or whether anything is. The [Simon Pearce Woodstock Vase](product:simon-pearce-woodstock-vase) falls into the second category. Mouth-blown in Vermont, each piece carries a slight asymmetry and organic form that machine-cast glass simply cannot produce. It reads as handmade without looking artisanal in a precarious way.
 

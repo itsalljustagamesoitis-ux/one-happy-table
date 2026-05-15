@@ -108,7 +108,7 @@ The one real consideration is the beeswax firmness. In cold rooms or tight holde
 
 [Check current price on Amazon.](product:root-candles-timberline-taper-set12)
 
-### White Orchid Taper Candle Holders (Pair)
+### Creative Co-Op Cut Metal Flower Taper Candle Holder
 
 Pairing a quality taper candle with the wrong holder is the fastest way to lose everything the candle brings to the table. The [White Orchid Taper Candle Holders (Pair)](product:michael-aram-white-orchid-candlesticks-pair) by Michael Aram exist at the opposite end of that problem , they are holders that make whatever candle you place in them look better by association. The full-bloom orchid sculpted around the taper socket is the kind of detail that reads as considered rather than decorative, which is a meaningful distinction at a formal table.
 

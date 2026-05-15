@@ -80,7 +80,7 @@ That said, a strong graphic can be the point. If your cocktail aesthetic runs to
 
 ## Top Picks
 
-### Belgian Linen Napkins (Set of 6)
+### Bedding Craft Linen Flax Cotton Dinner Napkins Set of 12
 
 The napkins that do the most quiet, consistent work at a cocktail table are ones that feel good in the hand and look intentional without demanding attention. These [Belgian Linen Napkins](product:sur-la-table-linen-napkins-set6) are the right answer for most hosts who want a premium napkin they can reach for without overthinking the occasion.
 
@@ -108,7 +108,7 @@ One maintenance note worth knowing: the woven check can shift on the bias after 
 
 ,
 
-### Juliska Country Estate Table Runner
+### Farmhouse Rustic Faux Linen Table Runner
 
 There's a specific aesthetic this runner is designed for, and if that aesthetic is yours, it delivers it without compromise. The [Juliska Country Estate Table Runner](product:juliska-country-estate-table-runner) is built around the brand's full Country Estate collection , the printed linen coordinates with their ceramics and glassware in a way that's intentional and coherent rather than coincidentally matched.
 

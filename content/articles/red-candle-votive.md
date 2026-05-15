@@ -116,7 +116,7 @@ Four holders is the right number for an intimate four-seat table or a compact ce
 
 [Check current price on Amazon.](product:stone-tealight-candle-holders-set4)
 
-### Candle Holder System , Chrome (Set of 3)
+### Chrome Taper Candle Holders Set of 3
 
 Every other option on this list holds a candle. The [Candle Holder System , Chrome (Set of 3)](product:stoff-nagel-candle-holder-chrome-set3) by Stoff Nagel is a modular design object , Danish in origin, built around a connecting system that lets individual holders link together into any configuration you want to build. Three holders form a compact cluster. Add more and the arrangement grows into something that runs the full length of a table.
 

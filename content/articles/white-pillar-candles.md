@@ -94,7 +94,7 @@ The one honest caveat is table length. The height that gives this vase its prese
 
 [Check current price on Amazon.](product:torre-tagus-pillar-ceramic-vase-white)
 
-### White Orchid Taper Candle Holders (Pair)
+### Creative Co-Op Cut Metal Flower Taper Candle Holder
 
 Sculptural candlesticks either earn their place or they don't. The [White Orchid Taper Candle Holders (Pair)](product:michael-aram-white-orchid-candlesticks-pair) from Michael Aram earn it , the orchid in full bloom cast around each taper socket is specific enough to feel considered without being so literal that it overwhelms everything else on the table.
 
@@ -108,7 +108,7 @@ Two things to know before buying. First, the enamel can chip at the protruding p
 
 [Check current price on Amazon.](product:michael-aram-white-orchid-candlesticks-pair)
 
-### Creative Co-Op White Ceramic Bud Vases Set of 6
+### Carrot's Den Set of 6 White Mini Ceramic Bud Vases
 
 Six vases in varying heights, all in matte white ceramic , the [Creative Co-Op White Ceramic Bud Vases Set of 6](product:creative-co-op-bud-vases-set6) is the most flexible entry here because the set does the styling work for you. Cluster all six down the center of a long table and you have a runner-style centerpiece. Pull three together for a smaller table and store the rest. The varying heights mean the grouping has rhythm without any additional effort.
 

@@ -80,7 +80,7 @@ Replacement availability is a genuine concern with colored glassware more than w
 
 ## Top Picks
 
-### Estelle Colored Glass Champagne Flutes Cobalt Blue Set of 2
+### Blue Champagne Flutes Set of 6 6oz
 
 The [Estelle Colored Glass Champagne Flutes in Cobalt Blue](product:estelle-colored-glass-champagne-cobalt-set2) earn their position on every well-set table I've seen them on , not because they're understated, but because they're not trying to be. The cobalt is saturated and confident, and under candlelight the stem glows in a way that genuinely earns the word luminous without straining for it. These are hand-blown, and the slight variation in wall thickness is exactly what gives them that warmth machine glass can't replicate.
 

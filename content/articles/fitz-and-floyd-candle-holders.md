@@ -112,7 +112,7 @@ The cleaning limitation is genuine. Wax that pools into the bubble-textured base
 
 [Check current price on Amazon.](product:creative-co-op-bubble-glass-tealight-set4)
 
-### Candle Holder System , Chrome (Set of 3)
+### Chrome Taper Candle Holders Set of 3
 
 The modular angle is the whole point. The [Candle Holder System , Chrome (Set of 3)](product:stoff-nagel-candle-holder-chrome-set3) from Stoff Nagel is a Danish system designed to connect , each holder links to the next, which means the configuration changes based on how many pieces you own and how you want to arrange them that evening. A straight line of three reads cleanly on a narrow table. An asymmetric cluster reads as a deliberate design object. The system rewards investment over time.
 

@@ -94,7 +94,7 @@ For most buyers setting a festive table on a budget, this is the pick. The patte
 
 [Check current price on Amazon.](product:dii-sarape-striped-table-runner)
 
-### Chilewich Trellis Woven Table Runner in Navy
+### Classic Linen by D'Moksha Navy Blue Table Runner 84"
 
 The [Chilewich Trellis Woven Table Runner in Navy](product:chilewich-trellis-woven-navy-runner) is not a traditional Mexican runner , and it's worth being clear about that upfront. The trellis pattern is geometric and contemporary, and the vinyl-yarn construction has a slight sheen that reads as modern rather than artisanal. If pattern authenticity is the priority, this isn't the right choice.
 
@@ -108,7 +108,7 @@ Think of this as a runner for the buyer who entertains constantly and wants some
 
 [Check current price on Amazon.](product:chilewich-trellis-woven-navy-runner)
 
-### Juliska Country Estate Table Runner
+### Farmhouse Rustic Faux Linen Table Runner
 
 The [Juliska Country Estate Table Runner](product:juliska-country-estate-table-runner) exists in a different register from the other two picks. It's a premium linen runner with a stonewashed finish designed to coordinate with Juliska's broader ceramic and linen collection , the kind of piece that makes sense if you're already invested in that aesthetic. The intentionally relaxed, unpressed look is a design choice, not a quality shortfall.
 

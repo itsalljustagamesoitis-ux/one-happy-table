@@ -108,7 +108,7 @@ The practical note is one that applies to any deep, saturated cloth: navy shows 
 
 [Check current price on Amazon.](product:linen-tablecloth-navy-blue-90x132)
 
-### Juliska Country Estate Table Runner
+### Farmhouse Rustic Faux Linen Table Runner
 
 Not every table wants a full cloth. The [Juliska Country Estate Table Runner](product:juliska-country-estate-table-runner) is designed for the kind of table that shows its wood , a farmhouse plank table, an antique trestle, a dining surface with enough character that covering it entirely would be a mistake. The stonewashed linen finish is intentionally relaxed; it does not press flat, and that is the point.
 

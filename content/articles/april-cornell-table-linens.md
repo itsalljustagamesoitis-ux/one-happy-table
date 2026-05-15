@@ -108,7 +108,7 @@ The cotton-poly blend is a reasonable trade-off for the price band. It handles w
 
 [Check current price on Amazon.](product:linen-tablecloth-green-gingham-check)
 
-### Juliska Country Estate Table Runner
+### Farmhouse Rustic Faux Linen Table Runner
 
 The [Juliska Country Estate Table Runner](product:juliska-country-estate-table-runner) exists within a larger design system , Juliska's Country Estate collection spans ceramics, glassware, and linens, all developed around a cohesive English countryside aesthetic. If you own Country Estate dinnerware or serving pieces, the runner is an obvious choice because the linen coordinates with those pieces at the design level, not just the color level.
 

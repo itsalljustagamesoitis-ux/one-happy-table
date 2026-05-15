@@ -114,7 +114,7 @@ The honest trade-off is maintenance. Egyptian cotton rewards careful ironing, an
 
 [Check current price on Amazon.](product:sferra-festival-ivory-tablecloth)
 
-### Peacock Alley Hemstitch Tablecloth
+### Simple & Opulence Premium 100% Linen Hemstitch Tablecloth
 
 The [Peacock Alley Hemstitch Tablecloth](product:peacock-alley-hemstitch-tablecloth) sits at the premium end of the category, and the hemstitched border is the detail that earns that position. The drawn-thread work along the hem is a traditional finishing technique that adds a formal decorative element without introducing pattern , it's an embellishment that reads as understated when the table is full.
 

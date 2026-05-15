@@ -94,7 +94,7 @@ The honest caveat: deep navy polyester shows lint and pet hair with unforgiving 
 
 [Check current price on Amazon.](product:linen-tablecloth-navy-blue-90x132)
 
-### Chilewich Trellis Woven Table Runner in Navy
+### Classic Linen by D'Moksha Navy Blue Table Runner 84"
 
 The Chilewich Trellis runner occupies a completely different role from a full tablecloth , it's a layering piece, not a replacement , but it earns its place in this roundup because it solves a specific problem that fabric runners do not. The vinyl-yarn construction is genuinely heat-resistant, water-resistant, and machine washable. You can set a hot pan directly on it, blot a wine spill with a damp cloth, and run it through the wash afterward without a second thought.
 

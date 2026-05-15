@@ -108,7 +108,7 @@ The limitation is real, though. A strong floral print is a visual commitment, an
 
 [Check current price on Amazon.](product:april-cornell-floral-linen-tablecloth)
 
-### Peacock Alley Hemstitch Tablecloth
+### Simple & Opulence Premium 100% Linen Hemstitch Tablecloth
 
 Hemstitched tablecloths occupy a specific register , formal without being fussy, refined in a way that's structural rather than decorative. The [Peacock Alley Hemstitch Tablecloth](product:peacock-alley-hemstitch-tablecloth) sits at the premium end of this category, and it earns that position through material and origin rather than brand markup alone.
 

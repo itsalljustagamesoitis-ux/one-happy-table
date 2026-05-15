@@ -94,7 +94,7 @@ The honest caveat is durability. The lacquered finish is functional, not permane
 
 Check current price on Amazon.
 
-### Candle Holder System , Brass (Set of 3)
+### Brass Taper Candle Holders Set of 3
 
 This is the choice I'd steer most readers toward if they're building a table they plan to keep styling for years. The Stoff Nagel Candle Holder System in Brass carries the same modular connection architecture as the chrome version, which means any piece you buy now can be linked and extended with additional holders later. That expandability is what separates it from a standard fixed set.
 

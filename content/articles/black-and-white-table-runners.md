@@ -108,7 +108,7 @@ Cotton construction means it washes reliably and improves with age. The pintucks
 
 [Check current price on Amazon.](product:april-cornell-antique-white-tablecloth)
 
-### Juliska Country Estate Table Runner
+### Farmhouse Rustic Faux Linen Table Runner
 
 The [Juliska Country Estate Table Runner](product:juliska-country-estate-table-runner) belongs to a coordinated table collection, and that context is the honest reason to buy it. If you're already working with Juliska ceramics or planning to build a table around their aesthetic, this runner closes the look in a way that a one-off purchase simply cannot replicate. The coordination is intentional and it shows.
 

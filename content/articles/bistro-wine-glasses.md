@@ -108,7 +108,7 @@ The honest limitation is that the tall bowl is vulnerable in the dishwasher. Top
 
 [Check current price on Amazon.](product:riedel-vinum-bordeaux-set2)
 
-### Simon Pearce Barre Wine Glasses (Set of 4)
+### BACLIFE Hand Blown Red Wine Glasses Set of 4
 
 Handblown in Vermont, and the slight variation between glasses in the set is not a defect , it's the signature. The Simon Pearce Barre Wine Glasses have a weight and solidity that reads as serious crystal without the architectural delicacy that comes with ultra-thin blown glass. Pick one up and it feels considered.
 

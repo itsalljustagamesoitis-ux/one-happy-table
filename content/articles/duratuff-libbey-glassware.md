@@ -98,7 +98,7 @@ The set-of-six format matters practically. These are glasses you can replace one
 
 [Check current price on Amazon.](product:libbey-duratuff-rocks-glasses-set6)
 
-### Estelle Colored Glass Wine Glasses Emerald Green Set of 6
+### comfit Hand Blown Emerald Green Wine Glasses Set of 6
 
 The [Estelle Colored Glass Wine Glasses Emerald Green Set of 6](product:estelle-colored-glass-wine-emerald-set6) occupies a specific and increasingly sought-after position in current table design: the colored wine glass that functions as a genuine decorative object, not just a vessel. The emerald tone has appeared in more interior design editorial over the past two years than any other colored glass, and Estelle's version earns that placement.
 
@@ -112,7 +112,7 @@ The set of six is a practical consideration for dinner party use. Coordinating s
 
 [Check current price on Amazon.](product:estelle-colored-glass-wine-emerald-set6)
 
-### Simon Pearce Ascutney Red Wine Glass
+### BACLIFE Hand Blown Red Wine Glasses Set of 4
 
 There are mouth-blown glasses, and then there are glasses that make you understand why the distinction matters. The [Simon Pearce Ascutney Red Wine Glass](product:simon-pearce-ascutney-red-wine-glass) is made in Vermont by craftspeople working in a tradition that prioritizes weight, proportion, and that subtle organic quality you simply cannot replicate in machine production. Hold one next to a standard wine glass and the difference is immediate , the Ascutney has a presence and solidity that reads as considered rather than manufactured.
 

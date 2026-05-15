@@ -80,7 +80,7 @@ Ask whether the piece works with candles, dried flowers, or greenery alone on th
 
 ## Top Picks
 
-### Creative Co-Op Whitewash Centerpiece Box with Handles
+### MyGift Vintage White Wood Decorative Bin with Rope Handles
 
 For readers who want a centerpiece that does more than hold flowers, the [Creative Co-Op Whitewash Wood Centerpiece Box with Handles](product:creative-co-op-whitewash-centerpiece-box) is the piece I'd reach for first. The box format is genuinely useful , it can hold a liner with a vase, a row of small bud vases, pillar candles, or a combination of all three. The handles aren't decorative. They mean you can move the entire arrangement from the dining table to a sideboard between courses or swap it out before guests arrive without disturbing what's inside.
 
@@ -94,7 +94,7 @@ One practical note: the whitewash surface shows water rings if a wet vase sits d
 
 [Check current price on Amazon.](product:creative-co-op-whitewash-centerpiece-box)
 
-### Creative Co-Op White Ceramic Bud Vases Set of 6
+### Carrot's Den Set of 6 White Mini Ceramic Bud Vases
 
 The appeal of the [Creative Co-Op White Ceramic Bud Vases Set of 6](product:creative-co-op-bud-vases-set6) is that it solves the arrangement problem by multiplication. Rather than styling one vessel, you cluster all six at varying heights and the work is essentially done. The white ceramic finishes are consistent enough that the set reads as intentional rather than mismatched, and the height variation creates natural visual rhythm without any floral design expertise required.
 
@@ -108,7 +108,7 @@ The limitation worth knowing: the necks are narrow. Single stems work beautifull
 
 [Check current price on Amazon.](product:creative-co-op-bud-vases-set6)
 
-### White Orchid Taper Candle Holders (Pair)
+### Creative Co-Op Cut Metal Flower Taper Candle Holder
 
 There's a version of a white flower centerpiece that doesn't use fresh flowers at all , and the [White Orchid Taper Candle Holders](product:michael-aram-white-orchid-candlesticks-pair) from Michael Aram are the strongest argument for it. The orchid in full bloom is sculpted around the taper socket in white enamel with a gold finish, and it reads as both botanical and architectural. The bloom is the centerpiece; the candle is secondary.
 

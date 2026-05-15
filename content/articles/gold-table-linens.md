@@ -80,7 +80,7 @@ Cotton-poly blends are generally more forgiving in the dryer and easier to iron 
 
 ## Top Picks
 
-### Belgian Linen Napkins (Set of 6)
+### Bedding Craft Linen Flax Cotton Dinner Napkins Set of 12
 
 The best napkin on this list for anyone who sets a table regularly and wants something that improves with use. The [Belgian Linen Napkins (Set of 6)](product:sur-la-table-linen-napkins-set6) are washed Belgian linen , heavy enough to drape properly across a lap, textural enough to look intentional even when folded simply. The natural flax color sits firmly in warm neutral territory, which means it works alongside cream dinnerware, white dinnerware, warm wood tones, and most gold or brass accents without requiring the rest of the table to coordinate around it.
 
@@ -108,7 +108,7 @@ The honest limitation is the cotton-poly blend. It doesn't have the crispness of
 
 [Check current price on Amazon.](product:linen-tablecloth-green-gingham-check)
 
-### Juliska Country Estate Table Runner
+### Farmhouse Rustic Faux Linen Table Runner
 
 The [Juliska Country Estate Table Runner](product:juliska-country-estate-table-runner) is for a specific buyer: someone already in the Juliska ecosystem, or someone building a table aesthetic around the Country Estate collection's particular warmth and patina. The stonewashed linen finish is intentional , this runner is designed not to press flat, and it photographs beautifully because of that texture rather than in spite of it.
 

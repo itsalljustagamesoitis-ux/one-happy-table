@@ -108,7 +108,7 @@ The limitation is real, though. Tartan is seasonally narrow , it works in winter
 
 [Check current price on Amazon.](product:table-runner-tartan-plaid-14x72)
 
-### Peacock Alley Hemstitch Tablecloth
+### Simple & Opulence Premium 100% Linen Hemstitch Tablecloth
 
 For a buyer who wants something without pattern , something that will still look genuinely fine rather than just blank , the [Peacock Alley Hemstitch Tablecloth](product:peacock-alley-hemstitch-tablecloth) is the answer. American-made using Egyptian cotton yarns, it's the kind of cloth that improves slightly with age and washing rather than degrading. The hemstitching is properly done: even spacing, clean draw lines, mitered corners that lie flat.
 

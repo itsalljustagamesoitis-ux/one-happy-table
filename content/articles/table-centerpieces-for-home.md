@@ -80,7 +80,7 @@ That said, finish matters for maintenance, not just aesthetics. A chrome finish 
 
 ## Top Picks
 
-### Creative Co-Op Whitewash Wood Centerpiece Box with Handles
+### MyGift Vintage White Wood Decorative Bin with Rope Handles
 
 The [Creative Co-Op Whitewash Wood Centerpiece Box with Handles](product:creative-co-op-whitewash-centerpiece-box) earns the top spot because it functions as a framework rather than a finished object. You fill it, style it, and change it with the season , which makes it fundamentally more useful than any single-purpose decorative piece.
 
@@ -108,7 +108,7 @@ The honest limitation is the glass itself. Machine-pressed construction means th
 
 [Check current price on Amazon.](product:libbey-glass-serving-bowl-set3)
 
-### Candle Holder System , Chrome (Set of 3)
+### Chrome Taper Candle Holders Set of 3
 
 No other centerpiece on this list does what the Stoff Nagel Candle Holder System in Chrome does: it builds. Each holder connects to the next, so the configuration you use for a dinner for four is different from the one you assemble for a holiday table for twelve. That modularity is the entire premise, and it's executed well enough to justify the premium price band.
 

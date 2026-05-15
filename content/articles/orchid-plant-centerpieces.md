@@ -94,7 +94,7 @@ Where these earn their keep is on large party tables where you need volume witho
 
 [Check current price on Amazon.](product:glass-cylinder-vases-set3)
 
-### Creative Co-Op Whitewash Wood Centerpiece Box with Handles
+### MyGift Vintage White Wood Decorative Bin with Rope Handles
 
 A cylinder of glass and an orchid stem is an elegant combination, but it reads modern and spare. If your table leans warmer , wood tones, linen napkins, earthenware , the **Creative Co-Op Whitewash Wood Centerpiece Box with Handles** gives the arrangement a different foundation entirely. The whitewash finish softens the wood without eliminating the grain, which sits naturally alongside organic materials like orchid stems, moss, and dried botanicals.
 
@@ -108,7 +108,7 @@ The one condition worth noting: the box needs a liner if you're placing a water-
 
 [Check current price on Amazon.](product:glass-cylinder-vases-set3)
 
-### White Orchid Taper Candle Holders (Pair)
+### Creative Co-Op Cut Metal Flower Taper Candle Holder
 
 For a formal table , the kind where you've already decided on the china and the tablecloth and you want a centerpiece that matches that register , the **White Orchid Taper Candle Holders (Pair)** by Michael Aram is the answer. The orchid is sculpted in full bloom around the taper socket, white enamel petals reaching outward from a gold-finished stem. It's botanical without being literal, formal without being cold.
 

@@ -94,7 +94,7 @@ This is budget-tier glassware , buy it, use it daily, and don't worry about it. 
 
 [Check current price on Amazon.](product:anchor-hocking-glass-carafe-1.5l)
 
-### Estelle Colored Glass Wine Glasses Emerald Green Set of 6
+### comfit Hand Blown Emerald Green Wine Glasses Set of 6
 
 Of everything in this category, the [Estelle Colored Glass Wine Glasses Emerald Green Set of 6](product:estelle-colored-glass-wine-emerald-set6) comes closest to the rich, layered color that the tartan glassware aesthetic points toward. The emerald tone is deep and consistent enough to read clearly across a candlelit table, and the hand-blown construction gives each piece a subtle irregularity that pressed glass can't replicate.
 

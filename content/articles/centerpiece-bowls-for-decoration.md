@@ -86,7 +86,7 @@ Mixed-metal finishes give you more flexibility than a single-finish piece at the
 
 ## Top Picks
 
-### Creative Co-Op Whitewash Wood Centerpiece Box with Handles
+### MyGift Vintage White Wood Decorative Bin with Rope Handles
 
 The [Creative Co-Op Whitewash Wood Centerpiece Box with Handles](product:creative-co-op-whitewash-centerpiece-box) is the piece I recommend first to anyone building a foundational centerpiece they'll use for more than one season. The whitewash finish sits in a useful neutral zone , warm enough to feel organic, light enough to avoid reading as purely rustic. It works with linen tablecloths, simple white dinnerware, and casual table settings without requiring you to commit to a farmhouse aesthetic.
 

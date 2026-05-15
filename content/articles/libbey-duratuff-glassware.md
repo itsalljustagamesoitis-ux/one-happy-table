@@ -98,7 +98,7 @@ The one honest trade-off is aesthetics. The slight greenish tint in the glass bo
 
 [Check current price on Amazon.](product:libbey-duratuff-rocks-glasses-set6)
 
-### Estelle Colored Glass Wine Glasses Emerald Green Set of 6
+### comfit Hand Blown Emerald Green Wine Glasses Set of 6
 
 There's a particular kind of dinner table moment that only colored glassware creates , the way light passes through emerald glass onto a white linen cloth, or the way a deep green stem photograph against autumn florals. The [Estelle Colored Glass Wine Glasses Emerald Green Set of 6](product:estelle-colored-glass-wine-emerald-set6) has become the reference point for that aesthetic in current interior design editorial, and the reason is straightforward: the color is genuinely beautiful.
 

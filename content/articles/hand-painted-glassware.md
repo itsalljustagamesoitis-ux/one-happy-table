@@ -94,7 +94,7 @@ What it does offer at the budget price band is dishwasher safety and genuine dur
 
 [Check current price on Amazon.](product:anchor-hocking-sheffield-decanter)
 
-### Estelle Colored Glass Wine Glasses Emerald Green Set of 6
+### comfit Hand Blown Emerald Green Wine Glasses Set of 6
 
 There is a moment in the meal when someone at the table reaches for their glass and the candlelight catches the stem at an angle , that is when these earn their reputation. The [Estelle Colored Glass Wine Glasses Emerald Green Set of 6](product:estelle-colored-glass-wine-emerald-set6) has become the reference product in interior design editorial for colored wine glasses because the emerald tone hits a register that reads simultaneously rich and grounded, not garish. It photographs at every lighting temperature and lives even better in person.
 

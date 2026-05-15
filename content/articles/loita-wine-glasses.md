@@ -116,7 +116,7 @@ Dishwasher safe and positioned at the budget end of the market, these are the ri
 
 [Check current price on Amazon.](product:libbey-cobalt-blue-wine-glasses-set4)
 
-### Simon Pearce Barre Wine Glasses (Set of 4)
+### BACLIFE Hand Blown Red Wine Glasses Set of 4
 
 The [Simon Pearce Barre Wine Glasses (Set of 4)](product:simon-pearce-barre-wine-glasses-set4) are handblown in Vermont, and that origin is the whole point. The slight variation between glasses in the set , minor differences in height, in how the bowl sits on the stem , is not a quality-control failure. It's the evidence that a person made each one. That reads at the table in a way that a perfectly uniform machine-made set simply cannot.
 

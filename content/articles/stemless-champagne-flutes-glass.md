@@ -80,7 +80,7 @@ Before buying for a crowd, consider how the glasses stack or nest in your cabine
 
 ## Top Picks
 
-### Estelle Colored Glass Champagne Flutes Cobalt Blue Set of 2
+### Blue Champagne Flutes Set of 6 6oz
 
 Few glasses create a table moment the way the [Estelle Colored Glass Champagne Flutes Cobalt Blue Set of 2](product:estelle-colored-glass-champagne-cobalt-set2) do. The cobalt is deep and saturated , not the washed-out blue you sometimes see in mass-produced colored glass , and hand-blowing means each pair carries slight variation that makes a set of them feel collected rather than purchased.
 

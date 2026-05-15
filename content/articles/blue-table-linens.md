@@ -96,7 +96,7 @@ At the budget price band, this cloth punches well above what you'd expect. The f
 
 [Check current price on Amazon.](product:linen-tablecloth-navy-blue-90x132)
 
-### Belgian Linen Napkins (Set of 6)
+### Bedding Craft Linen Flax Cotton Dinner Napkins Set of 12
 
 The best everyday napkin upgrade most tables don't have yet is a set of proper linen. The [Belgian Linen Napkins (Set of 6)](product:sur-la-table-linen-napkins-set6) from Sur La Table are pre-washed, which solves the shrinkage problem immediately , the size you receive is the size they stay.
 
@@ -110,7 +110,7 @@ The honest case against them: linen wrinkles are structural, not a laundering fa
 
 [Check current price on Amazon.](product:sur-la-table-linen-napkins-set6)
 
-### Juliska Country Estate Table Runner
+### Farmhouse Rustic Faux Linen Table Runner
 
 The [Juliska Country Estate Table Runner](product:juliska-country-estate-table-runner) is a specific kind of purchase , one that makes the most sense if you're already working within the Juliska aesthetic or building a table with a deliberate farmhouse-relaxed sensibility. It's stonewashed linen, which means it arrives with the soft, lived-in finish already established. You don't need to iron it. That's not an oversight; it's the design intention.
 

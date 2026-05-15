@@ -108,7 +108,7 @@ The one practical note: the beeswax blend is firmer than paraffin, and a tight c
 
 [Check current price on Amazon.](product:root-candles-timberline-taper-set12)
 
-### White Orchid Taper Candle Holders (Pair)
+### Creative Co-Op Cut Metal Flower Taper Candle Holder
 
 A taper candle recommendation that ignores the holder is only telling half the story. The [White Orchid Taper Candle Holders (Pair)](product:michael-aram-white-orchid-candlesticks-pair) by Michael Aram are worth including here for readers who are making the candle and holder decision simultaneously. The orchid-in-bloom sculpture wrapped around the taper socket is the kind of detail that reads completely differently in person than in a photograph , dimensional, tactile, and genuinely botanical rather than representational.
 

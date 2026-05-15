@@ -94,7 +94,7 @@ This is a budget-tier cloth, priced accordingly. Buy it when you need reliable c
 
 [Check current price on Amazon.](product:linen-tablecloth-black-rectangle-60x102)
 
-### Belgian Linen Napkins (Set of 6)
+### Bedding Craft Linen Flax Cotton Dinner Napkins Set of 12
 
 Napkins are where guests actually experience fabric , they pick them up, fold them, set them back down. The [Belgian Linen Napkins (Set of 6)](product:sur-la-table-linen-napkins-set6) by Sur La Table are washed Belgian linen, which means they arrive already soft and already at their final dimensions. Pre-washing matters here because linen can shrink meaningfully in the first few laundering cycles, and a set that arrives pre-shrunk stays the size you bought.
 
@@ -108,7 +108,7 @@ The natural flax color works with nearly any table palette, including a black ba
 
 [Check current price on Amazon.](product:sur-la-table-linen-napkins-set6)
 
-### Juliska Country Estate Table Runner
+### Farmhouse Rustic Faux Linen Table Runner
 
 The [Juliska Country Estate Table Runner](product:juliska-country-estate-table-runner) is a specific object for a specific aesthetic , and if that aesthetic is yours, there's nothing else quite like it. Juliska built the Country Estate line as a coordinated table collection, meaning the runner was designed alongside the ceramics, the napkins, and the serving pieces. That coherence shows on a fully set table in a way that sourced-separately pieces rarely achieve.
 

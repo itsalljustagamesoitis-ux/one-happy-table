@@ -88,7 +88,7 @@ For Cinco de Mayo tables, taco night, summer outdoor settings, or any table wher
 
 [Check current price on Amazon.](product:dii-sarape-striped-table-runner)
 
-### Chilewich Trellis Woven Table Runner in Navy
+### Classic Linen by D'Moksha Navy Blue Table Runner 84"
 
 Most table runners ask you to work around them. The [Chilewich Trellis Woven Table Runner in Navy](product:chilewich-trellis-woven-navy-runner) is built to take what a table actually throws at it , heat, moisture, spills , and come out looking exactly as it did before.
 
@@ -102,7 +102,7 @@ The trade-off is aesthetic register. The slight sheen and texture read as modern
 
 [Check current price on Amazon.](product:chilewich-trellis-woven-navy-runner)
 
-### Juliska Country Estate Table Runner
+### Farmhouse Rustic Faux Linen Table Runner
 
 The [Juliska Country Estate Table Runner](product:juliska-country-estate-table-runner) isn't sold as a standalone purchase , it's sold as part of a world. The Country Estate collection spans ceramics, linens, and barware, and the runner is designed to sit within that ecosystem. If you already own Juliska pieces, or if you're building a table from that collection, the coordination value here is real.
 

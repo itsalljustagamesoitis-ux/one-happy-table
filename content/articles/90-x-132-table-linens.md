@@ -80,7 +80,7 @@ Pre-washing matters for natural fibers. Linen and cotton shrink, and a tableclot
 
 ## Top Picks
 
-### Belgian Linen Napkins (Set of 6)
+### Bedding Craft Linen Flax Cotton Dinner Napkins Set of 12
 
 For the table that wants texture and a little character, washed Belgian linen is hard to argue against. The [Belgian Linen Napkins (Set of 6)](product:sur-la-table-linen-napkins-set6) from Sur La Table are pre-washed, which means the sizing you see is the sizing you get , no unwelcome surprises after the first laundry cycle. The weight is substantial without being stiff, and the natural flax color works across a wide range of table palettes, from all-white dinnerware to darker stoneware.
 
@@ -108,7 +108,7 @@ The honest limitation: polyester folds and stores in creases that don't fall out
 
 [Check current price on Amazon.](product:linen-tablecloth-black-rectangle-60x102)
 
-### Juliska Country Estate Table Runner
+### Farmhouse Rustic Faux Linen Table Runner
 
 A table runner does different work than a tablecloth , it layers over a bare table or a base cloth, adds a stripe of texture and pattern down the center, and creates visual focus without committing to full coverage. The [Juliska Country Estate Table Runner](product:juliska-country-estate-table-runner) is designed to coordinate with the full Juliska ceramic and linen collection, which makes it a strong choice if you're already building a cohesive table around that aesthetic.
 

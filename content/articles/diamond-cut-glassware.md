@@ -112,7 +112,7 @@ The machine-blown seam is faintly visible at the base of the bowl if you're look
 
 [Check current price on Amazon.](product:riedel-veloce-champagne-glass-set2)
 
-### Simon Pearce Ascutney Red Wine Glass
+### BACLIFE Hand Blown Red Wine Glasses Set of 4
 
 Mouth-blown in Vermont, the [Simon Pearce Ascutney Red Wine Glass](product:simon-pearce-ascutney-red-wine-glass) is the kind of piece that doesn't need to announce itself. The subtle organic irregularity of hand-blown production , a slight asymmetry in the bowl, a trace of the glassblower's breath in the wall thickness , is exactly what distinguishes it from anything a machine makes. On a candlelit table, those variations become features, not flaws.
 

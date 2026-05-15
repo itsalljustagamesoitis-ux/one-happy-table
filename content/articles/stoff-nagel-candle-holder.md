@@ -80,7 +80,7 @@ If you're using tall tapers, test the fit before the dinner. A taper that wobble
 
 ## Top Picks
 
-### Candle Holder System , Chrome (Set of 3)
+### Chrome Taper Candle Holders Set of 3
 
 The modular connector system is what makes these holders categorically different from anything else in this roundup. Each [Candle Holder System , Chrome (Set of 3)](product:stoff-nagel-candle-holder-chrome-set3) unit links to the next through a small chrome connector, allowing you to build lines, arcs, right angles, or asymmetric clusters depending on how many you own. Three holders is enough to get a feel for the system; the dramatic configurations you've probably seen in Danish interiors magazines require more. That's worth knowing before you buy.
 

@@ -110,7 +110,7 @@ The wood grain variation from piece to piece means no two sets look identical. F
 
 The Creative Co-Op Mango Wood Bud Vase Set of 3 is not available on Amazon , search directly through Creative Co-Op's site or through specialty home retailers.
 
-### Simon Pearce Woodstock Vase
+### MDLUU Decorative Hand-Blown Glass Bubble Vase 11"
 
 There are glass vases, and then there are objects that happen to hold flowers. The [Simon Pearce Woodstock Vase](product:simon-pearce-woodstock-vase) is the second kind. Mouth-blown in Vermont, each piece carries a slight asymmetry and an organic form that machine-made glass cannot replicate , not as a defect, but as evidence of how it was made. On a table, that quality reads as presence rather than utility.
 

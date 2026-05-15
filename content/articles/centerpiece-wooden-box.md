@@ -80,7 +80,7 @@ Consider how you'll line and load it. A box with straight interior walls is easi
 
 ## Top Picks
 
-### Creative Co-Op Whitewash Wood Centerpiece Box with Handles
+### MyGift Vintage White Wood Decorative Bin with Rope Handles
 
 The [Creative Co-Op Whitewash Wood Centerpiece Box with Handles](product:creative-co-op-whitewash-centerpiece-box) is the strongest all-around answer for a table that needs a real working centerpiece, not a decorative prop. The whitewash finish sits in a useful middle ground , casual enough for an everyday table, finished enough to hold its own at a holiday setting with candles and fresh greens.
 
@@ -108,7 +108,7 @@ The honest limitation is that machine-pressed glass has a different quality sign
 
 [Check current price on Amazon.](product:libbey-glass-serving-bowl-set3)
 
-### Simon Pearce Woodstock Vase
+### MDLUU Decorative Hand-Blown Glass Bubble Vase 11"
 
 The [Simon Pearce Woodstock Vase](product:simon-pearce-woodstock-vase) is a premium piece and it asks you to treat it like one. Mouth-blown in Vermont, it has the slight asymmetry and organic form that immediately reads as handmade , not because it's imperfect, but because it's alive in a way that machine-cast glass isn't. On a table with good linen and considered place settings, that quality registers without any explanation.
 

@@ -108,7 +108,7 @@ The conventional bowl shape is neutral. It works well for full-bodied reds, and 
 
 [Check current price on Amazon.](product:schott-zwiesel-convention-red-wine-set6)
 
-### Simon Pearce Ascutney Red Wine Glass
+### BACLIFE Hand Blown Red Wine Glasses Set of 4
 
 There's a case to be made for owning at least one set of glassware that you handle carefully , and the [Simon Pearce Ascutney Red Wine Glass](product:simon-pearce-ascutney-red-wine-glass) is that glass. Each piece is mouth-blown in Vermont, which means no two are identical. The slight organic irregularity in the wall and the subtle movement in the glass itself gives the set a presence that machine production simply cannot replicate.
 

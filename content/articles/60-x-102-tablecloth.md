@@ -108,7 +108,7 @@ Where it falls short is exactly where you'd expect. The synthetic sheen reads as
 
 [Check current price on Amazon.](product:linen-tablecloth-black-rectangle-60x102)
 
-### Peacock Alley Hemstitch Tablecloth
+### Simple & Opulence Premium 100% Linen Hemstitch Tablecloth
 
 The [Peacock Alley Hemstitch Tablecloth](product:peacock-alley-hemstitch-tablecloth) is what you buy when you want the quality of Italian linen without leaving the domestic market. Made in America with Egyptian-cotton yarns, it has the hand-feel and finish that justify a premium price point , and that's before you get to the hemstitch detail, which adds a formal elegance that very few cloths at any price achieve with this much restraint.
 

@@ -94,7 +94,7 @@ If you're building a centerpiece system on a budget and want something that move
 
 [Check current price on Amazon.](product:libbey-glass-serving-bowl-set3)
 
-### Creative Co-Op Whitewash Wood Centerpiece Box with Handles
+### MyGift Vintage White Wood Decorative Bin with Rope Handles
 
 Not every centerpiece starts with glass. The [Creative Co-Op Whitewash Wood Centerpiece Box with Handles](product:creative-co-op-whitewash-centerpiece-box) solves a different problem: what holds a grouping of objects together visually without requiring you to commit to a single vessel. The whitewash finish is warm and matte, which photographs well and doesn't fight with a patterned tablecloth the way a darker finish can.
 

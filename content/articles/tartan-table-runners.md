@@ -94,7 +94,7 @@ The trade-offs are real and worth naming plainly. Red-and-green tartan is a seas
 
 [Check current price on Amazon.](product:table-runner-tartan-plaid-14x72)
 
-### Chilewich Trellis Woven Table Runner in Navy
+### Classic Linen by D'Moksha Navy Blue Table Runner 84"
 
 Durability-first buyers who want a runner that can genuinely live on the table full-time should look at the [Chilewich Trellis Woven Table Runner in Navy](product:chilewich-trellis-woven-navy-runner). Chilewich's vinyl-yarn weave is heat-resistant, water-resistant, and wipes clean between uses , which makes it a fundamentally different category of product from woven fabric runners, even if it sits in the same physical spot on your table.
 
@@ -108,7 +108,7 @@ The honest caveat: the vinyl-yarn surface has a slight sheen and a texture that 
 
 [Check current price on Amazon.](product:chilewich-trellis-woven-navy-runner)
 
-### Juliska Country Estate Table Runner
+### Farmhouse Rustic Faux Linen Table Runner
 
 For buyers building a coordinated table from the ground up, the [Juliska Country Estate Table Runner](product:juliska-country-estate-table-runner) belongs in the conversation. Juliska designs the Country Estate linen collection to coordinate directly with their ceramic patterns , the runner works in the same visual world as their dishes, serving pieces, and flatware. If you're already invested in that ecosystem, the runner is the natural extension.
 

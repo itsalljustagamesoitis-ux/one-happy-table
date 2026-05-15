@@ -103,7 +103,7 @@ The one practical note: sold in sets of four, a table of eight requires two orde
 
 [Check current price on Amazon.](product:april-cornell-floral-cloth-napkins-set4)
 
-### Belgian Linen Napkins (Set of 6)
+### Bedding Craft Linen Flax Cotton Dinner Napkins Set of 12
 
 The everyday premium napkin exists, and it looks like this. The [Belgian Linen Napkins (Set of 6)](product:sur-la-table-linen-napkins-set6) from Sur La Table are washed Belgian linen , heavy, textural, and pre-washed so shrinkage is already accounted for. You don't have to babysit the first few laundering cycles, which is more valuable than it sounds.
 

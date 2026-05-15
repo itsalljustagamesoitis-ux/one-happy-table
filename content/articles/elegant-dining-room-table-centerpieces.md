@@ -80,7 +80,7 @@ Investing in the structural elements , a quality box, a pair of sculptural holde
 
 ## Top Picks
 
-### Creative Co-Op Whitewash Wood Centerpiece Box with Handles
+### MyGift Vintage White Wood Decorative Bin with Rope Handles
 
 For a host who rotates seasonal arrangements frequently, a well-proportioned wooden box does work that no single decorative object can replicate. The [Creative Co-Op Whitewash Wood Centerpiece Box with Handles](product:creative-co-op-whitewash-centerpiece-box) is a staging platform , fill it with pillar candles, winter greenery, dried botanicals, or a loose arrangement of votives, and the whitewash finish recedes enough to let whatever you place inside read as the statement.
 

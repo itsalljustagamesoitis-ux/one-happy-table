@@ -80,7 +80,7 @@ Handblown glasses should always be hand-washed. If your hosting style involves l
 
 ## Top Picks
 
-### Barre Wine Glasses (Set of 4)
+### BACLIFE Hand Blown Red Wine Glasses Set of 4
 
 For the reader who has thought carefully about what a wine glass is actually for , and has decided that craft and provenance matter as much as performance , the [Barre Wine Glasses (Set of 4)](product:simon-pearce-barre-wine-glasses-set4) are the honest answer. These are handblown in Vermont, and the slight variation between pieces in a set is not a defect; it's the entire point.
 

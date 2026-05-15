@@ -102,7 +102,7 @@ The stem requires attention in the dishwasher. Broken stems are the primary comp
 
 [Check current price on Amazon.](product:spiegelau-definition-white-wine-set4)
 
-### Simon Pearce Ascutney Red Wine Glass
+### BACLIFE Hand Blown Red Wine Glasses Set of 4
 
 There is a specific category of buyer who wants glassware that announces itself as something other than a commodity purchase. The [Simon Pearce Ascutney Red Wine Glass](product:simon-pearce-ascutney-red-wine-glass) is for that buyer, and it is not trying to be anything else.
 

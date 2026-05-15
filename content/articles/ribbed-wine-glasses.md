@@ -108,7 +108,7 @@ The ribbed texture on the Definition series is subtle relative to the Libbey pan
 
 [Check current price on Amazon.](product:spiegelau-definition-white-wine-set4)
 
-### Simon Pearce Barre Wine Glasses Set of 4
+### BACLIFE Hand Blown Red Wine Glasses Set of 4
 
 These are a different proposition entirely. The Simon Pearce Barre Wine Glasses are handblown in Vermont, and the slight variation between pieces in a set is not incidental , it's the whole point. The weight is substantial without being heavy, and the feel reads as serious crystal even without the sharp cutting or engraving you'd find on traditional European glassware. Set these on a table and they generate conversation.
 

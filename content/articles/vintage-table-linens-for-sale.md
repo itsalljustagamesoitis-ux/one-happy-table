@@ -114,7 +114,7 @@ The one real management requirement is wrinkle removal after storage. Polyester 
 
 [Check current price on Amazon.](product:linen-tablecloth-black-rectangle-60x102)
 
-### Juliska Country Estate Table Runner
+### Farmhouse Rustic Faux Linen Table Runner
 
 The [Juliska Country Estate Table Runner](product:juliska-country-estate-table-runner) occupies a specific position in the table linen market: it's designed to work within an entire coordinated table system, and it performs that job with genuine intention. The Country Estate collection spans ceramics, glassware, and linens, and the runner is the textile anchor of that system. If you own Juliska pieces and want the table to read as considered rather than assembled, the runner completes that picture in a way a standalone piece cannot.
 

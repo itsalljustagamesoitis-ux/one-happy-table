@@ -80,7 +80,7 @@ Think about how the piece will be stored as seriously as how it will be displaye
 
 ## Top Picks
 
-### Creative Co-Op Whitewash Wood Centerpiece Box with Handles
+### MyGift Vintage White Wood Decorative Bin with Rope Handles
 
 The [Creative Co-Op Whitewash Wood Centerpiece Box with Handles](product:creative-co-op-whitewash-centerpiece-box) is the most practical centerpiece vessel on this list, and for most buyers it's the right place to start. The whitewash finish is light enough to read as neutral on almost any table surface, and the side handles are a genuine differentiator , I've rearranged a fully styled centerpiece from table to sideboard without touching any of the contents, which is exactly the kind of thing that matters more than it sounds.
 

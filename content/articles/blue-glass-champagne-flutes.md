@@ -80,7 +80,7 @@ For prosecco and cava at casual gatherings, a slightly wider bowl reads as more 
 
 ## Top Picks
 
-### Estelle Colored Glass Champagne Flutes Cobalt Blue Set of 2
+### Blue Champagne Flutes Set of 6 6oz
 
 For a table where visual impact is the entire point, the [Estelle Colored Glass Champagne Flutes Cobalt Blue](product:estelle-colored-glass-champagne-cobalt-set2) are the clearest recommendation I can make. No other mass-available blue flute has the same design presence , the cobalt is deep and saturated, and the hand-blown form gives each glass a slight individuality that reads beautifully in candlelight.
 

@@ -108,7 +108,7 @@ The dry-clean-only care requirement is real and worth sitting with before you bu
 
 [Check current price on Amazon.](product:waterford-stewart-plaid-tartan-tablecloth)
 
-### Juliska Country Estate Table Runner
+### Farmhouse Rustic Faux Linen Table Runner
 
 The [Juliska Country Estate Table Runner](product:juliska-country-estate-table-runner) occupies a different register from the other two picks. It's not a traditional tartan in the clan-pattern sense , it belongs to Juliska's Country Estate collection, which draws on a pastoral, English-countryside aesthetic rather than Scottish heritage. The pattern reads as plaid rather than strict tartan, and that distinction is worth making if authenticity is part of what you're after.
 

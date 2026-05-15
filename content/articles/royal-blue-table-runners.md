@@ -94,7 +94,7 @@ This one is for the host who wants visual impact at a budget entry point. It is 
 
 [Check current price on Amazon.](product:dii-sarape-striped-table-runner)
 
-### Chilewich Trellis Woven Table Runner in Navy
+### Classic Linen by D'Moksha Navy Blue Table Runner 84"
 
 The [Chilewich Trellis Woven Table Runner in Navy](product:chilewich-trellis-woven-navy-runner) sits in mid-range territory and earns every bit of that positioning through construction. Chilewich's vinyl-yarn weave is categorically more durable than cotton or linen , it resists heat from serving dishes, sheds water rather than absorbing it, and machine washes without any of the colourfast anxiety that follows a cotton runner into the laundry.
 
@@ -108,7 +108,7 @@ The trade-off is texture and register. The vinyl-yarn construction has a slight 
 
 [Check current price on Amazon.](product:chilewich-trellis-woven-navy-runner)
 
-### Juliska Country Estate Table Runner
+### Farmhouse Rustic Faux Linen Table Runner
 
 Premium runners occupy a specific niche: they are for buyers who want the table to tell a coherent story across every element. The [Juliska Country Estate Table Runner](product:juliska-country-estate-table-runner) is that kind of product. The stonewashed linen coordinates directly with Juliska's ceramic and linen collection, which means if you already own their dinnerware, this runner completes the picture.
 

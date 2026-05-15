@@ -94,7 +94,7 @@ One honest caveat: the color makes it impossible to assess wine appearance in th
 
 [Check current price on Amazon.](product:libbey-cobalt-blue-wine-glasses-set4)
 
-### Estelle Colored Glass Champagne Flutes Cobalt Blue (Set of 2)
+### Blue Champagne Flutes Set of 6 6oz
 
 Hand-blown cobalt champagne flutes occupy a specific and increasingly prominent space in interior design editorial, and the [Estelle Colored Glass Champagne Flutes Cobalt Blue Set of 2](product:estelle-colored-glass-champagne-cobalt-set2) are the piece that keeps appearing in that context. The colored stem catches candlelight in a way that machine-made glass doesn't replicate , there's a warmth and variation to the color that comes from the hand-blowing process, and it reads as decorative even when the glass is empty.
 
@@ -108,7 +108,7 @@ The practical limitation is the pair-sold format. Scaling to a table of eight me
 
 [Check current price on Amazon.](product:estelle-colored-glass-champagne-cobalt-set2)
 
-### Simon Pearce Ascutney Red Wine Glass
+### BACLIFE Hand Blown Red Wine Glasses Set of 4
 
 The [Simon Pearce Ascutney Red Wine Glass](product:simon-pearce-ascutney-red-wine-glass) sits at the premium end of this category, and the difference is apparent the moment you hold one. Each glass is mouth-blown in Vermont, which produces a subtle organic irregularity , a slight variation in the wall thickness and stem that you can see when the glass catches light at an angle. That variation is the marker of the process, and it's what separates this from anything made in volume.
 

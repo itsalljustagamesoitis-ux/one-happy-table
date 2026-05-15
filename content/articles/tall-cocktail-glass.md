@@ -114,7 +114,7 @@ The real trade-off is thermal. Your hand wraps around the glass, and that contac
 
 [Check current price on Amazon.](product:libbey-midtown-stemless-cocktail-set12)
 
-### Simon Pearce Ascutney Red Wine Glass
+### BACLIFE Hand Blown Red Wine Glasses Set of 4
 
 The [Simon Pearce Ascutney Red Wine Glass](product:simon-pearce-ascutney-red-wine-glass) is a different kind of purchase. It's mouth-blown in Vermont, and each piece carries a subtle organic variation that machine-made glass can't replicate , the slight irregularities in the rim, the way the base catches light differently than a perfect mold allows. If you're buying for a table where the glassware is meant to make an impression, that quality is immediately visible to anyone paying attention.
 

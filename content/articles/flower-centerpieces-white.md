@@ -80,7 +80,7 @@ Before committing to any piece, ask whether it will do real work year-round or w
 
 ## Top Picks
 
-### Creative Co-Op Whitewash Wood Centerpiece Box with Handles
+### MyGift Vintage White Wood Decorative Bin with Rope Handles
 
 The [Creative Co-Op Whitewash Wood Centerpiece Box with Handles](product:creative-co-op-whitewash-centerpiece-box) earns its place on this list because it does something most decorative vessels can't: it holds an entire arrangement concept rather than just flowers. Drop a glass jar or a liner inside, fill it with white ranunculus or garden roses, and you have a finished centerpiece in under five minutes. The whitewash finish keeps it neutral enough to sit on almost any table without demanding attention for itself.
 
@@ -94,7 +94,7 @@ One practical note worth stating plainly: the whitewash wood finish will show wa
 
 [Check current price on Amazon.](product:creative-co-op-whitewash-centerpiece-box)
 
-### Creative Co-Op White Ceramic Bud Vases Set of 6
+### Carrot's Den Set of 6 White Mini Ceramic Bud Vases
 
 Six vases, varying heights, white ceramic , the [Creative Co-Op White Ceramic Bud Vases Set of 6](product:creative-co-op-bud-vases-set6) is the most practical entry point for anyone who wants a clustered centerpiece without any real styling effort. Arrange them in a loose grouping down the center of the table, drop a single white tulip or anemone stem in each, and the work is done. The height variation does the composition for you.
 
@@ -108,7 +108,7 @@ The constraint to know before you buy: the necks are narrow. Thick-stemmed flowe
 
 [Check current price on Amazon.](product:creative-co-op-bud-vases-set6)
 
-### White Orchid Taper Candle Holders (Pair)
+### Creative Co-Op Cut Metal Flower Taper Candle Holder
 
 For a formal dinner table, nothing in this price tier competes with what the [White Orchid Taper Candle Holders](product:michael-aram-white-orchid-candlesticks-pair) from Michael Aram deliver. The orchid sculpted around each taper socket is detailed in a way that photographs as art , organic, asymmetrical, fully formed. The white enamel base with gold finish reads simultaneously fresh and formal, which is a genuinely difficult combination to land.
 

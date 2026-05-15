@@ -80,7 +80,7 @@ Modular candle systems allow you to adjust the composition after the fact, which
 
 ## Top Picks
 
-### Creative Co-Op Whitewash Wood Centerpiece Box with Handles
+### MyGift Vintage White Wood Decorative Bin with Rope Handles
 
 The centerpiece box earns its place as the structural anchor of a cherry blossom arrangement. Its low, horizontal profile provides the grounded base that tall floral branches need , the form does the opposite of competing with the flowers. The whitewash finish sits in that useful middle range between raw wood and painted, textural enough to read as intentional but neutral enough to disappear once the arrangement is complete.
 
@@ -108,7 +108,7 @@ The trade-off is fragility. Thin walls at this price point are the expected comp
 
 [Check current price on Amazon.](product:glass-cylinder-vases-set3)
 
-### Candle Holder System , Brass (Set of 3)
+### Brass Taper Candle Holders Set of 3
 
 Brass photographs better than chrome with cherry blossoms. That's not an aesthetic preference , it's a practical observation about how warm-toned metal interacts with pink and white florals under candlelight versus overhead light. The [Candle Holder System , Brass](product:stoff-nagel-candle-holder-chrome-set3) from Stoff Nagel brings the same modular connection system as the chrome version, which means you can expand and reconfigure the arrangement as your table size or layout changes.
 
