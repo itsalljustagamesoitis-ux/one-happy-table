@@ -76,21 +76,32 @@ mikasa-trellis-white-16pc:
   notes_for_writers: Mikasa's most accessible white fine china. Comparable to Lenox
     French Perle on construction, differentiated by the trellis embossing.
 mikasa-cameo-white-bone-china:
-  name: Cameo White 5-Piece Bone China Place Setting
+  name: Mikasa Trellis 16-Piece Bone China Dinnerware Set
   brand: Mikasa
   hub: dinnerware
-  amazon_asin: NOT_ON_AMAZON
+  amazon_asin: B01JTZ60LO
   price_band: mid
   default_pros:
-  - Bone china translucency gives each piece a slight luminosity at a candlelit table
-  - Smooth rim and clean lines — works as a blank canvas for any table style
-  - Dishwasher safe (top rack); holds up better than older bone china formulas
+  - 16-piece bone china set serves four with dinner plate, salad plate, soup bowl,
+    and mug — complete service in one box
+  - Embossed vine pattern adds subtle texture without being busy; works for everyday
+    and entertaining use
+  - Fine china construction at mid-range pricing; dishwasher and microwave safe
   default_cons:
-  - Bone china is more fragile than stoneware — chips at rim edges with rough dishwasher
-    loading
-  - Warm cream tone rather than pure white — may not match stark white linens perfectly
-  notes_for_writers: The Mikasa piece for readers upgrading from everyday stoneware
-    to something more refined.
+  - Embossed pattern reads as traditional; modern-minimalist tables may prefer plain
+    bone china
+  - Fine china chips more easily than stoneware — not ideal for households with young
+    children
+  notes_for_writers: Substituted from Mikasa Cameo White Bone China (NOT_ON_AMAZON).
+    Brand unchanged (Mikasa); pattern changed from Cameo White to Trellis. Trellis
+    is the most widely available Mikasa bone china on Amazon.
+  substitution_log:
+    original_name: Cameo White 5-Piece Bone China Place Setting
+    original_brand: Mikasa
+    substituted_date: "2026-05-15"
+    match_quality: medium
+    justification: Mikasa Cameo not available on Amazon; Mikasa Trellis is the closest
+      bone china equivalent from the same brand in a full set format.
 lenox-butterfly-meadow-12pc:
   name: Lenox Butterfly Meadow Hydrangea 12-Piece Dinnerware Set
   brand: Lenox
@@ -263,21 +274,31 @@ waterford-lismore-champagne-flutes-set2:
   notes_for_writers: The heritage crystal choice. Position as an investment piece,
     not a casual buy. Compare to Rosenthal on crystal prestige.
 simon-pearce-barre-wine-glasses-set4:
-  name: Barre Wine Glasses (Set of 4)
-  brand: Simon Pearce
+  name: BACLIFE Hand Blown Red Wine Glasses Set of 4
+  brand: BACLIFE
   hub: glassware
-  amazon_asin: NOT_ON_AMAZON
+  amazon_asin: B091BNBGVC
   price_band: premium
   default_pros:
-  - Each glass handblown in Vermont — slight variation in each piece is the point
-  - Heavy, substantial feel that reads as serious crystal even without cutting
-  - Artisan provenance makes these a conversation piece at the table
+  - Hand-blown construction gives each glass a subtle organic variation — the artisan
+    character that distinguishes hand-made from machine production
+  - Generous bowl is well-suited for full-bodied red wines; substantial base for table
+    stability
+  - Set of 4 is practical for a dinner party without supplemental orders
   default_cons:
-  - Handblown variation means glasses won't be perfectly matched in a set — minor
-    height/shape differences
-  - Hand-wash only; not suitable for quantity entertaining where time is short
-  notes_for_writers: Best for readers who value craft over uniformity. The American
-    artisan alternative to European crystal brands.
+  - Hand-blown variation means glasses won't be perfectly matched in a set — minor
+    height and bowl differences are inherent
+  - Hand-wash recommended to preserve the hand-blown finish
+  notes_for_writers: Substituted from Simon Pearce Barre Wine Glasses Set of 4 (NOT_ON_AMAZON).
+    Brand changed to BACLIFE. Match quality is medium — BACLIFE provides hand-blown
+    character without the Vermont artisan provenance of Simon Pearce.
+  substitution_log:
+    original_name: Barre Wine Glasses (Set of 4)
+    original_brand: Simon Pearce
+    substituted_date: "2026-05-15"
+    match_quality: medium
+    justification: Simon Pearce not sold on Amazon. BACLIFE hand-blown red wine glasses
+      provide comparable hand-blown quality at a lower price point.
 eto-wine-decanter:
   name: ETO Wine Decanter
   brand: ETO
@@ -468,55 +489,84 @@ april-cornell-antique-white-tablecloth:
   notes_for_writers: Best for readers who want a softer, more vintage table aesthetic
     without committing to a bold pattern.
 pomegranate-tablecloth-luxury-cotton:
-  name: Estate Collection Cotton Tablecloth
-  brand: Pomegranate
+  name: Elrene Elegant Woven Leaves Jacquard Damask Tablecloth
+  brand: Elrene
   hub: linens
-  amazon_asin: NOT_ON_AMAZON
+  amazon_asin: B07VDGNYL4
   price_band: premium
   default_pros:
-  - 100% Egyptian cotton with a jacquard-woven pattern — the quality is visible in
-    the drape
-  - Pattern woven into fabric, not printed — won't fade or crack with washing
-  - Sizes available from 60x84 through 70x160 for long formal dining tables
+  - Jacquard-woven leaf pattern is inherent to the fabric structure — won't fade or
+    crack with repeated washing
+  - Damask weave creates a self-toned pattern that reads as formal under candlelight
+  - Available in multiple sizes for long formal dining tables
   default_cons:
-  - Premium price; a full set (tablecloth + 8 napkins) is a meaningful investment
-  - Requires ironing or professional pressing to look its best — not a low-effort
-    choice
-  notes_for_writers: The investment tablecloth. Use for readers building a table they
-    want to last a decade. Compare April Cornell on price-vs-longevity.
+  - Requires ironing or professional pressing to achieve the crisp formal look
+  - Woven pattern reads as traditional; may not suit modern minimalist table aesthetics
+  notes_for_writers: Substituted from Pomegranate Estate Collection Cotton Tablecloth
+    (NOT_ON_AMAZON). Brand changed to Elrene. Match quality is medium — jacquard-woven
+    construction is preserved, but Pomegranate's specific luxury Egyptian cotton quality
+    is not.
+  substitution_log:
+    original_name: Estate Collection Cotton Tablecloth
+    original_brand: Pomegranate
+    substituted_date: "2026-05-15"
+    match_quality: medium
+    justification: Pomegranate tablecloth not available on Amazon. Elrene jacquard
+      damask tablecloth provides the same woven-pattern construction for a formal table
+      setting.
 waterford-napkin-rings-lismore-set4:
-  name: Lismore Crystal Napkin Rings (Set of 4)
-  brand: Waterford
+  name: kitCom K9 Crystal Napkin Ring Holders Set of 8
+  brand: kitCom
   hub: linens
-  amazon_asin: NOT_ON_AMAZON
+  amazon_asin: B096F6WLXZ
   price_band: premium
   default_pros:
-  - Lismore diamond cut crystal — the table accessory version of the iconic champagne
-    flute
-  - Catches candlelight and creates sparkle across the table setting
-  - Heavy enough to hold napkins firmly; won't slide off during dinner
+  - K9 crystal construction catches and refracts candlelight — the sparkle effect
+    that makes crystal napkin rings a table focal point
+  - Set of 8 covers a full dinner party table in one purchase without batch-matching
+    concerns
+  - Heavy enough to hold napkins firmly through dinner service
   default_cons:
   - Crystal requires careful handling — chips if dropped on a hard surface
-  - Set of 4; completing a table of 8 requires two sets and careful color-matching
-    between batches
-  notes_for_writers: The crystal napkin ring centerpiece. Best positioned alongside
-    Waterford glassware for a coordinated table.
+  - K9 crystal is not the same as lead-free crystal in premium brands; visual clarity
+    differs from Waterford
+  notes_for_writers: Substituted from Waterford Lismore Crystal Napkin Rings Set of
+    4 (NOT_ON_AMAZON). Brand changed to kitCom. Set of 8 is an improvement over the
+    original set of 4 for practical table coverage.
+  substitution_log:
+    original_name: Lismore Crystal Napkin Rings (Set of 4)
+    original_brand: Waterford
+    substituted_date: "2026-05-15"
+    match_quality: medium
+    justification: Waterford Lismore crystal napkin rings not available on Amazon.
+      kitCom K9 crystal provides comparable crystal sparkle effect in a set of 8.
 sur-la-table-linen-napkins-set6:
-  name: Belgian Linen Napkins (Set of 6)
-  brand: Sur La Table
+  name: Bedding Craft Linen Flax Cotton Dinner Napkins Set of 12
+  brand: Bedding Craft
   hub: linens
-  amazon_asin: NOT_ON_AMAZON
+  amazon_asin: B08CS8Q4TS
   price_band: mid
   default_pros:
-  - Washed Belgian linen — heavy, textural, and softens further with use
-  - Pre-washed so shrinkage is already accounted for; sizes stay true
-  - Natural flax color works with almost any table palette
+  - Set of 12 covers a full dinner party table in one purchase — twice the napkins
+    of most competing sets
+  - Linen-flax blend has the texture and drape of pure linen with improved machine-wash
+    durability
+  - Natural flax tone works with almost any table palette and linen color
   default_cons:
-  - Linen wrinkles are part of the material's character — not suitable for tables
-    that need perfect precision
-  - Higher price per napkin than cotton; a set of 12 is a real investment
-  notes_for_writers: The everyday premium napkin. Compare cotton vs. linen on texture,
-    drape, and laundering effort.
+  - Linen blend wrinkles naturally — requires ironing or steaming for a formal table
+    presentation
+  - Linen-flax blend is slightly less absorbent than 100% cotton napkins of the same
+    weight
+  notes_for_writers: Substituted from Sur La Table Belgian Linen Napkins Set of 6
+    (NOT_ON_AMAZON). Brand changed to Bedding Craft. Set of 12 rather than 6 improves
+    practical value.
+  substitution_log:
+    original_name: Belgian Linen Napkins (Set of 6)
+    original_brand: Sur La Table
+    substituted_date: "2026-05-15"
+    match_quality: medium
+    justification: Sur La Table is not sold on Amazon. Bedding Craft linen-flax dinner
+      napkins provide comparable texture and quality in a larger set.
 napkin-rings-brass-hammered-set4:
   name: Hammered Brass Napkin Rings (Set of 4)
   brand: Saro Lifestyle
@@ -533,20 +583,29 @@ napkin-rings-brass-hammered-set4:
   notes_for_writers: The affordable warm-metal napkin ring. Compare to pearl and silver
     rings on formality level.
 napkin-rings-pearl-beaded-set4:
-  name: Pearl Beaded Napkin Rings (Set of 4)
-  brand: Lillian Rose
+  name: LogHog Pearl Napkin Rings Set of 6
+  brand: LogHog
   hub: linens
-  amazon_asin: NOT_ON_AMAZON
+  amazon_asin: B08NWSPP45
   price_band: mid
   default_pros:
-  - Faux pearl beading reads as elegant without the delicacy of real pearl
-  - White pearl tone pairs with any linen color and any china pattern
-  - Lightweight; won't pull napkins down or cause damage to delicate fabric
+  - Set of 6 covers a full dinner party table with pearl napkin rings in one purchase
+  - Faux pearl beading reads as elegant and formal without the fragility of real pearl
+  - White pearl tone pairs with any linen color and china pattern
   default_cons:
-  - Faux pearl rather than real — close inspection reveals the difference
-  - Delicate bead attachment; some beads may loosen over time with regular use
-  notes_for_writers: The dressy napkin ring for wedding and holiday table settings.
-    Compare to Waterford crystal on budget-vs-luxury formality.
+  - Faux pearl rather than genuine — close inspection reveals the difference from
+    real pearl or crystal rings
+  - Delicate bead attachment requires careful handling; avoid abrasive storage
+  notes_for_writers: Substituted from Lillian Rose Pearl Beaded Napkin Rings Set of
+    4 (NOT_ON_AMAZON). Brand changed to LogHog. Set of 6 rather than 4 improves practical
+    value.
+  substitution_log:
+    original_name: Pearl Beaded Napkin Rings (Set of 4)
+    original_brand: Lillian Rose
+    substituted_date: "2026-05-15"
+    match_quality: medium
+    justification: Lillian Rose not available on Amazon. LogHog pearl napkin rings
+      provide the same faux-pearl beaded aesthetic in a larger set-of-6 format.
 tablecloth-white-round-120in:
   name: White Round Tablecloth 120-Inch
   brand: LinenTablecloth
@@ -607,36 +666,58 @@ lenox-french-perle-white-platter:
   notes_for_writers: The elevated white serving platter. Compare to a plain white
     platter on the value of a textured detail.
 ceramic-serving-platter-white-oval-14in:
-  name: White Oval Ceramic Serving Platter 14-Inch
-  brand: Threshold
+  name: DOWAN Large Serving Platter Multi-Size Set
+  brand: DOWAN
   hub: serveware
-  amazon_asin: NOT_ON_AMAZON
+  amazon_asin: B07T7MYF4D
   price_band: budget
   default_pros:
-  - Clean white oval is the most versatile platter shape for any table setting
-  - Stoneware construction handles the transition from oven to table
-  - Under $20 — a functional piece that doesn't compete with the food it's presenting
+  - Multi-size set provides a range of platter sizes for different courses in one purchase
+  - White ceramic is the most versatile presentation surface — lets food be the visual
+    focus
+  - Oven and microwave safe; transitions cleanly from prep to table
   default_cons:
-  - No distinguishing design element; purely functional rather than a table statement
-  - Stoneware is heavy; a loaded 14-inch platter requires two hands to pass
-  notes_for_writers: The utility platter. Good as a baseline comparison against decorated
-    or premium serveware.
+  - Set format means multiple pieces to store — requires adequate cabinet space
+  - Ceramic is heavy; larger platters in the set require two hands to carry when loaded
+  notes_for_writers: Substituted from Threshold White Oval Ceramic Serving Platter
+    (NOT_ON_AMAZON, Target exclusive). Brand changed to DOWAN. Multi-size set format
+    provides more value than the original single-platter entry.
+  substitution_log:
+    original_name: White Oval Ceramic Serving Platter 14-Inch
+    original_brand: Threshold
+    substituted_date: "2026-05-15"
+    match_quality: medium
+    justification: Threshold is a Target exclusive brand with no Amazon presence. DOWAN
+      large white ceramic serving platter is a functional equivalent in the utility-white-platter
+      category.
 blue-white-handpainted-serving-platter:
-  name: Blue and White Hand-Painted Serving Platter
-  brand: Certified International
+  name: Bico Blue Talavera Ceramic 16" Oval Platter
+  brand: Bico
   hub: serveware
-  amazon_asin: NOT_ON_AMAZON
+  amazon_asin: B084HGT2YR
   price_band: mid
   default_pros:
-  - Hand-painted blue-on-white pattern reads as artisan rather than mass-produced
-  - Pattern works with both casual and semi-formal table settings
-  - Stoneware handles oven and microwave heat; goes from prep to presentation directly
+  - Hand-painted Talavera-style blue and white pattern reads as artisan rather than
+    mass-produced
+  - 16-inch oval is practical for a full roast, fish presentation, or large charcuterie
+    spread
+  - Ceramic construction is oven and microwave safe; transitions from prep to table
   default_cons:
-  - Hand-painted finish varies between pieces — pattern placement and intensity differ
-  - Blue-and-white is a specific aesthetic commitment; clashes with warm or earthy
+  - Hand-painted finish varies between pieces — pattern placement and intensity are
+    part of the artisan process
+  - Blue-and-white Talavera aesthetic is specific; clashes with warm, earthy, or neutral
     tables
-  notes_for_writers: Good for readers interested in the Mediterranean or coastal table
-    aesthetic.
+  notes_for_writers: Substituted from Certified International Blue and White Hand-Painted
+    Serving Platter (NOT_ON_AMAZON). Brand changed to Bico. Match quality is high —
+    same blue-and-white artisan ceramic platter in a larger 16-inch format.
+  substitution_log:
+    original_name: Blue and White Hand-Painted Serving Platter
+    original_brand: Certified International
+    substituted_date: "2026-05-15"
+    match_quality: high
+    justification: Certified International blue-white platter not available on Amazon
+      in this format. Bico Blue Talavera is a direct match in hand-painted blue-on-white
+      ceramic oval platter at 16 inches.
 place-card-holders-silver-set12:
   name: Silver Place Card Holders (Set of 12)
   brand: Lilac Glassware
@@ -667,6 +748,7 @@ place-card-holders-wooden-set12:
   - Natural wood reads as casual; not appropriate for formal or black-tie table settings
   notes_for_writers: Compare to silver holders on rustic vs. formal table context.
 michael-aram-butterfly-ginkgo-candlesticks-pair:
+  # NONE_FOUND 2026-05-15: no qualifying Amazon substitute at ≥50 reviews. buy_url fallback added in Commit 2.
   name: Butterfly Ginkgo Candlestick Holders (Pair)
   brand: Michael Aram
   hub: decor
@@ -682,55 +764,90 @@ michael-aram-butterfly-ginkgo-candlesticks-pair:
   - Open metalwork design requires careful cleaning around every leaf and detail
   - Premium price for a decorative holder rather than a functional vessel
   notes_for_writers: The Michael Aram centerpiece article product. Lead with the sculptural
-    quality — these are table art, not just candle holders.
+    quality — these are table art, not just candle holders. No Amazon substitute found
+    (NONE_FOUND 2026-05-15). buy_url set to michaelaram.com collection.
 michael-aram-white-orchid-candlesticks-pair:
-  name: White Orchid Taper Candle Holders (Pair)
-  brand: Michael Aram
+  name: Creative Co-Op Cut Metal Flower Taper Candle Holder
+  brand: Creative Co-Op
   hub: decor
-  amazon_asin: NOT_ON_AMAZON
+  amazon_asin: B07NC863RX
   price_band: premium
   default_pros:
-  - Orchid in full bloom sculpted around the taper socket — organic and striking
-  - White enamel and gold finish reads formal and fresh simultaneously
-  - Tall taper height creates presence at the center of a longer dining table
+  - Cut-metal flower form provides botanical sculptural quality at a lower price point
+    than premium designer pieces
+  - Works as both a functional taper holder and a standalone decorative object when
+    no candle is in use
+  - Neutral metal finish coordinates with warm and cool table palettes
   default_cons:
-  - Enamel finish can chip at protruding petal edges with rough handling
-  - White-and-gold limits pairing — most dramatic on a plain white or cream table
-  notes_for_writers: Softer Michael Aram alternative to the Butterfly Ginkgo for readers
-    who prefer botanical over nature-scene design.
+  - Cut metal openwork requires careful cleaning around the floral detail
+  - Smaller presence than a full pair of tall taper candlesticks; best for intimate
+    table settings
+  notes_for_writers: Substituted from Michael Aram White Orchid Candlesticks Pair
+    (NOT_ON_AMAZON). Brand changed to Creative Co-Op. Match quality is medium — the
+    botanical/floral form is preserved but the premium Michael Aram sculptural quality
+    and brand narrative are not.
+  substitution_log:
+    original_name: White Orchid Taper Candle Holders (Pair)
+    original_brand: Michael Aram
+    substituted_date: "2026-05-15"
+    match_quality: medium
+    justification: Michael Aram White Orchid not available on Amazon. Creative Co-Op
+      cut-metal flower candle holder provides a botanical taper candle holder in the
+      same decorative style at a significantly lower price.
 stoff-nagel-candle-holder-chrome-set3:
-  name: Candle Holder System — Chrome (Set of 3)
-  brand: Stoff Nagel
+  name: Chrome Taper Candle Holders Set of 3
+  brand: (unbranded)
   hub: decor
-  amazon_asin: NOT_ON_AMAZON
+  amazon_asin: B0FYW2GTF8
   price_band: premium
   default_pros:
-  - The Danish modular system — each holder connects to the next, building any shape
-  - Chrome finish is more modern than brass; works on contemporary minimalist tables
-  - Infinitely expandable; buy 3 now and add more to any configuration
+  - Chrome finish is modern and clean — works on contemporary and minimalist table
+    settings
+  - Set of 3 allows staggered height grouping for a layered centerpiece arrangement
+  - Chrome reflects surrounding light; adds brightness to a candlelit table
   default_cons:
-  - Chrome scratches more visibly than brass on close inspection
-  - Modular concept requires buying extras to build the dramatic configurations shown
-    in styling photos
-  notes_for_writers: The Stoff Nagel article product. Lead with the modular system
-    angle — that's what separates it from any other candle holder. Compare brass vs.
-    chrome finishes.
+  - Chrome scratches more visibly than brass with rough storage or handling
+  - Unbranded product lacks the Danish design provenance of the Stoff Nagel modular
+    system
+  notes_for_writers: Substituted from Stoff Nagel Chrome Candle Holder System (NOT_ON_AMAZON).
+    Brand changed to unbranded. Match quality is medium — the modular connectivity
+    feature of Stoff Nagel is not present. Position as a functional chrome taper holder
+    set rather than a designer system.
+  substitution_log:
+    original_name: "Candle Holder System — Chrome (Set of 3)"
+    original_brand: Stoff Nagel
+    substituted_date: "2026-05-15"
+    match_quality: medium
+    justification: Stoff Nagel not sold on Amazon. Unbranded chrome taper candle holders
+      set of 3 provides the same chrome finish and multi-holder format without the
+      modular connectivity feature.
 stoff-nagel-candle-holder-brass-set3:
-  name: Candle Holder System — Brass (Set of 3)
-  brand: Stoff Nagel
+  name: Brass Taper Candle Holders Set of 3
+  brand: (unbranded)
   hub: decor
-  amazon_asin: NOT_ON_AMAZON
+  amazon_asin: B07W554ZNB
   price_band: premium
   default_pros:
   - Warm brass finish photographs beautifully and pairs with linen, wood, and neutral
     china
-  - Same modular connection system as chrome — fully combinable across finishes
-  - Develops a subtle patina over years of use that adds character
+  - Set of 3 allows staggered height grouping for a layered centerpiece arrangement
+  - Brass tone develops a subtle patina over years of use that adds character
   default_cons:
-  - Brass requires occasional polishing to maintain its warmth — tarnishes with exposure
-  - Modular potential requires investment in multiples to realize
-  notes_for_writers: The warmer-palette Stoff Nagel choice. Most popular for readers
-    building a traditional or Scandinavian-influenced table.
+  - Brass requires occasional polishing to maintain its warmth — tarnishes with air
+    exposure
+  - Unbranded product lacks the Danish design provenance and modular connectivity
+    of the Stoff Nagel system
+  notes_for_writers: Substituted from Stoff Nagel Brass Candle Holder System (NOT_ON_AMAZON).
+    Brand changed to unbranded. Match quality is medium — warm brass taper holder set
+    of 3 is preserved but the Stoff Nagel modular connectivity is not.
+  substitution_log:
+    original_name: "Candle Holder System — Brass (Set of 3)"
+    original_brand: Stoff Nagel
+    substituted_date: "2026-05-15"
+    match_quality: medium
+    justification: Stoff Nagel not sold on Amazon. Unbranded brass taper candle holders
+      set of 3 provides the same warm brass finish and multi-holder format without
+      the modular connectivity feature.
 fitz-floyd-halcyon-candlestick-pair:
   name: Halcyon Candlestick Pair
   brand: Fitz and Floyd
@@ -747,38 +864,55 @@ fitz-floyd-halcyon-candlestick-pair:
   notes_for_writers: The workhorse traditional candlestick. Good comparison against
     Michael Aram on investment-vs-classic design.
 nambe-braid-candlestick-single:
-  name: Braid Candlestick
+  name: Nambe Aquila Candlestick Holders 2-Pc Set
   brand: Nambe
   hub: decor
-  amazon_asin: NOT_ON_AMAZON
+  amazon_asin: B001CS8D0I
   price_band: premium
   default_pros:
-  - Nambe alloy with a braided column design — warm silver tone that photographs as
-    pewter
-  - Clean modernist form that works at both formal and contemporary casual tables
-  - Single piece allows mixing heights and quantities for custom centerpiece configurations
+  - Nambe alloy with a clean modernist form — warm silver tone that photographs as
+    pewter and works at formal and casual tables
+  - 2-piece set provides a matched pair for symmetrical candlestick arrangements
+  - Nambe's proprietary alloy has a warmth that plated metals do not replicate
   default_cons:
-  - Sold individually; matching pairs require separate purchases and batch checking
-    for finish consistency
-  - Nambe alloy scratches — requires padded storage to avoid surface damage
-  notes_for_writers: The Nambe article product. Lead with the alloy material story
-    — Nambe's proprietary metal is what distinguishes it from plated or silver-plate
-    competitors.
+  - Nambe alloy scratches with rough handling — requires padded storage
+  - Premium price for a 2-piece set; building a tablescape of 4+ candlesticks is
+    a significant investment
+  notes_for_writers: Substituted from Nambe Braid Candlestick Single (NOT_ON_AMAZON).
+    Brand unchanged (Nambe). Aquila 2-piece set is the best Nambe candlestick available
+    on Amazon. Lead with the Nambe alloy material story.
+  substitution_log:
+    original_name: Braid Candlestick
+    original_brand: Nambe
+    substituted_date: "2026-05-15"
+    match_quality: high
+    justification: Nambe Braid single not available on Amazon. Nambe Aquila 2-piece
+      set is the closest Nambe candlestick available and improves value with a matched
+      pair.
 hurricane-glass-candle-holder-large:
-  name: Clear Glass Hurricane Candle Holder — Large
-  brand: Candle Impressions
+  name: PHOSPHOR Hurricane Candle Holders Clear Glass Cylinder
+  brand: PHOSPHOR
   hub: decor
-  amazon_asin: NOT_ON_AMAZON
+  amazon_asin: B0CLB6BWQQ
   price_band: budget
   default_pros:
-  - Classic cylinder hurricane protects taper flame from air movement during dinner
-  - Clear glass is fully neutral — works in any table setting from casual to formal
+  - Clear glass cylinder protects taper or pillar candle flame from air movement during
+    dinner service
+  - Fully neutral clear glass — works in any table setting from casual to formal
   - Tall profile creates the same visual drama as a vase centerpiece
   default_cons:
   - Glass cylinder collects soot with regular use — requires cleaning after each dinner
   - Plain cylinder has no distinguishing design feature; purely functional
-  notes_for_writers: The baseline hurricane holder. Good for readers who want the
-    candlelit atmosphere without the price of a designer piece.
+  notes_for_writers: Substituted from Candle Impressions Clear Glass Hurricane Candle
+    Holder Large (NOT_ON_AMAZON). Brand changed to PHOSPHOR. Match quality is high —
+    direct replacement in the clear glass hurricane cylinder category.
+  substitution_log:
+    original_name: "Clear Glass Hurricane Candle Holder — Large"
+    original_brand: Candle Impressions
+    substituted_date: "2026-05-15"
+    match_quality: high
+    justification: Candle Impressions large glass hurricane not available on Amazon.
+      PHOSPHOR clear glass cylinder hurricane is a direct functional equivalent.
 brass-pillar-candle-holders-set3:
   name: Brass Pillar Candle Holders (Set of 3, Varying Heights)
   brand: Dwell Studio
@@ -965,19 +1099,33 @@ certified-intl-talavera-serving-platter:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: mid
 chilewich-trellis-woven-navy-runner:
-  amazon_asin: NOT_ON_AMAZON
-  brand: Chilewich
-  default_cons:
-  - The vinyl-yarn construction has a slight sheen and texture that reads as modern
-    rather than traditional
-  default_pros:
-  - Chilewich's vinyl-yarn weave is heat-resistant, water-resistant, and machine washable
-    — fundamentally more durable than linen runners
-  - Navy Trellis is their most-photographed colourway for formal dining editorial
+  amazon_asin: B099NBG7BL
+  brand: D'Moksha
   hub: linens
-  name: Chilewich Trellis Woven Table Runner in Navy
-  notes_for_writers: added manually, catalog-growth session 2026-05-05
+  name: "Classic Linen by D'Moksha Navy Blue Table Runner 84\""
   price_band: mid
+  default_pros:
+  - Navy blue in an 84-inch length — covers a standard dining table with a natural
+    drape on each end
+  - Linen construction has the texture and weight expected of a quality table runner
+  - Classic neutral navy works with white, cream, and natural linen table settings
+  default_cons:
+  - Linen wrinkles and requires ironing or steaming before use for a formal table
+    presentation
+  - Not a vinyl-weave construction; lacks the water-resistant practical advantage
+    of the Chilewich original
+  notes_for_writers: Substituted from Chilewich Trellis Woven Table Runner in Navy
+    (NOT_ON_AMAZON). Brand changed to D'Moksha. Match quality is low — the Chilewich
+    vinyl-yarn durability advantage is not present. Position as a linen runner in the
+    same navy colorway.
+  substitution_log:
+    original_name: Chilewich Trellis Woven Table Runner in Navy
+    original_brand: Chilewich
+    substituted_date: "2026-05-15"
+    match_quality: low
+    justification: Chilewich not sold on Amazon. D'Moksha navy linen table runner provides
+      the same navy colorway and 84-inch length but lacks Chilewich's vinyl-yarn material
+      advantage.
 churchill-willow-blue-4pc-place-setting:
   amazon_asin: VERIFY
   brand: Churchill China
@@ -1049,19 +1197,30 @@ creative-co-op-bubble-glass-tealight-set4:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: budget
 creative-co-op-bud-vases-set6:
-  amazon_asin: NOT_ON_AMAZON
-  brand: Creative Co-Op
-  default_cons:
-  - Narrow necks limit the stem diameter of flowers that fit — works best with single-stem
-    or fine-stemmed flowers
+  amazon_asin: B09H294K98
+  brand: Carrot's Den
+  hub: decor
+  name: "Carrot's Den Set of 6 White Mini Ceramic Bud Vases"
+  price_band: budget
   default_pros:
   - 6-pack in varying heights creates an instant clustered centerpiece without additional
     styling
   - White ceramic is neutral and coordinates with all china and linen combinations
-  hub: decor
-  name: Creative Co-Op White Ceramic Bud Vases Set of 6
-  notes_for_writers: added manually, catalog-growth session 2026-05-05
-  price_band: budget
+  - Mini format allows placement at individual place settings or clustered as a centerpiece
+  default_cons:
+  - Narrow necks limit the stem diameter of flowers that fit — works best with single-stem
+    or fine-stemmed flowers
+  - Small size means limited water capacity; flowers may require daily refreshing
+  notes_for_writers: Substituted from Creative Co-Op White Ceramic Bud Vases Set of
+    6 (NOT_ON_AMAZON). Brand changed to Carrot's Den. Match quality is medium — same
+    set-of-6 white ceramic bud vase format in varying heights.
+  substitution_log:
+    original_name: Creative Co-Op White Ceramic Bud Vases Set of 6
+    original_brand: Creative Co-Op
+    substituted_date: "2026-05-15"
+    match_quality: medium
+    justification: Creative Co-Op bud vase set not available on Amazon. Carrot's Den
+      provides an equivalent white ceramic bud vase set of 6 in the same format.
 creative-co-op-mango-wood-bud-vase-set3:
   amazon_asin: NOT_ON_AMAZON
   brand: Creative Co-Op
@@ -1078,20 +1237,30 @@ creative-co-op-mango-wood-bud-vase-set3:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: mid
 creative-co-op-whitewash-centerpiece-box:
-  amazon_asin: NOT_ON_AMAZON
-  brand: Creative Co-Op
-  default_cons:
-  - Whitewash shows water rings from condensation if used to hold a vase directly
-    — use a liner
-  default_pros:
-  - Whitewash wood box is the specific form featured in centerpiece-wooden-box and
-    wooden-centerpiece-boxes articles
-  - Side handles make it practical as a seasonal decoration — move it from table to
-    sideboard without rearranging the contents
+  amazon_asin: B07HYHQJYQ
+  brand: MyGift
   hub: decor
-  name: Creative Co-Op Whitewash Wood Centerpiece Box with Handles
-  notes_for_writers: added manually, catalog-growth session 2026-05-05
+  name: MyGift Vintage White Wood Decorative Bin with Rope Handles
   price_band: mid
+  default_pros:
+  - Whitewash wood finish with rope handles — the farmhouse centerpiece box aesthetic
+    that works on dining tables and sideboards
+  - Rope handles make it easy to move and reposition as a seasonal decoration
+  - Versatile size for flower arrangements, herbs, or styled seasonal displays
+  default_cons:
+  - Wood construction shows water rings from condensation — use a liner for fresh
+    flower arrangements
+  - Rope handles are decorative rather than structural; not intended for heavy loads
+  notes_for_writers: Substituted from Creative Co-Op Whitewash Wood Centerpiece Box
+    (NOT_ON_AMAZON). Brand changed to MyGift. Same whitewash-wood-with-handles form.
+  substitution_log:
+    original_name: Creative Co-Op Whitewash Wood Centerpiece Box with Handles
+    original_brand: Creative Co-Op
+    substituted_date: "2026-05-15"
+    match_quality: medium
+    justification: Creative Co-Op whitewash box not available on Amazon. MyGift vintage
+      white wood bin is a direct functional substitute in the same whitewash-wood-with-handles
+      form.
 danya-b-metal-bow-candle-holders-pair:
   amazon_asin: NOT_ON_AMAZON
   brand: Danya B.
@@ -1149,33 +1318,61 @@ efavormart-clear-acrylic-charger-plates-set12:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: budget
 estelle-colored-glass-champagne-cobalt-set2:
-  amazon_asin: NOT_ON_AMAZON
-  brand: Estelle Colored Glass
-  default_cons:
-  - Sold in pairs — a table of 8 requires four orders at significant cumulative cost
-  default_pros:
-  - Hand-blown cobalt glass is the leading coloured-champagne-flute aesthetic in interior
-    design editorial
-  - The coloured stem catches candlelight — a decorative piece as much as a functional
-    one
+  amazon_asin: B0DMW2C1K7
+  brand: (unbranded)
   hub: glassware
-  name: Estelle Colored Glass Champagne Flutes Cobalt Blue Set of 2
-  notes_for_writers: added manually, catalog-growth session 2026-05-05
+  name: Blue Champagne Flutes Set of 6 6oz
   price_band: mid
+  default_pros:
+  - Set of 6 cobalt blue champagne flutes covers a dinner party table in one purchase
+    — more practical than the original set of 2
+  - Cobalt blue catches candlelight and reads as a decorative piece as much as a
+    functional one
+  - Compact 6oz format maintains carbonation well for champagne toasts
+  default_cons:
+  - Unbranded product lacks the hand-blown artisan quality and Estelle brand cachet
+  - Blue glass prevents visual assessment of champagne color and clarity
+  notes_for_writers: Substituted from Estelle Colored Glass Champagne Flutes Cobalt
+    Blue Set of 2 (NOT_ON_AMAZON). Brand changed to unbranded. Match quality is medium
+    — cobalt blue flute aesthetic is preserved but Estelle's hand-blown quality and
+    brand presence in design editorial are not. Set of 6 is an improvement over the
+    original set of 2.
+  substitution_log:
+    original_name: Estelle Colored Glass Champagne Flutes Cobalt Blue Set of 2
+    original_brand: Estelle Colored Glass
+    substituted_date: "2026-05-15"
+    match_quality: medium
+    justification: Estelle Colored Glass not available on Amazon. Unbranded blue champagne
+      flute set of 6 provides the same cobalt blue colored glass aesthetic in a more
+      practical set size.
 estelle-colored-glass-wine-emerald-set6:
-  amazon_asin: NOT_ON_AMAZON
-  brand: Estelle Colored Glass
-  default_cons:
-  - Colour intensity varies between hand-blown pieces — minor inconsistency is part
-    of the craft, but visible side by side
-  default_pros:
-  - Hand-blown emerald glass is the leading coloured wine glass in current interior
-    design editorial — the reference product for green-wine-glasses articles
-  - Sold as a set of 6 — practical for a dinner party without multiple orders
+  amazon_asin: B0CGTQ44NM
+  brand: comfit
   hub: glassware
-  name: Estelle Colored Glass Wine Glasses Emerald Green Set of 6
-  notes_for_writers: added manually, catalog-growth session 2026-05-05
+  name: comfit Hand Blown Emerald Green Wine Glasses Set of 6
   price_band: mid
+  default_pros:
+  - Hand-blown emerald green glass catches candlelight — the visual that drives green-wine-glasses
+    editorial content
+  - Set of 6 is practical for a dinner party without supplemental orders
+  - Hand-blown variation gives each glass a subtle organic character
+  default_cons:
+  - Colour intensity may vary between hand-blown pieces — minor inconsistency is part
+    of the craft process
+  - Emerald green is a committed aesthetic choice; limits pairing with certain table
+    linen colors
+  notes_for_writers: Substituted from Estelle Colored Glass Wine Glasses Emerald Green
+    Set of 6 (NOT_ON_AMAZON). Brand changed to comfit. Match quality is medium — the
+    hand-blown emerald green form is preserved but Estelle's brand cachet in design
+    editorial is not.
+  substitution_log:
+    original_name: Estelle Colored Glass Wine Glasses Emerald Green Set of 6
+    original_brand: Estelle Colored Glass
+    substituted_date: "2026-05-15"
+    match_quality: medium
+    justification: Estelle Colored Glass not available on Amazon. comfit hand-blown
+      emerald green wine glasses provide comparable hand-blown colored glass in the
+      same set-of-6 format.
 gibson-elite-coastal-12pc-dinnerware:
   amazon_asin: B0GH29M6SM
   brand: Gibson
@@ -1293,20 +1490,32 @@ juliska-country-estate-place-card-holders-set4:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: premium
 juliska-country-estate-table-runner:
-  amazon_asin: NOT_ON_AMAZON
-  brand: Juliska
-  default_cons:
-  - Premium pricing for a runner that explicitly does not press flat — a judgement
-    call on the value of the brand's aesthetic
-  default_pros:
-  - Country Estate linen runner coordinates with the full Juliska ceramic and linen
-    table collection
-  - Stonewashed finish means it does not require ironing — intentionally relaxed for
-    a farmhouse aesthetic
+  # NONE_FOUND substitute — original was Juliska Country Estate Table Runner (NOT_ON_AMAZON)
+  amazon_asin: B0CFXLKJFJ
+  brand: (unbranded)
   hub: linens
-  name: Juliska Country Estate Table Runner
-  notes_for_writers: added manually, catalog-growth session 2026-05-05
+  name: Farmhouse Rustic Faux Linen Table Runner
   price_band: premium
+  default_pros:
+  - Faux linen texture at a farmhouse-friendly price — works for casual harvest and
+    everyday table settings
+  - Machine washable and wrinkle-resistant; practical for frequent entertaining use
+  - Neutral natural tone layers over bare wood or a white tablecloth without competing
+  default_cons:
+  - Synthetic faux-linen construction is lighter in weight than genuine stonewashed
+    linen — the drape and feel differ noticeably from premium runners
+  - No brand provenance; not a collector or heirloom piece
+  notes_for_writers: Substituted from Juliska Country Estate Table Runner (NOT_ON_AMAZON).
+    Match quality is low — this is a functional alternative, not a like-for-like replacement.
+    Body copy that references Juliska by name will need a separate content edit pass.
+  substitution_log:
+    original_name: Juliska Country Estate Table Runner
+    original_brand: Juliska
+    substituted_date: "2026-05-15"
+    match_quality: low
+    justification: No Juliska table runners available on Amazon. Substituted with a
+      comparable faux-linen farmhouse runner that serves the same functional role.
+    body_copy_needs_review: true
 juliska-country-estate-tablecloth:
   amazon_asin: NOT_ON_AMAZON
   brand: Juliska
@@ -1351,34 +1560,59 @@ lenox-french-perle-blue-oval-platter:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: mid
 lenox-opal-innocence-12pc-set:
-  amazon_asin: NOT_ON_AMAZON
+  amazon_asin: B00007FXED
   brand: Lenox
-  default_cons:
-  - Platinum band is hand-wash only — a consideration for households that rely heavily
-    on the dishwasher
-  default_pros:
-  - Serves 4 in bone china with platinum band — the benchmark for American fine dining
-    china at mid-premium price
-  - 'Full Opal Innocence line allows expansion: add charger plates, serving pieces,
-    and mugs in the same pattern'
   hub: dinnerware
-  name: Lenox Opal Innocence 12-Piece Dinnerware Set
-  notes_for_writers: added manually, catalog-growth session 2026-05-05
+  name: Lenox Opal Innocence 5-Piece Place Setting
   price_band: premium
-lenox-opal-innocence-charger-plate:
-  amazon_asin: NOT_ON_AMAZON
-  brand: Lenox
-  default_cons:
-  - Platinum band is not dishwasher safe — hand-wash only to preserve the rim
   default_pros:
-  - Platinum-banded edge reads as elegant without requiring matching china in the
-    same pattern
-  - Pairs seamlessly with the Opal Innocence 12-piece dinnerware set for a unified
-    formal table
+  - Bone china with platinum-banded rim — the Opal Innocence aesthetic at an accessible
+    per-setting price point
+  - Dishwasher safe on delicate cycle; platinum band is more durable than most hand-painted
+    gold rims
+  - Full Opal Innocence line allows expansion with charger plates, serving pieces,
+    and mugs in the same pattern
+  default_cons:
+  - 5-piece place setting rather than a full 12-piece set — building service for four
+    requires four purchases
+  - Platinum band requires gentle washing to preserve the rim finish over time
+  notes_for_writers: Substituted from Lenox Opal Innocence 12-Piece Set (NOT_ON_AMAZON).
+    Brand is unchanged (Lenox). The 5-piece per-setting format differs from the 12-piece
+    box, but the pattern and quality are identical.
+  substitution_log:
+    original_name: Lenox Opal Innocence 12-Piece Dinnerware Set
+    original_brand: Lenox
+    substituted_date: "2026-05-15"
+    match_quality: high
+    justification: Same Lenox Opal Innocence pattern and construction; format changed
+      from 12-piece set to 5-piece place setting (only available format on Amazon).
+lenox-opal-innocence-charger-plate:
+  amazon_asin: B09FJNBGCZ
+  brand: MAONAME
   hub: dinnerware
-  name: Lenox Opal Innocence White Charger Plate
-  notes_for_writers: added manually, catalog-growth session 2026-05-05
+  name: MAONAME White Charger Plates with Gold Rim Set of 6
   price_band: mid
+  default_pros:
+  - Set of 6 white charger plates with gold rim — covers a full dinner party table
+    in one purchase
+  - Gold rim adds formal elegance and coordinates with gold flatware and warm-toned
+    table accessories
+  - Lightweight construction makes them practical to stack and store in quantity
+  default_cons:
+  - Gold rim requires gentle handling — metal utensils can scratch the rim finish
+  - Not a Lenox product; lacks the brand heritage and fine china construction of the
+    original Opal Innocence line
+  notes_for_writers: Substituted from Lenox Opal Innocence White Charger Plate (NOT_ON_AMAZON).
+    Brand changed to MAONAME. Match quality is medium — white with gold rim serves
+    the same formal table function at a significantly lower price point.
+  substitution_log:
+    original_name: Lenox Opal Innocence White Charger Plate
+    original_brand: Lenox
+    substituted_date: "2026-05-15"
+    match_quality: medium
+    justification: Lenox Opal Innocence charger not available on Amazon. MAONAME white
+      charger with gold rim provides comparable formal aesthetic at budget-friendly
+      pricing.
 libbey-embassy-champagne-flutes-set8:
   amazon_asin: B00164EGBS
   brand: Libbey
@@ -1407,18 +1641,33 @@ libbey-glass-serving-bowl-set3:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: budget
 libbey-midtown-stemless-cocktail-set12:
-  amazon_asin: NOT_ON_AMAZON
+  amazon_asin: B009B1BVBG
   brand: Libbey
-  default_cons:
-  - Stemless means the hand warms the drink — not suitable for cocktails served at
-    precise cold temperatures
-  default_pros:
-  - 12-pack makes them economical for home bars where breakage over time is the norm
-  - Stemless form reduces breakage risk versus stemmed cocktail glasses
   hub: glassware
-  name: Libbey Midtown Stemless Cocktail Glasses Set of 12
-  notes_for_writers: added manually, catalog-growth session 2026-05-05
+  name: Libbey Cosmopolitan Stemless Martini Glasses Set of 12
   price_band: budget
+  default_pros:
+  - 12-pack covers a full home bar without supplemental orders — the economical choice
+    for martini and cocktail service
+  - Stemless martini form reduces breakage risk compared to stemmed cocktail glasses
+  - Libbey glass construction is dishwasher safe and designed for repeated party use
+  default_cons:
+  - Stemless means the hand warms the drink — not suitable for drinks served at precise
+    cold temperatures
+  - Wide-open martini bowl allows aromas to dissipate quickly versus a stemmed glass
+    with a narrower opening
+  notes_for_writers: Substituted from Libbey Midtown Stemless Cocktail Glasses (NOT_ON_AMAZON).
+    Brand unchanged (Libbey). This ASIN is a stemless martini glass set of 12 — product
+    type is stemless cocktail/martini glasses set of 12.
+  substitution_log:
+    original_name: Libbey Midtown Stemless Cocktail Glasses Set of 12
+    original_brand: Libbey
+    substituted_date: "2026-05-15"
+    match_quality: high
+    justification: Same brand (Libbey), same stemless format, same 12-pack quantity.
+      Cosmopolitan model is the closest available Libbey stemless cocktail/martini
+      glass on Amazon.
+    product_type: "stemless cocktail/martini glasses set of 12"
 libbey-paneled-ribbed-wine-glasses-set4:
   amazon_asin: NOT_ON_AMAZON
   brand: Libbey
@@ -1448,19 +1697,31 @@ linen-tablecloth-black-rectangle-60x102:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: budget
 linen-tablecloth-black-white-check-runner:
-  amazon_asin: NOT_ON_AMAZON
-  brand: LinenTablecloth
-  default_cons:
-  - Woven check pattern can shift alignment after washing — re-press on the bias to
-    restore the pattern
-  default_pros:
-  - Black-and-white check is the most graphic, versatile runner pattern — works over
-    a white, ivory, or bare wood table
-  - Machine washable — practical for weekly entertaining use
+  amazon_asin: B06WRN4RX4
+  brand: DII
   hub: linens
-  name: LinenTablecloth Black and White Check Table Runner
-  notes_for_writers: added manually, catalog-growth session 2026-05-05
+  name: DII Buffalo Check Collection Table Runner
   price_band: budget
+  default_pros:
+  - Buffalo check pattern in black and white is the most graphic, versatile runner
+    for everyday and holiday table settings
+  - Machine washable cotton blend — practical for repeated weekly entertaining use
+  - Works over a white, ivory, or bare wood table without competing with the dinnerware
+  default_cons:
+  - Woven check pattern requires careful washing and pressing to maintain alignment
+  - Bold black-and-white check is a strong pattern commitment; limits neutral table
+    combinations
+  notes_for_writers: Substituted from LinenTablecloth Black and White Check Table
+    Runner (NOT_ON_AMAZON). Brand changed to DII. Match quality is high — DII Buffalo
+    Check Collection is a direct equivalent in the black-and-white check runner category.
+  substitution_log:
+    original_name: LinenTablecloth Black and White Check Table Runner
+    original_brand: LinenTablecloth
+    substituted_date: "2026-05-15"
+    match_quality: high
+    justification: LinenTablecloth black-white check runner not available on Amazon.
+      DII Buffalo Check Collection is a direct match in the same black-and-white check
+      table runner category with strong Amazon availability.
 linen-tablecloth-green-gingham-check:
   amazon_asin: B085HJ4SRD
   brand: LinenTablecloth
@@ -1506,19 +1767,31 @@ luigi-bormioli-atelier-champagne-set6:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: mid
 luigi-bormioli-optica-cocktail-set6:
-  amazon_asin: NOT_ON_AMAZON
+  amazon_asin: B0012M81V0
   brand: Luigi Bormioli
-  default_cons:
-  - Tall form makes these more prone to tipping than wide-base rocks glasses
-  default_pros:
-  - Tall Collins-style glass in titanium-reinforced crystal — practical for highball
-    serves and iced cocktails
-  - Optica line is noted for exceptional clarity — visual reference for tall-cocktail-glass
-    comparisons
   hub: glassware
-  name: Luigi Bormioli Optica Cocktail Glasses Set of 6
-  notes_for_writers: added manually, catalog-growth session 2026-05-05
+  name: Luigi Bormioli Michelangelo 20oz Beverage Glasses Set of 6
   price_band: mid
+  default_pros:
+  - Titanium-reinforced crystal resists breakage at the stem — the engineering advantage
+    Luigi Bormioli is known for
+  - 20oz capacity works for iced cocktails, highballs, and non-alcoholic beverages
+  - Set of 6 is practical for a full cocktail party setup
+  default_cons:
+  - Tall beverage glass form makes these more prone to tipping than wide-base rocks
+    glasses
+  - Titanium reinforcement slightly reduces clarity versus mouth-blown crystal
+  notes_for_writers: Substituted from Luigi Bormioli Optica Cocktail Glasses Set of
+    6 (NOT_ON_AMAZON). Brand unchanged (Luigi Bormioli). Michelangelo is the closest
+    Luigi Bormioli tall cocktail glass available on Amazon.
+  substitution_log:
+    original_name: Luigi Bormioli Optica Cocktail Glasses Set of 6
+    original_brand: Luigi Bormioli
+    substituted_date: "2026-05-15"
+    match_quality: medium
+    justification: Luigi Bormioli Optica not available on Amazon. Michelangelo 20oz
+      beverage glasses from the same brand provide the same titanium-reinforced tall
+      glass format.
 maison-arts-art-deco-dinnerware-16pc:
   amazon_asin: NOT_ON_AMAZON
   brand: Maison Arts
@@ -1562,19 +1835,23 @@ michael-aram-anemone-napkin-ring-set4:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: mid
 michael-aram-olive-branch-serving-platter:
+  # NONE_FOUND 2026-05-15: no qualifying Amazon substitute at ≥50 reviews. buy_url fallback added in Commit 2.
   amazon_asin: NOT_ON_AMAZON
   brand: Michael Aram
-  default_cons:
-  - Hand-wash only; the oxidised finish reacts to dishwasher detergent
+  hub: serveware
+  name: Michael Aram Olive Branch Serving Platter
+  price_band: premium
   default_pros:
   - Hand-crafted oxidised nickel with cast olive branch relief — the decorative serving
     piece for antique-serving-platters and old-serving-platters articles
   - Michael Aram's sculptural pieces have strong secondary market value — the brand
     that commands a premium for its narrative
-  hub: serveware
-  name: Michael Aram Olive Branch Serving Platter
-  notes_for_writers: added manually, catalog-growth session 2026-05-05
-  price_band: premium
+  default_cons:
+  - Hand-wash only; the oxidised finish reacts to dishwasher detergent
+  - Premium price for a decorative piece; the sculptural detail limits its use to
+    formal or collection-focused tables
+  notes_for_writers: added manually, catalog-growth session 2026-05-05. No Amazon
+    substitute found (NONE_FOUND 2026-05-15). buy_url set to michaelaram.com collection.
 michael-aram-twist-candle-holder:
   amazon_asin: NOT_ON_AMAZON
   brand: Michael Aram
@@ -1591,18 +1868,31 @@ michael-aram-twist-candle-holder:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: mid
 mikasa-metropolitan-charger-plate:
-  amazon_asin: NOT_ON_AMAZON
-  brand: Mikasa
-  default_cons:
-  - Sold individually rather than in sets — stocking a full table of 8 requires separate
-    orders
-  default_pros:
-  - Glazed porcelain edge holds its finish through regular dishwasher cycles
-  - Metropolitan line coordinates cleanly with Mikasa's bone china place settings
+  amazon_asin: B0BYHZTY5X
+  brand: Brightalk
   hub: dinnerware
-  name: Mikasa Metropolitan Charger Plate
-  notes_for_writers: added manually, catalog-growth session 2026-05-05
+  name: Brightalk 13-Inch Charger Plates Set of 6
   price_band: mid
+  default_pros:
+  - Set of 6 charger plates at a single purchase — practical for a full dinner party
+    table
+  - 13-inch diameter is the standard charger size; sits correctly under most dinner
+    plates
+  - Clean, neutral design works as a backdrop for any china pattern
+  default_cons:
+  - Not a Mikasa product; lacks the brand recognition of the original Metropolitan
+    line
+  - Generic design has no distinguishing decorative detail — purely functional
+  notes_for_writers: Substituted from Mikasa Metropolitan Charger Plate (NOT_ON_AMAZON).
+    Brand changed to Brightalk. Match quality is medium — same functional charger plate
+    category at comparable pricing.
+  substitution_log:
+    original_name: Mikasa Metropolitan Charger Plate
+    original_brand: Mikasa
+    substituted_date: "2026-05-15"
+    match_quality: medium
+    justification: Mikasa Metropolitan charger not available on Amazon. Brightalk 13-inch
+      charger set provides comparable function in a set-of-6 format that improves value.
 mud-pie-porcelain-place-cards-set12:
   amazon_asin: NOT_ON_AMAZON
   brand: Mud Pie
@@ -1647,20 +1937,30 @@ noritake-colorwave-granite-4pc:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: mid
 peacock-alley-hemstitch-tablecloth:
-  amazon_asin: NOT_ON_AMAZON
-  brand: Peacock Alley
-  default_cons:
-  - Premium price and limited retail availability make replacement of individual pieces
-    difficult
-  default_pros:
-  - American-made with Egyptian-cotton yarns — the premium domestic alternative to
-    Italian linen for hemstitched tablecloths
-  - Available in dusty blue and other muted tones that are difficult to find in hemstitched
-    linen at any price
+  amazon_asin: B07GSWLN89
+  brand: Simple & Opulence
   hub: linens
-  name: Peacock Alley Hemstitch Tablecloth
-  notes_for_writers: added manually, catalog-growth session 2026-05-05
+  name: Simple & Opulence Premium 100% Linen Hemstitch Tablecloth
   price_band: premium
+  default_pros:
+  - 100% linen construction with a hemstitch border — the traditional formal tablecloth
+    detail that elevates a white table
+  - Linen drapes naturally and develops a relaxed elegance with each wash
+  - Available in multiple sizes for long formal dining tables
+  default_cons:
+  - Linen requires ironing or steaming before use for a crisp formal table presentation
+  - Premium linen price point; a full table setup is a meaningful investment
+  notes_for_writers: Substituted from Peacock Alley Hemstitch Tablecloth (NOT_ON_AMAZON).
+    Brand changed to Simple & Opulence. Match quality is medium — 100% linen hemstitch
+    construction is preserved but Peacock Alley's American-made luxury brand narrative
+    is not.
+  substitution_log:
+    original_name: Peacock Alley Hemstitch Tablecloth
+    original_brand: Peacock Alley
+    substituted_date: "2026-05-15"
+    match_quality: medium
+    justification: Peacock Alley not available on Amazon. Simple & Opulence provides
+      a comparable 100% linen hemstitch tablecloth in the same formal table category.
 portmeirion-botanic-garden-4pc-set:
   amazon_asin: B01EYGHNUK
   brand: Portmeirion
@@ -1851,33 +2151,57 @@ sferra-hemstitched-linen-napkins-set4:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: premium
 simon-pearce-ascutney-red-wine-glass:
-  amazon_asin: NOT_ON_AMAZON
-  brand: Simon Pearce
-  default_cons:
-  - Hand-blown glass requires hand-washing — premium care for a premium piece
-  default_pros:
-  - Mouth-blown in Vermont — each glass has a subtle organic irregularity that distinguishes
-    it from machine production
-  - Thick base and generous bowl make it the most stable of Simon Pearce's wine glasses
-    for a set table
+  amazon_asin: B091G8952N
+  brand: BACLIFE
   hub: glassware
-  name: Simon Pearce Ascutney Red Wine Glass
-  notes_for_writers: added manually, catalog-growth session 2026-05-05
+  name: BACLIFE Hand Blown Red Wine Glasses Set of 4
   price_band: premium
-simon-pearce-woodstock-vase:
-  amazon_asin: NOT_ON_AMAZON
-  brand: Simon Pearce
-  default_cons:
-  - Hand-blown glass requires hand-washing — a significant consideration for a vase
-    cleaned regularly after flower use
   default_pros:
-  - Mouth-blown in Vermont — the organic form and slight asymmetry that distinguishes
-    it from machine-cast glass
-  - Heavy base makes it stable with large stem arrangements — not a tipping risk
+  - Hand-blown construction gives each glass a subtle organic variation — the artisan
+    character that distinguishes hand-made from machine production
+  - Generous bowl shape is well-suited for full-bodied reds; substantial base for
+    table stability
+  - Set of 4 is practical for a dinner party without supplemental orders
+  default_cons:
+  - Hand-blown variation means glasses won't be perfectly matched in a set — minor
+    differences in height and bowl shape are inherent
+  - Hand-wash recommended to preserve the hand-blown finish
+  notes_for_writers: Substituted from Simon Pearce Ascutney Red Wine Glass (NOT_ON_AMAZON).
+    Brand changed to BACLIFE. Match quality is medium — BACLIFE provides hand-blown
+    character at a lower price point, but lacks the Vermont artisan provenance.
+  substitution_log:
+    original_name: Simon Pearce Ascutney Red Wine Glass
+    original_brand: Simon Pearce
+    substituted_date: "2026-05-15"
+    match_quality: medium
+    justification: Simon Pearce not sold on Amazon. BACLIFE hand-blown red wine glasses
+      offer comparable artisan hand-blown construction and bowl shape at a lower price.
+simon-pearce-woodstock-vase:
+  amazon_asin: B091TMDJK3
+  brand: MDLUU
   hub: decor
-  name: Simon Pearce Woodstock Vase
-  notes_for_writers: added manually, catalog-growth session 2026-05-05
+  name: MDLUU Decorative Hand-Blown Glass Bubble Vase 11"
   price_band: premium
+  default_pros:
+  - Hand-blown glass with an organic bubble form — the artisan character that distinguishes
+    it from machine-cast glass vases
+  - 11-inch height is substantial enough for large stem arrangements as a table centerpiece
+  - Unique bubble texture catches and scatters candlelight
+  default_cons:
+  - Hand-blown construction requires hand-washing — particularly important for a vase
+    cleaned regularly after flower use
+  - Organic bubble texture is a specific aesthetic; may not suit clean-line or minimalist
+    table settings
+  notes_for_writers: Substituted from Simon Pearce Woodstock Vase (NOT_ON_AMAZON).
+    Brand changed to MDLUU. Match quality is medium — hand-blown glass construction
+    is preserved but Simon Pearce's Vermont artisan provenance is not.
+  substitution_log:
+    original_name: Simon Pearce Woodstock Vase
+    original_brand: Simon Pearce
+    substituted_date: "2026-05-15"
+    match_quality: medium
+    justification: Simon Pearce not sold on Amazon. MDLUU hand-blown glass bubble vase
+      provides comparable hand-blown artisan glass in a similar height range.
 spode-blue-italian-5pc-place-setting:
   amazon_asin: B0002PD2GM
   brand: Spode
