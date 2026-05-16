@@ -46,9 +46,9 @@ def test_schema_builder_loads_url_from_config():
     assert "_get_site_url()" in text, "schema_builder.py should load SITE_URL from config"
 
 
-def test_author_is_wendy_in_system_prompt():
+def test_author_is_sarah_in_system_prompt():
     from article_builder import SYSTEM
-    assert "Wendy Collins" in SYSTEM, "SYSTEM prompt should reference Wendy Collins"
+    assert "Sarah Collins" in SYSTEM, "SYSTEM prompt should reference Sarah Collins"
 
 
 def test_american_english_rules_in_system_prompt():
