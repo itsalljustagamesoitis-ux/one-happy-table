@@ -61,7 +61,7 @@ Both pieces earn their place in a well-considered [Glassware & Crystal](/glasswa
 
 For everyday table service , water at dinner, juice at brunch, iced tea on the patio , the [Anchor Hocking 1.5-Liter Glass Carafe with Lid](product:anchor-hocking-glass-carafe-1.5l) is the clearest, most practical answer I've found at the budget end of the market. The 1.5-liter capacity handles a full table of four without a second trip to the kitchen. The included lid keeps still water cold and dust-free between uses.
 
-The glass is thick enough to feel substantial without being heavy when full. Anchor Hocking's manufacturing is consistent , I've owned pieces from this line for years and haven't seen the clouding or micro-scratching that can develop in cheaper pressed glass after repeated dishwasher cycles. That dishwasher-safe designation is not a small thing if you're using this piece daily.
+The glass is thick enough to feel substantial without being heavy when full. Anchor Hocking's manufacturing is consistent , Pieces from this line have been in use for years without the clouding or micro-scratching that can develop in cheaper pressed glass after repeated dishwasher cycles. That dishwasher-safe designation is not a small thing if you're using this piece daily.
 
 The one honest limitation is the pour. The wide mouth that makes this carafe easy to fill and easy to clean also means there's no collar to control the flow. On a deliberate, slow pour it's fine. On a quick pour mid-conversation, there's a drip. It is a minor frustration rather than a design flaw, but worth knowing before you set it on a white tablecloth.
 

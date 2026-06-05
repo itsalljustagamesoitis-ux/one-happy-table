@@ -50,7 +50,7 @@ faq:
 
 Coupe glasses carry a particular kind of expectation. Whether you're shaking a Daiquiri for two or setting a bar cart that actually gets used, the glass you reach for shapes the experience more than most people admit. I've spent years hosting everything from casual cocktail nights to formal dinner parties in Charleston, and the right coupe , or the right stemless alternative , makes a genuine difference in how a drink lands. Choosing from the full range of [glassware and crystal](/glassware/) options takes some sorting, so here's where I'd start.
 
-The honest answer is that "coupe glass" has drifted into meaning almost anything wide-mouthed and cocktail-adjacent. This guide cuts through that. I tested three very different approaches , a true Tritan crystal coupe, a budget-friendly stemless option, and a highball engineered for long drinks , to give you a direct recommendation depending on what you actually pour.
+The honest answer is that "coupe glass" has drifted into meaning almost anything wide-mouthed and cocktail-adjacent. This guide cuts through that. Testing covered three very different approaches — a true Tritan crystal coupe, a budget-friendly stemless option, and a highball engineered for long drinks — to give you a direct recommendation depending on what you actually pour.
 
 ## What to Look For in Coupe Glasses for Cocktails
 

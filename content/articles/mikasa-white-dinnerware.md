@@ -110,13 +110,15 @@ The limitation is the same one that applies to all fine bone china: rim chipping
 
 [Check current price on Amazon.](product:royal-doulton-gordon-ramsay-maze-mug)
 
-### Lenox Opal Innocence 12-Piece Dinnerware Set
+### Lenox Opal Innocence Carved 20-Piece Dinnerware Set
 
-The [Lenox Opal Innocence 12-Piece Dinnerware Set](product:lenox-opal-innocence-12pc-set) occupies a different position in this category , this is the premium option for a buyer who wants American fine dining china and intends to build a complete table around a single pattern over time. The platinum band on bone china is the benchmark against which most white dinnerware in this price range gets measured.
+The [Lenox Opal Innocence Carved 20-Piece Dinnerware Set](product:lenox-opal-innocence-12pc-set) occupies a different position in this category , this is the premium option for a buyer who wants American fine dining china and intends to build a complete table around a single pattern over time. The platinum band on bone china is the benchmark against which most white dinnerware in this price range gets measured.
 
-Twelve pieces covers four place settings in dinner plate, salad plate, and bowl , no mugs, which keeps the price band accessible while preserving the formal character of the set. The full Opal Innocence line extends to charger plates, serving pieces, and mugs in the same pattern, so expansion is genuinely supported rather than theoretical.
+Twenty pieces covers four place settings with five pieces per setting — dinner plate, salad plate, bread plate, bowl, and mug. The full Opal Innocence line extends to charger plates and serving pieces in the same pattern, so expansion is genuinely supported rather than theoretical.
 
 The platinum band is hand-wash only. For a set used primarily for entertaining, that's a manageable constraint. For buyers expecting daily dishwasher use, it's a real factor to weigh against the pattern's elegance.
+
+The Carved variant retains the bone china body and platinum-banded rim of the original Opal Innocence pattern, with scrollwork raised in relief rather than the enamel vine dot accent of the discontinued line.
 
 ![Lenox fine china place setting with platinum band detail](/images/articles/dinnerware-3.jpg)
 

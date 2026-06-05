@@ -108,19 +108,19 @@ The limitation is real and worth stating plainly: tempered glass doesn't chip , 
 
 [Check current price on Amazon.](product:anchor-hocking-presence-glass-dinnerware)
 
-### Lenox Opal Innocence 12-Piece Dinnerware Set
+### Lenox Opal Innocence Carved 20-Piece Dinnerware Set
 
-Bone china at this construction level has a translucency and lightness that no stoneware or standard ceramic can replicate , and the [Lenox Opal Innocence 12-Piece Dinnerware Set](product:lenox-opal-innocence-12pc-set) is the benchmark for that quality in American fine dining. The platinum band at the rim is understated enough to work with silver or gold flatware, and the ivory-white body photographs beautifully if that matters for your table styling.
+Bone china at this construction level has a translucency and lightness that no stoneware or standard ceramic can replicate , and the [Lenox Opal Innocence Carved 20-Piece Dinnerware Set](product:lenox-opal-innocence-12pc-set) is the benchmark for that quality in American fine dining. The platinum band at the rim is understated enough to work with silver or gold flatware, and the ivory-white body photographs beautifully if that matters for your table styling.
 
 What sets this apart from the Mikasa option isn't just the bone china body , it's the ecosystem. The full Opal Innocence line extends to charger plates, serving bowls, mugs, and accent pieces. Buying into this pattern means you can build a complete formal table without mixing manufacturers or wrestling with mismatched proportions. For someone building toward a complete entertaining set over several years, that expandability matters.
 
 The platinum band is hand-wash only. That's a genuine constraint in a household that runs the dishwasher after every dinner. It's not a reason to avoid this set if formal entertaining is genuinely how you use your china , but it's worth being honest with yourself about how your kitchen actually operates before committing at this price tier.
 
+The Carved variant retains the bone china body and platinum-banded rim of the original Opal Innocence pattern, with scrollwork raised in relief rather than the enamel vine dot accent of the discontinued line.
+
 ![Bone china dinnerware with platinum band detail](/images/articles/dinnerware-3.jpg)
 
 ,
-
-*Note: This product is not currently available through Amazon. Check the Lenox website or authorized retailers for current availability.*
 
 [Check current price on Amazon.](product:lenox-opal-innocence-12pc-set)
 
@@ -163,7 +163,7 @@ If open stock isn't available for a pattern you love, buy one extra place settin
 You need twelve complete place settings , one dinner plate, one salad plate, and one soup bowl per guest at minimum, plus mugs if your service includes coffee or tea. Many sets marketed for twelve actually contain twelve individual pieces rather than twelve complete place settings, so always confirm the definition before purchasing. Three standard four-place-setting sets is a common and cost-effective way to reach twelve.
 ### What's the difference between fine china, bone china, and stoneware for everyday use?
 
-Fine china and bone china are thinner, lighter, and more formal in appearance than stoneware, but they chip more easily and often require more careful dishwasher handling. Stoneware is denser and more forgiving of casual use, making it a better fit for daily table rotation. Bone china , like the [Lenox Opal Innocence 12-Piece Dinnerware Set](product:lenox-opal-innocence-12pc-set) , has a distinctive translucency and is the standard for formal entertaining.
+Fine china and bone china are thinner, lighter, and more formal in appearance than stoneware, but they chip more easily and often require more careful dishwasher handling. Stoneware is denser and more forgiving of casual use, making it a better fit for daily table rotation. Bone china , like the [Lenox Opal Innocence Carved 20-Piece Dinnerware Set](product:lenox-opal-innocence-12pc-set) , has a distinctive translucency and is the standard for formal entertaining.
 ### Is tempered glass dinnerware safe for everyday use?
 
 Yes. Tempered glass is one of the safest dinnerware materials available , it's non-porous, contains no lead or cadmium, and won't absorb food residue or detergent chemicals. The [Anchor Hocking Presence Glass Dinnerware Set](product:anchor-hocking-presence-glass-dinnerware) is a strong example of this category. The main safety caveat is breakage: tempered glass shatters completely when dropped rather than chipping, so handle accordingly.
@@ -192,7 +192,7 @@ Search the manufacturer's website for "open stock" in the pattern name, or call 
  "name": "What's the difference between fine china, bone china, and stoneware for everyday use?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "Fine china and bone china are thinner, lighter, and more formal in appearance than stoneware, but they chip more easily and often require more careful dishwasher handling. Stoneware is denser and more forgiving of casual use, making it a better fit for daily table rotation. Bone china , like the Lenox Opal Innocence 12-Piece Dinnerware Set , has a distinctive translucency and is the standard for formal entertaining."
+ "text": "Fine china and bone china are thinner, lighter, and more formal in appearance than stoneware, but they chip more easily and often require more careful dishwasher handling. Stoneware is denser and more forgiving of casual use, making it a better fit for daily table rotation. Bone china , like the Lenox Opal Innocence Carved 20-Piece Dinnerware Set , has a distinctive translucency and is the standard for formal entertaining."
  }
  },
  {

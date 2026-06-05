@@ -82,9 +82,9 @@ Check manufacturer dimensions before buying. Plates with foot rings that allow s
 
 ## Top Picks
 
-### Maison Arts Art Deco Matte Black and Gold 16-Piece Dinnerware Set
+### LOVECASA Art Deco Matte Black 16-Piece Porcelain Dinnerware Set
 
-For anyone who has spent time on Pinterest looking at table settings, the matte black and gold combination is the single most-recognized art deco aesthetic in home entertaining right now. The [Maison Arts Art Deco Matte Black and Gold 16-Piece Dinnerware Set](product:maison-arts-art-deco-dinnerware-16pc) leans directly into that look , matte black porcelain body, gold rim, clean geometric lines. It photographs exceptionally well, which matters if you host and share those moments.
+For anyone who has spent time on Pinterest looking at table settings, the matte black and gold combination is the single most-recognized art deco aesthetic in home entertaining right now. The [LOVECASA Art Deco Matte Black 16-Piece Porcelain Dinnerware Set](product:maison-arts-art-deco-dinnerware-16pc) leans directly into that look , matte black porcelain body, gold rim, clean geometric lines. It photographs exceptionally well, which matters if you host and share those moments.
 
 At 16 pieces for four, it covers dinner plates, salad plates, bowls, and mugs , a complete table without needing to supplement. For couples who entertain small groups rather than large gatherings, this is the right scale.
 
@@ -110,13 +110,15 @@ The breakage behavior requires an honest mention. Tempered glass doesn't chip , 
 
 [Check current price on Amazon.](product:anchor-hocking-presence-glass-dinnerware)
 
-### Lenox Opal Innocence 12-Piece Dinnerware Set
+### Lenox Opal Innocence Carved 20-Piece Dinnerware Set
 
-Bone china with a platinum band is a category definition, and the [Lenox Opal Innocence 12-Piece Dinnerware Set](product:lenox-opal-innocence-12pc-set) is the American benchmark for this style at a mid-premium price. The translucency and weight of the pieces signal quality in a way that photographs can't fully convey , you notice it when you pick up a plate. For formal dinners and occasions that call for something genuinely elevated, this is the set that earns the occasion.
+Bone china with a platinum band is a category definition, and the [Lenox Opal Innocence Carved 20-Piece Dinnerware Set](product:lenox-opal-innocence-12pc-set) is the American benchmark for this style at a mid-premium price. The translucency and weight of the pieces signal quality in a way that photographs can't fully convey , you notice it when you pick up a plate. For formal dinners and occasions that call for something genuinely elevated, this is the set that earns the occasion.
 
 The Opal Innocence line's real strength is its depth. Charger plates, serving platters, mugs, and additional place settings are all available in the same pattern, which means you can start with the 12-piece set and expand deliberately as your entertaining needs grow. That expandability is rare in art deco-adjacent fine china and worth weighing seriously.
 
 The platinum banding is hand-wash only , this is standard for platinum-decorated bone china, not a quality issue specific to this set. If your household uses the dishwasher for everything without exception, this will create friction. If you're comfortable hand-washing a set reserved for formal dinners rather than daily use, that friction essentially disappears.
+
+The Carved variant retains the bone china body and platinum-banded rim of the original Opal Innocence pattern, with scrollwork raised in relief rather than the enamel vine dot accent of the discontinued line.
 
 ![Lenox bone china set with platinum banding on a formal table setting](/images/articles/dinnerware-3.jpg)
 

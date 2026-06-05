@@ -141,15 +141,15 @@ One practical note: the platinum band is hand-wash only. For households that run
 
 *Note: This product is not currently available on Amazon. Search for Lenox Opal Innocence at authorized retailers.*
 
-### Maison Arts Art Deco Matte Black and Gold 16-Piece Dinnerware Set
+### LOVECASA Art Deco Matte Black 16-Piece Porcelain Dinnerware Set
 
-The Maison Arts Art Deco Matte Black and Gold 16-Piece Dinnerware Set is the most visually striking option on this list, and the most specific in what it asks of the table around it. Matte black porcelain with a gold rim photographs exceptionally well , it's the aesthetic that dominates styled dinner party content for a reason. Set against white or ivory linens with tapered candles, it reads genuinely dramatic.
+The LOVECASA Art Deco Matte Black 16-Piece Porcelain Dinnerware Set is the most visually striking option on this list, and the most specific in what it asks of the table around it. Matte black porcelain with a gold rim photographs exceptionally well , it's the aesthetic that dominates styled dinner party content for a reason. Set against white or ivory linens with tapered candles, it reads genuinely dramatic.
 
 The 16-piece count , dinner plates, salad plates, bowls, and mugs for four , is practical for the buyer who entertains small groups regularly. Porcelain construction keeps the non-toxic profile solid: the vitrified body is dense and the matte glaze, once fired, does not degrade under normal use conditions the way lower-fired ceramic glazes can.
 
 Matte finishes show dried water spots prominently. Hand-drying immediately after washing is not optional with this set , it's a maintenance habit the finish requires. That said, for buyers who are willing to accommodate that, the aesthetic payoff is real.
 
-*Note: This product is not currently available on Amazon. Search for Maison Arts Art Deco dinnerware at authorized retailers.*
+*Note: This product is not currently available on Amazon. Check authorized retailers for availability.*
 
 ## How to Choose
 

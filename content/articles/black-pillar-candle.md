@@ -168,7 +168,7 @@ They're designed for tealights, but bare tealights , those without a metal cup ,
 ### How many candle holders do I need for a dinner table centerpiece?
 
 For a table that seats six to eight people, three holders at varied heights create a centerpiece with genuine visual weight. Fewer than three tends to read as sparse rather than minimal. If you want candlelight that extends beyond the centerpiece to the place settings, add four smaller holders , one per setting or clustered in pairs at each end , to carry the glow across the full table surface.
-### Does the brass finish on the Dwell Studio set require any maintenance?
+### Does the lacquered brass finish on pillar candle holders require maintenance?
 
 The lacquered brass finish doesn't require polishing the way unlacquered brass does , the lacquer prevents oxidation. What it does require is gentle handling at the base edges, where the coating is most vulnerable. Avoid abrasive cleaning materials, and wipe the holders down with a soft dry cloth after each use. If wax drips onto the holders, let it cool fully before flexing it off; using heat or sharp tools to remove wax risks the finish.
 <script type="application/ld+json">
@@ -210,7 +210,7 @@ The lacquered brass finish doesn't require polishing the way unlacquered brass d
  },
  {
  "@type": "Question",
- "name": "Does the brass finish on the Dwell Studio set require any maintenance?",
+ "name": "Does the lacquered brass finish on pillar candle holders require maintenance?",
  "acceptedAnswer": {
  "@type": "Answer",
  "text": "The lacquered brass finish doesn't require polishing the way unlacquered brass does , the lacquer prevents oxidation. What it does require is gentle handling at the base edges, where the coating is most vulnerable. Avoid abrasive cleaning materials, and wipe the holders down with a soft dry cloth after each use. If wax drips onto the holders, let it cool fully before flexing it off; using heat or sharp tools to remove wax risks the finish."

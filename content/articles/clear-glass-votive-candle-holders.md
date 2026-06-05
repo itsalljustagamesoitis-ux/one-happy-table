@@ -43,7 +43,7 @@ faq:
   - question: "What is the easiest way to remove wax from glass votive holders?"
     answer: "The freezer method works reliably: place the spent holder in the freezer for an hour and the contracted wax pops free with light pressure from a wooden or silicone tool. Avoid metal tools against glass, which scratch the interior over time and are the most common cause of the hazy look that accumulates in frequently used votives. A warm water soak handles remaining wax residue, and a drop of dish soap clears the oily film."
   - question: "Is the lacquered brass pillar candle holder suitable for outdoor entertaining?"
-    answer: "Lacquered brass finishes are not designed for sustained outdoor exposure. Humidity and temperature swings accelerate the edge peeling that can happen even with indoor use over time. The Dwell Studio brass set is best kept as an indoor holder. For a covered porch or outdoor dining table, look for powder-coated metal or sealed ceramic options designed to handle moisture."
+    answer: "Lacquered brass finishes are not designed for sustained outdoor exposure. Humidity and temperature swings accelerate the edge peeling that can happen even with indoor use over time. These holders are best kept indoors. For a covered porch or outdoor dining table, look for powder-coated metal or sealed ceramic options designed to handle moisture."
   - question: "How do I style simple glass votives alongside sculptural candlestick holders without the table looking cluttered?"
     answer: "Keep one type as the primary focal point and let the other play a supporting role. A pair of sculptural Michael Aram Butterfly Ginkgo holders at the center, flanked by a line of clear glass votives, gives the sculptural piece room to read clearly while the votives add warmth and volume across the table. When everything on the table competes for attention equally, nothing wins — choose a focal point and let the rest support it."
 ---
@@ -96,7 +96,7 @@ The trade-off worth knowing: the glass walls are thin enough that metal tongs us
 
 ### Brass Pillar Candle Holders (Set of 3, Varying Heights)
 
-A cluster of three holders at different heights reads as a deliberate centerpiece rather than a row of candles , and the [Brass Pillar Candle Holders (Set of 3, Varying Heights)](product:brass-pillar-candle-holders-set3) from Dwell Studio deliver that arrangement out of the box, without sourcing holders separately and hoping the proportions work. The three predetermined heights are well-chosen: low, medium, and tall create visual depth without requiring any of them to be extreme.
+A cluster of three holders at different heights reads as a deliberate centerpiece rather than a row of candles , and the [Brass Pillar Candle Holders (Set of 3, Varying Heights)](product:brass-pillar-candle-holders-set3) deliver that arrangement out of the box, without sourcing holders separately and hoping the proportions work. The three predetermined heights are well-chosen: low, medium, and tall create visual depth without requiring any of them to be extreme.
 
 The brass finish is warm in a way that flatters candlelight specifically , more so than chrome or matte black, which compete with the flame rather than extending it. This is the quality that makes modular brass taper candle holders worth the investment for serious tablescapers, and it's present here at a substantially lower price point.
 
@@ -146,7 +146,7 @@ If you're building a candle collection from scratch, starting with votives at vo
 
 A holder you use weekly demands more durability than one that comes out three times a year for holidays. For frequent use, prioritize thick glass or metal construction, easy wax removal, and a design that doesn't require careful storage between uses. For occasional use, you have more latitude , a delicate sculptural piece that lives in a cabinet most of the year is a reasonable purchase even if it requires careful handling.
 
-The Circleware set is built for frequency. The Michael Aram pair is built for occasions. The Dwell Studio brass holders sit comfortably in between , substantial enough for regular use, decorative enough to justify saving for a better table.
+The Circleware set is built for frequency. The Michael Aram pair is built for occasions. The brass pillar holders sit comfortably in between , substantial enough for regular use, decorative enough to justify saving for a better table.
 
 ### Wax Cleanup and Ongoing Maintenance
 
@@ -167,7 +167,7 @@ Votive holders are taller and designed to contain a votive candle that burns dow
 The most reliable method is the freezer technique: place the spent holder in the freezer for an hour, and the contracted wax will pop free with light pressure from a wooden or silicone tool. Avoid metal tools against glass, which is the most common cause of interior scratching over time. A warm water soak works for the wax residue that remains, and a drop of dish soap handles any oily film.
 ### Are the Brass Pillar Candle Holders suitable for outdoor use?
 
-Lacquered brass finishes are not designed for sustained outdoor exposure. Humidity and temperature swings accelerate the peeling that can happen at edges over time even with indoor use. The Dwell Studio set is best kept as an indoor holder. If you need holders for a covered porch or outdoor dining table, look for powder-coated metal or sealed ceramic options designed to handle moisture.
+Lacquered brass finishes are not designed for sustained outdoor exposure. Humidity and temperature swings accelerate the peeling that can happen at edges over time even with indoor use. These holders are best kept indoors. If you need holders for a covered porch or outdoor dining table, look for powder-coated metal or sealed ceramic options designed to handle moisture.
 ### How do I style votive holders alongside sculptural candlestick holders without the table looking cluttered?
 
 The rule that works consistently is to keep one type as the primary and let the other play a supporting role. A pair of Michael Aram Butterfly Ginkgo holders as a centerpiece, flanked by a line of simple clear glass votives, gives the sculptural piece room to read clearly while the votives add warmth and volume. If everything on the table is competing for attention, nothing wins. Choose a focal point and let the rest of the table support it.
@@ -205,7 +205,7 @@ The rule that works consistently is to keep one type as the primary and let the 
  "name": "Are the Brass Pillar Candle Holders suitable for outdoor use?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "Lacquered brass finishes are not designed for sustained outdoor exposure. Humidity and temperature swings accelerate the peeling that can happen at edges over time even with indoor use. The Dwell Studio set is best kept as an indoor holder. If you need holders for a covered porch or outdoor dining table, look for powder-coated metal or sealed ceramic options designed to handle moisture."
+ "text": "Lacquered brass finishes are not designed for sustained outdoor exposure. Humidity and temperature swings accelerate the peeling that can happen at edges over time even with indoor use. These holders are best kept indoors. If you need holders for a covered porch or outdoor dining table, look for powder-coated metal or sealed ceramic options designed to handle moisture."
  }
  },
  {

@@ -43,7 +43,7 @@ faq:
   - question: "Is the Lenox Opal Innocence worth the premium over mid-range porcelain sets?"
     answer: "If you host formal dinners and holiday meals, yes. Opal Innocence is bone china with a platinum band and a full expandable line — charger plates, serving pieces, and additional place settings are all available in the same pattern. The trade-off is hand-wash only for the platinum band and a higher entry cost. For casual everyday entertaining, the premium is harder to justify."
   - question: "How many place settings do I need for a starter dinnerware set?"
-    answer: "A 12-piece service for four is the standard starting point for a couple building a formal or semi-formal table. If you regularly entertain six to eight, confirm the pattern you buy is expandable. Not all sets offer additional place settings in the same design — established lines like Lenox Opal Innocence allow you to add four-piece expansions over time without mismatching."
+    answer: "A 20-piece service for four is a solid starting point for a couple building a formal or semi-formal table. If you regularly entertain six to eight, confirm the pattern you buy is expandable. Not all sets offer additional place settings in the same design — established lines like Lenox Opal Innocence allow you to add place settings over time without mismatching."
   - question: "What does hand-wash only mean for dinnerware with a platinum or gold band?"
     answer: "Metallic banding degrades in the dishwasher over repeated cycles — the high water pressure and detergent chemistry dull the finish and eventually strip it. Hand-washing means warm soapy water, no abrasive scrubbers, and immediate drying rather than air-drying. For sets used only on formal occasions a few times a year, that routine is manageable. For weekly use, the maintenance burden adds up."
 ---
@@ -120,13 +120,15 @@ The constraint is real and worth naming plainly: this is a casual pattern. It re
 
 [Check current price on Amazon.](product:lenox-butterfly-meadow-12pc)
 
-### Lenox Opal Innocence 12-Piece Dinnerware Set
+### Lenox Opal Innocence Carved 20-Piece Dinnerware Set
 
-Bone china with a platinum band is a commitment , to the aesthetic, to the occasion, and to how you care for your things. The [Lenox Opal Innocence 12-Piece Dinnerware Set](product:lenox-opal-innocence-12pc-set) is the set you buy when you want the table to feel genuinely formal rather than approximating formality with mid-range porcelain. The white-on-white embossed pattern with platinum rim is understated in a way that reads expensive without announcing itself.
+Bone china with a platinum band is a commitment , to the aesthetic, to the occasion, and to how you care for your things. The [Lenox Opal Innocence Carved 20-Piece Dinnerware Set](product:lenox-opal-innocence-12pc-set) is the set you buy when you want the table to feel genuinely formal rather than approximating formality with mid-range porcelain. The white-on-white embossed pattern with platinum rim is understated in a way that reads expensive without announcing itself.
 
 The practical reality of the platinum band is hand-wash only , no negotiation. For households that entertain formally several times a year and treat those occasions as worthy of extra care, that's a reasonable trade. For households that want fine china they can use weekly and run through the dishwasher, it's the wrong set.
 
-Where this set justifies its premium position is expandability. The full Opal Innocence line includes charger plates, serving pieces, mugs, and additional place settings , you can grow this table over years without losing pattern continuity. Bone china that can be expanded and matched over a decade of hosting is a different kind of value than a starter set that terminates at twelve pieces.
+Where this set justifies its premium position is expandability. The full Opal Innocence line includes charger plates, serving pieces, mugs, and additional place settings , you can grow this table over years without losing pattern continuity. Bone china that can be expanded and matched over a decade of hosting is a different kind of value than a closed set.
+
+The Carved variant retains the bone china body and platinum-banded rim of the original Opal Innocence pattern, with scrollwork raised in relief rather than the enamel vine dot accent of the discontinued line.
 
 ![Bone china place setting with platinum band detail](/images/articles/dinnerware-3.jpg)
 

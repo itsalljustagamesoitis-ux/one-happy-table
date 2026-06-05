@@ -48,7 +48,7 @@ faq:
     answer: "A single holder at the center of the table seats two to four comfortably. For six to eight guests, you want at least two or three points of flame to spread the light evenly. The modular chrome candle holder system is specifically designed for this — start with three and expand the configuration as your needs change. Single-unit pieces like the Michael Aram Twist and the glass hurricane require buying multiples separately, which means a different kind of investment and a consistency-of-style consideration."
 ---
 
-Candle holders sit at the intersection of function and atmosphere , they change how a table feels, not just how it looks. The right holder shapes the entire [Decor & Candles](/decor/) conversation at your table, whether you're setting for two on a Tuesday or arranging something deliberate for a dinner party. I've tested enough of these to know that the difference between a forgettable table and a genuinely beautiful one often comes down to what holds the flame.
+Candle holders sit at the intersection of function and atmosphere , they change how a table feels, not just how it looks. The right holder shapes the entire [Decor & Candles](/decor/) conversation at your table, whether you're setting for two on a Tuesday or arranging something deliberate for a dinner party. Enough of these have been tested here to know that the difference between a forgettable table and a genuinely beautiful one often comes down to what holds the flame.
 
 Most buyers already know they want candlelight. What separates a good choice from a regrettable one is understanding how the holder's material, form, and scale interact with everything else on the table , and whether the piece works hard enough to justify the space it occupies.
 

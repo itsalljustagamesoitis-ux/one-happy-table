@@ -15,7 +15,7 @@ products:
     role: "best_overall"
     article_specific_pros:
       - "Bone china translucency gives each piece a slight luminosity at a candlelit table"
-      - "Smooth rim and clean lines , works as a blank canvas for any table style"
+      - "Trellis embossed vine pattern adds subtle texture while remaining versatile across formal and casual occasions"
     article_specific_cons:
       - "Bone china is more fragile than stoneware , chips at rim edges with rough dishwasher loading"
   - id: "wedgwood-vera-wang-lace-teacup-saucer"
@@ -80,13 +80,13 @@ Matching across collections is worth planning at purchase rather than after , di
 
 ## Top Picks
 
-### Cameo White 5-Piece Bone China Place Setting
+### Mikasa Trellis 16-Piece Bone China Dinnerware Set
 
-For readers moving up from everyday stoneware to something with more presence at the table, this is the place to start. The [Cameo White 5-Piece Bone China Place Setting](product:mikasa-cameo-white-bone-china) by Mikasa delivers the translucency and luminosity that makes bone china worth buying , hold a dinner plate near a candle at your next dinner party and you'll see exactly what the fuss is about. The clean rim and unornamented surface make it a genuine blank canvas: it sits equally at home with modern minimalist flatware and traditional silver.
+The [Mikasa Trellis 16-Piece Bone China Dinnerware Set](product:mikasa-cameo-white-bone-china) is the option for readers who want complete table service in bone china from a single purchase. Sixteen pieces serve four — dinner plate, salad plate, soup bowl, and mug per setting — which means the set goes directly from box to table at a dinner party for four without any additional purchases. The translucency and luminosity that makes bone china worth buying is present here: hold a dinner plate near a candle at your next dinner party and you'll see exactly what the fuss is about.
 
-The warm cream tone is accurate to the material and does what bone china is supposed to do in candlelight. It does not match stark white , if your linens run cool and bright, the offset will be visible. Against warm ivory, linen, or natural textures, it looks exactly right.
+The Trellis pattern is the distinguishing design detail. An embossed vine motif is pressed into the bone china body rather than painted on, so it adds subtle surface texture without color or metallic trim to protect. At a dressed table, it reads as a quiet pattern that adds visual depth without demanding attention.
 
-Dishwasher-safe on the top rack, and Mikasa's current formula holds up better than older bone china iterations many buyers remember from their parents' cabinets. Load carefully , rim edges are the vulnerability point with all bone china , and these pieces will last through regular use without becoming a display-only set. The full five-piece configuration (dinner plate, salad plate, bread plate, cup, saucer) means you're getting a complete place setting rather than a partial one.
+Fully microwave and dishwasher safe , a meaningful practical advantage over bone china with metallic decoration that cannot survive the dishwasher. Load carefully , rim edges are the vulnerability point with all bone china , and these pieces will last through regular use. The warm cream tone is accurate to the material and does what bone china is supposed to do in candlelight. Against warm ivory linens and natural textures, it looks exactly right; against stark white or cool-toned settings, the ivory warmth is visible and worth checking against your existing table elements.
 
 ![Bone china place setting with luminous ivory finish on a candlelit table](/images/articles/dinnerware-2.jpg)
 
@@ -151,7 +151,7 @@ Using bone china and stoneware on the same table is not a mistake , it's a delib
 Bone china is stronger and more chip-resistant than standard earthenware, but it sits in a similar durability range to fine porcelain , not above it. The bone ash content makes the material less brittle than it looks, which is why modern bone china can be rated dishwasher-safe when older generations of the same material could not. The primary vulnerability in both materials is rim chipping from impact, not structural cracking from normal use.
 ### Can I use bone china in the microwave?
 
-Most contemporary bone china without metallic trim is microwave-safe, but always verify the specific set before use , manufacturer guidance on this varies. The Mikasa Cameo White is rated for top-rack dishwasher use, but microwave guidance should be confirmed directly on the product. Any piece with platinum or gold trim , including the Wedgwood Vera Wang Lace , must never go in the microwave, as metal decoration arcs dangerously under microwave energy.
+Most contemporary bone china without metallic trim is microwave-safe, but always verify the specific set before use , manufacturer guidance on this varies. The Mikasa Trellis is rated microwave and dishwasher safe. Any piece with platinum or gold trim , including the Wedgwood Vera Wang Lace , must never go in the microwave, as metal decoration arcs dangerously under microwave energy.
 ### How does the Gibson stoneware compare to the Mikasa bone china for everyday use?
 
 For genuine daily use across a full household, the Gibson Elite stoneware is the more practical choice. It is fully dishwasher and microwave safe without the careful loading that bone china requires, and stoneware's greater density means it tolerates the bumps of regular use more forgivingly. The Mikasa bone china will outlast it on occasion-table elegance, but the Gibson set handles a six-nights-a-week table without demanding anything particular of you.
@@ -179,7 +179,7 @@ Regular use is possible as long as hand-washing is part of your routine , the pl
  "name": "Can I use bone china in the microwave?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "Most contemporary bone china without metallic trim is microwave-safe, but always verify the specific set before use , manufacturer guidance on this varies. The Mikasa Cameo White is rated for top-rack dishwasher use, but microwave guidance should be confirmed directly on the product. Any piece with platinum or gold trim , including the Wedgwood Vera Wang Lace , must never go in the microwave, as metal decoration arcs dangerously under microwave energy."
+ "text": "Most contemporary bone china without metallic trim is microwave-safe, but always verify the specific set before use , manufacturer guidance on this varies. The Mikasa Trellis is rated microwave and dishwasher safe. Any piece with platinum or gold trim , including the Wedgwood Vera Wang Lace , must never go in the microwave, as metal decoration arcs dangerously under microwave energy."
  }
  },
  {

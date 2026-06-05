@@ -45,7 +45,7 @@ faq:
   - question: "Can the Lenox Opal Innocence set go in the dishwasher?"
     answer: "The bone china body of the Lenox Opal Innocence is generally dishwasher-safe, but the platinum band is not. Dishwasher detergents are abrasive enough to degrade metallic overglaze decorations over time, affecting both the appearance of the band and the integrity of the surface. For any china with metallic banding, hand-washing is the right approach if you want the set to remain in good condition long-term."
   - question: "How many place settings do I need if I primarily entertain small groups?"
-    answer: "A 12-piece service for four covers most small-group entertaining scenarios — dinner for two couples, a holiday meal for close family, a casual dinner party that stays intimate. If your typical gathering size is six to eight, a service for four leaves you short without supplemental pieces. Buying into an expandable line like Lenox Opal Innocence means you can add place settings as needs grow rather than replacing the whole set."
+    answer: "A 20-piece set serving four covers most small-group entertaining scenarios — dinner for two couples, a holiday meal for close family, a casual dinner party that stays intimate. If your typical gathering size is six to eight, a service for four leaves you short without supplemental pieces. Buying into an expandable line like Lenox Opal Innocence means you can add place settings as needs grow rather than replacing the whole set."
 ---
 
 Finding dinnerware that looks beautiful and raises no questions about what's in the glaze or clay body has become a real priority for a lot of households. If you're shopping our [Dinnerware & China](/dinnerware/) hub, you already know there's no shortage of options , the harder task is sorting the genuinely clean choices from the ones that trade on vague "natural" language without backing it up.
@@ -108,13 +108,15 @@ The honest limitation is styling flexibility. The pattern is distinctive enough 
 
 [Check current price on Amazon.](product:lenox-butterfly-meadow-12pc)
 
-### Lenox Opal Innocence 12-Piece Dinnerware Set
+### Lenox Opal Innocence Carved 20-Piece Dinnerware Set
 
-The [Lenox Opal Innocence 12-Piece Dinnerware Set](product:lenox-opal-innocence-12pc-set) sits at a different tier entirely , this is bone china with a platinum band, and it carries the weight of that positioning in both feel and appearance. For buyers who are setting a formal table and want something that reads unambiguously as fine dining, Opal Innocence is the benchmark for American-made china at mid-premium pricing.
+The [Lenox Opal Innocence Carved 20-Piece Dinnerware Set](product:lenox-opal-innocence-12pc-set) sits at a different tier entirely , this is bone china with a platinum band, and it carries the weight of that positioning in both feel and appearance. For buyers who are setting a formal table and want something that reads unambiguously as fine dining, Opal Innocence is the benchmark for American-made china at mid-premium pricing.
 
 The translucency of the bone china body and the restraint of the platinum banding make this set work across a genuinely wide range of formal occasions. It expands cleanly too: the full Opal Innocence line includes charger plates, serving pieces, and mugs, so a starter set of 12 pieces can grow with the table over time. That expandability is a real advantage for buyers who entertain frequently and want their investment to compound rather than become a fixed, closed system.
 
 The one firm requirement is care: platinum bands are hand-wash only. That's not negotiable, and for households that rely heavily on the dishwasher, it's a genuine logistical consideration. Bone china's strength-to-weight ratio is impressive, but it's still more vulnerable to impact than stoneware , careful storage with plate separators is the right approach. For the buyer who accepts those terms and wants the finest table she can set, this is the recommendation without reservation.
+
+The Carved variant retains the bone china body and platinum-banded rim of the original Opal Innocence pattern, with scrollwork raised in relief rather than the enamel vine dot accent of the discontinued line.
 
 ![Lenox Opal Innocence bone china set with platinum band on a formal table with candlelight](/images/articles/dinnerware-3.jpg)
 

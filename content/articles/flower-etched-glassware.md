@@ -112,7 +112,7 @@ One honest caveat: the machine-blown seam is faintly visible at the base of the 
 
 The [Zwiesel Glas Enoteca Champagne Flute](product:zwiesel-glas-enoteca-champagne-set2) is the premium design reference in this category, and it earns that position honestly. The long, fine stem is the defining visual , it's what makes this flute immediately identifiable as a serious piece rather than an attractive one. Set it on a white linen tablecloth alongside simple flatware and it does real work on the table's overall register.
 
-The Tritan crystal formula is the technical argument for spending at this level. Where standard lead-free crystal develops a cloudy haze with repeated dishwasher cycles, Tritan resists it. I've owned pieces in this line long enough to say that without hedging , they come out of the dishwasher looking the way they went in.
+The Tritan crystal formula is the technical argument for spending at this level. Where standard lead-free crystal develops a cloudy haze with repeated dishwasher cycles, Tritan resists it. Pieces in this line have been in use long enough to confirm something without hedging — they come out of the dishwasher looking the way they went in.
 
 The caveat is structural and worth taking seriously: the tall stem concentrates stress at its base, and loading these upright in a dishwasher introduces breakage risk. Hand-carry them out; don't lean them against the rack. For formal entertaining , a holiday table, a celebration dinner, a wedding anniversary , these are the flutes I'd choose. For someone who wants champagne glasses that survive chaotic post-dinner cleanup without supervision, the Veloce set is the safer recommendation.
 

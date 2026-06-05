@@ -104,13 +104,15 @@ The trade-off is real: a pattern this distinctive shapes your entire tablescape.
 
 [Check current price on Amazon.](product:lenox-butterfly-meadow-12pc)
 
-### Lenox Opal Innocence 12-Piece Dinnerware Set
+### Lenox Opal Innocence Carved 20-Piece Dinnerware Set
 
-Bone china with a platinum band is a specific aesthetic statement, and [Lenox Opal Innocence 12-Piece Dinnerware Set](product:lenox-opal-innocence-12pc-set) makes it with restraint. The warm white of the bone china and the fine platinum rim read as quietly formal , appropriate for holiday dinner parties, anniversary meals, and the kind of table that feels like an occasion without announcing it. Among American fine dining china at this price tier, the Opal Innocence pattern represents a reliable benchmark.
+Bone china with a platinum band is a specific aesthetic statement, and [Lenox Opal Innocence Carved 20-Piece Dinnerware Set](product:lenox-opal-innocence-12pc-set) makes it with restraint. The warm white of the bone china and the fine platinum rim read as quietly formal , appropriate for holiday dinner parties, anniversary meals, and the kind of table that feels like an occasion without announcing it. Among American fine dining china at this price tier, the Opal Innocence pattern represents a reliable benchmark.
 
 The practical reality of the platinum band is that handwashing is required for those pieces. For a household that relies on the dishwasher for everything, that's a genuine commitment, not a minor footnote. Plan accordingly , either build in time for handwashing after entertaining, or consider whether a fully dishwasher-safe alternative better fits your actual routine.
 
-What genuinely separates this set from a standalone purchase is the depth of the Opal Innocence line. Charger plates, serving platters, mugs, and accent pieces all exist in the same pattern, which means a set of twelve that starts as a 12-piece service for four can grow into a fully dressed table over time. That expandability is worth something. Premium sets that exist only as closed boxes trap you.
+What genuinely separates this set from a standalone purchase is the depth of the Opal Innocence line. Charger plates, serving platters, mugs, and accent pieces all exist in the same pattern, which means the 20-piece set serving four can grow into a fully dressed table over time. That expandability is worth something. Premium sets that exist only as closed boxes trap you.
+
+The Carved variant retains the bone china body and platinum-banded rim of the original Opal Innocence pattern, with scrollwork raised in relief rather than the enamel vine dot accent of the discontinued line.
 
 ![Lenox Opal Innocence bone china place setting with platinum band detail](/images/articles/dinnerware-3.jpg)
 

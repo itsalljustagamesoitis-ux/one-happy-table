@@ -94,9 +94,9 @@ The one maintenance note worth taking seriously: reactive glaze shows water spot
 
 Check current price on Amazon.
 
-### Organic Bamboo Fiber 10-Piece Dinnerware Set
+### Morgiana 8-Piece Bamboo Dinnerware Set
 
-For households with young children, outdoor entertaining, or a genuine concern about what's in the glaze of imported ceramics, this is the set I'd point toward first. The [Organic Bamboo Fiber 10-Piece Dinnerware Set](product:bamboo-fiber-dinnerware-natural-10pc) by Bamboefest is made from organic bamboo fiber without melamine, BPA, or heavy-metal glazes , the material safety profile is meaningfully different from most budget ceramic sets, and that matters if it matters to you.
+For households with young children, outdoor entertaining, or a genuine concern about what's in the glaze of imported ceramics, this is the set I'd point toward first. The [Morgiana 8-Piece Bamboo Dinnerware Set](product:bamboo-fiber-dinnerware-natural-10pc) by Morgiana is made from organic bamboo fiber without melamine, BPA, or heavy-metal glazes , the material safety profile is meaningfully different from most budget ceramic sets, and that matters if it matters to you.
 
 Melamine is the standard material in the budget-outdoor-dining category. It's durable, but it uses formaldehyde-based resins in production, and its safety profile under heat has been questioned enough that families with young children frequently look for alternatives. Bamboo fiber is that alternative. The set is lightweight enough that a child can carry their own plate without risk, and near-unbreakable in the way that makes outdoor use genuinely practical rather than anxiety-inducing.
 
@@ -108,13 +108,15 @@ The trade-offs are real: not microwave safe, hand-wash only, and the warm natura
 
 [Check current price on Amazon.](product:bamboo-fiber-dinnerware-natural-10pc)
 
-### Lenox Opal Innocence 12-Piece Dinnerware Set
+### Lenox Opal Innocence Carved 20-Piece Dinnerware Set
 
-Bone china with a platinum band is a clear signal: this set is for the table you set when the occasion calls for it. The [Lenox Opal Innocence 12-Piece Dinnerware Set](product:lenox-opal-innocence-12pc-set) serves four and represents the benchmark for American fine dining china at a mid-premium price , a designation that has been reasonably consistent across decades of production.
+Bone china with a platinum band is a clear signal: this set is for the table you set when the occasion calls for it. The [Lenox Opal Innocence Carved 20-Piece Dinnerware Set](product:lenox-opal-innocence-12pc-set) serves four and represents the benchmark for American fine dining china at a mid-premium price , a designation that has been reasonably consistent across decades of production.
 
 What distinguishes Opal Innocence beyond its materials is the depth of the collection it belongs to. The full line includes charger plates, serving bowls, mugs, and additional place settings, all in the same pattern. For anyone building a formal table incrementally , adding pieces for larger gatherings rather than buying a 20-piece set at once , that expandability is a genuine advantage.
 
 The platinum band is hand-wash only. In households that rely on the dishwasher for everything, that's a real consideration rather than a minor footnote. If your formal china goes through two holiday meals a year and then lives in a cabinet, hand-washing is a non-issue. If you'd want to use this set weekly, the maintenance commitment is worth factoring into the decision honestly.
+
+The Carved variant retains the bone china body and platinum-banded rim of the original Opal Innocence pattern, with scrollwork raised in relief rather than the enamel vine dot accent of the discontinued line.
 
 ![Bone china dinner plate with platinum band from Lenox Opal Innocence collection](/images/articles/dinnerware-3.jpg)
 
@@ -161,13 +163,13 @@ If you host a wide range of gatherings , casual weeknight dinners and formal hol
 The stoneware body of the Roda line is dishwasher safe, but the reactive glaze finish benefits from hand-drying rather than air-drying after a machine wash cycle. Water spots become visible on the textured surface when pieces dry without being wiped down. The structural integrity of the stoneware is unaffected by dishwasher use , it's a cosmetic maintenance consideration, not a material risk.
 ### How does bamboo fiber dinnerware compare to melamine for families with young children?
 
-Bamboo fiber is made without the formaldehyde-based resins used in melamine production, which makes it the more conservative material choice for households with young children. Melamine is durable and widely available, but its safety profile under heat has raised enough questions that many parents prefer an alternative. The [Organic Bamboo Fiber 10-Piece Dinnerware Set](product:bamboo-fiber-dinnerware-natural-10pc) is also lighter and near-unbreakable, which makes it genuinely practical for daily family use.
+Bamboo fiber is made without the formaldehyde-based resins used in melamine production, which makes it the more conservative material choice for households with young children. Melamine is durable and widely available, but its safety profile under heat has raised enough questions that many parents prefer an alternative. The [Morgiana 8-Piece Bamboo Dinnerware Set](product:bamboo-fiber-dinnerware-natural-10pc) is also lighter and near-unbreakable, which makes it genuinely practical for daily family use.
 ### Can the Lenox Opal Innocence set be expanded with additional place settings later?
 
 Yes , the full Opal Innocence line is built around an open-stock model, which means dinner plates, salad plates, mugs, charger plates, and serving pieces can be purchased individually or in additional place-setting increments. Starting with the 12-piece four-place-setting configuration and adding pieces over time is a reasonable approach if you entertain larger groups occasionally rather than regularly.
 ### Which of these sets works best for outdoor entertaining?
 
-The [Organic Bamboo Fiber 10-Piece Dinnerware Set](product:bamboo-fiber-dinnerware-natural-10pc) is the clear answer for outdoor use. It's lightweight, near-unbreakable, and made without glazes that can be affected by temperature variation or UV exposure. The Costa Nova Roda stoneware is durable enough for a covered patio or backyard dinner, but the weight and breakage risk make bamboo fiber the more practical outdoor choice.
+The [Morgiana 8-Piece Bamboo Dinnerware Set](product:bamboo-fiber-dinnerware-natural-10pc) is the clear answer for outdoor use. It's lightweight, near-unbreakable, and made without glazes that can be affected by temperature variation or UV exposure. The Costa Nova Roda stoneware is durable enough for a covered patio or backyard dinner, but the weight and breakage risk make bamboo fiber the more practical outdoor choice.
 ### Is the platinum band on the Lenox Opal Innocence set purely decorative, or does it affect durability?
 
 The platinum band is decorative, but it's also the reason the set requires hand-washing. Dishwasher detergent and high heat will degrade platinum and gold banding over time , this is true of virtually all fine china with metallic trim. The bone china body itself is durable and resistant to chipping under normal use. If hand-washing the full set feels impractical, consider whether the formal occasions this set is designed for actually involve the dishwasher at all.
@@ -189,7 +191,7 @@ The platinum band is decorative, but it's also the reason the set requires hand-
  "name": "How does bamboo fiber dinnerware compare to melamine for families with young children?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "Bamboo fiber is made without the formaldehyde-based resins used in melamine production, which makes it the more conservative material choice for households with young children. Melamine is durable and widely available, but its safety profile under heat has raised enough questions that many parents prefer an alternative. The Organic Bamboo Fiber 10-Piece Dinnerware Set is also lighter and near-unbreakable, which makes it genuinely practical for daily family use."
+ "text": "Bamboo fiber is made without the formaldehyde-based resins used in melamine production, which makes it the more conservative material choice for households with young children. Melamine is durable and widely available, but its safety profile under heat has raised enough questions that many parents prefer an alternative. The Morgiana 8-Piece Bamboo Dinnerware Set is also lighter and near-unbreakable, which makes it genuinely practical for daily family use."
  }
  },
  {
@@ -205,7 +207,7 @@ The platinum band is decorative, but it's also the reason the set requires hand-
  "name": "Which of these sets works best for outdoor entertaining?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "The Organic Bamboo Fiber 10-Piece Dinnerware Set is the clear answer for outdoor use. It's lightweight, near-unbreakable, and made without glazes that can be affected by temperature variation or UV exposure. The Costa Nova Roda stoneware is durable enough for a covered patio or backyard dinner, but the weight and breakage risk make bamboo fiber the more practical outdoor choice."
+ "text": "The Morgiana 8-Piece Bamboo Dinnerware Set is the clear answer for outdoor use. It's lightweight, near-unbreakable, and made without glazes that can be affected by temperature variation or UV exposure. The Costa Nova Roda stoneware is durable enough for a covered patio or backyard dinner, but the weight and breakage risk make bamboo fiber the more practical outdoor choice."
  }
  },
  {

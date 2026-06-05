@@ -110,7 +110,7 @@ The honest limitation is that the tall bowl is vulnerable in the dishwasher. Top
 
 ### BACLIFE Hand Blown Red Wine Glasses Set of 4
 
-Hand-blown crystal, and the slight variation between glasses in the set is not a defect , it's the signature. The BACLIFE hand-blown wine glasses have a weight and solidity that reads as serious crystal without the architectural delicacy that comes with ultra-thin blown glass. Pick one up and it feels considered.
+Hand-blown crystal, and the slight variation between glasses in the set is not a defect , it's the signature. The [BACLIFE Hand Blown Red Wine Glasses Set of 4](product:simon-pearce-barre-wine-glasses-set4) have a weight and solidity that reads as serious crystal without the architectural delicacy that comes with ultra-thin blown glass. Pick one up and it feels considered.
 
 What you're buying here is provenance as much as function. At a table where guests notice objects, these generate conversation. The subtle differences from glass to glass , a millimeter of variation in height, a slight asymmetry in the bowl , are the marks of a human hand, and they're visible in the right light. That's either the entire point or a reason to look elsewhere, depending on your table philosophy.
 
@@ -120,7 +120,7 @@ The practical constraint is real: hand-wash only, and not suitable for occasions
 
 ,
 
-[Check current price on Amazon.](product:riedel-vinum-bordeaux-set2)
+[Check current price on Amazon.](product:simon-pearce-barre-wine-glasses-set4)
 
 ## How to Choose
 

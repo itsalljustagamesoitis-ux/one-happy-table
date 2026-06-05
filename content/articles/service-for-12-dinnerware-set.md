@@ -92,7 +92,7 @@ Before committing, check whether the manufacturer offers individual replacement 
 
 For buyers who want reliable daily coverage without worrying much about breakage or toxin concerns, [Corelle Impressions Watercolors 16-Piece Dinnerware Set](product:corelle-impressions-16pc-dinnerware) is the most sensible starting point. The 16-piece count gives you service for four , buy multiple sets and you're at twelve or sixteen settings with a consistent pattern across the table.
 
-The Vitrelle triple-layer glass construction is what sets this apart from comparable budget ceramic options. It's genuinely non-porous, which means no absorbed odors, no glazing concerns about lead or cadmium, and a surface that wipes clean completely. I've carried full stacks of these plates and the weight difference compared to stoneware alternatives is immediately obvious , real enough to matter if you're unloading a full dishwasher after a dinner party.
+The Vitrelle triple-layer glass construction is what sets this apart from comparable budget ceramic options. It's genuinely non-porous, which means no absorbed odors, no glazing concerns about lead or cadmium, and a surface that wipes clean completely. Carrying full stacks of these plates makes the weight difference obvious compared to stoneware alternatives — real enough to matter when unloading a full dishwasher after a dinner party.
 
 The honest trade-off: this is glass, and when it fails, it fails like glass. A hard drop onto a tile floor produces a shatter, not a chip. That's not a defect , it's the physics of the material , but buyers who expect "chip-resistant" to mean "nearly unbreakable" should understand the distinction clearly before purchasing.
 
@@ -116,13 +116,15 @@ Fine china chips more easily than stoneware under real daily use , that's just t
 
 [Check current price on Amazon.](product:mikasa-trellis-white-16pc)
 
-### Lenox Opal Innocence 12-Piece Dinnerware Set
+### Lenox Opal Innocence Carved 20-Piece Dinnerware Set
 
-Bone china with a platinum band represents a specific buying decision , one where aesthetics and occasion-worthiness matter as much as durability, and where the buyer has already decided that the table experience justifies the care requirements. The [Lenox Opal Innocence 12-Piece Dinnerware Set](product:lenox-opal-innocence-12pc-set) is the benchmark for American fine dining china at the premium end of the mid-range, and it earns that position.
+Bone china with a platinum band represents a specific buying decision , one where aesthetics and occasion-worthiness matter as much as durability, and where the buyer has already decided that the table experience justifies the care requirements. The [Lenox Opal Innocence Carved 20-Piece Dinnerware Set](product:lenox-opal-innocence-12pc-set) is the benchmark for American fine dining china at the premium end of the mid-range, and it earns that position.
 
-The twelve-piece count delivers service for four in bone china , dinner plate, salad plate, and bowl per setting. What makes this set particularly strong for buyers thinking long-term is the full Opal Innocence line behind it: charger plates, serving pieces, mugs, and accent items all available in the same pattern. Building toward a true service for 12 by adding pieces over time is realistic here in a way it isn't with sets from manufacturers who discontinue patterns regularly.
+Twenty pieces delivers service for four in bone china , five pieces per setting including dinner plate, salad plate, bread plate, soup bowl, and mug. What makes this set particularly strong for buyers thinking long-term is the full Opal Innocence line behind it: charger plates, serving pieces, and accent items all available in the same pattern. Building toward a true service for 12 by adding pieces over time is realistic here in a way it isn't with sets from manufacturers who discontinue patterns regularly.
 
 The platinum banding is non-negotiable as a hand-wash requirement. Dishwasher cycles degrade metallic accents consistently, and no setting on any dishwasher reliably prevents that over time. For households that rely heavily on the dishwasher for everything, this is a real constraint , not a minor asterisk.
+
+The Carved variant retains the bone china body and platinum-banded rim of the original Opal Innocence pattern, with scrollwork raised in relief rather than the enamel vine dot accent of the discontinued line.
 
 ![Lenox Opal Innocence bone china place setting with platinum band detail](/images/articles/dinnerware-4.jpg)
 

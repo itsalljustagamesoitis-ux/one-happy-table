@@ -48,7 +48,7 @@ faq:
     answer: "A serving platter holds food in the center of the table and is passed or served from. A charger plate sits as a decorative base under a dinner plate at each place setting and is typically removed before the main course is served. The two pieces occupy different roles on a table, though a flat, wide platter can occasionally serve as a charger for a styled or casual setting."
 ---
 
-Oval platters have a way of making a table look like someone actually thought about it. The shape follows the natural logic of a meal , it frames a roast, organizes a cheese selection, handles a pile of vegetables without looking accidental. I've tested, used, and passed along a lot of [serveware](/serveware/) over the years, and the platter is where most people either invest thoughtfully or grab whatever's closest.
+Oval platters have a way of making a table look like someone actually thought about it. The shape follows the natural logic of a meal , it frames a roast, organizes a cheese selection, handles a pile of vegetables without looking accidental. A lot of [serveware](/serveware/) has been tested, used, and passed along over the years — the platter is where most people either invest thoughtfully or grab whatever's closest.
 
 The real difference between a platter that earns its cabinet space and one that collects dust comes down to three things: how it holds up to actual use, whether it works with what you already own, and what kind of table you're trying to set.
 

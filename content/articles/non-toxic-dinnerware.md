@@ -96,13 +96,15 @@ The embossed vine pattern is the detail that divides buyers. It adds texture and
 
 [Check current price on Amazon.](product:mikasa-trellis-white-16pc)
 
-### Lenox Opal Innocence 12-Piece Dinnerware Set
+### Lenox Opal Innocence Carved 20-Piece Dinnerware Set
 
-Bone china is a specific subcategory of fine china , denser, more translucent, and fired at even higher temperatures than standard fine china. The [Lenox Opal Innocence 12-Piece Dinnerware Set](product:lenox-opal-innocence-12pc-set) is the clearest argument for bone china in a non-toxic context: the material is as vitrified as ceramic dinnerware gets, the surface is genuinely non-porous, and Lenox has been manufacturing to FDA compliance standards for decades.
+Bone china is a specific subcategory of fine china , denser, more translucent, and fired at even higher temperatures than standard fine china. The [Lenox Opal Innocence Carved 20-Piece Dinnerware Set](product:lenox-opal-innocence-12pc-set) is the clearest argument for bone china in a non-toxic context: the material is as vitrified as ceramic dinnerware gets, the surface is genuinely non-porous, and Lenox has been manufacturing to FDA compliance standards for decades.
 
-Twelve pieces serve four , dinner plate, salad plate, and soup bowl , with the platinum band providing the formal visual character the Opal Innocence line is known for. That platinum band is the one care caveat worth understanding before purchase. It requires hand-washing. Dishwasher cycles will degrade the metallic finish over time, and if your household runs the dishwasher every night, that constraint is real.
+Twenty pieces serve four , five pieces per setting including dinner plate, salad plate, bread plate, soup bowl, and mug , with the platinum band providing the formal visual character the Opal Innocence line is known for. That platinum band is the one care caveat worth understanding before purchase. It requires hand-washing. Dishwasher cycles will degrade the metallic finish over time, and if your household runs the dishwasher every night, that constraint is real.
 
-What distinguishes the Opal Innocence beyond the initial set is the depth of the line. Charger plates, serving bowls, mugs, and additional place settings are all available in the same pattern, which means this can grow from a starter set into a complete entertaining collection. For buyers who want the safest possible ceramic surface combined with formal china credentials, this is the benchmark.
+What distinguishes the Opal Innocence beyond the initial set is the depth of the line. Charger plates, serving bowls, and additional place settings are all available in the same pattern, which means this can grow from a starter set into a complete entertaining collection. For buyers who want the safest possible ceramic surface combined with formal china credentials, this is the benchmark.
+
+The Carved variant retains the bone china body and platinum-banded rim of the original Opal Innocence pattern, with scrollwork raised in relief rather than the enamel vine dot accent of the discontinued line.
 
 ![Lenox Opal Innocence place setting with platinum band detail](/images/articles/dinnerware-2.jpg)
 
@@ -110,19 +112,19 @@ What distinguishes the Opal Innocence beyond the initial set is the depth of the
 
 [Check current price on Amazon.](product:lenox-opal-innocence-12pc-set)
 
-### Organic Bamboo Fiber 10-Piece Dinnerware Set
+### Morgiana 8-Piece Bamboo Dinnerware Set
 
-The case for the Bamboefest Organic Bamboo Fiber 10-Piece Dinnerware Set is simple and specific: if you're looking for a break-resistant, melamine-free option for outdoor entertaining or a table that includes small children, nothing else on this list serves that purpose. Ten pieces cover service for two complete settings, with the remainder filling in salad plates and bowls depending on configuration.
+The case for the [Morgiana 8-Piece Bamboo Dinnerware Set](product:bamboo-fiber-dinnerware-natural-10pc) is simple and specific: if you're looking for a break-resistant, melamine-free option for outdoor entertaining or a table that includes small children, nothing else on this list serves that purpose. Eight pieces serve two with a full setting each — dinner plate, salad plate, soup bowl, and a bowl for each — making it ideal for a smaller household that wants non-toxic casual dinnerware.
 
 The material is organic bamboo fiber without melamine binders , the distinction that matters most to non-toxic buyers evaluating lightweight alternatives to ceramic. Bamboo fiber is naturally anti-microbial, warm in tone, and genuinely unbreakable under normal use. It pairs well visually with linen and natural wood, which makes it at home on a garden table or a casual summer setting.
 
 The care requirements are strict. No microwave, no dishwasher , bamboo fiber degrades with sustained heat, and a dishwasher cycle will cause warping over time. If your household depends on the dishwasher, this is a significant constraint and worth weighing honestly against the material appeal.
 
-![Bamboefest bamboo fiber plates styled with linen napkins outdoors](/images/articles/dinnerware-3.jpg)
+![Morgiana bamboo fiber plates styled with linen napkins outdoors](/images/articles/dinnerware-3.jpg)
 
 ,
 
-[Check current price on Amazon.](product:lenox-opal-innocence-12pc-set)
+[Check current price on Amazon.](product:bamboo-fiber-dinnerware-natural-10pc)
 
 ## How to Choose
 
@@ -163,7 +165,7 @@ If budget and storage allow only one set, the Mikasa Trellis White comes closest
 Fine china from established manufacturers like Mikasa and Lenox is produced to FDA compliance standards for lead and cadmium content, and both brands have long compliance histories. The concern about lead in glazes is more relevant to very inexpensive imported ceramics with less consistent quality control. Reputable mid-range and premium fine china is a safe choice for daily use, and the vitrified surface means it won't absorb food residue or cleaning agents over time.
 ### What's the difference between bamboo fiber dinnerware and melamine dinnerware?
 
-Melamine is a synthetic resin widely used in break-resistant tableware, considered safe for room-temperature food service but not appropriate for microwave use , heat causes it to degrade. Bamboo fiber dinnerware made without melamine binders, like the Bamboefest Organic Bamboo Fiber set, has a cleaner material profile and is a stronger choice for buyers prioritizing non-toxic credentials. Both require hand-washing, but bamboo fiber's source material is natural rather than synthetic.
+Melamine is a synthetic resin widely used in break-resistant tableware, considered safe for room-temperature food service but not appropriate for microwave use , heat causes it to degrade. Bamboo fiber dinnerware made without melamine binders, like the Morgiana bamboo set, has a cleaner material profile and is a stronger choice for buyers prioritizing non-toxic credentials. Both require hand-washing, but bamboo fiber's source material is natural rather than synthetic.
 ### Can I put the Mikasa Trellis White in the dishwasher?
 
 Yes. The Mikasa Trellis White is dishwasher-safe and is one of the practical advantages it holds over formally decorated fine china with metallic banding. The embossed pattern is structural rather than surface-applied, so there's nothing to degrade in a dishwasher cycle. It's among the more low-maintenance white china options available at a mid-range price.
@@ -191,7 +193,7 @@ Service for four is the practical floor for most households , it covers a dinner
  "name": "What's the difference between bamboo fiber dinnerware and melamine dinnerware?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "Melamine is a synthetic resin widely used in break-resistant tableware, considered safe for room-temperature food service but not appropriate for microwave use , heat causes it to degrade. Bamboo fiber dinnerware made without melamine binders, like the Bamboefest Organic Bamboo Fiber set, has a cleaner material profile and is a stronger choice for buyers prioritizing non-toxic credentials. Both require hand-washing, but bamboo fiber's source material is natural rather than synthetic."
+ "text": "Melamine is a synthetic resin widely used in break-resistant tableware, considered safe for room-temperature food service but not appropriate for microwave use , heat causes it to degrade. Bamboo fiber dinnerware made without melamine binders, like the Morgiana bamboo set, has a cleaner material profile and is a stronger choice for buyers prioritizing non-toxic credentials. Both require hand-washing, but bamboo fiber's source material is natural rather than synthetic."
  }
  },
  {

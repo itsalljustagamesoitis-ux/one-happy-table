@@ -5,24 +5,39 @@ categories:
   - label: "Dinnerware & China"
     slug: "dinnerware"
     description: "Everyday and fine china, stoneware, plate sets, and complete dinnerware collections"
-    hubs: []
+    hubs:
+      - label: "Dinnerware & China"
+        slug: "dinnerware"
+        description: "Everyday and fine china, stoneware, plate sets, and complete dinnerware collections"
 
   - label: "Glassware & Crystal"
     slug: "glassware"
     description: "Wine glasses, crystal stemware, everyday glassware, and barware essentials"
-    hubs: []
+    hubs:
+      - label: "Glassware & Crystal"
+        slug: "glassware"
+        description: "Wine glasses, crystal stemware, everyday glassware, and barware essentials"
 
   - label: "Table Linens"
     slug: "linens"
     description: "Tablecloths, placemats, cloth napkins, and table runners for every occasion"
-    hubs: []
+    hubs:
+      - label: "Table Linens"
+        slug: "linens"
+        description: "Tablecloths, placemats, cloth napkins, and table runners for every occasion"
 
   - label: "Serveware"
     slug: "serveware"
     description: "Serving platters, bowls, trays, cake stands, and hosting essentials"
-    hubs: []
+    hubs:
+      - label: "Serveware"
+        slug: "serveware"
+        description: "Serving platters, bowls, trays, cake stands, and hosting essentials"
 
   - label: "Decor & Candles"
     slug: "decor"
     description: "Centerpieces, candles, candleholders, vases, and table decor"
-    hubs: []
+    hubs:
+      - label: "Decor & Candles"
+        slug: "decor"
+        description: "Centerpieces, candles, candleholders, vases, and table decor"

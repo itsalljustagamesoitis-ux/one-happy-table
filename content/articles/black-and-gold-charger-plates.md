@@ -42,8 +42,8 @@ faq:
     answer: "Matte black surfaces show dried water spots and fingerprints prominently because the finish cannot hide surface residue the way a gloss glaze does. Hand-dry immediately after every wash — do not let matte black pieces air-dry in a rack. This is not a finish-quality problem but a physics property of matte surfaces, and managing it takes about thirty seconds of deliberate attention per piece."
   - question: "How does the gold finish hold up over time on charger plates at different price points?"
     answer: "Gold applied by electroplating or fired into ceramic glaze holds for years with appropriate care. Painted or printed gold on plastic or lower-end ceramic begins to show wear — scratching, dulling, flaking — after a number of wash cycles. The difference matters most when buying for longevity. For long-term purchases, confirm how the gold is applied and whether the brand specifies dishwasher safety. Dishwasher-safe claims on budget gold detailing are almost never as durable as advertised."
-  - question: "Is the Maison Arts 16-piece set a substitute for charger plates, or a separate purchase?"
-    answer: "The Maison Arts set is a complete dinnerware service — dinner plates, salad plates, bowls, and mugs — not a charger plate set. If you want black and gold place settings and do not already own dinnerware you love, it is a more complete solution than buying charger plates alone. If you already have dinnerware and are only looking for decorative base plates to sit beneath it, this set solves a different problem than the one you started with."
+  - question: "Is the LOVECASA 16-piece set a substitute for charger plates, or a separate purchase?"
+    answer: "The LOVECASA set is a complete dinnerware service — dinner plates, salad plates, bowls, and mugs — not a charger plate set. If you want black and gold place settings and do not already own dinnerware you love, it is a more complete solution than buying charger plates alone. If you already have dinnerware and are only looking for decorative base plates to sit beneath it, this set solves a different problem than the one you started with."
   - question: "What rim width should I look for in a charger plate to avoid visual clutter?"
     answer: "A wide, flat rim becomes the dominant visual element of a place setting, especially in a dark colorway like matte black. A narrow gold border reads as accent. If you are pairing chargers with existing dinnerware, lay the two pieces together before committing — a wide-rimmed charger under a wide-rimmed dinner plate creates visual clutter. The charger should frame the plate, not compete with it."
 ---
@@ -94,9 +94,9 @@ Up close, the lightweight feel is apparent. These are not suitable for a formal 
 
 [Check current price on Amazon.](product:american-atelier-black-gold-charger-set4)
 
-### Maison Arts Art Deco Matte Black and Gold 16-Piece Dinnerware Set
+### LOVECASA Art Deco Matte Black and Gold 16-Piece Dinnerware Set
 
-This one changes the conversation slightly. The Maison Arts Art Deco Matte Black and Gold 16-Piece Dinnerware Set is not strictly a charger-only purchase , it's a complete service for four in a matte black and gold colorway, and that's worth understanding before you buy. If you're setting a table where the entire place setting needs to be cohesive and you don't already own dinnerware you love, this is the more complete solution.
+This one changes the conversation slightly. The LOVECASA Art Deco Matte Black and Gold 16-Piece Dinnerware Set is not strictly a charger-only purchase , it's a complete service for four in a matte black and gold colorway, and that's worth understanding before you buy. If you're setting a table where the entire place setting needs to be cohesive and you don't already own dinnerware you love, this is the more complete solution.
 
 The matte black porcelain with gold rim is exactly the aesthetic that dominates editorial tablescaping right now. It reads as intentional and specific rather than generic black-and-gold, and the 16-piece configuration is genuinely practical for couples who entertain small groups regularly. Four dinner plates, four salad plates, four bowls, and four mugs cover everything short of a formal multi-course service.
 
@@ -168,9 +168,9 @@ A charger plate is a decorative base plate, typically 12 to 13 inches in diamete
 ### How many charger plates do I need for a dinner party?
 
 Set one charger per place setting with at least two extras in reserve to account for damage, mismatched wear, or expanding your guest list. For a table of six, buy eight. For a table of eight, buy ten if you can. Sets of four are the most common retail configuration, so most buyers end up with two or three sets and a few extras in storage , which is a reasonable approach.
-### Is the Maison Arts 16-piece set a substitute for charger plates, or a separate purchase?
+### Is the LOVECASA 16-piece set a substitute for charger plates, or a separate purchase?
 
-The Maison Arts set is a complete dinnerware service , dinner plates, salad plates, bowls, and mugs , not a charger plate set. If you want black and gold place settings and don't already own dinnerware you love, it's a more complete solution than buying charger plates alone. If you already have dinnerware and are only looking for decorative base plates to sit beneath it, this set solves a different problem than the one you started with.
+The LOVECASA set is a complete dinnerware service , dinner plates, salad plates, bowls, and mugs , not a charger plate set. If you want black and gold place settings and don't already own dinnerware you love, it's a more complete solution than buying charger plates alone. If you already have dinnerware and are only looking for decorative base plates to sit beneath it, this set solves a different problem than the one you started with.
 <script type="application/ld+json">
 {
  "@context": "https://schema.org",
@@ -210,10 +210,10 @@ The Maison Arts set is a complete dinnerware service , dinner plates, salad plat
  },
  {
  "@type": "Question",
- "name": "Is the Maison Arts 16-piece set a substitute for charger plates, or a separate purchase?",
+ "name": "Is the LOVECASA 16-piece set a substitute for charger plates, or a separate purchase?",
  "acceptedAnswer": {
  "@type": "Answer",
- "text": "The Maison Arts set is a complete dinnerware service , dinner plates, salad plates, bowls, and mugs , not a charger plate set. If you want black and gold place settings and don't already own dinnerware you love, it's a more complete solution than buying charger plates alone. If you already have dinnerware and are only looking for decorative base plates to sit beneath it, this set solves a different problem than the one you started with."
+ "text": "The LOVECASA set is a complete dinnerware service , dinner plates, salad plates, bowls, and mugs , not a charger plate set. If you want black and gold place settings and don't already own dinnerware you love, it's a more complete solution than buying charger plates alone. If you already have dinnerware and are only looking for decorative base plates to sit beneath it, this set solves a different problem than the one you started with."
  }
  }
  ]
