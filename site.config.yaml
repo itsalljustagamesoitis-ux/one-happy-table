@@ -1,7 +1,12 @@
 site:
   brand_name: "One Happy Table"
+  not_found_emoji: '🍽️'
+  not_found_browse_href: '/dinnerware/'
+  not_found_browse_label: 'Browse dinnerware guides'
   domain: "onehappytable.com"
   tagline: "Beautiful tables for every occasion"
+  niche: home entertaining and tableware
+  vertical: entertaining
 
 visual:
   primary_color: "#8B3A52"

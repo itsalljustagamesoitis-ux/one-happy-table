@@ -1,3 +1,20 @@
+# Stale scaffolding page — force 404
+/reviews/ /404 404
+/reviews /404 404
+
+# /how-we-test/ renamed to /how-we-research/ (D6 — portfolio-wide rename)
+/how-we-test/ /how-we-research/ 301
+/how-we-test /how-we-research/ 301
+
 /sitemap.xml /sitemap-index.xml 301
 /dr-leaf-and-lawn-vacuum/ /walk-behind-lawn-vacuum/ 301
 /dr-lawn-vacuum/ /walk-behind-lawn-vacuum/ 301
+
+# Slug dedup redirects (Phase C - 2026-05-24)
+/bone-china-vs-fine-bone-china/ /bone-china-vs-fine-china/ 301
+/duratuff-libbey-glassware/ /libbey-duratuff-glassware/ 301
+/serving-platters-antique/ /antique-serving-platters/ 301
+/fine-bone-china-mugs/ /fine-bone-china-mug/ 301
+
+# V1 dedup batch 2026-05-26 — 1 HIGH-confidence pair
+/centerpiece-wooden-box/ /wooden-centerpiece-boxes/ 301

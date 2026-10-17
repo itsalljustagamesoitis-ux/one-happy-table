@@ -13,14 +13,14 @@ const featured = selectFeaturedArticles(articles)
 
 <BaseLayout
   title={`${cfg.site.brand_name} — ${cfg.site.tagline}`}
-  description={`Honest, tested reviews of outdoor furniture, garden tools, and lawn equipment. ${persona.bio_short}`}
+  description={`Research-based guidance on ${cfg.site.niche} products from ${cfg.site.brand_name}.`}
 >
   <div class="container--wide home-wrap">
     <div class="home-main">
       <div class="home-intro">
         <h1 class="home-intro__title">Table reviews worth trusting</h1>
         <p class="home-intro__text">
-          {persona.bio_short}
+          {persona.bio_public}
         </p>
       </div>
 
@@ -53,7 +53,7 @@ const featured = selectFeaturedArticles(articles)
       )}
       {articles.length > 12 && (
         <div class="home-view-all">
-          <a href="/reviews/" class="btn btn--outline">View all reviews →</a>
+          <a href="/dinnerware/" class="btn btn--outline">Browse all guides →</a>
         </div>
       )}
     </div>
@@ -69,7 +69,7 @@ const featured = selectFeaturedArticles(articles)
           height="64"
           loading="lazy"
         />
-        <p class="sidebar-block__text">{persona.bio_short}</p>
+        <p class="sidebar-block__text">{persona.bio_public}</p>
         <a href="/about/" class="sidebar-block__link">Full bio →</a>
       </div>
 
@@ -83,8 +83,8 @@ const featured = selectFeaturedArticles(articles)
       </div>
 
       <div class="sidebar-block sidebar-block--email">
-        <h3 class="sidebar-block__title">Seasonal tips by email</h3>
-        <p class="sidebar-block__text">No fluff — just honest takes on what to plant, prune, and buy each season.</p>
+        <h3 class="sidebar-block__title">Entertaining tips by email</h3>
+        <p class="sidebar-block__text">No fluff — just honest picks for the table, the kitchen, and every occasion worth hosting.</p>
         <form class="sidebar-email" data-form="sidebar-email">
           <input type="email" placeholder="your@email.com" required class="sidebar-email__input" />
           <button type="submit" class="btn btn--primary sidebar-email__btn">Subscribe</button>

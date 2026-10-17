@@ -1498,27 +1498,28 @@ lenox-french-perle-blue-oval-platter:
   notes_for_writers: added manually, catalog-growth session 2026-05-05
   price_band: mid
 lenox-opal-innocence-12pc-set:
-  amazon_asin: B00007FXED
+  amazon_asin: B00ECK0AEA
   brand: Lenox
   hub: dinnerware
-  name: Lenox Opal Innocence 5-Piece Place Setting
+  name: Lenox Opal Innocence Carved 20-Piece Dinnerware Set
   price_band: premium
   default_pros:
-  - Bone china with platinum-banded rim — the Opal Innocence aesthetic at an accessible per-setting price point
-  - Dishwasher safe on delicate cycle; platinum band is more durable than most hand-painted gold rims
-  - Full Opal Innocence line allows expansion with charger plates, serving pieces, and mugs in the same pattern
+  - Bone china with platinum-banded rim — the Opal Innocence Carved sub-pattern with scrollwork raised in relief
+  - Microwave and dishwasher safe; platinum band is more durable than most hand-painted gold rims
+  - 20-piece set serves 4 completely; available at Amazon, Macy's, Wayfair, and Walmart
   default_cons:
-  - 5-piece place setting rather than a full 12-piece set — building service for four requires four purchases
+  - Carved sub-pattern differs from original Opal Innocence enamel vine dot accent — not identical to the discontinued line
   - Platinum band requires gentle washing to preserve the rim finish over time
-  notes_for_writers: Substituted from Lenox Opal Innocence 12-Piece Set (NOT_ON_AMAZON). Brand is unchanged (Lenox). The 5-piece
-    per-setting format differs from the 12-piece box, but the pattern and quality are identical.
+  notes_for_writers: Updated 2026-05-26 from 5-Piece Place Setting (B00007FXED) to Carved 20-Piece Dinnerware Set (B00ECK0AEA). Brand
+    unchanged (Lenox). Carved variant retains bone china body and platinum-banded rim; scrollwork is raised in relief rather than enamel
+    vine dot accent of the discontinued original. Microwave and dishwasher safe. Add Carved acknowledgment sentence after product description.
   substitution_log:
     original_name: Lenox Opal Innocence 12-Piece Dinnerware Set
     original_brand: Lenox
     substituted_date: '2026-05-15'
     match_quality: high
-    justification: Same Lenox Opal Innocence pattern and construction; format changed from 12-piece set to 5-piece place setting
-      (only available format on Amazon).
+    justification: Same Lenox Opal Innocence pattern and construction; updated 2026-05-26 to Carved 20-Piece (B00ECK0AEA) — better
+      spec match than the 5-piece place setting previously substituted.
   default_image: /images/products/lenox-opal-innocence-12pc-set.jpg
 lenox-opal-innocence-charger-plate:
   amazon_asin: B09FJNBGCZ

@@ -331,12 +331,25 @@ def _fix_punctuation(text: str) -> str:
     """Hard-fix punctuation and banned phrases the model generates despite instructions."""
     import re
 
-    # Em dash variants → comma
-    text = text.replace('\u2014', ',')
-    text = text.replace('\u2013', ',')
-    text = text.replace('---', ',')
-    text = text.replace(' -- ', ', ')
-    text = text.replace('--', ',')
+    # Markdown table separator rows (e.g. |---|---|) use literal "---" as
+    # structural syntax, not em-dash punctuation -- protect them from the
+    # dash normalization below before running the rest of this function.
+    table_sep_re = re.compile(r"^[ \t]*\|[ \t:|-]+\|[ \t]*$", re.MULTILINE)
+    stashed = {}
+    def _stash(m):
+        key = "\x00TBLSEP" + str(len(stashed)) + "\x00"
+        stashed[key] = m.group(0)
+        return key
+    text = table_sep_re.sub(_stash, text)
+
+    # Normalize typed dash substitutes ("--", "---", " -- ") to a real
+    # em-dash. Genuine em/en-dash characters are left untouched -- the
+    # article prompts explicitly require em-dashes in their own H2
+    # templates, so stripping them here was corrupting prompt-mandated
+    # formatting, not fixing a real punctuation problem.
+    text = re.sub(r"\s*---\s*", " \u2014 ", text)
+    text = re.sub(r"\s+--\s+", " \u2014 ", text)
+    text = re.sub(r"(?<=\w)--(?=\w)", "\u2014", text)
 
     # Clean up double spaces or orphaned commas/parens
     text = re.sub(r'\(\s*\)', '', text)          # empty parens
@@ -345,6 +358,8 @@ def _fix_punctuation(text: str) -> str:
     text = re.sub(r',\s*,', ',', text)
     text = re.sub(r',\s*\.', '.', text)
     text = re.sub(r'[^\S\n]{2,}', ' ', text)    # double spaces (preserve newlines)
+    for key, original in stashed.items():
+        text = text.replace(key, original)
 
     return text
 
@@ -391,7 +406,11 @@ def build_frontmatter(article: dict, products: dict, title: str, description: st
     for i, key in enumerate(assigned_keys):
         role = roles[i] if i < len(roles) else "also_consider"
         p = products.get(key, {})
-        def _cy(s): return s.replace('\u2014', ',').replace('\u2013', ',').replace('"', '\\"')
+        def _cy(s):
+            import re as _re
+            s = _re.sub(r'\s*[\u2014\u2013]\s*', ', ', s)
+            s = _re.sub(r',\s*,', ',', s).rstrip(', ')
+            return s.replace('"', '\\"')
         pros = [_cy(x) for x in p.get("default_pros", [])[:2]]
         cons = [_cy(x) for x in p.get("default_cons", [])[:1]]
         ref = f'  - id: "{key}"\n    role: "{role}"'
@@ -416,7 +435,9 @@ product_b: "{assigned_keys[1]}"
     tags = [article.get("hub", ""), article["type"].lower()]
 
     def _clean_yaml(s: str) -> str:
-        return s.replace('\u2014', ',').replace('\u2013', ',').replace('"', '\\"')
+        s = __import__('re').sub(r'\s*[\u2014\u2013]\s*', ', ', s)
+        s = __import__('re').sub(r',\s*,', ',', s).rstrip(', ')
+        return s.replace('"', '\\"')
 
     safe_title = _clean_yaml(title) if title else article['keyword'].title()
     safe_desc = _clean_yaml(description) if description else ""

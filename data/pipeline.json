@@ -1906,32 +1906,6 @@
       "category": "Home Entertaining"
     },
     {
-      "id": 74,
-      "slug": "fine-bone-china-mugs",
-      "keyword": "fine bone china mugs",
-      "type": "buyer_guide",
-      "hub_slug": "dinnerware",
-      "hub": "dinnerware",
-      "locked_url": "https://onehappytable.com/fine-bone-china-mugs/",
-      "angle": "honest pick with real recommendation",
-      "h2_structure": "What to Look For \u2192 Top Picks (named) \u2192 How to Choose \u2192 FAQ",
-      "volume": 390,
-      "kd": 7,
-      "products": [
-        "mikasa-cameo-white-bone-china",
-        "wedgwood-vera-wang-lace-teacup-saucer",
-        "royal-doulton-gordon-ramsay-maze-mug"
-      ],
-      "published": false,
-      "status": "pending",
-      "hub_label": "Dinnerware & China",
-      "hub_url": "/dinnerware/",
-      "category_slug": "home-entertaining",
-      "assignment_notes": "Primary keyword match: mikasa-cameo-white-bone-china (score 60). Complementary: wedgwood-vera-wang-lace-teacup-saucer, royal-doulton-gordon-ramsay-maze-mug. Price bands: mid, premium, budget.",
-      "staged": true,
-      "category": "Home Entertaining"
-    },
-    {
       "id": 75,
       "slug": "fine-bone-china-cups",
       "keyword": "fine bone china cups",
@@ -2032,31 +2006,6 @@
       "hub_url": "/dinnerware/",
       "category_slug": "home-entertaining",
       "assignment_notes": "Primary keyword match: mikasa-cameo-white-bone-china (score 60). Complementary: wedgwood-vera-wang-lace-teacup-saucer, charger-plate-wicker-rattan-set4. Price bands: mid, premium, budget.",
-      "staged": true,
-      "category": "Home Entertaining"
-    },
-    {
-      "id": 79,
-      "slug": "bone-china-vs-fine-bone-china",
-      "keyword": "bone china vs fine bone china",
-      "type": "comparison",
-      "hub_slug": "dinnerware",
-      "hub": "dinnerware",
-      "locked_url": "https://onehappytable.com/bone-china-vs-fine-bone-china/",
-      "angle": "clear winner",
-      "h2_structure": "At-a-Glance \u2192 Why Choose X \u2192 Why Choose Y \u2192 Verdict",
-      "volume": 140,
-      "kd": 10,
-      "products": [
-        "mikasa-cameo-white-bone-china",
-        "wedgwood-vera-wang-lace-teacup-saucer"
-      ],
-      "published": false,
-      "status": "pending",
-      "hub_label": "Dinnerware & China",
-      "hub_url": "/dinnerware/",
-      "category_slug": "home-entertaining",
-      "assignment_notes": "Primary keyword match: mikasa-cameo-white-bone-china (score 120). Complementary: wedgwood-vera-wang-lace-teacup-saucer. Price bands: mid, premium.",
       "staged": true,
       "category": "Home Entertaining"
     },
@@ -3210,32 +3159,6 @@
       "category": "Home Entertaining"
     },
     {
-      "id": 124,
-      "slug": "duratuff-libbey-glassware",
-      "keyword": "duratuff libbey glassware",
-      "type": "buyer_guide",
-      "hub_slug": "glassware",
-      "hub": "glassware",
-      "locked_url": "https://onehappytable.com/duratuff-libbey-glassware/",
-      "angle": "honest pick with real recommendation",
-      "h2_structure": "What to Look For \u2192 Top Picks (named) \u2192 How to Choose \u2192 FAQ",
-      "volume": 390,
-      "kd": 10,
-      "products": [
-        "libbey-duratuff-rocks-glasses-set6",
-        "estelle-colored-glass-wine-emerald-set6",
-        "simon-pearce-ascutney-red-wine-glass"
-      ],
-      "published": false,
-      "status": "pending",
-      "hub_label": "Glassware & Crystal",
-      "hub_url": "/glassware/",
-      "category_slug": "home-entertaining",
-      "assignment_notes": "Primary keyword match: libbey-duratuff-rocks-glasses-set6 (score 60). Complementary: estelle-colored-glass-wine-emerald-set6, simon-pearce-ascutney-red-wine-glass. Price bands: budget, mid, premium.",
-      "staged": true,
-      "category": "Home Entertaining"
-    },
-    {
       "id": 125,
       "slug": "etched-crystal-glassware",
       "keyword": "etched crystal glassware",
@@ -3752,32 +3675,6 @@
       "hub_url": "/serveware/",
       "category_slug": "home-entertaining",
       "assignment_notes": "Primary keyword match: lenox-butterfly-meadow-platter (score 50). Complementary: godinger-silver-round-serving-platter, juliska-berry-thread-ceramic-platter. Price bands: mid, budget, premium.",
-      "staged": true,
-      "category": "Home Entertaining"
-    },
-    {
-      "id": 145,
-      "slug": "serving-platters-antique",
-      "keyword": "serving platters antique",
-      "type": "buyer_guide",
-      "hub_slug": "serveware",
-      "hub": "serveware",
-      "locked_url": "https://onehappytable.com/serving-platters-antique/",
-      "angle": "antique/collector market",
-      "h2_structure": "What to Look For \u2192 Top Picks (named) \u2192 How to Choose \u2192 FAQ",
-      "volume": 390,
-      "kd": 2,
-      "products": [
-        "blue-white-handpainted-serving-platter",
-        "ceramic-serving-platter-white-oval-14in",
-        "michael-aram-olive-branch-serving-platter"
-      ],
-      "published": false,
-      "status": "staged",
-      "hub_label": "Serveware",
-      "hub_url": "/serveware/",
-      "category_slug": "home-entertaining",
-      "assignment_notes": "Primary keyword match: blue-white-handpainted-serving-platter (score 50). Complementary: ceramic-serving-platter-white-oval-14in, michael-aram-olive-branch-serving-platter. Price bands: mid, budget, premium.",
       "staged": true,
       "category": "Home Entertaining"
     },

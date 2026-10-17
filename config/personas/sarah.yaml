@@ -3,6 +3,7 @@ name_used: "Sarah"
 photo_byline: "/images/brand/sarah-byline.jpg"
 photo_about: "/images/brand/sarah-about.jpg"
 location: "Savannah, Georgia"
+background: "Interior design / event styling"
 
 bio_short: "Sarah Collins spent fifteen years styling tables for events, shoots, and private clients before she started writing about it. One Happy Table exists because she wanted one honest place to buy dinnerware — and couldn't find it."
 
@@ -36,3 +37,8 @@ voice:
     - "you're not alone"
 
 author_slug: "sarah-collins"
+
+# --- Public-facing fields (the ONLY persona fields rendered in author boxes, home and reviews pages) ---
+role_public: Writer, One Happy Table
+bio_public: Sarah Collins writes the guides at One Happy Table, covering home entertaining and tableware. Recommendations are researched from manufacturer specifications, retailer listings and owner reviews.
+testing_claims: false

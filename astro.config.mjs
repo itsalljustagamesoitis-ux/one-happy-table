@@ -5,7 +5,9 @@ import rehypeExternalLinks from 'rehype-external-links'
 import { rehypeProductLinks } from '@platform/core/src/plugins/rehype-product-links.mjs'
 import { readFileSync } from 'fs'
 import yaml from 'js-yaml'
+import { makeLastmod } from '@platform/core/src/lib/sitemap-lastmod.mjs'
 
+const _lastmodFor = makeLastmod()
 const _cfg = yaml.load(readFileSync('./site.config.yaml', 'utf8'))
 
 // Per-article lastmod map — slug → ISO date string
@@ -49,7 +51,7 @@ export default defineConfig({
       filter: (page) => !page.endsWith('/privacy/'),
       serialize(item) {
         const _slug = item.url.replace(/\/$/, '').split('/').pop() ?? ''
-        item.lastmod = (_articleDates[_slug] ? new Date(_articleDates[_slug]) : new Date()).toISOString()
+        item.lastmod = _lastmodFor(item.url)
         // Prioritise homepage and category pages
         if (item.url === `${siteUrl}/`) {
           item.changefreq = 'weekly'
